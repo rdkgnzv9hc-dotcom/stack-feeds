@@ -137,13 +137,22 @@ def fetch_questions(site, question_ids):
     return questions
 
 
-def answer_matches_tags(question, required_tags):
-    if not required_tags:
-        return True
-
+def answer_matches_tags(
+    question,
+    required_tags,
+    excluded_tags,
+):
     question_tags = set(question.get("tags", []))
-    return set(required_tags).issubset(question_tags)
 
+    has_required_tags = set(required_tags).issubset(
+        question_tags
+    )
+
+    has_excluded_tags = not question_tags.isdisjoint(
+        excluded_tags
+    )
+
+    return has_required_tags and not has_excluded_tags
 
 def make_entry(feed, answer, question, first_seen):
     answer_id = str(answer["answer_id"])
@@ -290,15 +299,20 @@ def process_feed(feed, state, checked_at):
 
     questions = fetch_questions(feed["site"], question_ids)
     required_tags = feed.get("tags", [])
+    excluded_tags = feed.get("exclude_tags", [])
 
     qualifying = []
-
+    
     for answer in answers:
         question = questions.get(str(answer["question_id"]), {})
-
-        if answer_matches_tags(question, required_tags):
+    
+        if answer_matches_tags(
+            question,
+            required_tags,
+            excluded_tags,
+        ):
             qualifying.append((answer, question))
-
+        
     # Prefer newer answers when initially constructing the feed.
     qualifying.sort(
         key=lambda pair: pair[0]["creation_date"],
