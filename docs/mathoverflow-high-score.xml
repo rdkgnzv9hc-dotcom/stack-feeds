@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highly scored MathOverflow answers</title>
+    <link>https://mathoverflow.net</link>
+    <description>Answers from mathoverflow that reached a score of 15 or more.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Sep 2026 16:35:49 +0000</lastBuildDate>
+    <item>
+      <title>What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics — answer reached score 25</title>
+      <link>https://mathoverflow.net/a/515066</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515066</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by AJMC. Score when last checked: 25. Originally posted: 2026-09-09T02:03:30Z.</description>
+    </item>
+    <item>
+      <title>What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics — answer reached score 41</title>
+      <link>https://mathoverflow.net/a/515063</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515063</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Gro-Tsen. Score when last checked: 41. Originally posted: 2026-09-08T22:42:25Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 31</title>
+      <link>https://mathoverflow.net/a/515052</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515052</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Bogdan Grechuk. Score when last checked: 31. Originally posted: 2026-09-08T18:31:37Z.</description>
+    </item>
+    <item>
+      <title>Proofs vs "understanding" — answer reached score 15</title>
+      <link>https://mathoverflow.net/a/515049</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515049</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by José Damián Espinosa. Score when last checked: 15. Originally posted: 2026-09-08T17:33:39Z.</description>
+    </item>
+    <item>
+      <title>What are the actual risks of putting work-in-progress mathematics into AI assistants? — answer reached score 28</title>
+      <link>https://mathoverflow.net/a/515037</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515037</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by David White. Score when last checked: 28. Originally posted: 2026-09-08T14:38:08Z.</description>
+    </item>
+    <item>
+      <title>Relevance of the work of Alpöge and Buckmaster to Navier-Stokes? — answer reached score 42</title>
+      <link>https://mathoverflow.net/a/515035</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515035</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 42. Originally posted: 2026-09-08T13:20:57Z.</description>
+    </item>
+    <item>
+      <title>AI and training PhD students — answer reached score 35</title>
+      <link>https://mathoverflow.net/a/515028</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515028</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by David White. Score when last checked: 35. Originally posted: 2026-09-08T12:16:42Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 55</title>
+      <link>https://mathoverflow.net/a/515023</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515023</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by natalia. Score when last checked: 55. Originally posted: 2026-09-08T08:25:46Z.</description>
+    </item>
+    <item>
+      <title>Effect of AI on publication rates — answer reached score 21</title>
+      <link>https://mathoverflow.net/a/515005</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515005</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Steven Landsburg. Score when last checked: 21. Originally posted: 2026-09-07T18:27:34Z.</description>
+    </item>
+    <item>
+      <title>Posting AI proofs — answer reached score 15</title>
+      <link>https://mathoverflow.net/a/515003</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515003</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Thomas Bloom. Score when last checked: 15. Originally posted: 2026-09-07T14:42:36Z.</description>
+    </item>
+    <item>
+      <title>Effect of AI on publication rates — answer reached score 22</title>
+      <link>https://mathoverflow.net/a/514999</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514999</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 22. Originally posted: 2026-09-07T13:14:50Z.</description>
+    </item>
+    <item>
+      <title>Effect of AI on publication rates — answer reached score 19</title>
+      <link>https://mathoverflow.net/a/514998</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514998</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Carlo Beenakker. Score when last checked: 19. Originally posted: 2026-09-07T13:07:18Z.</description>
+    </item>
+    <item>
+      <title>Effect of AI on publication rates — answer reached score 31</title>
+      <link>https://mathoverflow.net/a/514996</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514996</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Alexandre Eremenko. Score when last checked: 31. Originally posted: 2026-09-07T12:50:43Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 18</title>
+      <link>https://mathoverflow.net/a/514953</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514953</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Pace Nielsen. Score when last checked: 18. Originally posted: 2026-09-05T22:28:16Z.</description>
+    </item>
+    <item>
+      <title>Posting AI proofs — answer reached score 23</title>
+      <link>https://mathoverflow.net/a/514939</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514939</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 23. Originally posted: 2026-09-05T14:12:15Z.</description>
+    </item>
+    <item>
+      <title>Posting AI proofs — answer reached score 24</title>
+      <link>https://mathoverflow.net/a/514932</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514932</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 24. Originally posted: 2026-09-05T12:01:14Z.</description>
+    </item>
+    <item>
+      <title>Posting AI proofs — answer reached score 35</title>
+      <link>https://mathoverflow.net/a/514929</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514929</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Alex Nolte. Score when last checked: 35. Originally posted: 2026-09-05T08:49:29Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 22</title>
+      <link>https://mathoverflow.net/a/514873</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514873</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 22. Originally posted: 2026-09-03T10:49:43Z.</description>
+    </item>
+    <item>
+      <title>Primitive root of unity without analysis — answer reached score 15</title>
+      <link>https://mathoverflow.net/a/514855</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514855</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Alison Miller. Score when last checked: 15. Originally posted: 2026-09-02T13:54:26Z.</description>
+    </item>
+    <item>
+      <title>What can mathematicians do to mitigate the deleterious impacts of AI? — answer reached score 18</title>
+      <link>https://mathoverflow.net/a/514846</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514846</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Dominic van der Zypen. Score when last checked: 18. Originally posted: 2026-09-02T06:24:11Z.</description>
+    </item>
+    <item>
+      <title>Primitive root of unity without analysis — answer reached score 18</title>
+      <link>https://mathoverflow.net/a/514845</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514845</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Aleksei Kulikov. Score when last checked: 18. Originally posted: 2026-09-02T04:46:00Z.</description>
+    </item>
+    <item>
+      <title>Do five lattice points on a circle force 106 inside? — answer reached score 34</title>
+      <link>https://mathoverflow.net/a/514724</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514724</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Aleksei Kulikov. Score when last checked: 34. Originally posted: 2026-08-28T05:44:43Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 30</title>
+      <link>https://mathoverflow.net/a/514715</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514715</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Andrei Sipoș. Score when last checked: 30. Originally posted: 2026-08-27T21:41:06Z.</description>
+    </item>
+    <item>
+      <title>Examples of ubiquitous objects that are hard to find? — answer reached score 18</title>
+      <link>https://mathoverflow.net/a/514707</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514707</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Joel David Hamkins. Score when last checked: 18. Originally posted: 2026-08-27T17:11:30Z.</description>
+    </item>
+    <item>
+      <title>Why should one still teach Riemann integration? — answer reached score 15</title>
+      <link>https://mathoverflow.net/a/514622</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514622</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Aleksei Kulikov. Score when last checked: 15. Originally posted: 2026-08-24T14:03:39Z.</description>
+    </item>
+    <item>
+      <title>Is there a complex structure on the 6-sphere? — answer reached score 72</title>
+      <link>https://mathoverflow.net/a/514604</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514604</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Robin Houston. Score when last checked: 72. Originally posted: 2026-08-23T21:55:27Z.</description>
+    </item>
+    <item>
+      <title>Product of two bijections is also a bijection Q to Q — answer reached score 15</title>
+      <link>https://mathoverflow.net/a/514526</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514526</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Fedor Petrov. Score when last checked: 15. Originally posted: 2026-08-21T11:05:18Z.</description>
+    </item>
+    <item>
+      <title>Is there a formalization of probability theory so that the product definition of independence is a conclusion, not the definition? — answer reached score 17</title>
+      <link>https://mathoverflow.net/a/514483</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514483</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by James E Hanson. Score when last checked: 17. Originally posted: 2026-08-20T03:15:01Z.</description>
+    </item>
+    <item>
+      <title>Is there a formalization of probability theory so that the product definition of independence is a conclusion, not the definition? — answer reached score 15</title>
+      <link>https://mathoverflow.net/a/514481</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514481</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Nate River. Score when last checked: 15. Originally posted: 2026-08-20T00:09:24Z.</description>
+    </item>
+    <item>
+      <title>Examples of problems that current AI models fail to solve but people can — answer reached score 18</title>
+      <link>https://mathoverflow.net/a/514475</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514475</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Alessandro Della Corte. Score when last checked: 18. Originally posted: 2026-08-19T20:44:10Z.</description>
+    </item>
+    <item>
+      <title>Formalization leading to enlightenment — answer reached score 17</title>
+      <link>https://mathoverflow.net/a/514467</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514467</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Jacques Carette. Score when last checked: 17. Originally posted: 2026-08-19T17:39:12Z.</description>
+    </item>
+    <item>
+      <title>Biretracts that are not isomorphic — answer reached score 19</title>
+      <link>https://mathoverflow.net/a/514428</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514428</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Peter LeFanu Lumsdaine. Score when last checked: 19. Originally posted: 2026-08-18T16:35:06Z.</description>
+    </item>
+    <item>
+      <title>About AI and how we publish — answer reached score 20</title>
+      <link>https://mathoverflow.net/a/514400</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514400</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Vladimir Dotsenko. Score when last checked: 20. Originally posted: 2026-08-18T03:23:44Z.</description>
+    </item>
+    <item>
+      <title>About AI and how we publish — answer reached score 27</title>
+      <link>https://mathoverflow.net/a/514391</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514391</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by GH from MO. Score when last checked: 27. Originally posted: 2026-08-17T22:09:46Z.</description>
+    </item>
+    <item>
+      <title>About AI and how we publish — answer reached score 25</title>
+      <link>https://mathoverflow.net/a/514390</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514390</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by David White. Score when last checked: 25. Originally posted: 2026-08-17T21:16:10Z.</description>
+    </item>
+    <item>
+      <title>The smallest untweetable number — answer reached score 17</title>
+      <link>https://mathoverflow.net/a/514293</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514293</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Matthew House. Score when last checked: 17. Originally posted: 2026-08-15T01:45:33Z.</description>
+    </item>
+    <item>
+      <title>The smallest untweetable number — answer reached score 19</title>
+      <link>https://mathoverflow.net/a/514285</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514285</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Will Brian. Score when last checked: 19. Originally posted: 2026-08-14T16:05:07Z.</description>
+    </item>
+    <item>
+      <title>Is $\mathbb Z[[t]]$ flat over $\mathbb Z[t]$ in the category of solid abelian groups? — answer reached score 18</title>
+      <link>https://mathoverflow.net/a/514256</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514256</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Peter Scholze. Score when last checked: 18. Originally posted: 2026-08-13T18:58:49Z.</description>
+    </item>
+    <item>
+      <title>Is $x + \log x$ a composition of exponentials, logarithms, and unary affine maps? — answer reached score 24</title>
+      <link>https://mathoverflow.net/a/514250</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514250</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Julian Rosen. Score when last checked: 24. Originally posted: 2026-08-13T16:19:32Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 17</title>
+      <link>https://mathoverflow.net/a/514233</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514233</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Bogdan Grechuk. Score when last checked: 17. Originally posted: 2026-08-13T07:34:27Z.</description>
+    </item>
+    <item>
+      <title>What missing examples, other than counterexamples, would be most enlightening? — answer reached score 19</title>
+      <link>https://mathoverflow.net/a/514215</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514215</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by David E Speyer. Score when last checked: 19. Originally posted: 2026-08-12T21:51:06Z.</description>
+    </item>
+    <item>
+      <title>What missing examples, other than counterexamples, would be most enlightening? — answer reached score 31</title>
+      <link>https://mathoverflow.net/a/514212</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514212</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Sam Hopkins. Score when last checked: 31. Originally posted: 2026-08-12T21:14:02Z.</description>
+    </item>
+    <item>
+      <title>What missing examples, other than counterexamples, would be most enlightening? — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/514210</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514210</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Euro Vidal Sampaio. Score when last checked: 16. Originally posted: 2026-08-12T20:26:18Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 17</title>
+      <link>https://mathoverflow.net/a/514203</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514203</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by natalia. Score when last checked: 17. Originally posted: 2026-08-12T14:57:29Z.</description>
+    </item>
+    <item>
+      <title>Status of Hadamard matrix conjecture — answer reached score 26</title>
+      <link>https://mathoverflow.net/a/514202</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514202</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by natalia. Score when last checked: 26. Originally posted: 2026-08-12T14:52:41Z.</description>
+    </item>
+    <item>
+      <title>Typesetting Mumford's Red Book — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/514200</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514200</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Donu Arapura. Score when last checked: 16. Originally posted: 2026-08-12T14:29:28Z.</description>
+    </item>
+    <item>
+      <title>What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one’s area of expertise — answer reached score 24</title>
+      <link>https://mathoverflow.net/a/514196</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514196</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 24. Originally posted: 2026-08-12T12:42:10Z.</description>
+    </item>
+    <item>
+      <title>What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one’s area of expertise — answer reached score 26</title>
+      <link>https://mathoverflow.net/a/514187</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514187</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by mme - inactive. Score when last checked: 26. Originally posted: 2026-08-12T11:17:09Z.</description>
+    </item>
+    <item>
+      <title>What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one’s area of expertise — answer reached score 46</title>
+      <link>https://mathoverflow.net/a/514184</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514184</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Chess. Score when last checked: 46. Originally posted: 2026-08-12T10:49:40Z.</description>
+    </item>
+    <item>
+      <title>Pre-triangulated category that isn't triangulated — answer reached score 17</title>
+      <link>https://mathoverflow.net/a/514138</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514138</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by the L. Score when last checked: 17. Originally posted: 2026-08-11T06:31:44Z.</description>
+    </item>
+    <item>
+      <title>Can 4-space be partitioned into Klein bottles? — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/514125</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514125</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Andy Putman - no longer active. Score when last checked: 16. Originally posted: 2026-08-10T21:52:04Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 45</title>
+      <link>https://mathoverflow.net/a/514123</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514123</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by JoshuaZ. Score when last checked: 45. Originally posted: 2026-08-10T21:01:18Z.</description>
+    </item>
+    <item>
+      <title>True in the infinite, open in the finite case — answer reached score 34</title>
+      <link>https://mathoverflow.net/a/514119</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514119</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 34. Originally posted: 2026-08-10T19:57:29Z.</description>
+    </item>
+    <item>
+      <title>Does type theory have an equivalent to large cardinal axioms? — answer reached score 20</title>
+      <link>https://mathoverflow.net/a/514077</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514077</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by James E Hanson. Score when last checked: 20. Originally posted: 2026-08-09T06:40:33Z.</description>
+    </item>
+    <item>
+      <title>Question about three consecutive prime numbers — answer reached score 27</title>
+      <link>https://mathoverflow.net/a/514043</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514043</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by GH from MO. Score when last checked: 27. Originally posted: 2026-08-07T21:57:46Z.</description>
+    </item>
+    <item>
+      <title>Question about three consecutive prime numbers — answer reached score 24</title>
+      <link>https://mathoverflow.net/a/514025</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514025</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 24. Originally posted: 2026-08-07T13:41:46Z.</description>
+    </item>
+    <item>
+      <title>Is there a nice category of complete vector spaces? — answer reached score 21</title>
+      <link>https://mathoverflow.net/a/513982</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513982</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Sofía Marlasca Aparicio. Score when last checked: 21. Originally posted: 2026-08-05T23:44:29Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/513913</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513913</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Bogdan Grechuk. Score when last checked: 16. Originally posted: 2026-08-04T11:36:03Z.</description>
+    </item>
+    <item>
+      <title>How can we effectively prompt AI to do mathematics? — answer reached score 27</title>
+      <link>https://mathoverflow.net/a/513912</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513912</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 27. Originally posted: 2026-08-04T11:04:38Z.</description>
+    </item>
+    <item>
+      <title>What are the key new ideas in the proof of nonsoficity of groups in OpenAI’s construction of nonsofic groups — answer reached score 81</title>
+      <link>https://mathoverflow.net/a/513885</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513885</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Andreas Thom. Score when last checked: 81. Originally posted: 2026-08-03T18:51:45Z.</description>
+    </item>
+    <item>
+      <title>AI for the working (and also the retired) mathematician — answer reached score 38</title>
+      <link>https://mathoverflow.net/a/513881</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513881</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Noah Snyder. Score when last checked: 38. Originally posted: 2026-08-03T18:03:21Z.</description>
+    </item>
+    <item>
+      <title>AI for the working (and also the retired) mathematician — answer reached score 21</title>
+      <link>https://mathoverflow.net/a/513877</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513877</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by David White. Score when last checked: 21. Originally posted: 2026-08-03T16:51:13Z.</description>
+    </item>
+    <item>
+      <title>A serious challenge to equity in mathematical research — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/513863</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513863</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Vladimir Dotsenko. Score when last checked: 16. Originally posted: 2026-08-03T08:14:11Z.</description>
+    </item>
+    <item>
+      <title>What is the intended interpretation of type theory? — answer reached score 30</title>
+      <link>https://mathoverflow.net/a/513857</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513857</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 30. Originally posted: 2026-08-03T01:31:32Z.</description>
+    </item>
+    <item>
+      <title>What is the intended interpretation of type theory? — answer reached score 40</title>
+      <link>https://mathoverflow.net/a/513856</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513856</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Andrej Bauer. Score when last checked: 40. Originally posted: 2026-08-02T22:24:21Z.</description>
+    </item>
+    <item>
+      <title>A serious challenge to equity in mathematical research — answer reached score 32</title>
+      <link>https://mathoverflow.net/a/513825</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513825</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Carlo Beenakker. Score when last checked: 32. Originally posted: 2026-08-01T19:41:50Z.</description>
+    </item>
+    <item>
+      <title>A serious challenge to equity in mathematical research — answer reached score 27</title>
+      <link>https://mathoverflow.net/a/513824</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513824</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by usul. Score when last checked: 27. Originally posted: 2026-08-01T19:24:20Z.</description>
+    </item>
+    <item>
+      <title>A serious challenge to equity in mathematical research — answer reached score 23</title>
+      <link>https://mathoverflow.net/a/513822</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513822</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Noah Snyder. Score when last checked: 23. Originally posted: 2026-08-01T16:06:54Z.</description>
+    </item>
+    <item>
+      <title>A serious challenge to equity in mathematical research — answer reached score 56</title>
+      <link>https://mathoverflow.net/a/513820</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513820</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 56. Originally posted: 2026-08-01T13:45:02Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 55</title>
+      <link>https://mathoverflow.net/a/513790</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513790</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by David E Speyer. Score when last checked: 55. Originally posted: 2026-07-31T14:59:02Z.</description>
+    </item>
+    <item>
+      <title>Are we stuck with Lean? — answer reached score 23</title>
+      <link>https://mathoverflow.net/a/513789</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513789</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Anatole Dedecker. Score when last checked: 23. Originally posted: 2026-07-31T14:39:36Z.</description>
+    </item>
+    <item>
+      <title>Are we stuck with Lean? — answer reached score 26</title>
+      <link>https://mathoverflow.net/a/513774</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513774</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by James E Hanson. Score when last checked: 26. Originally posted: 2026-07-30T23:57:30Z.</description>
+    </item>
+    <item>
+      <title>Mathematical and scientific publishing process reform — answer reached score 36</title>
+      <link>https://mathoverflow.net/a/513773</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513773</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by David White. Score when last checked: 36. Originally posted: 2026-07-30T23:17:36Z.</description>
+    </item>
+    <item>
+      <title>Are we stuck with Lean? — answer reached score 49</title>
+      <link>https://mathoverflow.net/a/513746</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513746</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Jacques Carette. Score when last checked: 49. Originally posted: 2026-07-30T12:04:22Z.</description>
+    </item>
+    <item>
+      <title>Are we stuck with Lean? — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/513745</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513745</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Ricky. Score when last checked: 16. Originally posted: 2026-07-30T12:03:14Z.</description>
+    </item>
+    <item>
+      <title>Should we trust AI-generated formal proofs in Lean 4? — answer reached score 29</title>
+      <link>https://mathoverflow.net/a/513717</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513717</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Gro-Tsen. Score when last checked: 29. Originally posted: 2026-07-29T16:54:51Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 29</title>
+      <link>https://mathoverflow.net/a/513674</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513674</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Luis Ferroni. Score when last checked: 29. Originally posted: 2026-07-28T08:28:55Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 23</title>
+      <link>https://mathoverflow.net/a/513669</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513669</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Andrei Sipoș. Score when last checked: 23. Originally posted: 2026-07-28T04:51:08Z.</description>
+    </item>
+    <item>
+      <title>Was a computational hardness argument ever used to solve a mathematical conjecture? — answer reached score 19</title>
+      <link>https://mathoverflow.net/a/513667</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513667</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 19. Originally posted: 2026-07-28T00:56:16Z.</description>
+    </item>
+    <item>
+      <title>The simplest case of Jacobian conjecture — answer reached score 20</title>
+      <link>https://mathoverflow.net/a/513656</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513656</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Claudio Procesi. Score when last checked: 20. Originally posted: 2026-07-27T16:35:29Z.</description>
+    </item>
+    <item>
+      <title>Can a finite colimit of finite groups be an infinite simple group? — answer reached score 20</title>
+      <link>https://mathoverflow.net/a/513651</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513651</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Matt Zaremsky. Score when last checked: 20. Originally posted: 2026-07-27T13:15:29Z.</description>
+    </item>
+    <item>
+      <title>Should we trust AI-generated formal proofs in Lean 4? — answer reached score 83</title>
+      <link>https://mathoverflow.net/a/513585</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513585</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by James E Hanson. Score when last checked: 83. Originally posted: 2026-07-25T07:57:42Z.</description>
+    </item>
+    <item>
+      <title>Should we trust AI-generated formal proofs in Lean 4? — answer reached score 28</title>
+      <link>https://mathoverflow.net/a/513573</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513573</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 28. Originally posted: 2026-07-24T22:22:12Z.</description>
+    </item>
+    <item>
+      <title>Should we trust AI-generated formal proofs in Lean 4? — answer reached score 48</title>
+      <link>https://mathoverflow.net/a/513567</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513567</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 48. Originally posted: 2026-07-24T19:47:12Z.</description>
+    </item>
+    <item>
+      <title>Where can we watch the full ICM 2026 livestream? — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/513558</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513558</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Thomas Sumner. Score when last checked: 16. Originally posted: 2026-07-24T13:11:10Z.</description>
+    </item>
+    <item>
+      <title>Is this a counterexample to the claw-free Schur-positivity conjecture? — answer reached score 17</title>
+      <link>https://mathoverflow.net/a/513555</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513555</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 17. Originally posted: 2026-07-24T12:47:06Z.</description>
+    </item>
+    <item>
+      <title>Should we trust AI-generated formal proofs in Lean 4? — answer reached score 85</title>
+      <link>https://mathoverflow.net/a/513551</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513551</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 85. Originally posted: 2026-07-24T11:59:17Z.</description>
+    </item>
+    <item>
+      <title>PhD student supervision and AI use statements — answer reached score 25</title>
+      <link>https://mathoverflow.net/a/513514</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513514</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Vladimir Dotsenko. Score when last checked: 25. Originally posted: 2026-07-23T15:30:47Z.</description>
+    </item>
+    <item>
+      <title>PhD student supervision and AI use statements — answer reached score 24</title>
+      <link>https://mathoverflow.net/a/513512</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513512</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 24. Originally posted: 2026-07-23T13:16:39Z.</description>
+    </item>
+    <item>
+      <title>PhD student supervision and AI use statements — answer reached score 31</title>
+      <link>https://mathoverflow.net/a/513506</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513506</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Paul Siegel. Score when last checked: 31. Originally posted: 2026-07-23T10:42:05Z.</description>
+    </item>
+    <item>
+      <title>The simplest case of Jacobian conjecture — answer reached score 53</title>
+      <link>https://mathoverflow.net/a/513458</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513458</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Alexandre Eremenko. Score when last checked: 53. Originally posted: 2026-07-21T23:57:10Z.</description>
+    </item>
+    <item>
+      <title>The simplest case of Jacobian conjecture — answer reached score 56</title>
+      <link>https://mathoverflow.net/a/513414</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513414</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by KConrad. Score when last checked: 56. Originally posted: 2026-07-21T00:41:54Z.</description>
+    </item>
+    <item>
+      <title>Tweetable Mathematics — answer reached score 40</title>
+      <link>https://mathoverflow.net/a/513403</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513403</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Mark L. Stone. Score when last checked: 40. Originally posted: 2026-07-20T17:33:47Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 86</title>
+      <link>https://mathoverflow.net/a/513393</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513393</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 86. Originally posted: 2026-07-20T11:47:29Z.</description>
+    </item>
+    <item>
+      <title>Could the Jacobian conjecture be undecidable? — answer reached score 107</title>
+      <link>https://mathoverflow.net/a/513385</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513385</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Qiaochu Yuan. Score when last checked: 107. Originally posted: 2026-07-20T05:44:50Z.</description>
+    </item>
+    <item>
+      <title>Is generator of $\pi_6(S^3)=\Bbb Z_{12}$ a fibration? — answer reached score 23</title>
+      <link>https://mathoverflow.net/a/513240</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513240</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Maxime Ramzi. Score when last checked: 23. Originally posted: 2026-07-14T17:17:25Z.</description>
+    </item>
+    <item>
+      <title>Constructive proof of uncomputability of the Halting Problem? — answer reached score 19</title>
+      <link>https://mathoverflow.net/a/513231</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513231</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Jean Abou Samra. Score when last checked: 19. Originally posted: 2026-07-14T11:25:28Z.</description>
+    </item>
+    <item>
+      <title>Can an integer reciprocal series remain rational after a unit shift in the denominator? — answer reached score 29</title>
+      <link>https://mathoverflow.net/a/513225</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513225</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by DSM. Score when last checked: 29. Originally posted: 2026-07-14T02:20:25Z.</description>
+    </item>
+    <item>
+      <title>Is the functor from algebraic stacks to Gestalten fully faithful? — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/513194</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513194</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Peter Scholze. Score when last checked: 16. Originally posted: 2026-07-13T09:31:22Z.</description>
+    </item>
+    <item>
+      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 33</title>
+      <link>https://mathoverflow.net/a/513154</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513154</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:49 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 33. Originally posted: 2026-07-11T16:01:30Z.</description>
+    </item>
+  </channel>
+</rss>
