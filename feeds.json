@@ -4,7 +4,7 @@
     "title": "Highly scored Mathematics Stack Exchange answers",
     "site": "math",
     "site_url": "https://math.stackexchange.com",
-    "minimum_score": 15,
+    "minimum_score": 20,
     "lookback_days": 90,
     "maximum_feed_items": 100,
     "tags": []
