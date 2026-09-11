@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highly scored Mathematics Stack Exchange answers</title>
+    <link>https://math.stackexchange.com</link>
+    <description>Answers from math that reached a score of 15 or more.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Sep 2026 15:46:44 +0000</lastBuildDate>
+    <item>
+      <title>Math shorthand symbol for "assume" — answer reached score 29</title>
+      <link>https://math.stackexchange.com/a/5148804</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5148804</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Eric Towers. Score when last checked: 29. Originally posted: 2026-09-06T22:45:45Z.</description>
+    </item>
+    <item>
+      <title>Doubts about a "standard" formulation of the group axioms — answer reached score 18</title>
+      <link>https://math.stackexchange.com/a/5148704</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5148704</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Emil Jeřábek. Score when last checked: 18. Originally posted: 2026-09-05T16:22:37Z.</description>
+    </item>
+    <item>
+      <title>Is this just a coincidence? Expectation of product of areas in unit circle equals $\pi^2/6$, the answer to the Basel problem. — answer reached score 20</title>
+      <link>https://math.stackexchange.com/a/5148447</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5148447</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Dan. Score when last checked: 20. Originally posted: 2026-09-02T13:34:34Z.</description>
+    </item>
+    <item>
+      <title>What reasons are there to consider solely the set of irrational numbers? — answer reached score 20</title>
+      <link>https://math.stackexchange.com/a/5148047</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5148047</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Joshua P. Swanson. Score when last checked: 20. Originally posted: 2026-08-28T01:26:57Z.</description>
+    </item>
+    <item>
+      <title>Constructively, must an infinite binary sequence have a constant subsequence? — answer reached score 19</title>
+      <link>https://math.stackexchange.com/a/5147974</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147974</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Naïm Camille Favier. Score when last checked: 19. Originally posted: 2026-08-26T21:47:05Z.</description>
+    </item>
+    <item>
+      <title>Constructively, must an infinite binary sequence have a constant subsequence? — answer reached score 34</title>
+      <link>https://math.stackexchange.com/a/5147973</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147973</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Anders Kaseorg. Score when last checked: 34. Originally posted: 2026-08-26T21:42:58Z.</description>
+    </item>
+    <item>
+      <title>How does one prove the determinant inequality $\det\left(6(A^3+B^3+C^3)+I_{n}\right)\ge 5^n\det(A^2+B^2+C^2)$? — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5147902</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147902</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by cubesteak. Score when last checked: 15. Originally posted: 2026-08-26T07:44:29Z.</description>
+    </item>
+    <item>
+      <title>How can you tell if a quartic polynomial can be written as the composite of two quadratics? — answer reached score 27</title>
+      <link>https://math.stackexchange.com/a/5147880</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147880</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Greg Martin. Score when last checked: 27. Originally posted: 2026-08-25T22:39:58Z.</description>
+    </item>
+    <item>
+      <title>How can you tell if a quartic polynomial can be written as the composite of two quadratics? — answer reached score 32</title>
+      <link>https://math.stackexchange.com/a/5147878</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147878</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Bowei Tang. Score when last checked: 32. Originally posted: 2026-08-25T21:55:16Z.</description>
+    </item>
+    <item>
+      <title>Why is this curve almost an ellipse? $y^2=\ln^2\left(\sqrt2\cos x-\sqrt{\cos(2x)}\right)$ — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5147648</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147648</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Bowei Tang. Score when last checked: 17. Originally posted: 2026-08-22T14:29:43Z.</description>
+    </item>
+    <item>
+      <title>Is the «arc differential» an inexact differential? — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5147594</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147594</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Ted Shifrin. Score when last checked: 15. Originally posted: 2026-08-21T19:01:47Z.</description>
+    </item>
+    <item>
+      <title>Question about the definitions of charts and manifolds. — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5147553</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147553</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Daniel Smania. Score when last checked: 17. Originally posted: 2026-08-21T10:39:58Z.</description>
+    </item>
+    <item>
+      <title>Can all positive integers be written in the form $a^2+b^2-c^2-d^2$? — answer reached score 18</title>
+      <link>https://math.stackexchange.com/a/5147507</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147507</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Myungheon Lee. Score when last checked: 18. Originally posted: 2026-08-20T19:21:26Z.</description>
+    </item>
+    <item>
+      <title>Can P vs NP be expressed as a single mathematical formula that would allow a system like Wolfram|Alpha to search for a proof of P = NP or P ≠ NP? — answer reached score 26</title>
+      <link>https://math.stackexchange.com/a/5147360</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147360</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Noah Schweber. Score when last checked: 26. Originally posted: 2026-08-19T01:24:11Z.</description>
+    </item>
+    <item>
+      <title>Proving that $\int_{0}^{\pi / 2} \frac{1}{1+(a \tan(x))^{2}} dx = \frac{\pi}{2(a+1)}$ — answer reached score 20</title>
+      <link>https://math.stackexchange.com/a/5147143</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5147143</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Quanto. Score when last checked: 20. Originally posted: 2026-08-16T13:42:49Z.</description>
+    </item>
+    <item>
+      <title>Is there a set of positive integers such that neither it nor its complement contain arbitrarily large arithmetic progressions? — answer reached score 18</title>
+      <link>https://math.stackexchange.com/a/5146912</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146912</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Myungheon Lee. Score when last checked: 18. Originally posted: 2026-08-13T15:32:19Z.</description>
+    </item>
+    <item>
+      <title>What could be this unknown angle in this regular heptagon? — answer reached score 22</title>
+      <link>https://math.stackexchange.com/a/5146716</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146716</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Myungheon Lee. Score when last checked: 22. Originally posted: 2026-08-11T15:36:20Z.</description>
+    </item>
+    <item>
+      <title>What is the smallest polyomino whose optimal translational packing is not given by a lattice? — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5146480</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146480</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by RavenclawPrefect. Score when last checked: 15. Originally posted: 2026-08-08T20:45:09Z.</description>
+    </item>
+    <item>
+      <title>Prove that $\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+\cdots+\frac{1}{100}&gt;4$ — answer reached score 43</title>
+      <link>https://math.stackexchange.com/a/5146458</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146458</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by JMP. Score when last checked: 43. Originally posted: 2026-08-08T14:39:38Z.</description>
+    </item>
+    <item>
+      <title>Why does angle need a unit in mathematics? — answer reached score 26</title>
+      <link>https://math.stackexchange.com/a/5146395</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146395</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Mark Saving. Score when last checked: 26. Originally posted: 2026-08-07T22:48:25Z.</description>
+    </item>
+    <item>
+      <title>GAP states that the subgroup of a finite group has infinite order — answer reached score 24</title>
+      <link>https://math.stackexchange.com/a/5146345</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146345</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Max Horn. Score when last checked: 24. Originally posted: 2026-08-07T10:28:43Z.</description>
+    </item>
+    <item>
+      <title>Probability of rolling every even face before any odd face — answer reached score 18</title>
+      <link>https://math.stackexchange.com/a/5146208</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146208</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Robert Shore. Score when last checked: 18. Originally posted: 2026-08-06T00:13:16Z.</description>
+    </item>
+    <item>
+      <title>Probability of rolling every even face before any odd face — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5146156</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146156</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by David K. Score when last checked: 17. Originally posted: 2026-08-05T14:27:57Z.</description>
+    </item>
+    <item>
+      <title>Can there exist a universal set containing all legitimate sets. — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5146112</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146112</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Michael Hartley. Score when last checked: 17. Originally posted: 2026-08-05T07:02:39Z.</description>
+    </item>
+    <item>
+      <title>Can somebody explain and expand on this quote by Chevalley in Stillwell's Lie Theory book? — answer reached score 19</title>
+      <link>https://math.stackexchange.com/a/5146051</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5146051</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Torsten Schoeneberg. Score when last checked: 19. Originally posted: 2026-08-04T16:48:39Z.</description>
+    </item>
+    <item>
+      <title>Is it better to have many objects be supplied explicitly in a definition, or to require their (unique) existence in the definition? — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5145868</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5145868</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Martin Brandenburg. Score when last checked: 15. Originally posted: 2026-08-02T23:09:43Z.</description>
+    </item>
+    <item>
+      <title>Is Wikipedia's $\epsilon$ - $\delta$ limit definition standard? — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5145851</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5145851</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Karl. Score when last checked: 15. Originally posted: 2026-08-02T18:29:27Z.</description>
+    </item>
+    <item>
+      <title>Are there any resources that reconstruct Galois theory through its original historical development? — answer reached score 16</title>
+      <link>https://math.stackexchange.com/a/5145696</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5145696</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Just a user. Score when last checked: 16. Originally posted: 2026-08-01T02:58:22Z.</description>
+    </item>
+    <item>
+      <title>Why did it take so long to show that there exist topological manifolds which do not admit a smooth structure? — answer reached score 28</title>
+      <link>https://math.stackexchange.com/a/5145571</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5145571</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Lee Mosher. Score when last checked: 28. Originally posted: 2026-07-30T19:01:18Z.</description>
+    </item>
+    <item>
+      <title>Show that $\int_0^\infty\frac{|\sin^3x|}{x^2}dx=1$ — answer reached score 24</title>
+      <link>https://math.stackexchange.com/a/5145375</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5145375</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by metamorphy. Score when last checked: 24. Originally posted: 2026-07-29T03:49:19Z.</description>
+    </item>
+    <item>
+      <title>In the standard derivation of the equation of an ellipse, how do we know we haven't introduced extra points? — answer reached score 19</title>
+      <link>https://math.stackexchange.com/a/5145105</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5145105</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by NikS. Score when last checked: 19. Originally posted: 2026-07-27T01:30:48Z.</description>
+    </item>
+    <item>
+      <title>Behavior of a sphere intersection formula where no intersection takes place — answer reached score 19</title>
+      <link>https://math.stackexchange.com/a/5144980</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5144980</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Dan. Score when last checked: 19. Originally posted: 2026-07-26T01:51:32Z.</description>
+    </item>
+    <item>
+      <title>How can we make rigorous the notion of the "least complex" representation of an algebraic expression? — answer reached score 23</title>
+      <link>https://math.stackexchange.com/a/5144602</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5144602</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by heropup. Score when last checked: 23. Originally posted: 2026-07-22T20:41:32Z.</description>
+    </item>
+    <item>
+      <title>Is there a missing hypothesis for this category theory exercise? — answer reached score 16</title>
+      <link>https://math.stackexchange.com/a/5144530</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5144530</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Martin Brandenburg. Score when last checked: 16. Originally posted: 2026-07-22T06:50:59Z.</description>
+    </item>
+    <item>
+      <title>Evaluating the integral of a triple inverse function product: $\int_{-1}^1 \arctan(x)\operatorname{arctanh}(x)\arccos(x)\,dx$ — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5144472</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5144472</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Remi9. Score when last checked: 17. Originally posted: 2026-07-21T16:20:53Z.</description>
+    </item>
+    <item>
+      <title>Why do ellipses and semicircles have equal "circularity"? — answer reached score 37</title>
+      <link>https://math.stackexchange.com/a/5144359</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5144359</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by heropup. Score when last checked: 37. Originally posted: 2026-07-20T08:17:09Z.</description>
+    </item>
+    <item>
+      <title>What is the motivation for introducing manifolds with boundary? ("Analysis on Manifolds" by James R. Munkres.) — answer reached score 16</title>
+      <link>https://math.stackexchange.com/a/5143918</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143918</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Markus Klyver. Score when last checked: 16. Originally posted: 2026-07-15T17:46:31Z.</description>
+    </item>
+    <item>
+      <title>“Diagonable” vs. “Diagonalizable”: which term is standard, and why? — answer reached score 38</title>
+      <link>https://math.stackexchange.com/a/5143882</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143882</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by user1551. Score when last checked: 38. Originally posted: 2026-07-15T10:06:10Z.</description>
+    </item>
+    <item>
+      <title>Recursive sequence $a_{k+1} = a_k - \gcd(a_k, (n+k)^2 - 1)$ generating twin primes — answer reached score 20</title>
+      <link>https://math.stackexchange.com/a/5143771</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143771</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Bi Bi. Score when last checked: 20. Originally posted: 2026-07-14T08:53:12Z.</description>
+    </item>
+    <item>
+      <title>Topological space where any finite, but not every countable, intersection of compact subsets is compact — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5143386</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143386</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Taras Banakh. Score when last checked: 17. Originally posted: 2026-07-10T15:53:16Z.</description>
+    </item>
+    <item>
+      <title>Recursive sequence $a_{k+1} = a_k - \gcd(a_k, (n+k)^2 - 1)$ generating twin primes — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5143312</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143312</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Tejas Rao. Score when last checked: 17. Originally posted: 2026-07-10T01:05:24Z.</description>
+    </item>
+    <item>
+      <title>How can we find the integral $\int_0^\infty\binom{1}{x+1/x}dx$? — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5143306</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143306</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Ben Liang. Score when last checked: 15. Originally posted: 2026-07-09T23:49:06Z.</description>
+    </item>
+    <item>
+      <title>Intuition behind σ-algebra (not the formal definition) — answer reached score 18</title>
+      <link>https://math.stackexchange.com/a/5143120</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143120</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Bob Pego. Score when last checked: 18. Originally posted: 2026-07-08T11:34:52Z.</description>
+    </item>
+    <item>
+      <title>Intuition behind σ-algebra (not the formal definition) — answer reached score 20</title>
+      <link>https://math.stackexchange.com/a/5143099</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5143099</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Mikhail Katz. Score when last checked: 20. Originally posted: 2026-07-08T05:37:45Z.</description>
+    </item>
+    <item>
+      <title>Collatz-like iterate: prime $n\mapsto 1 +$ next prime, else cancel $n$'s min factor $&gt;\!1$ — answer reached score 30</title>
+      <link>https://math.stackexchange.com/a/5142919</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5142919</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by dialegou. Score when last checked: 30. Originally posted: 2026-07-06T06:35:19Z.</description>
+    </item>
+    <item>
+      <title>Recursive sequence $a_{k+1} = a_k - \gcd(a_k, (n+k)^2 - 1)$ generating twin primes — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5142905</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5142905</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by HATE. Score when last checked: 17. Originally posted: 2026-07-06T03:10:50Z.</description>
+    </item>
+    <item>
+      <title>Why am I finding the Catalan numbers in these "Snowball Numbers"? — answer reached score 33</title>
+      <link>https://math.stackexchange.com/a/5142882</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5142882</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by French Man. Score when last checked: 33. Originally posted: 2026-07-05T21:12:38Z.</description>
+    </item>
+    <item>
+      <title>Partitioning the positive integers into finite sets with sums in geometric progression — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5142108</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5142108</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by French Man. Score when last checked: 15. Originally posted: 2026-06-28T17:32:59Z.</description>
+    </item>
+    <item>
+      <title>Do geodesics actually minimize the curvature? — answer reached score 16</title>
+      <link>https://math.stackexchange.com/a/5141600</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5141600</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Volk. Score when last checked: 16. Originally posted: 2026-06-23T18:29:59Z.</description>
+    </item>
+    <item>
+      <title>Total curvature and Stokes' theorem on the hemisphere — answer reached score 16</title>
+      <link>https://math.stackexchange.com/a/5141468</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5141468</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Ted Shifrin. Score when last checked: 16. Originally posted: 2026-06-22T16:56:19Z.</description>
+    </item>
+    <item>
+      <title>Intuitive reason why SO(3) is not isomorphic to the sphere — answer reached score 33</title>
+      <link>https://math.stackexchange.com/a/5141446</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5141446</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Lee Mosher. Score when last checked: 33. Originally posted: 2026-06-22T14:36:26Z.</description>
+    </item>
+    <item>
+      <title>Can Rubik's cube group be expressed as direct product of groups? — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5141211</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5141211</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by kabenyuk. Score when last checked: 17. Originally posted: 2026-06-20T07:44:03Z.</description>
+    </item>
+    <item>
+      <title>Solve equation: $|x+1| + |x+2| = 1.$ What is the approach here? — answer reached score 17</title>
+      <link>https://math.stackexchange.com/a/5140917</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5140917</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by heropup. Score when last checked: 17. Originally posted: 2026-06-17T19:03:43Z.</description>
+    </item>
+    <item>
+      <title>Is this weakening of the definition of a group equivalent to the definition of a group? — answer reached score 22</title>
+      <link>https://math.stackexchange.com/a/5140871</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5140871</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by dialegou. Score when last checked: 22. Originally posted: 2026-06-17T10:34:42Z.</description>
+    </item>
+    <item>
+      <title>Coincidences between sums of powers generalizing cubes case. — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5140767</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5140767</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Dermot Craddock. Score when last checked: 15. Originally posted: 2026-06-16T12:49:58Z.</description>
+    </item>
+    <item>
+      <title>The primes that can't be written as the sum of a square and a prime. — answer reached score 15</title>
+      <link>https://math.stackexchange.com/a/5140703</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5140703</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:44 +0000</pubDate>
+      <description>Answer by Captain Chicky. Score when last checked: 15. Originally posted: 2026-06-15T22:14:16Z.</description>
+    </item>
+  </channel>
+</rss>
