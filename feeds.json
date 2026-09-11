@@ -4,7 +4,7 @@
     "title": "Highly scored Mathematics Stack Exchange answers",
     "site": "math",
     "site_url": "https://math.stackexchange.com",
-    "minimum_score": 20,
+    "minimum_score": 25,
     "lookback_days": 90,
     "maximum_feed_items": 100,
     "tags": []
@@ -14,9 +14,99 @@
     "title": "Highly scored MathOverflow answers",
     "site": "mathoverflow",
     "site_url": "https://mathoverflow.net",
-    "minimum_score": 15,
+    "minimum_score": 10,
     "lookback_days": 180,
     "maximum_feed_items": 100,
     "tags": []
-  }
+  },
+  {
+  "slug": "history-high-score",
+  "title": "Highly scored History Stack Exchange answers",
+  "site": "history",
+  "site_url": "https://history.stackexchange.com",
+  "minimum_score": 15,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "politics-high-score",
+  "title": "Highly scored Politics Stack Exchange answers",
+  "site": "politics",
+  "site_url": "https://politics.stackexchange.com",
+  "minimum_score": 25,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "space-high-score",
+  "title": "Highly scored Space Exploration Stack Exchange answers",
+  "site": "space",
+  "site_url": "https://space.stackexchange.com",
+  "minimum_score": 5,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "law-high-score",
+  "title": "Highly scored Law Stack Exchange answers",
+  "site": "law",
+  "site_url": "https://law.stackexchange.com",
+  "minimum_score": 10,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "scifi-high-score",
+  "title": "Highly scored Science Fiction and Fantasy Stack Exchange answers",
+  "site": "scifi",
+  "site_url": "https://scifi.stackexchange.com",
+  "minimum_score": 15,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "physics-high-score",
+  "title": "Highly scored Physics Stack Exchange answers",
+  "site": "physics",
+  "site_url": "https://physics.stackexchange.com",
+  "minimum_score": 10,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "worldbuilding-high-score",
+  "title": "Highly scored Worldbuilding Stack Exchange answers",
+  "site": "worldbuilding",
+  "site_url": "https://worldbuilding.stackexchange.com",
+  "minimum_score": 5,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "academia-high-score",
+  "title": "Highly scored Academia Stack Exchange answers",
+  "site": "academia",
+  "site_url": "https://academia.stackexchange.com",
+  "minimum_score": 10,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+},
+{
+  "slug": "hsm-high-score",
+  "title": "Highly scored History of Science and Mathematics Stack Exchange answers",
+  "site": "hsm",
+  "site_url": "https://hsm.stackexchange.com",
+  "minimum_score": 10,
+  "lookback_days": 90,
+  "maximum_feed_items": 100,
+  "tags": []
+}
 ]
