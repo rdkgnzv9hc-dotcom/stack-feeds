@@ -8,5 +8,15 @@
     "lookback_days": 90,
     "maximum_feed_items": 100,
     "tags": []
+  },
+  {
+    "slug": "mathoverflow-high-score",
+    "title": "Highly scored MathOverflow answers",
+    "site": "mathoverflow",
+    "site_url": "https://mathoverflow.net",
+    "minimum_score": 15,
+    "lookback_days": 180,
+    "maximum_feed_items": 100,
+    "tags": []
   }
 ]
