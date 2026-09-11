@@ -3,10 +3,12 @@ name: Update Stack Exchange feeds
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "17 * * * *"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: update-stack-exchange-feeds
@@ -15,6 +17,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Download repository
@@ -35,6 +41,19 @@ jobs:
           git config user.name "Stack feed bot"
           git config user.email "stack-feed-bot@users.noreply.github.com"
           git add docs state
-          git diff --cached --quiet && exit 0
-          git commit -m "Update Stack Exchange feeds"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Stack Exchange feeds"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website files
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
