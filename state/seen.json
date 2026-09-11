@@ -620,7 +620,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-11T16:44:10.734107Z"
+    "last_checked": "2026-09-11T17:25:47.131320Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -642,7 +642,7 @@
         "owner": "Gro-Tsen",
         "question_id": "515058",
         "question_title": "What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics",
-        "score": 41
+        "score": 43
       },
       {
         "answer_created": "2026-09-08T18:31:37Z",
@@ -672,7 +672,7 @@
         "owner": "David White",
         "question_id": "515036",
         "question_title": "What are the actual risks of putting work-in-progress mathematics into AI assistants?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-08T13:20:57Z",
@@ -712,7 +712,7 @@
         "owner": "Steven Landsburg",
         "question_id": "514973",
         "question_title": "Effect of AI on publication rates",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-07T14:42:36Z",
@@ -1845,6 +1845,6 @@
       "515063": "2026-09-11T16:35:49.698347Z",
       "515066": "2026-09-11T16:35:49.698347Z"
     },
-    "last_checked": "2026-09-11T16:44:10.734107Z"
+    "last_checked": "2026-09-11T17:25:47.131320Z"
   }
 }
