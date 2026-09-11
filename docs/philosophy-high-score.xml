@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highly scored Philosophy Stack Exchange answers</title>
+    <link>https://philosophy.stackexchange.com</link>
+    <description>Answers from philosophy that reached a score of 15 or more.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Sep 2026 17:35:15 +0000</lastBuildDate>
+    <item>
+      <title>Why「‘male persons’ is more precise (i.e. less vague), but less specific (i.e. more general) than ‘student’」? — answer reached score 18</title>
+      <link>https://philosophy.stackexchange.com/a/140674</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:140674</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by Peter LeFanu Lumsdaine. Score when last checked: 18. Originally posted: 2026-08-13T08:47:53Z.</description>
+    </item>
+    <item>
+      <title>What are LLM hallucinations? — answer reached score 35</title>
+      <link>https://philosophy.stackexchange.com/a/140633</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:140633</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by village idiot. Score when last checked: 35. Originally posted: 2026-08-11T20:13:09Z.</description>
+    </item>
+    <item>
+      <title>Why are we able to contemplate abstractions at all? — answer reached score 15</title>
+      <link>https://philosophy.stackexchange.com/a/139673</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:139673</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by pseudoultrafinitist. Score when last checked: 15. Originally posted: 2026-07-10T12:14:33Z.</description>
+    </item>
+    <item>
+      <title>Why do we like to overcomplicate the explanations for fairly simple phenomena? — answer reached score 21</title>
+      <link>https://philosophy.stackexchange.com/a/139456</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:139456</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by David Gudeman. Score when last checked: 21. Originally posted: 2026-06-30T22:26:53Z.</description>
+    </item>
+    <item>
+      <title>Are some people zombies? — answer reached score 19</title>
+      <link>https://philosophy.stackexchange.com/a/139376</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:139376</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by Dale M. Score when last checked: 19. Originally posted: 2026-06-27T22:54:27Z.</description>
+    </item>
+    <item>
+      <title>Why are interpretations like Copenhagen and Many Worlds in quantum mechanics taken seriously as science? — answer reached score 21</title>
+      <link>https://philosophy.stackexchange.com/a/139316</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:139316</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by controlgroup. Score when last checked: 21. Originally posted: 2026-06-25T22:10:20Z.</description>
+    </item>
+    <item>
+      <title>How do I prevent myself from being a crank in areas I know very little about? — answer reached score 31</title>
+      <link>https://philosophy.stackexchange.com/a/139079</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:139079</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by keshlam. Score when last checked: 31. Originally posted: 2026-06-14T15:10:27Z.</description>
+    </item>
+    <item>
+      <title>Is there a single comprehensible sentence explaining how the mental can arise from the physical using physicalist commitments? — answer reached score 15</title>
+      <link>https://philosophy.stackexchange.com/a/139069</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:139069</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by Vilx-. Score when last checked: 15. Originally posted: 2026-06-14T11:15:08Z.</description>
+    </item>
+    <item>
+      <title>Is there a single comprehensible sentence explaining how the mental can arise from the physical using physicalist commitments? — answer reached score 15</title>
+      <link>https://philosophy.stackexchange.com/a/139064</link>
+      <guid isPermaLink="false">stackexchange:philosophy:answer:139064</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by pseudoultrafinitist. Score when last checked: 15. Originally posted: 2026-06-13T23:17:35Z.</description>
+    </item>
+  </channel>
+</rss>

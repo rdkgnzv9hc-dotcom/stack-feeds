@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highly scored History Stack Exchange answers</title>
+    <link>https://history.stackexchange.com</link>
+    <description>Answers from history that reached a score of 15 or more.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Sep 2026 17:35:15 +0000</lastBuildDate>
+    <item>
+      <title>What's the original source and form of the "I believe in the sun" poem? — answer reached score 20</title>
+      <link>https://history.stackexchange.com/a/80276</link>
+      <guid isPermaLink="false">stackexchange:history:answer:80276</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by T.E.D.. Score when last checked: 20. Originally posted: 2026-09-02T19:45:19Z.</description>
+    </item>
+    <item>
+      <title>Could shifts in the Mississippi river have possibly emancipated slaves? — answer reached score 15</title>
+      <link>https://history.stackexchange.com/a/80223</link>
+      <guid isPermaLink="false">stackexchange:history:answer:80223</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by MCW. Score when last checked: 15. Originally posted: 2026-07-25T20:26:06Z.</description>
+    </item>
+    <item>
+      <title>How was Dreyfus' sword broken in his degradation ceremony? — answer reached score 21</title>
+      <link>https://history.stackexchange.com/a/80215</link>
+      <guid isPermaLink="false">stackexchange:history:answer:80215</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by njuffa. Score when last checked: 21. Originally posted: 2026-07-20T20:30:52Z.</description>
+    </item>
+    <item>
+      <title>How was Dreyfus' sword broken in his degradation ceremony? — answer reached score 30</title>
+      <link>https://history.stackexchange.com/a/80214</link>
+      <guid isPermaLink="false">stackexchange:history:answer:80214</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by MCW. Score when last checked: 30. Originally posted: 2026-07-20T17:46:03Z.</description>
+    </item>
+    <item>
+      <title>Did Prof Vandiver err when she said that the Mycenaean system was an early form of Greek? — answer reached score 19</title>
+      <link>https://history.stackexchange.com/a/80190</link>
+      <guid isPermaLink="false">stackexchange:history:answer:80190</guid>
+      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
+      <description>Answer by Pere. Score when last checked: 19. Originally posted: 2026-07-11T11:02:10Z.</description>
+    </item>
+  </channel>
+</rss>
