@@ -807,7 +807,7 @@
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "history-high-score": {
     "entries": [
@@ -869,7 +869,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1140,7 +1140,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "law-high-score": {
     "entries": [
@@ -1741,7 +1741,7 @@
       "115494": "2026-09-11T17:35:15.780317Z",
       "115510": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "math-high-score": {
     "entries": [
@@ -2364,7 +2364,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2386,7 +2386,7 @@
         "owner": "Wojowu",
         "question_id": "515121",
         "question_title": "Lagrange on magma",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-10T01:00:37Z",
@@ -2506,7 +2506,7 @@
         "owner": "Z. A. K.",
         "question_id": "514882",
         "question_title": "Interesting anti-classical purely logical (e.g., higher-order propositional) axioms",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-04T18:41:55Z",
@@ -3835,7 +3835,7 @@
       "515128": "2026-09-11T17:43:24.207171Z",
       "515151": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3941,7 +3941,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "physics-high-score": {
     "entries": [
@@ -3963,7 +3963,7 @@
         "owner": "Kyle Kanos",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-09T17:58:17Z",
@@ -4674,7 +4674,7 @@
       "875864": "2026-09-11T17:35:15.780317Z",
       "875874": "2026-09-11T19:25:07.689463Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4703,7 +4703,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5711,7 +5711,7 @@
       "305889": "2026-09-11T17:35:15.780317Z",
       "305905": "2026-09-12T04:26:18.109918Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "space-high-score": {
     "entries": [
@@ -5982,7 +5982,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6004,7 +6004,7 @@
         "owner": "Trantlemore",
         "question_id": "274517",
         "question_title": "Why would a living organism larger than earth need to biologically create cement?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-09-09T11:42:56Z",
@@ -7157,6 +7157,6 @@
       "274522": "2026-09-11T17:35:15.780317Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-12T19:23:48.014355Z"
+    "last_checked": "2026-09-12T20:26:52.078147Z"
   }
 }
