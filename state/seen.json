@@ -29,7 +29,7 @@
         "owner": "David White",
         "question_id": "227635",
         "question_title": "Checking AI use in mathematical publishing",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-09-09T13:11:22Z",
@@ -807,7 +807,7 @@
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "history-high-score": {
     "entries": [
@@ -869,7 +869,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1140,7 +1140,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "law-high-score": {
     "entries": [
@@ -1741,7 +1741,7 @@
       "115494": "2026-09-11T17:35:15.780317Z",
       "115510": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "math-high-score": {
     "entries": [
@@ -2364,7 +2364,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3835,7 +3835,7 @@
       "515128": "2026-09-11T17:43:24.207171Z",
       "515151": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3941,7 +3941,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4674,7 +4674,7 @@
       "875864": "2026-09-11T17:35:15.780317Z",
       "875874": "2026-09-11T19:25:07.689463Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4703,7 +4703,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5711,7 +5711,7 @@
       "305889": "2026-09-11T17:35:15.780317Z",
       "305905": "2026-09-12T04:26:18.109918Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "space-high-score": {
     "entries": [
@@ -5982,10 +5982,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-09T21:32:42Z",
+        "answer_id": "274527",
+        "first_seen": "2026-09-12T22:25:22.172190Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274527",
+        "owner": "Pica",
+        "question_id": "274520",
+        "question_title": "Are simpler, utilitarian designs like hardhats and jerrycans generally universal?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-10T21:02:30Z",
         "answer_id": "274532",
@@ -6975,16 +6985,6 @@
         "question_id": "274011",
         "question_title": "How would invaders know with confidence that a native creature is extinct?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-07-10T15:00:07Z",
-        "answer_id": "274007",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274007",
-        "owner": "g s",
-        "question_id": "273995",
-        "question_title": "Can a space station between the Sun and Mercury have a free-floating solar shield?",
-        "score": 10
       }
     ],
     "known": {
@@ -7155,8 +7155,9 @@
       "274516": "2026-09-11T17:35:15.780317Z",
       "274521": "2026-09-11T17:35:15.780317Z",
       "274522": "2026-09-11T17:35:15.780317Z",
+      "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-12T21:25:37.350053Z"
+    "last_checked": "2026-09-12T22:25:22.172190Z"
   }
 }
