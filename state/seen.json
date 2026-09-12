@@ -29,7 +29,7 @@
         "owner": "David White",
         "question_id": "227635",
         "question_title": "How to check for AI use in mathematical publishing?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-09T13:11:22Z",
@@ -807,7 +807,7 @@
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "history-high-score": {
     "entries": [
@@ -869,7 +869,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1140,7 +1140,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "law-high-score": {
     "entries": [
@@ -1162,7 +1162,7 @@
         "owner": "Dale M",
         "question_id": "115492",
         "question_title": "If a company has you sign an NDA, but then subsequently releases a later version of a covered document, is the earlier version still under the NDA?",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-09-08T15:41:24Z",
@@ -1741,7 +1741,7 @@
       "115494": "2026-09-11T17:35:15.780317Z",
       "115510": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "math-high-score": {
     "entries": [
@@ -2364,7 +2364,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3834,7 +3834,7 @@
       "515100": "2026-09-11T17:43:24.207171Z",
       "515128": "2026-09-11T17:43:24.207171Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3940,7 +3940,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4673,7 +4673,7 @@
       "875864": "2026-09-11T17:35:15.780317Z",
       "875874": "2026-09-11T19:25:07.689463Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4702,7 +4702,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5710,7 +5710,7 @@
       "305889": "2026-09-11T17:35:15.780317Z",
       "305905": "2026-09-12T04:26:18.109918Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "space-high-score": {
     "entries": [
@@ -5981,7 +5981,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6003,7 +6003,7 @@
         "owner": "Toph",
         "question_id": "274520",
         "question_title": "Are simpler, utilitarian designs like hardhats and jerrycans generally universal?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-09T00:43:33Z",
@@ -7155,6 +7155,6 @@
       "274521": "2026-09-11T17:35:15.780317Z",
       "274522": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T12:30:04.003525Z"
+    "last_checked": "2026-09-12T13:24:42.034248Z"
   }
 }
