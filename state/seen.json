@@ -19,7 +19,7 @@
         "owner": "Wolfgang Bangerth",
         "question_id": "227635",
         "question_title": "Checking AI use in mathematical publishing",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-09T17:09:32Z",
@@ -807,7 +807,7 @@
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "history-high-score": {
     "entries": [
@@ -869,7 +869,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -911,7 +911,7 @@
         "owner": "TomH",
         "question_id": "19658",
         "question_title": "What computers were originally used to verify the four color theorem?",
-        "score": 43
+        "score": 44
       },
       {
         "answer_created": "2026-08-14T13:22:46Z",
@@ -1140,7 +1140,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "law-high-score": {
     "entries": [
@@ -1741,7 +1741,7 @@
       "115494": "2026-09-11T17:35:15.780317Z",
       "115510": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "math-high-score": {
     "entries": [
@@ -2364,10 +2364,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-12T03:07:54Z",
+        "answer_id": "515151",
+        "first_seen": "2026-09-12T19:23:48.014355Z",
+        "link": "https://mathoverflow.net/a/515151",
+        "owner": "Sam Hopkins",
+        "question_id": "515144",
+        "question_title": "Journal Editors: How are you evaluating AI assisted papers?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-11T05:42:33Z",
         "answer_id": "515128",
@@ -3357,16 +3367,6 @@
         "question_id": "454040",
         "question_title": "Representing $x^6-4$ as a sum of two squares",
         "score": 11
-      },
-      {
-        "answer_created": "2026-06-30T13:22:37Z",
-        "answer_id": "512769",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/512769",
-        "owner": "Kevin Walker",
-        "question_id": "512762",
-        "question_title": "How should one think about 2-categories?",
-        "score": 10
       }
     ],
     "known": {
@@ -3832,9 +3832,10 @@
       "515069": "2026-09-11T17:43:24.207171Z",
       "515089": "2026-09-11T17:43:24.207171Z",
       "515100": "2026-09-11T17:43:24.207171Z",
-      "515128": "2026-09-11T17:43:24.207171Z"
+      "515128": "2026-09-11T17:43:24.207171Z",
+      "515151": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3940,7 +3941,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4673,7 +4674,7 @@
       "875864": "2026-09-11T17:35:15.780317Z",
       "875874": "2026-09-11T19:25:07.689463Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4702,7 +4703,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4714,7 +4715,7 @@
         "owner": "Valorum",
         "question_id": "305901",
         "question_title": "Money no object in \u201cSpider-Man: Brand New Day\u201d?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-09T02:35:40Z",
@@ -5710,7 +5711,7 @@
       "305889": "2026-09-11T17:35:15.780317Z",
       "305905": "2026-09-12T04:26:18.109918Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "space-high-score": {
     "entries": [
@@ -5981,10 +5982,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-10T21:02:30Z",
+        "answer_id": "274532",
+        "first_seen": "2026-09-12T19:23:48.014355Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274532",
+        "owner": "JBH",
+        "question_id": "274529",
+        "question_title": "Could a Underwater Civilization develop into a 1970\u2019s \u2018surface\u2019 race",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-09T12:08:01Z",
         "answer_id": "274522",
@@ -6974,16 +6985,6 @@
         "question_id": "273995",
         "question_title": "Can a space station between the Sun and Mercury have a free-floating solar shield?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-08T22:54:45Z",
-        "answer_id": "274001",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274001",
-        "owner": "Gault Drakkor",
-        "question_id": "273995",
-        "question_title": "Can a space station between the Sun and Mercury have a free-floating solar shield?",
-        "score": 6
       }
     ],
     "known": {
@@ -7153,8 +7154,9 @@
       "274515": "2026-09-11T17:35:15.780317Z",
       "274516": "2026-09-11T17:35:15.780317Z",
       "274521": "2026-09-11T17:35:15.780317Z",
-      "274522": "2026-09-11T17:35:15.780317Z"
+      "274522": "2026-09-11T17:35:15.780317Z",
+      "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-12T18:27:07.224498Z"
+    "last_checked": "2026-09-12T19:23:48.014355Z"
   }
 }
