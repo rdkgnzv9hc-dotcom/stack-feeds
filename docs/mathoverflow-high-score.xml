@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:34:04 +0000</lastBuildDate>
+    <item>
+      <title>Different publication model in the new era of AI generated math — answer reached score 11</title>
+      <link>https://mathoverflow.net/a/515194</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515194</guid>
+      <pubDate>Mon, 14 Sep 2026 12:34:04 +0000</pubDate>
+      <description>Answer by Piero D'Ancona. Score when last checked: 11. Originally posted: 2026-09-13T10:34:23Z.</description>
+    </item>
     <item>
       <title>How to write a grant application in 2026? — answer reached score 18</title>
       <link>https://mathoverflow.net/a/515189</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:512860</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Tom De Medts. Score when last checked: 13. Originally posted: 2026-07-03T08:01:55Z.</description>
-    </item>
-    <item>
-      <title>Integer solutions to the equation $\frac{k^5-1}{k-1} = mp^2$ — answer reached score 13</title>
-      <link>https://mathoverflow.net/a/512843</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:512843</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Stanley Yao Xiao. Score when last checked: 13. Originally posted: 2026-07-02T19:15:57Z.</description>
     </item>
   </channel>
 </rss>

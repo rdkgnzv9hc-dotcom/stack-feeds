@@ -818,7 +818,7 @@
       "227640": "2026-09-11T17:35:15.780317Z",
       "227649": "2026-09-14T09:29:43.245557Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "history-high-score": {
     "entries": [
@@ -880,7 +880,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1151,7 +1151,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "law-high-score": {
     "entries": [
@@ -1763,7 +1763,7 @@
       "115510": "2026-09-11T17:35:15.780317Z",
       "115515": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "math-high-score": {
     "entries": [
@@ -2386,10 +2386,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-13T10:34:23Z",
+        "answer_id": "515194",
+        "first_seen": "2026-09-14T12:34:04.948466Z",
+        "link": "https://mathoverflow.net/a/515194",
+        "owner": "Piero D'Ancona",
+        "question_id": "515180",
+        "question_title": "Different publication model in the new era of AI generated math",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-13T07:14:30Z",
         "answer_id": "515189",
@@ -3379,16 +3389,6 @@
         "question_id": "512821",
         "question_title": "Basis description of a subgroup of a free abelian group of infinite rank",
         "score": 13
-      },
-      {
-        "answer_created": "2026-07-02T19:15:57Z",
-        "answer_id": "512843",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/512843",
-        "owner": "Stanley Yao Xiao",
-        "question_id": "512842",
-        "question_title": "Integer solutions to the equation $\\frac{k^5-1}{k-1} = mp^2$",
-        "score": 13
       }
     ],
     "known": {
@@ -3857,9 +3857,10 @@
       "515128": "2026-09-11T17:43:24.207171Z",
       "515151": "2026-09-12T19:23:48.014355Z",
       "515161": "2026-09-14T04:26:43.889697Z",
-      "515189": "2026-09-14T04:26:43.889697Z"
+      "515189": "2026-09-14T04:26:43.889697Z",
+      "515194": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3965,7 +3966,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "physics-high-score": {
     "entries": [
@@ -3977,7 +3978,7 @@
         "owner": "AccidentalFourierTransform",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-11T15:42:29Z",
@@ -3987,7 +3988,7 @@
         "owner": "Lawnmower Man",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-11T07:30:14Z",
@@ -3997,7 +3998,7 @@
         "owner": "Vladimir F \u0413\u0435\u0440\u043e\u044f\u043c \u0441\u043b\u0430\u0432\u0430",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 22
+        "score": 24
       },
       {
         "answer_created": "2026-09-10T14:17:04Z",
@@ -4007,7 +4008,7 @@
         "owner": "Kyle Kanos",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-09-09T17:58:17Z",
@@ -4720,7 +4721,7 @@
       "875889": "2026-09-14T04:26:43.889697Z",
       "875985": "2026-09-14T11:28:09.042474Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4749,10 +4750,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-13T20:25:18Z",
+        "answer_id": "305941",
+        "first_seen": "2026-09-14T12:34:04.948466Z",
+        "link": "https://scifi.stackexchange.com/a/305941",
+        "owner": "Henning Kockerbeck",
+        "question_id": "305939",
+        "question_title": "Why did French publishers of Marvel comics switch Wolverine's name back from \"Serval\" to \"Wolverine\" after the 1980s-90s?",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-12T13:20:48Z",
         "answer_id": "305933",
@@ -5766,9 +5777,10 @@
       "305873": "2026-09-11T17:35:15.780317Z",
       "305889": "2026-09-11T17:35:15.780317Z",
       "305905": "2026-09-12T04:26:18.109918Z",
-      "305933": "2026-09-14T04:26:43.889697Z"
+      "305933": "2026-09-14T04:26:43.889697Z",
+      "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "space-high-score": {
     "entries": [
@@ -6039,7 +6051,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7215,6 +7227,6 @@
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-14T11:28:09.042474Z"
+    "last_checked": "2026-09-14T12:34:04.948466Z"
   }
 }
