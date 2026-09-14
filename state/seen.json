@@ -818,7 +818,7 @@
       "227640": "2026-09-11T17:35:15.780317Z",
       "227649": "2026-09-14T09:29:43.245557Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "history-high-score": {
     "entries": [
@@ -880,7 +880,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1151,7 +1151,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "law-high-score": {
     "entries": [
@@ -1163,7 +1163,7 @@
         "owner": "Jen",
         "question_id": "115514",
         "question_title": "Is it legal for Trump to offer $5000 to all US adults based on the outcome of the midterm elections",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-10T17:38:34Z",
@@ -1763,7 +1763,7 @@
       "115510": "2026-09-11T17:35:15.780317Z",
       "115515": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "math-high-score": {
     "entries": [
@@ -2386,7 +2386,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3859,7 +3859,7 @@
       "515161": "2026-09-14T04:26:43.889697Z",
       "515189": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3965,7 +3965,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4709,7 +4709,7 @@
       "875874": "2026-09-11T19:25:07.689463Z",
       "875889": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4738,7 +4738,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5757,7 +5757,7 @@
       "305905": "2026-09-12T04:26:18.109918Z",
       "305933": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "space-high-score": {
     "entries": [
@@ -6028,7 +6028,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6050,7 +6050,7 @@
         "owner": "JBH",
         "question_id": "274529",
         "question_title": "Could a Underwater Civilization develop into a 1970\u2019s \u2018surface\u2019 race",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-09T12:08:01Z",
@@ -6210,7 +6210,7 @@
         "owner": "AlexP",
         "question_id": "274460",
         "question_title": "Could convergent evolution explain humans developing on another planet independently of Earth?",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-09-01T14:41:16Z",
@@ -7204,6 +7204,6 @@
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-14T09:29:43.245557Z"
+    "last_checked": "2026-09-14T10:28:14.406104Z"
   }
 }
