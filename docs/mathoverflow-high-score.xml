@@ -5,20 +5,34 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 03:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:26:43 +0000</lastBuildDate>
     <item>
-      <title>Journal Editors: How are you evaluating AI assisted papers? — answer reached score 12</title>
+      <title>How to write a grant application in 2026? — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/515189</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515189</guid>
+      <pubDate>Mon, 14 Sep 2026 04:26:43 +0000</pubDate>
+      <description>Answer by Carlo Beenakker. Score when last checked: 16. Originally posted: 2026-09-13T07:14:30Z.</description>
+    </item>
+    <item>
+      <title>Need reference about $10$-trillionth digit of $\pi$ — answer reached score 11</title>
+      <link>https://mathoverflow.net/a/515161</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515161</guid>
+      <pubDate>Mon, 14 Sep 2026 04:26:43 +0000</pubDate>
+      <description>Answer by JRN. Score when last checked: 11. Originally posted: 2026-09-12T11:24:58Z.</description>
+    </item>
+    <item>
+      <title>Journal Editors: How are you evaluating AI assisted papers? — answer reached score 13</title>
       <link>https://mathoverflow.net/a/515151</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515151</guid>
       <pubDate>Sat, 12 Sep 2026 19:23:48 +0000</pubDate>
-      <description>Answer by Sam Hopkins. Score when last checked: 12. Originally posted: 2026-09-12T03:07:54Z.</description>
+      <description>Answer by Sam Hopkins. Score when last checked: 13. Originally posted: 2026-09-12T03:07:54Z.</description>
     </item>
     <item>
-      <title>Lagrange on magma — answer reached score 14</title>
+      <title>Lagrange on magma — answer reached score 15</title>
       <link>https://mathoverflow.net/a/515128</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515128</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Wojowu. Score when last checked: 14. Originally posted: 2026-09-11T05:42:33Z.</description>
+      <description>Answer by Wojowu. Score when last checked: 15. Originally posted: 2026-09-11T05:42:33Z.</description>
     </item>
     <item>
       <title>What is the smallest group not known to be a Galois group over $\mathbb{Q}$? — answer reached score 14</title>
@@ -28,11 +42,11 @@
       <description>Answer by Joachim König. Score when last checked: 14. Originally posted: 2026-09-10T01:00:37Z.</description>
     </item>
     <item>
-      <title>What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics — answer reached score 10</title>
+      <title>What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics — answer reached score 12</title>
       <link>https://mathoverflow.net/a/515089</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515089</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Amir. Score when last checked: 10. Originally posted: 2026-09-09T17:07:05Z.</description>
+      <description>Answer by Amir. Score when last checked: 12. Originally posted: 2026-09-09T17:07:05Z.</description>
     </item>
     <item>
       <title>Orthogonal vectors with entries from $\{-1,0,1\}$ — answer reached score 12</title>
@@ -504,11 +518,11 @@
       <description>Answer by Jochen Glueck. Score when last checked: 11. Originally posted: 2026-07-23T00:00:12Z.</description>
     </item>
     <item>
-      <title>What are some noteworthy "mic-drop" moments in math? — answer reached score 10</title>
+      <title>What are some noteworthy "mic-drop" moments in math? — answer reached score 11</title>
       <link>https://mathoverflow.net/a/513486</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:513486</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by LSpice. Score when last checked: 10. Originally posted: 2026-07-22T21:47:48Z.</description>
+      <description>Answer by LSpice. Score when last checked: 11. Originally posted: 2026-07-22T21:47:48Z.</description>
     </item>
     <item>
       <title>Geometric degrees of counterexamples to the Jacobian conjecture in dimension three — answer reached score 14</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:512843</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Stanley Yao Xiao. Score when last checked: 13. Originally posted: 2026-07-02T19:15:57Z.</description>
-    </item>
-    <item>
-      <title>Existence of a nontrivial bi-Lipschitz involution of the unit ball fixing the boundary — answer reached score 13</title>
-      <link>https://mathoverflow.net/a/512839</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:512839</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Anton Petrunin. Score when last checked: 13. Originally posted: 2026-07-02T17:39:34Z.</description>
-    </item>
-    <item>
-      <title>Representing $x^6-4$ as a sum of two squares — answer reached score 11</title>
-      <link>https://mathoverflow.net/a/512833</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:512833</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Agbanwa Jamal. Score when last checked: 11. Originally posted: 2026-07-02T14:30:27Z.</description>
     </item>
   </channel>
 </rss>

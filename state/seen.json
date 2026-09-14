@@ -69,7 +69,7 @@
         "owner": "Joey Eremondi",
         "question_id": "227587",
         "question_title": "Is it moral to use an LLM to assist proofs in a math/stats PhD dissertation?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-08-23T15:42:46Z",
@@ -807,7 +807,7 @@
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "history-high-score": {
     "entries": [
@@ -869,7 +869,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1140,10 +1140,20 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-11T15:41:34Z",
+        "answer_id": "115515",
+        "first_seen": "2026-09-14T04:26:43.889697Z",
+        "link": "https://law.stackexchange.com/a/115515",
+        "owner": "Jen",
+        "question_id": "115514",
+        "question_title": "Is it legal for Trump to offer $5000 to all US adults based on the outcome of the midterm elections",
+        "score": 13
+      },
       {
         "answer_created": "2026-09-10T17:38:34Z",
         "answer_id": "115510",
@@ -1739,9 +1749,10 @@
       "115485": "2026-09-11T17:35:15.780317Z",
       "115490": "2026-09-11T17:35:15.780317Z",
       "115494": "2026-09-11T17:35:15.780317Z",
-      "115510": "2026-09-11T17:35:15.780317Z"
+      "115510": "2026-09-11T17:35:15.780317Z",
+      "115515": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "math-high-score": {
     "entries": [
@@ -2364,10 +2375,30 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-13T07:14:30Z",
+        "answer_id": "515189",
+        "first_seen": "2026-09-14T04:26:43.889697Z",
+        "link": "https://mathoverflow.net/a/515189",
+        "owner": "Carlo Beenakker",
+        "question_id": "515179",
+        "question_title": "How to write a grant application in 2026?",
+        "score": 16
+      },
+      {
+        "answer_created": "2026-09-12T11:24:58Z",
+        "answer_id": "515161",
+        "first_seen": "2026-09-14T04:26:43.889697Z",
+        "link": "https://mathoverflow.net/a/515161",
+        "owner": "JRN",
+        "question_id": "515157",
+        "question_title": "Need reference about $10$-trillionth digit of $\\pi$",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-12T03:07:54Z",
         "answer_id": "515151",
@@ -2376,7 +2407,7 @@
         "owner": "Sam Hopkins",
         "question_id": "515144",
         "question_title": "Journal Editors: How are you evaluating AI assisted papers?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-11T05:42:33Z",
@@ -2386,7 +2417,7 @@
         "owner": "Wojowu",
         "question_id": "515121",
         "question_title": "Lagrange on magma",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-10T01:00:37Z",
@@ -2406,7 +2437,7 @@
         "owner": "Amir",
         "question_id": "515058",
         "question_title": "What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-09-09T04:19:03Z",
@@ -3086,7 +3117,7 @@
         "owner": "LSpice",
         "question_id": "325105",
         "question_title": "What are some noteworthy \"mic-drop\" moments in math?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-07-22T10:49:08Z",
@@ -3347,26 +3378,6 @@
         "question_id": "512842",
         "question_title": "Integer solutions to the equation $\\frac{k^5-1}{k-1} = mp^2$",
         "score": 13
-      },
-      {
-        "answer_created": "2026-07-02T17:39:34Z",
-        "answer_id": "512839",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/512839",
-        "owner": "Anton Petrunin",
-        "question_id": "512836",
-        "question_title": "Existence of a nontrivial bi-Lipschitz involution of the unit ball fixing the boundary",
-        "score": 13
-      },
-      {
-        "answer_created": "2026-07-02T14:30:27Z",
-        "answer_id": "512833",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/512833",
-        "owner": "Agbanwa Jamal",
-        "question_id": "454040",
-        "question_title": "Representing $x^6-4$ as a sum of two squares",
-        "score": 11
       }
     ],
     "known": {
@@ -3833,9 +3844,11 @@
       "515089": "2026-09-11T17:43:24.207171Z",
       "515100": "2026-09-11T17:43:24.207171Z",
       "515128": "2026-09-11T17:43:24.207171Z",
-      "515151": "2026-09-12T19:23:48.014355Z"
+      "515151": "2026-09-12T19:23:48.014355Z",
+      "515161": "2026-09-14T04:26:43.889697Z",
+      "515189": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3941,10 +3954,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-11T15:42:29Z",
+        "answer_id": "875889",
+        "first_seen": "2026-09-14T04:26:43.889697Z",
+        "link": "https://physics.stackexchange.com/a/875889",
+        "owner": "Lawnmower Man",
+        "question_id": "875854",
+        "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
+        "score": 15
+      },
       {
         "answer_created": "2026-09-11T07:30:14Z",
         "answer_id": "875874",
@@ -3953,7 +3976,7 @@
         "owner": "Vladimir F \u0413\u0435\u0440\u043e\u044f\u043c \u0441\u043b\u0430\u0432\u0430",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 15
+        "score": 21
       },
       {
         "answer_created": "2026-09-10T14:17:04Z",
@@ -3963,7 +3986,7 @@
         "owner": "Kyle Kanos",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-09-09T17:58:17Z",
@@ -4672,9 +4695,10 @@
       "875767": "2026-09-11T17:35:15.780317Z",
       "875844": "2026-09-11T17:35:15.780317Z",
       "875864": "2026-09-11T17:35:15.780317Z",
-      "875874": "2026-09-11T19:25:07.689463Z"
+      "875874": "2026-09-11T19:25:07.689463Z",
+      "875889": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4703,10 +4727,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-12T13:20:48Z",
+        "answer_id": "305933",
+        "first_seen": "2026-09-14T04:26:43.889697Z",
+        "link": "https://scifi.stackexchange.com/a/305933",
+        "owner": "Stanley Webb",
+        "question_id": "305930",
+        "question_title": "What is the earliest sci-fi story to mention another real sci-fi work as fiction within its own universe?",
+        "score": 16
+      },
       {
         "answer_created": "2026-09-10T17:12:59Z",
         "answer_id": "305905",
@@ -4745,7 +4779,7 @@
         "owner": "Lexible",
         "question_id": "305858",
         "question_title": "When was the first mention of a Japan-analogue in a fantasy world that doesn't have significance to the overall story?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-04T21:39:25Z",
@@ -5709,9 +5743,10 @@
       "305860": "2026-09-11T17:35:15.780317Z",
       "305873": "2026-09-11T17:35:15.780317Z",
       "305889": "2026-09-11T17:35:15.780317Z",
-      "305905": "2026-09-12T04:26:18.109918Z"
+      "305905": "2026-09-12T04:26:18.109918Z",
+      "305933": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "space-high-score": {
     "entries": [
@@ -5982,7 +6017,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6004,7 +6039,7 @@
         "owner": "JBH",
         "question_id": "274529",
         "question_title": "Could a Underwater Civilization develop into a 1970\u2019s \u2018surface\u2019 race",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-09T12:08:01Z",
@@ -6014,7 +6049,7 @@
         "owner": "Trantlemore",
         "question_id": "274517",
         "question_title": "Why would a living organism larger than earth need to biologically create cement?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-09T11:42:56Z",
@@ -6044,7 +6079,7 @@
         "owner": "jdunlop",
         "question_id": "274514",
         "question_title": "Hypothetically, how could someone be immediately killed by a radio tower?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-06T16:03:04Z",
@@ -7158,6 +7193,6 @@
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-13T03:26:51.765394Z"
+    "last_checked": "2026-09-14T04:26:43.889697Z"
   }
 }
