@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-12T02:14:27Z",
+        "answer_id": "227649",
+        "first_seen": "2026-09-14T09:29:43.245557Z",
+        "link": "https://academia.stackexchange.com/a/227649",
+        "owner": "CrimsonDark",
+        "question_id": "227645",
+        "question_title": "I have published a wrong paper",
+        "score": 11
+      },
+      {
         "answer_created": "2026-09-10T01:15:20Z",
         "answer_id": "227640",
         "first_seen": "2026-09-11T17:35:15.780317Z",
@@ -805,9 +815,10 @@
       "227636": "2026-09-11T17:35:15.780317Z",
       "227637": "2026-09-11T17:35:15.780317Z",
       "227638": "2026-09-11T17:35:15.780317Z",
-      "227640": "2026-09-11T17:35:15.780317Z"
+      "227640": "2026-09-11T17:35:15.780317Z",
+      "227649": "2026-09-14T09:29:43.245557Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "history-high-score": {
     "entries": [
@@ -869,7 +880,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1140,7 +1151,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "law-high-score": {
     "entries": [
@@ -1152,7 +1163,7 @@
         "owner": "Jen",
         "question_id": "115514",
         "question_title": "Is it legal for Trump to offer $5000 to all US adults based on the outcome of the midterm elections",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-10T17:38:34Z",
@@ -1752,7 +1763,7 @@
       "115510": "2026-09-11T17:35:15.780317Z",
       "115515": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "math-high-score": {
     "entries": [
@@ -2375,7 +2386,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3848,7 +3859,7 @@
       "515161": "2026-09-14T04:26:43.889697Z",
       "515189": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3954,7 +3965,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "physics-high-score": {
     "entries": [
@@ -3966,7 +3977,7 @@
         "owner": "Lawnmower Man",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-11T07:30:14Z",
@@ -4698,7 +4709,7 @@
       "875874": "2026-09-11T19:25:07.689463Z",
       "875889": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4727,7 +4738,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4739,7 +4750,7 @@
         "owner": "Stanley Webb",
         "question_id": "305930",
         "question_title": "What is the earliest sci-fi story to mention another real sci-fi work as fiction within its own universe?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-10T17:12:59Z",
@@ -5746,7 +5757,7 @@
       "305905": "2026-09-12T04:26:18.109918Z",
       "305933": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "space-high-score": {
     "entries": [
@@ -6017,7 +6028,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7193,6 +7204,6 @@
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-14T08:30:03.535480Z"
+    "last_checked": "2026-09-14T09:29:43.245557Z"
   }
 }
