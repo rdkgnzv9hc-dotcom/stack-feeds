@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-13T15:02:48Z",
+        "answer_id": "227654",
+        "first_seen": "2026-09-14T17:26:05.528585Z",
+        "link": "https://academia.stackexchange.com/a/227654",
+        "owner": "Buffy",
+        "question_id": "227652",
+        "question_title": "PhD in Math and Artificial Intelligence",
+        "score": 10
+      },
+      {
         "answer_created": "2026-09-12T02:14:27Z",
         "answer_id": "227649",
         "first_seen": "2026-09-14T09:29:43.245557Z",
@@ -49,7 +59,7 @@
         "owner": "Ainsley H.",
         "question_id": "227633",
         "question_title": "Temporarily leaving to observe the changes in the field?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-09-09T07:59:18Z",
@@ -816,9 +826,10 @@
       "227637": "2026-09-11T17:35:15.780317Z",
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z",
-      "227649": "2026-09-14T09:29:43.245557Z"
+      "227649": "2026-09-14T09:29:43.245557Z",
+      "227654": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "history-high-score": {
     "entries": [
@@ -880,7 +891,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1151,10 +1162,20 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-13T08:29:58Z",
+        "answer_id": "115523",
+        "first_seen": "2026-09-14T17:26:05.528585Z",
+        "link": "https://law.stackexchange.com/a/115523",
+        "owner": "Dale M",
+        "question_id": "115522",
+        "question_title": "Would a CPA/accountant's duty not to steal extend to video games?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-11T15:41:34Z",
         "answer_id": "115515",
@@ -1163,7 +1184,7 @@
         "owner": "Jen",
         "question_id": "115514",
         "question_title": "Is it legal for Trump to offer $5000 to all US adults based on the outcome of the midterm elections",
-        "score": 20
+        "score": 22
       },
       {
         "answer_created": "2026-09-10T17:38:34Z",
@@ -1761,9 +1782,10 @@
       "115490": "2026-09-11T17:35:15.780317Z",
       "115494": "2026-09-11T17:35:15.780317Z",
       "115510": "2026-09-11T17:35:15.780317Z",
-      "115515": "2026-09-14T04:26:43.889697Z"
+      "115515": "2026-09-14T04:26:43.889697Z",
+      "115523": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "math-high-score": {
     "entries": [
@@ -2386,7 +2408,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2398,7 +2420,7 @@
         "owner": "Reid Barton",
         "question_id": "515206",
         "question_title": "Looking for a finitely complete category with a subobject classifier, but without initial object",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-13T10:34:23Z",
@@ -3861,7 +3883,7 @@
       "515194": "2026-09-14T12:34:04.948466Z",
       "515215": "2026-09-14T15:30:23.000380Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3967,7 +3989,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "physics-high-score": {
     "entries": [
@@ -3979,7 +4001,7 @@
         "owner": "knzhou",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-14T05:28:32Z",
@@ -4733,7 +4755,7 @@
       "875985": "2026-09-14T11:28:09.042474Z",
       "875988": "2026-09-14T13:30:31.054978Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4762,7 +4784,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4774,7 +4796,7 @@
         "owner": "Henning Kockerbeck",
         "question_id": "305939",
         "question_title": "Why did French publishers of Marvel comics switch Wolverine's name back from \"Serval\" to \"Wolverine\" after the 1980s-90s?",
-        "score": 11
+        "score": 10
       },
       {
         "answer_created": "2026-09-12T13:20:48Z",
@@ -5792,7 +5814,7 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "space-high-score": {
     "entries": [
@@ -6063,10 +6085,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T13:58:08Z",
+        "answer_id": "274550",
+        "first_seen": "2026-09-14T17:26:05.528585Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274550",
+        "owner": "Nosajimiki",
+        "question_id": "274547",
+        "question_title": "How can a pre-industrial society fight underwater enemies?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-09T21:32:42Z",
         "answer_id": "274527",
@@ -7056,16 +7088,6 @@
         "question_id": "274011",
         "question_title": "How would invaders know with confidence that a native creature is extinct?",
         "score": 9
-      },
-      {
-        "answer_created": "2026-07-11T14:44:52Z",
-        "answer_id": "274012",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274012",
-        "owner": "David R",
-        "question_id": "274011",
-        "question_title": "How would invaders know with confidence that a native creature is extinct?",
-        "score": 5
       }
     ],
     "known": {
@@ -7237,8 +7259,9 @@
       "274521": "2026-09-11T17:35:15.780317Z",
       "274522": "2026-09-11T17:35:15.780317Z",
       "274527": "2026-09-12T22:25:22.172190Z",
-      "274532": "2026-09-12T19:23:48.014355Z"
+      "274532": "2026-09-12T19:23:48.014355Z",
+      "274550": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T16:28:07.966545Z"
+    "last_checked": "2026-09-14T17:26:05.528585Z"
   }
 }
