@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:30:23 +0000</lastBuildDate>
+    <item>
+      <title>Looking for a finitely complete category with a subobject classifier, but without initial object — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515215</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515215</guid>
+      <pubDate>Mon, 14 Sep 2026 15:30:23 +0000</pubDate>
+      <description>Answer by Reid Barton. Score when last checked: 10. Originally posted: 2026-09-14T09:16:42Z.</description>
+    </item>
     <item>
       <title>Different publication model in the new era of AI generated math — answer reached score 14</title>
       <link>https://mathoverflow.net/a/515194</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:512869</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Noam D. Elkies. Score when last checked: 14. Originally posted: 2026-07-03T18:12:23Z.</description>
-    </item>
-    <item>
-      <title>Basis description of a subgroup of a free abelian group of infinite rank — answer reached score 13</title>
-      <link>https://mathoverflow.net/a/512860</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:512860</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Tom De Medts. Score when last checked: 13. Originally posted: 2026-07-03T08:01:55Z.</description>
     </item>
   </channel>
 </rss>
