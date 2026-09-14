@@ -19,7 +19,7 @@
         "owner": "CrimsonDark",
         "question_id": "227645",
         "question_title": "I have published a wrong paper",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-10T01:15:20Z",
@@ -829,7 +829,7 @@
       "227649": "2026-09-14T09:29:43.245557Z",
       "227654": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "history-high-score": {
     "entries": [
@@ -891,7 +891,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1162,7 +1162,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "law-high-score": {
     "entries": [
@@ -1785,7 +1785,7 @@
       "115515": "2026-09-14T04:26:43.889697Z",
       "115523": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "math-high-score": {
     "entries": [
@@ -2408,7 +2408,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3884,7 +3884,7 @@
       "515194": "2026-09-14T12:34:04.948466Z",
       "515215": "2026-09-14T15:30:23.000380Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3990,7 +3990,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4756,7 +4756,7 @@
       "875985": "2026-09-14T11:28:09.042474Z",
       "875988": "2026-09-14T13:30:31.054978Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4785,7 +4785,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5815,7 +5815,7 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "space-high-score": {
     "entries": [
@@ -6086,10 +6086,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T09:27:14Z",
+        "answer_id": "274549",
+        "first_seen": "2026-09-14T19:27:52.957855Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274549",
+        "owner": "Klyis",
+        "question_id": "274547",
+        "question_title": "How can a pre-industrial society fight underwater enemies?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-14T13:58:08Z",
         "answer_id": "274550",
@@ -6098,7 +6108,7 @@
         "owner": "Nosajimiki",
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-09T21:32:42Z",
@@ -7079,16 +7089,6 @@
         "question_id": "274029",
         "question_title": "Creating the perfect pathogen to bring about the near-extinction of humanity",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-11T18:36:00Z",
-        "answer_id": "274013",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274013",
-        "owner": "Trish",
-        "question_id": "274011",
-        "question_title": "How would invaders know with confidence that a native creature is extinct?",
-        "score": 9
       }
     ],
     "known": {
@@ -7261,8 +7261,9 @@
       "274522": "2026-09-11T17:35:15.780317Z",
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z",
+      "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T18:31:04.780121Z"
+    "last_checked": "2026-09-14T19:27:52.957855Z"
   }
 }
