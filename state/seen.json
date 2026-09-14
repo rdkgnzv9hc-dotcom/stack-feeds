@@ -9,7 +9,7 @@
         "owner": "CrimsonDark",
         "question_id": "227645",
         "question_title": "I have published a wrong paper",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-09-10T01:15:20Z",
@@ -19,7 +19,7 @@
         "owner": "paul garrett",
         "question_id": "227633",
         "question_title": "Temporarily leaving to observe the changes in the field?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-09T17:51:14Z",
@@ -59,7 +59,7 @@
         "owner": "niemc",
         "question_id": "227633",
         "question_title": "Temporarily leaving to observe the changes in the field?",
-        "score": 37
+        "score": 38
       },
       {
         "answer_created": "2026-08-29T12:02:03Z",
@@ -818,7 +818,7 @@
       "227640": "2026-09-11T17:35:15.780317Z",
       "227649": "2026-09-14T09:29:43.245557Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "history-high-score": {
     "entries": [
@@ -880,7 +880,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -972,7 +972,7 @@
         "owner": "R.M.",
         "question_id": "19590",
         "question_title": "Excluding mathematics, what are the shortest papers in science?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-07-18T10:35:19Z",
@@ -1151,7 +1151,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "law-high-score": {
     "entries": [
@@ -1763,7 +1763,7 @@
       "115510": "2026-09-11T17:35:15.780317Z",
       "115515": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "math-high-score": {
     "entries": [
@@ -2386,7 +2386,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2398,7 +2398,7 @@
         "owner": "Piero D'Ancona",
         "question_id": "515180",
         "question_title": "Different publication model in the new era of AI generated math",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-13T07:14:30Z",
@@ -2458,7 +2458,7 @@
         "owner": "Amir",
         "question_id": "515058",
         "question_title": "What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-09T04:19:03Z",
@@ -3860,7 +3860,7 @@
       "515189": "2026-09-14T04:26:43.889697Z",
       "515194": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3966,7 +3966,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4732,7 +4732,7 @@
       "875985": "2026-09-14T11:28:09.042474Z",
       "875988": "2026-09-14T13:30:31.054978Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4761,7 +4761,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5791,7 +5791,7 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "space-high-score": {
     "entries": [
@@ -6062,7 +6062,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7238,6 +7238,6 @@
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-14T13:30:31.054978Z"
+    "last_checked": "2026-09-14T14:30:05.587662Z"
   }
 }
