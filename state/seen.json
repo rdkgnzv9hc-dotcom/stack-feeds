@@ -807,7 +807,7 @@
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "history-high-score": {
     "entries": [
@@ -869,7 +869,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1140,7 +1140,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "law-high-score": {
     "entries": [
@@ -1152,7 +1152,7 @@
         "owner": "Jen",
         "question_id": "115514",
         "question_title": "Is it legal for Trump to offer $5000 to all US adults based on the outcome of the midterm elections",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-10T17:38:34Z",
@@ -1752,7 +1752,7 @@
       "115510": "2026-09-11T17:35:15.780317Z",
       "115515": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "math-high-score": {
     "entries": [
@@ -2375,7 +2375,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3848,7 +3848,7 @@
       "515161": "2026-09-14T04:26:43.889697Z",
       "515189": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3954,7 +3954,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "physics-high-score": {
     "entries": [
@@ -3976,7 +3976,7 @@
         "owner": "Vladimir F \u0413\u0435\u0440\u043e\u044f\u043c \u0441\u043b\u0430\u0432\u0430",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-10T14:17:04Z",
@@ -3986,7 +3986,7 @@
         "owner": "Kyle Kanos",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-09T17:58:17Z",
@@ -4698,7 +4698,7 @@
       "875874": "2026-09-11T19:25:07.689463Z",
       "875889": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4727,7 +4727,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5746,7 +5746,7 @@
       "305905": "2026-09-12T04:26:18.109918Z",
       "305933": "2026-09-14T04:26:43.889697Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "space-high-score": {
     "entries": [
@@ -6017,7 +6017,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7193,6 +7193,6 @@
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z"
     },
-    "last_checked": "2026-09-14T04:28:49.666907Z"
+    "last_checked": "2026-09-14T05:26:57.956977Z"
   }
 }
