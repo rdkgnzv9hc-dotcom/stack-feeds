@@ -840,7 +840,7 @@
       "227654": "2026-09-14T17:26:05.528585Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "history-high-score": {
     "entries": [
@@ -902,7 +902,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1173,7 +1173,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "law-high-score": {
     "entries": [
@@ -1185,7 +1185,7 @@
         "owner": "Dale M",
         "question_id": "115522",
         "question_title": "Would a CPA/accountant's duty not to steal extend to video games?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-11T15:41:34Z",
@@ -1195,7 +1195,7 @@
         "owner": "Jen",
         "question_id": "115514",
         "question_title": "Is it legal for Trump to offer $5000 to all US adults based on the outcome of the midterm elections",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-09-10T17:38:34Z",
@@ -1796,7 +1796,7 @@
       "115515": "2026-09-14T04:26:43.889697Z",
       "115523": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "math-high-score": {
     "entries": [
@@ -2419,7 +2419,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3897,7 +3897,7 @@
       "515215": "2026-09-14T15:30:23.000380Z",
       "515231": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4003,7 +4003,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4025,7 +4025,7 @@
         "owner": "liaifat85",
         "question_id": "875982",
         "question_title": "Would a bird get fried if it stood on a microwave-frequency power line?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-14T07:53:34Z",
@@ -4791,7 +4791,7 @@
       "875988": "2026-09-14T13:30:31.054978Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4820,7 +4820,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5850,7 +5850,7 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "space-high-score": {
     "entries": [
@@ -6121,7 +6121,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6133,7 +6133,7 @@
         "owner": "Klyis",
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-09-14T13:58:08Z",
@@ -7299,6 +7299,6 @@
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-15T11:27:01.324422Z"
+    "last_checked": "2026-09-15T12:32:32.086053Z"
   }
 }
