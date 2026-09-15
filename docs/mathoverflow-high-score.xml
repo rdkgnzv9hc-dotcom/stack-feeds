@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 23:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:35:31 +0000</lastBuildDate>
+    <item>
+      <title>What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515141</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515141</guid>
+      <pubDate>Tue, 15 Sep 2026 00:35:31 +0000</pubDate>
+      <description>Answer by a3nm. Score when last checked: 10. Originally posted: 2026-09-11T16:57:06Z.</description>
+    </item>
     <item>
       <title>Different publication model in the new era of AI generated math — answer reached score 10</title>
       <link>https://mathoverflow.net/a/515182</link>
@@ -21,11 +28,11 @@
       <description>Answer by Reid Barton. Score when last checked: 11. Originally posted: 2026-09-14T09:16:42Z.</description>
     </item>
     <item>
-      <title>Different publication model in the new era of AI generated math — answer reached score 16</title>
+      <title>Different publication model in the new era of AI generated math — answer reached score 17</title>
       <link>https://mathoverflow.net/a/515194</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515194</guid>
       <pubDate>Mon, 14 Sep 2026 12:34:04 +0000</pubDate>
-      <description>Answer by Piero D'Ancona. Score when last checked: 16. Originally posted: 2026-09-13T10:34:23Z.</description>
+      <description>Answer by Piero D'Ancona. Score when last checked: 17. Originally posted: 2026-09-13T10:34:23Z.</description>
     </item>
     <item>
       <title>How to write a grant application in 2026? — answer reached score 18</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:512901</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by darij grinberg. Score when last checked: 10. Originally posted: 2026-07-05T07:07:37Z.</description>
-    </item>
-    <item>
-      <title>Countinuous "refinement" of a function $f : [\omega]^\omega \to [\omega]^\omega$ — answer reached score 12</title>
-      <link>https://mathoverflow.net/a/512897</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:512897</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Joel David Hamkins. Score when last checked: 12. Originally posted: 2026-07-05T03:18:12Z.</description>
     </item>
   </channel>
 </rss>

@@ -829,7 +829,7 @@
       "227649": "2026-09-14T09:29:43.245557Z",
       "227654": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "history-high-score": {
     "entries": [
@@ -891,7 +891,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1162,7 +1162,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "law-high-score": {
     "entries": [
@@ -1785,7 +1785,7 @@
       "115515": "2026-09-14T04:26:43.889697Z",
       "115523": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "math-high-score": {
     "entries": [
@@ -2408,10 +2408,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-11T16:57:06Z",
+        "answer_id": "515141",
+        "first_seen": "2026-09-15T00:35:31.970399Z",
+        "link": "https://mathoverflow.net/a/515141",
+        "owner": "a3nm",
+        "question_id": "515058",
+        "question_title": "What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-13T01:46:23Z",
         "answer_id": "515182",
@@ -2440,7 +2450,7 @@
         "owner": "Piero D'Ancona",
         "question_id": "515180",
         "question_title": "Different publication model in the new era of AI generated math",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-13T07:14:30Z",
@@ -3401,16 +3411,6 @@
         "question_id": "512874",
         "question_title": "Due diligence in the age of AI: is this Laurent polynomial parity lemma in the literature?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-05T03:18:12Z",
-        "answer_id": "512897",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/512897",
-        "owner": "Joel David Hamkins",
-        "question_id": "512894",
-        "question_title": "Countinuous \"refinement\" of a function $f : [\\omega]^\\omega \\to [\\omega]^\\omega$",
-        "score": 12
       }
     ],
     "known": {
@@ -3877,6 +3877,7 @@
       "515089": "2026-09-11T17:43:24.207171Z",
       "515100": "2026-09-11T17:43:24.207171Z",
       "515128": "2026-09-11T17:43:24.207171Z",
+      "515141": "2026-09-15T00:35:31.970399Z",
       "515151": "2026-09-12T19:23:48.014355Z",
       "515161": "2026-09-14T04:26:43.889697Z",
       "515182": "2026-09-14T18:31:04.780121Z",
@@ -3884,7 +3885,7 @@
       "515194": "2026-09-14T12:34:04.948466Z",
       "515215": "2026-09-14T15:30:23.000380Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3990,10 +3991,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T02:50:31Z",
+        "answer_id": "875984",
+        "first_seen": "2026-09-15T00:35:31.970399Z",
+        "link": "https://physics.stackexchange.com/a/875984",
+        "owner": "liaifat85",
+        "question_id": "875982",
+        "question_title": "Would a bird get fried if it stood on a microwave-frequency power line?",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-14T07:53:34Z",
         "answer_id": "875988",
@@ -4002,7 +4013,7 @@
         "owner": "knzhou",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-14T05:28:32Z",
@@ -4012,7 +4023,7 @@
         "owner": "AccidentalFourierTransform",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-11T15:42:29Z",
@@ -4753,10 +4764,11 @@
       "875864": "2026-09-11T17:35:15.780317Z",
       "875874": "2026-09-11T19:25:07.689463Z",
       "875889": "2026-09-14T04:26:43.889697Z",
+      "875984": "2026-09-15T00:35:31.970399Z",
       "875985": "2026-09-14T11:28:09.042474Z",
       "875988": "2026-09-14T13:30:31.054978Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4785,7 +4797,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5815,7 +5827,7 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "space-high-score": {
     "entries": [
@@ -6086,7 +6098,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7264,6 +7276,6 @@
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-14T23:24:35.666640Z"
+    "last_checked": "2026-09-15T00:35:31.970399Z"
   }
 }
