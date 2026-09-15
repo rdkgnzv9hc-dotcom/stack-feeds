@@ -851,7 +851,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "history-high-score": {
     "entries": [
@@ -913,7 +913,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1184,7 +1184,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "law-high-score": {
     "entries": [
@@ -1818,7 +1818,7 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "math-high-score": {
     "entries": [
@@ -2441,7 +2441,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3921,7 +3921,7 @@
       "515224": "2026-09-15T17:24:52.402901Z",
       "515231": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4027,7 +4027,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4039,7 +4039,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4059,7 +4059,7 @@
         "owner": "knzhou",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-14T05:28:32Z",
@@ -4815,7 +4815,7 @@
       "875988": "2026-09-14T13:30:31.054978Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4844,7 +4844,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4856,7 +4856,7 @@
         "owner": "Mustapha Mond",
         "question_id": "305953",
         "question_title": "Early- to mid-1960s story with a theme of world-wide communications and the beginning of AI where machines \"wake up\"",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-13T23:23:11Z",
@@ -5896,7 +5896,7 @@
       "305943": "2026-09-15T19:25:38.845347Z",
       "305954": "2026-09-15T19:25:38.845347Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "space-high-score": {
     "entries": [
@@ -6167,7 +6167,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7346,6 +7346,6 @@
       "274550": "2026-09-14T17:26:05.528585Z",
       "274552": "2026-09-15T17:24:52.402901Z"
     },
-    "last_checked": "2026-09-15T22:26:05.180382Z"
+    "last_checked": "2026-09-15T23:24:45.850688Z"
   }
 }
