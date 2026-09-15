@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-14T19:59:59Z",
+        "answer_id": "227670",
+        "first_seen": "2026-09-15T08:30:56.873314Z",
+        "link": "https://academia.stackexchange.com/a/227670",
+        "owner": "user67527",
+        "question_id": "227666",
+        "question_title": "What to do when one of the main results of a PhD thesis is generalized?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-09-13T15:02:48Z",
         "answer_id": "227654",
         "first_seen": "2026-09-14T17:26:05.528585Z",
@@ -827,9 +837,10 @@
       "227638": "2026-09-11T17:35:15.780317Z",
       "227640": "2026-09-11T17:35:15.780317Z",
       "227649": "2026-09-14T09:29:43.245557Z",
-      "227654": "2026-09-14T17:26:05.528585Z"
+      "227654": "2026-09-14T17:26:05.528585Z",
+      "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "history-high-score": {
     "entries": [
@@ -891,7 +902,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1162,7 +1173,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "law-high-score": {
     "entries": [
@@ -1785,7 +1796,7 @@
       "115515": "2026-09-14T04:26:43.889697Z",
       "115523": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "math-high-score": {
     "entries": [
@@ -2408,10 +2419,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T19:30:10Z",
+        "answer_id": "515231",
+        "first_seen": "2026-09-15T08:30:56.873314Z",
+        "link": "https://mathoverflow.net/a/515231",
+        "owner": "R. van Dobben de Bruyn",
+        "question_id": "515213",
+        "question_title": "Presheaves on paracompact spaces for which the plus construction does not yield sheafification",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-11T16:57:06Z",
         "answer_id": "515141",
@@ -2450,7 +2471,7 @@
         "owner": "Piero D'Ancona",
         "question_id": "515180",
         "question_title": "Different publication model in the new era of AI generated math",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-13T07:14:30Z",
@@ -3401,16 +3422,6 @@
         "question_id": "512902",
         "question_title": "User friendly exposition of the theory of mixed Hodge modules",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-05T07:07:37Z",
-        "answer_id": "512901",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/512901",
-        "owner": "darij grinberg",
-        "question_id": "512874",
-        "question_title": "Due diligence in the age of AI: is this Laurent polynomial parity lemma in the literature?",
-        "score": 10
       }
     ],
     "known": {
@@ -3883,9 +3894,10 @@
       "515182": "2026-09-14T18:31:04.780121Z",
       "515189": "2026-09-14T04:26:43.889697Z",
       "515194": "2026-09-14T12:34:04.948466Z",
-      "515215": "2026-09-14T15:30:23.000380Z"
+      "515215": "2026-09-14T15:30:23.000380Z",
+      "515231": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -3991,7 +4003,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4013,7 +4025,7 @@
         "owner": "knzhou",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-14T05:28:32Z",
@@ -4023,7 +4035,7 @@
         "owner": "AccidentalFourierTransform",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-11T15:42:29Z",
@@ -4768,7 +4780,7 @@
       "875985": "2026-09-14T11:28:09.042474Z",
       "875988": "2026-09-14T13:30:31.054978Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4797,7 +4809,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5827,7 +5839,7 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "space-high-score": {
     "entries": [
@@ -6098,7 +6110,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6110,7 +6122,7 @@
         "owner": "Klyis",
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-09-14T13:58:08Z",
@@ -7276,6 +7288,6 @@
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-15T07:29:53.078984Z"
+    "last_checked": "2026-09-15T08:30:56.873314Z"
   }
 }
