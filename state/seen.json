@@ -9,7 +9,7 @@
         "owner": "user67527",
         "question_id": "227666",
         "question_title": "What to do when one of the main results of a PhD thesis is generalized?",
-        "score": 12
+        "score": 17
       },
       {
         "answer_created": "2026-09-13T15:02:48Z",
@@ -840,7 +840,7 @@
       "227654": "2026-09-14T17:26:05.528585Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "history-high-score": {
     "entries": [
@@ -902,7 +902,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1173,10 +1173,20 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-13T19:11:16Z",
+        "answer_id": "115527",
+        "first_seen": "2026-09-15T14:28:10.552329Z",
+        "link": "https://law.stackexchange.com/a/115527",
+        "owner": "Jen",
+        "question_id": "115525",
+        "question_title": "Delusional person makes accusations against somebody in front of their lawyer: Defamation?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-13T08:29:58Z",
         "answer_id": "115523",
@@ -1794,9 +1804,10 @@
       "115494": "2026-09-11T17:35:15.780317Z",
       "115510": "2026-09-11T17:35:15.780317Z",
       "115515": "2026-09-14T04:26:43.889697Z",
-      "115523": "2026-09-14T17:26:05.528585Z"
+      "115523": "2026-09-14T17:26:05.528585Z",
+      "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "math-high-score": {
     "entries": [
@@ -2419,7 +2430,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3897,7 +3908,7 @@
       "515215": "2026-09-14T15:30:23.000380Z",
       "515231": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4003,7 +4014,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4015,7 +4026,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 13
+        "score": 17
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4791,7 +4802,7 @@
       "875988": "2026-09-14T13:30:31.054978Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4820,7 +4831,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4832,7 +4843,7 @@
         "owner": "Henning Kockerbeck",
         "question_id": "305939",
         "question_title": "Why did French publishers of Marvel comics switch Wolverine's name back from \"Serval\" to \"Wolverine\" after the 1980s-90s?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-12T13:20:48Z",
@@ -5850,7 +5861,7 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "space-high-score": {
     "entries": [
@@ -6121,7 +6132,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6193,7 +6204,7 @@
         "owner": "JBH",
         "question_id": "274514",
         "question_title": "Hypothetically, how could someone be immediately killed by a radio tower?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-08T23:04:13Z",
@@ -6203,7 +6214,7 @@
         "owner": "jdunlop",
         "question_id": "274514",
         "question_title": "Hypothetically, how could someone be immediately killed by a radio tower?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-06T16:03:04Z",
@@ -7299,6 +7310,6 @@
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z"
     },
-    "last_checked": "2026-09-15T13:28:30.092368Z"
+    "last_checked": "2026-09-15T14:28:10.552329Z"
   }
 }
