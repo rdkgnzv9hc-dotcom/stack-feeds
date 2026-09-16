@@ -19,7 +19,7 @@
         "owner": "user67527",
         "question_id": "227666",
         "question_title": "What to do when one of the main results of a PhD thesis is generalized?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-09-13T15:02:48Z",
@@ -851,7 +851,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "history-high-score": {
     "entries": [
@@ -913,7 +913,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1184,7 +1184,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "law-high-score": {
     "entries": [
@@ -1818,7 +1818,7 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "math-high-score": {
     "entries": [
@@ -2441,7 +2441,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2523,7 +2523,7 @@
         "owner": "Piero D'Ancona",
         "question_id": "515180",
         "question_title": "Different publication model in the new era of AI generated math",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-13T07:14:30Z",
@@ -3922,7 +3922,7 @@
       "515224": "2026-09-15T17:24:52.402901Z",
       "515231": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4028,7 +4028,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4050,7 +4050,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4827,7 +4827,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4856,7 +4856,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4868,7 +4868,7 @@
         "owner": "Mustapha Mond",
         "question_id": "305953",
         "question_title": "Early- to mid-1960s story with a theme of world-wide communications and the beginning of AI where machines \"wake up\"",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-09-13T23:23:11Z",
@@ -5908,7 +5908,7 @@
       "305943": "2026-09-15T19:25:38.845347Z",
       "305954": "2026-09-15T19:25:38.845347Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "space-high-score": {
     "entries": [
@@ -6179,10 +6179,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T09:03:13Z",
+        "answer_id": "274548",
+        "first_seen": "2026-09-16T10:28:12.892929Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274548",
+        "owner": "bukwyrm",
+        "question_id": "274547",
+        "question_title": "How can a pre-industrial society fight underwater enemies?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-14T15:46:24Z",
         "answer_id": "274552",
@@ -7172,16 +7182,6 @@
         "question_id": "274029",
         "question_title": "Creating the perfect pathogen to bring about the near-extinction of humanity",
         "score": 17
-      },
-      {
-        "answer_created": "2026-07-14T06:48:36Z",
-        "answer_id": "274032",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274032",
-        "owner": "Monty Wild",
-        "question_id": "274029",
-        "question_title": "Creating the perfect pathogen to bring about the near-extinction of humanity",
-        "score": 5
       }
     ],
     "known": {
@@ -7354,10 +7354,11 @@
       "274522": "2026-09-11T17:35:15.780317Z",
       "274527": "2026-09-12T22:25:22.172190Z",
       "274532": "2026-09-12T19:23:48.014355Z",
+      "274548": "2026-09-16T10:28:12.892929Z",
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z",
       "274552": "2026-09-15T17:24:52.402901Z"
     },
-    "last_checked": "2026-09-16T09:27:32.485251Z"
+    "last_checked": "2026-09-16T10:28:12.892929Z"
   }
 }
