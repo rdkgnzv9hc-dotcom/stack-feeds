@@ -851,10 +851,20 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "history-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-15T12:52:58Z",
+        "answer_id": "80314",
+        "first_seen": "2026-09-16T15:27:16.600368Z",
+        "link": "https://history.stackexchange.com/a/80314",
+        "owner": "Alex",
+        "question_id": "80313",
+        "question_title": "Why did peasants go to work in factories in the early Industrial Revolution?",
+        "score": 16
+      },
       {
         "answer_created": "2026-09-02T19:45:19Z",
         "answer_id": "80276",
@@ -911,9 +921,10 @@
       "80214": "2026-09-11T17:35:15.780317Z",
       "80215": "2026-09-11T17:35:15.780317Z",
       "80223": "2026-09-11T17:35:15.780317Z",
-      "80276": "2026-09-11T17:35:15.780317Z"
+      "80276": "2026-09-11T17:35:15.780317Z",
+      "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1184,7 +1195,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "law-high-score": {
     "entries": [
@@ -1818,7 +1829,7 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "math-high-score": {
     "entries": [
@@ -2441,10 +2452,30 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-16T12:58:17Z",
+        "answer_id": "515291",
+        "first_seen": "2026-09-16T15:27:16.600368Z",
+        "link": "https://mathoverflow.net/a/515291",
+        "owner": "David White",
+        "question_id": "515282",
+        "question_title": "Are mathematicians engaging with AI results?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-09-15T18:47:40Z",
+        "answer_id": "515262",
+        "first_seen": "2026-09-16T15:27:16.600368Z",
+        "link": "https://mathoverflow.net/a/515262",
+        "owner": "Stanley Yao Xiao",
+        "question_id": "515260",
+        "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-15T21:27:56Z",
         "answer_id": "515268",
@@ -2453,7 +2484,7 @@
         "owner": "Tom Gannon",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-06T02:10:08Z",
@@ -3424,26 +3455,6 @@
         "question_id": "22078",
         "question_title": "Smooth linear algebraic groups over the dual numbers",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-10T06:03:47Z",
-        "answer_id": "513094",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513094",
-        "owner": "Alex Elzenaar",
-        "question_id": "513080",
-        "question_title": "Examples where numerical analysis led to advances in pure mathematics or theoretical physics",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-07-09T10:09:44Z",
-        "answer_id": "513061",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513061",
-        "owner": "Wojowu",
-        "question_id": "513056",
-        "question_title": "Collatz-like iterate: prime $n \\mapsto 1 + \\text{next prime}$, else cancel $n$'s $\\min \\text{factor} > 1$",
-        "score": 10
       }
     ],
     "known": {
@@ -3921,9 +3932,11 @@
       "515215": "2026-09-14T15:30:23.000380Z",
       "515224": "2026-09-15T17:24:52.402901Z",
       "515231": "2026-09-15T08:30:56.873314Z",
-      "515268": "2026-09-16T11:27:27.244711Z"
+      "515262": "2026-09-16T15:27:16.600368Z",
+      "515268": "2026-09-16T11:27:27.244711Z",
+      "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4029,7 +4042,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4051,7 +4064,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4061,7 +4074,7 @@
         "owner": "liaifat85",
         "question_id": "875982",
         "question_title": "Would a bird get fried if it stood on a microwave-frequency power line?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-14T07:53:34Z",
@@ -4828,7 +4841,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4857,7 +4870,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4869,7 +4882,7 @@
         "owner": "gowenfawr",
         "question_id": "305946",
         "question_title": "Does Newton make a pass at Daniel Waterhouse in Quicksilver?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-14T17:51:34Z",
@@ -4879,7 +4892,7 @@
         "owner": "Mustapha Mond",
         "question_id": "305953",
         "question_title": "Early- to mid-1960s story with a theme of world-wide communications and the beginning of AI where machines \"wake up\"",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-13T23:23:11Z",
@@ -4889,7 +4902,7 @@
         "owner": "LogicDictates",
         "question_id": "305940",
         "question_title": "What is the largest construct created by a Lantern?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-13T20:25:18Z",
@@ -5920,7 +5933,7 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "space-high-score": {
     "entries": [
@@ -6191,7 +6204,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6203,7 +6216,7 @@
         "owner": "jdunlop",
         "question_id": "274564",
         "question_title": "Would it be plausible for a gas and ice belt to shield a planet from radiation?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-14T09:03:13Z",
@@ -7372,6 +7385,6 @@
       "274552": "2026-09-15T17:24:52.402901Z",
       "274566": "2026-09-16T13:29:04.392403Z"
     },
-    "last_checked": "2026-09-16T14:27:58.453451Z"
+    "last_checked": "2026-09-16T15:27:16.600368Z"
   }
 }
