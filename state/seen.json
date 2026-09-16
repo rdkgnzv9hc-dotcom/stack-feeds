@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-13T22:36:10Z",
+        "answer_id": "227660",
+        "first_seen": "2026-09-16T16:27:25.249371Z",
+        "link": "https://academia.stackexchange.com/a/227660",
+        "owner": "Xander Henderson",
+        "question_id": "227652",
+        "question_title": "PhD in Math and Artificial Intelligence",
+        "score": 10
+      },
+      {
         "answer_created": "2026-09-14T18:58:59Z",
         "answer_id": "227667",
         "first_seen": "2026-09-15T17:24:52.402901Z",
@@ -29,7 +39,7 @@
         "owner": "Buffy",
         "question_id": "227652",
         "question_title": "PhD in Math and Artificial Intelligence",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-12T02:14:27Z",
@@ -848,10 +858,11 @@
       "227640": "2026-09-11T17:35:15.780317Z",
       "227649": "2026-09-14T09:29:43.245557Z",
       "227654": "2026-09-14T17:26:05.528585Z",
+      "227660": "2026-09-16T16:27:25.249371Z",
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "history-high-score": {
     "entries": [
@@ -924,7 +935,7 @@
       "80276": "2026-09-11T17:35:15.780317Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1195,7 +1206,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "law-high-score": {
     "entries": [
@@ -1829,7 +1840,7 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "math-high-score": {
     "entries": [
@@ -2452,7 +2463,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2464,7 +2475,7 @@
         "owner": "David White",
         "question_id": "515282",
         "question_title": "Are mathematicians engaging with AI results?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-09-15T18:47:40Z",
@@ -3936,7 +3947,7 @@
       "515268": "2026-09-16T11:27:27.244711Z",
       "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4042,7 +4053,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4841,7 +4852,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4870,7 +4881,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5933,7 +5944,7 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "space-high-score": {
     "entries": [
@@ -6204,10 +6215,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-16T12:46:10Z",
+        "answer_id": "274570",
+        "first_seen": "2026-09-16T16:27:25.249371Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274570",
+        "owner": "Gary Walker",
+        "question_id": "274569",
+        "question_title": "Merging Planets",
+        "score": 6
+      },
       {
         "answer_created": "2026-09-15T21:02:25Z",
         "answer_id": "274566",
@@ -7197,16 +7218,6 @@
         "question_id": "274046",
         "question_title": "Would a Niven Ring's increased surface area alter its habitable zone?",
         "score": 8
-      },
-      {
-        "answer_created": "2026-07-14T14:23:36Z",
-        "answer_id": "274036",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274036",
-        "owner": "Yakk",
-        "question_id": "274029",
-        "question_title": "Creating the perfect pathogen to bring about the near-extinction of humanity",
-        "score": 6
       }
     ],
     "known": {
@@ -7383,8 +7394,9 @@
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z",
       "274552": "2026-09-15T17:24:52.402901Z",
-      "274566": "2026-09-16T13:29:04.392403Z"
+      "274566": "2026-09-16T13:29:04.392403Z",
+      "274570": "2026-09-16T16:27:25.249371Z"
     },
-    "last_checked": "2026-09-16T15:27:16.600368Z"
+    "last_checked": "2026-09-16T16:27:25.249371Z"
   }
 }
