@@ -862,7 +862,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "history-high-score": {
     "entries": [
@@ -874,7 +874,7 @@
         "owner": "Alex",
         "question_id": "80313",
         "question_title": "Why did peasants go to work in factories in the early Industrial Revolution?",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-09-02T19:45:19Z",
@@ -935,7 +935,7 @@
       "80276": "2026-09-11T17:35:15.780317Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1206,7 +1206,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "law-high-score": {
     "entries": [
@@ -1851,7 +1851,7 @@
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "math-high-score": {
     "entries": [
@@ -2474,7 +2474,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2496,7 +2496,7 @@
         "owner": "David White",
         "question_id": "515282",
         "question_title": "Are mathematicians engaging with AI results?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-15T18:47:40Z",
@@ -2506,7 +2506,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-15T21:27:56Z",
@@ -3959,7 +3959,7 @@
       "515288": "2026-09-16T20:27:43.820626Z",
       "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4065,7 +4065,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4076,7 +4076,7 @@
         "link": "https://physics.stackexchange.com/a/875997",
         "owner": "Xerxes",
         "question_id": "875965",
-        "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
+        "question_title": "What are ways that AI is affecting physics similar to how it is affecting mathematics?",
         "score": 11
       },
       {
@@ -4087,7 +4087,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 32
+        "score": 33
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4106,7 +4106,7 @@
         "link": "https://physics.stackexchange.com/a/875988",
         "owner": "knzhou",
         "question_id": "875965",
-        "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
+        "question_title": "What are ways that AI is affecting physics similar to how it is affecting mathematics?",
         "score": 21
       },
       {
@@ -4116,7 +4116,7 @@
         "link": "https://physics.stackexchange.com/a/875985",
         "owner": "AccidentalFourierTransform",
         "question_id": "875965",
-        "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
+        "question_title": "What are ways that AI is affecting physics similar to how it is affecting mathematics?",
         "score": 25
       },
       {
@@ -4864,7 +4864,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4893,7 +4893,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4925,7 +4925,7 @@
         "owner": "LogicDictates",
         "question_id": "305940",
         "question_title": "What is the largest construct created by a Lantern?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-13T20:25:18Z",
@@ -5956,7 +5956,7 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "space-high-score": {
     "entries": [
@@ -6227,7 +6227,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6249,7 +6249,7 @@
         "owner": "jdunlop",
         "question_id": "274564",
         "question_title": "Would it be plausible for a gas and ice belt to shield a planet from radiation?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-09-14T09:03:13Z",
@@ -6269,7 +6269,7 @@
         "owner": "Navicula",
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-14T09:27:14Z",
@@ -7409,6 +7409,6 @@
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z"
     },
-    "last_checked": "2026-09-16T20:27:43.820626Z"
+    "last_checked": "2026-09-16T21:26:57.973684Z"
   }
 }
