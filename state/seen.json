@@ -851,7 +851,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "history-high-score": {
     "entries": [
@@ -913,7 +913,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1184,7 +1184,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "law-high-score": {
     "entries": [
@@ -1818,7 +1818,7 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "math-high-score": {
     "entries": [
@@ -2441,10 +2441,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-06T02:10:08Z",
+        "answer_id": "514954",
+        "first_seen": "2026-09-16T00:33:10.119686Z",
+        "link": "https://mathoverflow.net/a/514954",
+        "owner": "Fedor Petrov",
+        "question_id": "514946",
+        "question_title": "Ratio of number of standard Young tableaux of two certain shapes",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-14T13:59:54Z",
         "answer_id": "515224",
@@ -2513,7 +2523,7 @@
         "owner": "Piero D'Ancona",
         "question_id": "515180",
         "question_title": "Different publication model in the new era of AI generated math",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-13T07:14:30Z",
@@ -3434,16 +3444,6 @@
         "question_id": "511585",
         "question_title": "What is the current status of Lee and Li's $10/8$-conjecture in $4$-manifold topology?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-07T10:27:28Z",
-        "answer_id": "512986",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/512986",
-        "owner": "Ivan Meir",
-        "question_id": "512890",
-        "question_title": "Cubic analogue of Euler's four squares identity",
-        "score": 10
       }
     ],
     "known": {
@@ -3887,6 +3887,7 @@
       "514939": "2026-09-11T16:35:49.698347Z",
       "514943": "2026-09-11T17:43:24.207171Z",
       "514953": "2026-09-11T16:35:49.698347Z",
+      "514954": "2026-09-16T00:33:10.119686Z",
       "514965": "2026-09-11T17:43:24.207171Z",
       "514969": "2026-09-11T17:43:24.207171Z",
       "514970": "2026-09-11T17:43:24.207171Z",
@@ -3921,7 +3922,7 @@
       "515224": "2026-09-15T17:24:52.402901Z",
       "515231": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4027,10 +4028,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T13:58:39Z",
+        "answer_id": "875997",
+        "first_seen": "2026-09-16T00:33:10.119686Z",
+        "link": "https://physics.stackexchange.com/a/875997",
+        "owner": "Xerxes",
+        "question_id": "875965",
+        "question_title": "What are ways that AI is affecting Physics similar to how it is affecting Mathematics?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-14T18:39:34Z",
         "answer_id": "876014",
@@ -4813,9 +4824,10 @@
       "875984": "2026-09-15T00:35:31.970399Z",
       "875985": "2026-09-14T11:28:09.042474Z",
       "875988": "2026-09-14T13:30:31.054978Z",
+      "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4844,7 +4856,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5896,7 +5908,7 @@
       "305943": "2026-09-15T19:25:38.845347Z",
       "305954": "2026-09-15T19:25:38.845347Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "space-high-score": {
     "entries": [
@@ -5928,7 +5940,7 @@
         "owner": "0xDBFB7",
         "question_id": "70692",
         "question_title": "Is this type of orbital transformation possible?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-08-28T02:27:42Z",
@@ -6167,7 +6179,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7346,6 +7358,6 @@
       "274550": "2026-09-14T17:26:05.528585Z",
       "274552": "2026-09-15T17:24:52.402901Z"
     },
-    "last_checked": "2026-09-15T23:24:45.850688Z"
+    "last_checked": "2026-09-16T00:33:10.119686Z"
   }
 }
