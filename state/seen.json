@@ -851,7 +851,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "history-high-score": {
     "entries": [
@@ -913,7 +913,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1184,7 +1184,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "law-high-score": {
     "entries": [
@@ -1818,7 +1818,7 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "math-high-score": {
     "entries": [
@@ -2441,7 +2441,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2453,7 +2453,7 @@
         "owner": "Tom Gannon",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-06T02:10:08Z",
@@ -3923,7 +3923,7 @@
       "515231": "2026-09-15T08:30:56.873314Z",
       "515268": "2026-09-16T11:27:27.244711Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4029,7 +4029,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4051,7 +4051,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4828,7 +4828,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4857,7 +4857,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5909,7 +5909,7 @@
       "305943": "2026-09-15T19:25:38.845347Z",
       "305954": "2026-09-15T19:25:38.845347Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "space-high-score": {
     "entries": [
@@ -6180,10 +6180,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-15T21:02:25Z",
+        "answer_id": "274566",
+        "first_seen": "2026-09-16T13:29:04.392403Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274566",
+        "owner": "jdunlop",
+        "question_id": "274564",
+        "question_title": "Would it be plausible for a gas and ice belt to shield a planet from radiation?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-14T09:03:13Z",
         "answer_id": "274548",
@@ -7173,16 +7183,6 @@
         "question_id": "274029",
         "question_title": "Creating the perfect pathogen to bring about the near-extinction of humanity",
         "score": 6
-      },
-      {
-        "answer_created": "2026-07-14T12:08:21Z",
-        "answer_id": "274034",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274034",
-        "owner": "vinzzz001",
-        "question_id": "274029",
-        "question_title": "Creating the perfect pathogen to bring about the near-extinction of humanity",
-        "score": 17
       }
     ],
     "known": {
@@ -7358,8 +7358,9 @@
       "274548": "2026-09-16T10:28:12.892929Z",
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z",
-      "274552": "2026-09-15T17:24:52.402901Z"
+      "274552": "2026-09-15T17:24:52.402901Z",
+      "274566": "2026-09-16T13:29:04.392403Z"
     },
-    "last_checked": "2026-09-16T12:33:32.244223Z"
+    "last_checked": "2026-09-16T13:29:04.392403Z"
   }
 }
