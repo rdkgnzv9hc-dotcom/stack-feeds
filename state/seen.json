@@ -862,7 +862,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "history-high-score": {
     "entries": [
@@ -935,7 +935,7 @@
       "80276": "2026-09-11T17:35:15.780317Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1206,10 +1206,20 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-15T07:55:04Z",
+        "answer_id": "115539",
+        "first_seen": "2026-09-16T17:25:23.779822Z",
+        "link": "https://law.stackexchange.com/a/115539",
+        "owner": "Arno",
+        "question_id": "115538",
+        "question_title": "Is it legal to sell cosplay material without license?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-13T19:11:16Z",
         "answer_id": "115527",
@@ -1838,9 +1848,10 @@
       "115510": "2026-09-11T17:35:15.780317Z",
       "115515": "2026-09-14T04:26:43.889697Z",
       "115523": "2026-09-14T17:26:05.528585Z",
-      "115527": "2026-09-15T14:28:10.552329Z"
+      "115527": "2026-09-15T14:28:10.552329Z",
+      "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "math-high-score": {
     "entries": [
@@ -2463,7 +2474,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2475,7 +2486,7 @@
         "owner": "David White",
         "question_id": "515282",
         "question_title": "Are mathematicians engaging with AI results?",
-        "score": 13
+        "score": 16
       },
       {
         "answer_created": "2026-09-15T18:47:40Z",
@@ -2495,7 +2506,7 @@
         "owner": "Tom Gannon",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-06T02:10:08Z",
@@ -3947,7 +3958,7 @@
       "515268": "2026-09-16T11:27:27.244711Z",
       "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4053,7 +4064,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4852,7 +4863,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4881,7 +4892,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4923,7 +4934,7 @@
         "owner": "Henning Kockerbeck",
         "question_id": "305939",
         "question_title": "Why did French publishers of Marvel comics switch Wolverine's name back from \"Serval\" to \"Wolverine\" after the 1980s-90s?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-12T13:20:48Z",
@@ -5944,7 +5955,7 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "space-high-score": {
     "entries": [
@@ -6215,7 +6226,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6237,7 +6248,7 @@
         "owner": "jdunlop",
         "question_id": "274564",
         "question_title": "Would it be plausible for a gas and ice belt to shield a planet from radiation?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-14T09:03:13Z",
@@ -7397,6 +7408,6 @@
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z"
     },
-    "last_checked": "2026-09-16T16:27:25.249371Z"
+    "last_checked": "2026-09-16T17:25:23.779822Z"
   }
 }
