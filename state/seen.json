@@ -851,7 +851,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "history-high-score": {
     "entries": [
@@ -913,7 +913,7 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1184,7 +1184,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "law-high-score": {
     "entries": [
@@ -1818,7 +1818,7 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "math-high-score": {
     "entries": [
@@ -2441,7 +2441,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3923,7 +3923,7 @@
       "515231": "2026-09-15T08:30:56.873314Z",
       "515268": "2026-09-16T11:27:27.244711Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4029,7 +4029,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4051,7 +4051,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 28
+        "score": 30
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4828,7 +4828,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4857,10 +4857,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T23:28:41Z",
+        "answer_id": "305956",
+        "first_seen": "2026-09-16T14:27:58.453451Z",
+        "link": "https://scifi.stackexchange.com/a/305956",
+        "owner": "gowenfawr",
+        "question_id": "305946",
+        "question_title": "Does Newton make a pass at Daniel Waterhouse in Quicksilver?",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-14T17:51:34Z",
         "answer_id": "305954",
@@ -4869,7 +4879,7 @@
         "owner": "Mustapha Mond",
         "question_id": "305953",
         "question_title": "Early- to mid-1960s story with a theme of world-wide communications and the beginning of AI where machines \"wake up\"",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-13T23:23:11Z",
@@ -4889,7 +4899,7 @@
         "owner": "Henning Kockerbeck",
         "question_id": "305939",
         "question_title": "Why did French publishers of Marvel comics switch Wolverine's name back from \"Serval\" to \"Wolverine\" after the 1980s-90s?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-12T13:20:48Z",
@@ -5907,9 +5917,10 @@
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z",
       "305943": "2026-09-15T19:25:38.845347Z",
-      "305954": "2026-09-15T19:25:38.845347Z"
+      "305954": "2026-09-15T19:25:38.845347Z",
+      "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "space-high-score": {
     "entries": [
@@ -6180,7 +6191,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7361,6 +7372,6 @@
       "274552": "2026-09-15T17:24:52.402901Z",
       "274566": "2026-09-16T13:29:04.392403Z"
     },
-    "last_checked": "2026-09-16T13:29:04.392403Z"
+    "last_checked": "2026-09-16T14:27:58.453451Z"
   }
 }
