@@ -862,10 +862,20 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "history-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T14:36:57Z",
+        "answer_id": "80310",
+        "first_seen": "2026-09-17T05:26:41.845016Z",
+        "link": "https://history.stackexchange.com/a/80310",
+        "owner": "Dario Quint",
+        "question_id": "80308",
+        "question_title": "Was it normal in the 18th century to invest in the stocks of companies that transported slaves?",
+        "score": 15
+      },
       {
         "answer_created": "2026-09-15T12:52:58Z",
         "answer_id": "80314",
@@ -933,9 +943,10 @@
       "80215": "2026-09-11T17:35:15.780317Z",
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z",
+      "80310": "2026-09-17T05:26:41.845016Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1206,7 +1217,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "law-high-score": {
     "entries": [
@@ -1851,7 +1862,7 @@
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "math-high-score": {
     "entries": [
@@ -2474,7 +2485,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2506,7 +2517,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-15T21:27:56Z",
@@ -2596,7 +2607,7 @@
         "owner": "Piero D'Ancona",
         "question_id": "515180",
         "question_title": "Different publication model in the new era of AI generated math",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-13T07:14:30Z",
@@ -3959,7 +3970,7 @@
       "515288": "2026-09-16T20:27:43.820626Z",
       "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4065,7 +4076,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4087,7 +4098,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 34
+        "score": 36
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4864,7 +4875,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4893,7 +4904,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5956,7 +5967,7 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "space-high-score": {
     "entries": [
@@ -6227,7 +6238,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7410,6 +7421,6 @@
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z"
     },
-    "last_checked": "2026-09-17T04:28:09.418090Z"
+    "last_checked": "2026-09-17T05:26:41.845016Z"
   }
 }
