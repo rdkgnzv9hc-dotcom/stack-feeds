@@ -19,7 +19,7 @@
         "owner": "pyrochlor",
         "question_id": "227666",
         "question_title": "What to do when one of the main results of a PhD thesis is generalized?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-14T19:59:59Z",
@@ -29,7 +29,7 @@
         "owner": "user67527",
         "question_id": "227666",
         "question_title": "What to do when one of the main results of a PhD thesis is generalized?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-13T15:02:48Z",
@@ -862,7 +862,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "history-high-score": {
     "entries": [
@@ -946,7 +946,7 @@
       "80310": "2026-09-17T05:26:41.845016Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1217,7 +1217,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "law-high-score": {
     "entries": [
@@ -1862,7 +1862,7 @@
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "math-high-score": {
     "entries": [
@@ -2485,10 +2485,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-08T18:11:58Z",
+        "answer_id": "515051",
+        "first_seen": "2026-09-17T11:26:29.864869Z",
+        "link": "https://mathoverflow.net/a/515051",
+        "owner": "Paul Siegel",
+        "question_id": "515026",
+        "question_title": "AI and training PhD students",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-16T10:46:52Z",
         "answer_id": "515288",
@@ -3478,16 +3488,6 @@
         "question_id": "513080",
         "question_title": "Examples where numerical analysis led to advances in pure mathematics or theoretical physics",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-10T13:23:09Z",
-        "answer_id": "513103",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513103",
-        "owner": "Ayman Moussa",
-        "question_id": "513080",
-        "question_title": "Examples where numerical analysis led to advances in pure mathematics or theoretical physics",
-        "score": 12
       }
     ],
     "known": {
@@ -3948,6 +3948,7 @@
       "515035": "2026-09-11T16:35:49.698347Z",
       "515037": "2026-09-11T16:35:49.698347Z",
       "515049": "2026-09-11T16:35:49.698347Z",
+      "515051": "2026-09-17T11:26:29.864869Z",
       "515052": "2026-09-11T16:35:49.698347Z",
       "515063": "2026-09-11T16:35:49.698347Z",
       "515066": "2026-09-11T16:35:49.698347Z",
@@ -3970,7 +3971,7 @@
       "515288": "2026-09-16T20:27:43.820626Z",
       "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4076,7 +4077,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4108,7 +4109,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 38
+        "score": 39
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4886,7 +4887,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4915,7 +4916,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5978,7 +5979,7 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "space-high-score": {
     "entries": [
@@ -6249,7 +6250,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6271,7 +6272,7 @@
         "owner": "Gary Walker",
         "question_id": "274569",
         "question_title": "Merging Planets",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-09-15T21:02:25Z",
@@ -7432,6 +7433,6 @@
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z"
     },
-    "last_checked": "2026-09-17T10:27:20.133901Z"
+    "last_checked": "2026-09-17T11:26:29.864869Z"
   }
 }
