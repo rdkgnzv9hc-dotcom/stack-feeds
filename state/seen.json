@@ -49,7 +49,7 @@
         "owner": "user67527",
         "question_id": "227666",
         "question_title": "What to do when one of the main results of a PhD thesis is generalized?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-09-13T15:02:48Z",
@@ -884,7 +884,7 @@
       "227689": "2026-09-17T13:28:28.479995Z",
       "227694": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "history-high-score": {
     "entries": [
@@ -896,7 +896,7 @@
         "owner": "Dario Quint",
         "question_id": "80308",
         "question_title": "Was it normal in the 18th century to invest in the stocks of companies that transported slaves?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-15T12:52:58Z",
@@ -968,7 +968,7 @@
       "80310": "2026-09-17T05:26:41.845016Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1239,7 +1239,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "law-high-score": {
     "entries": [
@@ -1884,7 +1884,7 @@
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "math-high-score": {
     "entries": [
@@ -2507,10 +2507,30 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-16T19:38:55Z",
+        "answer_id": "515301",
+        "first_seen": "2026-09-17T20:27:27.685506Z",
+        "link": "https://mathoverflow.net/a/515301",
+        "owner": "JF Meier",
+        "question_id": "515260",
+        "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-09-15T23:27:58Z",
+        "answer_id": "515273",
+        "first_seen": "2026-09-17T20:27:27.685506Z",
+        "link": "https://mathoverflow.net/a/515273",
+        "owner": "David White",
+        "question_id": "515137",
+        "question_title": "What are the mathematical implications of the claimed solution of the Navier\u2013Stokes Millennium Problem?",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-08T18:11:58Z",
         "answer_id": "515051",
@@ -2539,7 +2559,7 @@
         "owner": "David White",
         "question_id": "515282",
         "question_title": "Are mathematicians engaging with AI results?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-15T18:47:40Z",
@@ -3490,26 +3510,6 @@
         "question_id": "434771",
         "question_title": "Is the dodecahedron flexible (as a polytope with fixed edge-lengths)?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-12T22:36:45Z",
-        "answer_id": "513190",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513190",
-        "owner": "Achim Krause",
-        "question_id": "513188",
-        "question_title": "Hypersheaves vs $\\infty$-topos",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-07-10T14:49:27Z",
-        "answer_id": "513108",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513108",
-        "owner": "Sophie M",
-        "question_id": "513080",
-        "question_title": "Examples where numerical analysis led to advances in pure mathematics or theoretical physics",
-        "score": 11
       }
     ],
     "known": {
@@ -3990,10 +3990,12 @@
       "515231": "2026-09-15T08:30:56.873314Z",
       "515262": "2026-09-16T15:27:16.600368Z",
       "515268": "2026-09-16T11:27:27.244711Z",
+      "515273": "2026-09-17T20:27:27.685506Z",
       "515288": "2026-09-16T20:27:43.820626Z",
-      "515291": "2026-09-16T15:27:16.600368Z"
+      "515291": "2026-09-16T15:27:16.600368Z",
+      "515301": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4099,7 +4101,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4151,7 +4153,7 @@
         "owner": "knzhou",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting physics similar to how it is affecting mathematics?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-14T05:28:32Z",
@@ -4909,7 +4911,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4938,7 +4940,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4950,7 +4952,7 @@
         "owner": "Rand al'Thor",
         "question_id": "305972",
         "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-09-17T08:59:08Z",
@@ -6023,7 +6025,7 @@
       "305975": "2026-09-17T12:33:23.825482Z",
       "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "space-high-score": {
     "entries": [
@@ -6294,10 +6296,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-16T20:43:00Z",
+        "answer_id": "274576",
+        "first_seen": "2026-09-17T20:27:27.685506Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274576",
+        "owner": "Trish",
+        "question_id": "274569",
+        "question_title": "Merging Planets",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-14T14:24:43Z",
         "answer_id": "274551",
@@ -6316,7 +6328,7 @@
         "owner": "Gary Walker",
         "question_id": "274569",
         "question_title": "Merging Planets",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-15T21:02:25Z",
@@ -7287,16 +7299,6 @@
         "question_id": "274057",
         "question_title": "Why would an organ black market still exist even with the existence of a reliable white market?",
         "score": 15
-      },
-      {
-        "answer_created": "2026-07-16T04:45:50Z",
-        "answer_id": "274058",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274058",
-        "owner": "L.Dutch",
-        "question_id": "274057",
-        "question_title": "Why would an organ black market still exist even with the existence of a reliable white market?",
-        "score": 13
       }
     ],
     "known": {
@@ -7475,8 +7477,9 @@
       "274551": "2026-09-17T01:26:51.022201Z",
       "274552": "2026-09-15T17:24:52.402901Z",
       "274566": "2026-09-16T13:29:04.392403Z",
-      "274570": "2026-09-16T16:27:25.249371Z"
+      "274570": "2026-09-16T16:27:25.249371Z",
+      "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-17T19:25:06.115544Z"
+    "last_checked": "2026-09-17T20:27:27.685506Z"
   }
 }
