@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-16T16:55:44Z",
+        "answer_id": "227694",
+        "first_seen": "2026-09-17T12:33:23.825482Z",
+        "link": "https://academia.stackexchange.com/a/227694",
+        "owner": "Finncent Price",
+        "question_id": "227691",
+        "question_title": "How can I publish research based on an idea from a collaborator who has left the project?",
+        "score": 11
+      },
+      {
         "answer_created": "2026-09-13T22:36:10Z",
         "answer_id": "227660",
         "first_seen": "2026-09-16T16:27:25.249371Z",
@@ -860,9 +870,10 @@
       "227654": "2026-09-14T17:26:05.528585Z",
       "227660": "2026-09-16T16:27:25.249371Z",
       "227667": "2026-09-15T17:24:52.402901Z",
-      "227670": "2026-09-15T08:30:56.873314Z"
+      "227670": "2026-09-15T08:30:56.873314Z",
+      "227694": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "history-high-score": {
     "entries": [
@@ -874,7 +885,7 @@
         "owner": "Dario Quint",
         "question_id": "80308",
         "question_title": "Was it normal in the 18th century to invest in the stocks of companies that transported slaves?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-15T12:52:58Z",
@@ -946,7 +957,7 @@
       "80310": "2026-09-17T05:26:41.845016Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1217,7 +1228,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "law-high-score": {
     "entries": [
@@ -1862,7 +1873,7 @@
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "math-high-score": {
     "entries": [
@@ -2485,7 +2496,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2527,7 +2538,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-15T21:27:56Z",
@@ -3971,7 +3982,7 @@
       "515288": "2026-09-16T20:27:43.820626Z",
       "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4077,7 +4088,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4109,7 +4120,7 @@
         "owner": "rob",
         "question_id": "876009",
         "question_title": "Why is GPS proof of Special Relativity?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-09-14T02:50:31Z",
@@ -4887,7 +4898,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4916,10 +4927,30 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-17T09:04:11Z",
+        "answer_id": "305976",
+        "first_seen": "2026-09-17T12:33:23.825482Z",
+        "link": "https://scifi.stackexchange.com/a/305976",
+        "owner": "Rand al'Thor",
+        "question_id": "305972",
+        "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
+        "score": 13
+      },
+      {
+        "answer_created": "2026-09-17T08:59:08Z",
+        "answer_id": "305975",
+        "first_seen": "2026-09-17T12:33:23.825482Z",
+        "link": "https://scifi.stackexchange.com/a/305975",
+        "owner": "Michael",
+        "question_id": "305972",
+        "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-14T23:28:41Z",
         "answer_id": "305956",
@@ -4938,7 +4969,7 @@
         "owner": "Mustapha Mond",
         "question_id": "305953",
         "question_title": "Early- to mid-1960s story with a theme of world-wide communications and the beginning of AI where machines \"wake up\"",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-13T23:23:11Z",
@@ -4958,7 +4989,7 @@
         "owner": "Henning Kockerbeck",
         "question_id": "305939",
         "question_title": "Why did French publishers of Marvel comics switch Wolverine's name back from \"Serval\" to \"Wolverine\" after the 1980s-90s?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-09-12T13:20:48Z",
@@ -5977,9 +6008,11 @@
       "305941": "2026-09-14T12:34:04.948466Z",
       "305943": "2026-09-15T19:25:38.845347Z",
       "305954": "2026-09-15T19:25:38.845347Z",
-      "305956": "2026-09-16T14:27:58.453451Z"
+      "305956": "2026-09-16T14:27:58.453451Z",
+      "305975": "2026-09-17T12:33:23.825482Z",
+      "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "space-high-score": {
     "entries": [
@@ -6250,7 +6283,7 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7433,6 +7466,6 @@
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z"
     },
-    "last_checked": "2026-09-17T11:26:29.864869Z"
+    "last_checked": "2026-09-17T12:33:23.825482Z"
   }
 }
