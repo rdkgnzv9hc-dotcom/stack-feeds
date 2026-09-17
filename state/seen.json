@@ -862,7 +862,7 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "history-high-score": {
     "entries": [
@@ -935,7 +935,7 @@
       "80276": "2026-09-11T17:35:15.780317Z",
       "80314": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1206,7 +1206,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "law-high-score": {
     "entries": [
@@ -1851,7 +1851,7 @@
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "math-high-score": {
     "entries": [
@@ -2474,7 +2474,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2516,7 +2516,7 @@
         "owner": "Tom Gannon",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-06T02:10:08Z",
@@ -3959,7 +3959,7 @@
       "515288": "2026-09-16T20:27:43.820626Z",
       "515291": "2026-09-16T15:27:16.600368Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4065,7 +4065,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4864,7 +4864,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4893,7 +4893,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5956,7 +5956,7 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "space-high-score": {
     "entries": [
@@ -6227,10 +6227,20 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-14T14:24:43Z",
+        "answer_id": "274551",
+        "first_seen": "2026-09-17T01:26:51.022201Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274551",
+        "owner": "Monty Wild",
+        "question_id": "274547",
+        "question_title": "How can a pre-industrial society fight underwater enemies?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-16T12:46:10Z",
         "answer_id": "274570",
@@ -6289,7 +6299,7 @@
         "owner": "Nosajimiki",
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-09-09T21:32:42Z",
@@ -7220,16 +7230,6 @@
         "question_id": "274057",
         "question_title": "Why would an organ black market still exist even with the existence of a reliable white market?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-07-15T05:29:09Z",
-        "answer_id": "274049",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274049",
-        "owner": "L.Dutch",
-        "question_id": "274046",
-        "question_title": "Would a Niven Ring's increased surface area alter its habitable zone?",
-        "score": 8
       }
     ],
     "known": {
@@ -7405,10 +7405,11 @@
       "274548": "2026-09-16T10:28:12.892929Z",
       "274549": "2026-09-14T19:27:52.957855Z",
       "274550": "2026-09-14T17:26:05.528585Z",
+      "274551": "2026-09-17T01:26:51.022201Z",
       "274552": "2026-09-15T17:24:52.402901Z",
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z"
     },
-    "last_checked": "2026-09-17T00:33:48.534747Z"
+    "last_checked": "2026-09-17T01:26:51.022201Z"
   }
 }
