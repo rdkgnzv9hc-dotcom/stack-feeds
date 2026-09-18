@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "law-high-score": {
     "entries": [
@@ -1928,7 +1928,7 @@
       "115539": "2026-09-16T17:25:23.779822Z",
       "115558": "2026-09-18T14:27:00.518212Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "math-high-score": {
     "entries": [
@@ -2551,10 +2551,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-11T10:59:51Z",
+        "answer_id": "515135",
+        "first_seen": "2026-09-18T17:23:52.609654Z",
+        "link": "https://mathoverflow.net/a/515135",
+        "owner": "Bogdan Grechuk",
+        "question_id": "502120",
+        "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-16T19:38:55Z",
         "answer_id": "515301",
@@ -2563,7 +2573,7 @@
         "owner": "JF Meier",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-15T23:27:58Z",
@@ -2573,7 +2583,7 @@
         "owner": "David White",
         "question_id": "515137",
         "question_title": "What are the mathematical implications of the claimed solution of the Navier\u2013Stokes Millennium Problem?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-08T18:11:58Z",
@@ -2613,7 +2623,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-15T21:27:56Z",
@@ -3093,7 +3103,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "502120",
         "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-08-13T00:04:43Z",
@@ -3544,16 +3554,6 @@
         "question_id": "215882",
         "question_title": "Definition of \"immersion\" of schemes (without open or closed)",
         "score": 13
-      },
-      {
-        "answer_created": "2026-07-13T09:55:36Z",
-        "answer_id": "513195",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513195",
-        "owner": "M. Winter",
-        "question_id": "434771",
-        "question_title": "Is the dodecahedron flexible (as a polytope with fixed edge-lengths)?",
-        "score": 12
       }
     ],
     "known": {
@@ -4023,6 +4023,7 @@
       "515100": "2026-09-11T17:43:24.207171Z",
       "515128": "2026-09-11T17:43:24.207171Z",
       "515129": "2026-09-15T17:24:52.402901Z",
+      "515135": "2026-09-18T17:23:52.609654Z",
       "515141": "2026-09-15T00:35:31.970399Z",
       "515151": "2026-09-12T19:23:48.014355Z",
       "515161": "2026-09-14T04:26:43.889697Z",
@@ -4039,7 +4040,7 @@
       "515291": "2026-09-16T15:27:16.600368Z",
       "515301": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4145,7 +4146,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4955,7 +4956,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4984,7 +4985,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6069,7 +6070,7 @@
       "305975": "2026-09-17T12:33:23.825482Z",
       "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "space-high-score": {
     "entries": [
@@ -6351,7 +6352,7 @@
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7535,6 +7536,6 @@
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T16:25:59.635512Z"
+    "last_checked": "2026-09-18T17:23:52.609654Z"
   }
 }
