@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "law-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
         "owner": "Jen",
         "question_id": "115557",
         "question_title": "Would explicitly acknowledging that I chose not to read the Terms and Conditions make them more enforceable?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-15T07:55:04Z",
@@ -1928,7 +1928,7 @@
       "115539": "2026-09-16T17:25:23.779822Z",
       "115558": "2026-09-18T14:27:00.518212Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "math-high-score": {
     "entries": [
@@ -2551,7 +2551,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2643,7 +2643,7 @@
         "owner": "Tom Gannon",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-06T02:10:08Z",
@@ -3163,7 +3163,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "514181",
         "question_title": "What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one\u2019s area of expertise",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-08-11T13:34:47Z",
@@ -4041,7 +4041,7 @@
       "515291": "2026-09-16T15:27:16.600368Z",
       "515301": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4147,7 +4147,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4957,7 +4957,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4986,7 +4986,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6071,7 +6071,7 @@
       "305975": "2026-09-17T12:33:23.825482Z",
       "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "space-high-score": {
     "entries": [
@@ -6083,7 +6083,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70705",
         "question_title": "How do new spacecraft navigate around debris in space and what are other provisions to mitigate the risk of collision[s]",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-07T21:35:59Z",
@@ -6353,7 +6353,7 @@
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7537,6 +7537,6 @@
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T18:28:39.612089Z"
+    "last_checked": "2026-09-18T19:24:43.521580Z"
   }
 }
