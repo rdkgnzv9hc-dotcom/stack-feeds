@@ -9,7 +9,7 @@
         "owner": "deee",
         "question_id": "227686",
         "question_title": "How Can Universities Detect AI-Generated Statements of Purpose and Recommendation Letters?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-16T16:55:44Z",
@@ -884,10 +884,20 @@
       "227689": "2026-09-17T13:28:28.479995Z",
       "227694": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "history-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-16T00:41:29Z",
+        "answer_id": "80316",
+        "first_seen": "2026-09-18T13:26:21.823374Z",
+        "link": "https://history.stackexchange.com/a/80316",
+        "owner": "SPavel",
+        "question_id": "80315",
+        "question_title": "In 1972, why did the Chinese secretly salvage a British submarine launched 44 years prior in 1929?",
+        "score": 15
+      },
       {
         "answer_created": "2026-09-14T14:36:57Z",
         "answer_id": "80310",
@@ -966,9 +976,10 @@
       "80223": "2026-09-11T17:35:15.780317Z",
       "80276": "2026-09-11T17:35:15.780317Z",
       "80310": "2026-09-17T05:26:41.845016Z",
-      "80314": "2026-09-16T15:27:16.600368Z"
+      "80314": "2026-09-16T15:27:16.600368Z",
+      "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1239,7 +1250,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "law-high-score": {
     "entries": [
@@ -1251,7 +1262,7 @@
         "owner": "Arno",
         "question_id": "115538",
         "question_title": "Is it legal to sell cosplay material without license?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-13T19:11:16Z",
@@ -1884,7 +1895,7 @@
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "math-high-score": {
     "entries": [
@@ -2507,7 +2518,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3995,7 +4006,7 @@
       "515291": "2026-09-16T15:27:16.600368Z",
       "515301": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4101,7 +4112,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4911,7 +4922,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4940,7 +4951,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -4952,7 +4963,7 @@
         "owner": "Rand al'Thor",
         "question_id": "305972",
         "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
-        "score": 38
+        "score": 42
       },
       {
         "answer_created": "2026-09-17T08:59:08Z",
@@ -4962,7 +4973,7 @@
         "owner": "Michael",
         "question_id": "305972",
         "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
-        "score": 23
+        "score": 26
       },
       {
         "answer_created": "2026-09-14T23:28:41Z",
@@ -6025,10 +6036,20 @@
       "305975": "2026-09-17T12:33:23.825482Z",
       "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-17T14:23:20Z",
+        "answer_id": "70707",
+        "first_seen": "2026-09-18T13:26:21.823374Z",
+        "link": "https://space.stackexchange.com/a/70707",
+        "owner": "Darth Pseudonym",
+        "question_id": "70705",
+        "question_title": "How do new spacecraft navigate around debris in space and what are other provisions to mitigate the risk of collision[s]",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-07T21:35:59Z",
         "answer_id": "70697",
@@ -6294,9 +6315,10 @@
       "70686": "2026-09-11T17:35:15.780317Z",
       "70693": "2026-09-11T17:35:15.780317Z",
       "70695": "2026-09-11T17:35:15.780317Z",
-      "70697": "2026-09-11T17:35:15.780317Z"
+      "70697": "2026-09-11T17:35:15.780317Z",
+      "70707": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6328,7 +6350,7 @@
         "owner": "Gary Walker",
         "question_id": "274569",
         "question_title": "Merging Planets",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-15T21:02:25Z",
@@ -7480,6 +7502,6 @@
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T12:31:15.247670Z"
+    "last_checked": "2026-09-18T13:26:21.823374Z"
   }
 }
