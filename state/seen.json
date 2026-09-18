@@ -2,6 +2,26 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-17T13:05:52Z",
+        "answer_id": "227705",
+        "first_seen": "2026-09-18T15:26:38.206317Z",
+        "link": "https://academia.stackexchange.com/a/227705",
+        "owner": "deee",
+        "question_id": "227703",
+        "question_title": "Getting into a maths masters from biology background",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-09-16T19:16:06Z",
+        "answer_id": "227696",
+        "first_seen": "2026-09-18T15:26:38.206317Z",
+        "link": "https://academia.stackexchange.com/a/227696",
+        "owner": "user67527",
+        "question_id": "227686",
+        "question_title": "How Can Universities Detect AI-Generated Statements of Purpose and Recommendation Letters?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-09-16T12:01:58Z",
         "answer_id": "227689",
         "first_seen": "2026-09-17T13:28:28.479995Z",
@@ -9,7 +29,7 @@
         "owner": "deee",
         "question_id": "227686",
         "question_title": "How Can Universities Detect AI-Generated Statements of Purpose and Recommendation Letters?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-16T16:55:44Z",
@@ -882,9 +902,11 @@
       "227667": "2026-09-15T17:24:52.402901Z",
       "227670": "2026-09-15T08:30:56.873314Z",
       "227689": "2026-09-17T13:28:28.479995Z",
-      "227694": "2026-09-17T12:33:23.825482Z"
+      "227694": "2026-09-17T12:33:23.825482Z",
+      "227696": "2026-09-18T15:26:38.206317Z",
+      "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "history-high-score": {
     "entries": [
@@ -979,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1250,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "law-high-score": {
     "entries": [
@@ -1906,7 +1928,7 @@
       "115539": "2026-09-16T17:25:23.779822Z",
       "115558": "2026-09-18T14:27:00.518212Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "math-high-score": {
     "entries": [
@@ -2529,7 +2551,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4017,7 +4039,7 @@
       "515291": "2026-09-16T15:27:16.600368Z",
       "515301": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4123,7 +4145,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4933,7 +4955,7 @@
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4962,7 +4984,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6047,7 +6069,7 @@
       "305975": "2026-09-17T12:33:23.825482Z",
       "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "space-high-score": {
     "entries": [
@@ -6329,7 +6351,7 @@
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6341,7 +6363,7 @@
         "owner": "Trish",
         "question_id": "274569",
         "question_title": "Merging Planets",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-14T14:24:43Z",
@@ -7513,6 +7535,6 @@
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-18T14:27:00.518212Z"
+    "last_checked": "2026-09-18T15:26:38.206317Z"
   }
 }
