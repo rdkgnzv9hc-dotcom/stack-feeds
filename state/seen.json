@@ -9,7 +9,7 @@
         "owner": "deee",
         "question_id": "227703",
         "question_title": "Getting into a maths masters from biology background",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-16T19:16:06Z",
@@ -19,7 +19,7 @@
         "owner": "user67527",
         "question_id": "227686",
         "question_title": "How Can Universities Detect AI-Generated Statements of Purpose and Recommendation Letters?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-16T12:01:58Z",
@@ -39,7 +39,7 @@
         "owner": "Finncent Price",
         "question_id": "227691",
         "question_title": "How can I publish research based on an idea from a collaborator who has left the project?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-13T22:36:10Z",
@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,10 +1272,20 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-17T19:25:50Z",
+        "answer_id": "115562",
+        "first_seen": "2026-09-19T17:23:48.791702Z",
+        "link": "https://law.stackexchange.com/a/115562",
+        "owner": "Jen",
+        "question_id": "115561",
+        "question_title": "Why would a plaintiff provide notice of intent to sue? Is it typical to do so?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-17T13:30:19Z",
         "answer_id": "115558",
@@ -1926,9 +1936,10 @@
       "115523": "2026-09-14T17:26:05.528585Z",
       "115527": "2026-09-15T14:28:10.552329Z",
       "115539": "2026-09-16T17:25:23.779822Z",
-      "115558": "2026-09-18T14:27:00.518212Z"
+      "115558": "2026-09-18T14:27:00.518212Z",
+      "115562": "2026-09-19T17:23:48.791702Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "math-high-score": {
     "entries": [
@@ -2551,7 +2562,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4042,7 +4053,7 @@
       "515301": "2026-09-17T20:27:27.685506Z",
       "515348": "2026-09-19T02:26:02.169890Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4148,10 +4159,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-18T06:56:00Z",
+        "answer_id": "876125",
+        "first_seen": "2026-09-19T17:23:48.791702Z",
+        "link": "https://physics.stackexchange.com/a/876125",
+        "owner": "Agerhell",
+        "question_id": "876113",
+        "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-10T15:31:19Z",
         "answer_id": "875866",
@@ -4956,9 +4977,10 @@
       "875985": "2026-09-14T11:28:09.042474Z",
       "875988": "2026-09-14T13:30:31.054978Z",
       "875997": "2026-09-16T00:33:10.119686Z",
-      "876014": "2026-09-15T11:27:01.324422Z"
+      "876014": "2026-09-15T11:27:01.324422Z",
+      "876125": "2026-09-19T17:23:48.791702Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "politics-high-score": {
     "entries": [
@@ -4987,10 +5009,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-17T03:10:39Z",
+        "answer_id": "305974",
+        "first_seen": "2026-09-19T17:23:48.791702Z",
+        "link": "https://scifi.stackexchange.com/a/305974",
+        "owner": "skyjack",
+        "question_id": "305973",
+        "question_title": "70s or 80s sci-fi novel, group of mixed aliens/Earthlings on a mission; Marcus is an alien but believes he is human, and a large ursine",
+        "score": 15
+      },
       {
         "answer_created": "2026-09-17T01:02:31Z",
         "answer_id": "305971",
@@ -4999,7 +5031,7 @@
         "owner": "DavidW",
         "question_id": "305970",
         "question_title": "Old story where there are no males left on Earth",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-17T09:04:11Z",
@@ -5009,7 +5041,7 @@
         "owner": "Rand al'Thor",
         "question_id": "305972",
         "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
-        "score": 44
+        "score": 45
       },
       {
         "answer_created": "2026-09-17T08:59:08Z",
@@ -5019,7 +5051,7 @@
         "owner": "Michael",
         "question_id": "305972",
         "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-14T23:28:41Z",
@@ -6080,13 +6112,24 @@
       "305954": "2026-09-15T19:25:38.845347Z",
       "305956": "2026-09-16T14:27:58.453451Z",
       "305971": "2026-09-18T23:25:20.234063Z",
+      "305974": "2026-09-19T17:23:48.791702Z",
       "305975": "2026-09-17T12:33:23.825482Z",
       "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-08-14T23:56:24Z",
+        "answer_id": "70670",
+        "first_seen": "2026-09-19T17:23:48.791702Z",
+        "link": "https://space.stackexchange.com/a/70670",
+        "owner": "Mathmagician",
+        "question_id": "70666",
+        "question_title": "Skylab as lunar gateway?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-17T14:23:20Z",
         "answer_id": "70707",
@@ -6095,7 +6138,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70705",
         "question_title": "How do new spacecraft navigate around debris in space and what are other provisions to mitigate the risk of collision[s]",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-09-07T21:35:59Z",
@@ -6105,7 +6148,7 @@
         "owner": "Markus Klyver",
         "question_id": "70692",
         "question_title": "Is this type of orbital transformation possible?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-07T14:09:33Z",
@@ -6115,7 +6158,7 @@
         "owner": "Ross Millikan",
         "question_id": "70692",
         "question_title": "Is this type of orbital transformation possible?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-07T01:07:20Z",
@@ -6125,7 +6168,7 @@
         "owner": "0xDBFB7",
         "question_id": "70692",
         "question_title": "Is this type of orbital transformation possible?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-08-28T02:27:42Z",
@@ -6155,7 +6198,7 @@
         "owner": "blobbymcblobby",
         "question_id": "70673",
         "question_title": "What are the square structures on this Globalstar satellite?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-08-17T21:49:03Z",
@@ -6165,7 +6208,7 @@
         "owner": "Puffin",
         "question_id": "70672",
         "question_title": "Does anyone know what MLI looks like after it has vented?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-08-17T15:34:15Z",
@@ -6175,7 +6218,7 @@
         "owner": "Big Dumb Rat",
         "question_id": "70673",
         "question_title": "What are the square structures on this Globalstar satellite?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-08-13T15:02:09Z",
@@ -6355,6 +6398,7 @@
       "70660": "2026-09-11T17:35:15.780317Z",
       "70665": "2026-09-11T17:35:15.780317Z",
       "70668": "2026-09-11T17:35:15.780317Z",
+      "70670": "2026-09-19T17:23:48.791702Z",
       "70674": "2026-09-11T17:35:15.780317Z",
       "70675": "2026-09-11T17:35:15.780317Z",
       "70676": "2026-09-11T17:35:15.780317Z",
@@ -6365,7 +6409,7 @@
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6377,7 +6421,7 @@
         "owner": "Trish",
         "question_id": "274569",
         "question_title": "Merging Planets",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-14T14:24:43Z",
@@ -6397,7 +6441,7 @@
         "owner": "Gary Walker",
         "question_id": "274569",
         "question_title": "Merging Planets",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-09-15T21:02:25Z",
@@ -7549,6 +7593,6 @@
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-19T16:25:52.817230Z"
+    "last_checked": "2026-09-19T17:23:48.791702Z"
   }
 }
