@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "law-high-score": {
     "entries": [
@@ -1939,7 +1939,7 @@
       "115558": "2026-09-18T14:27:00.518212Z",
       "115562": "2026-09-19T17:23:48.791702Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "math-high-score": {
     "entries": [
@@ -2562,7 +2562,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4053,7 +4053,7 @@
       "515301": "2026-09-17T20:27:27.685506Z",
       "515348": "2026-09-19T02:26:02.169890Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4159,10 +4159,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-18T08:12:37Z",
+        "answer_id": "876128",
+        "first_seen": "2026-09-19T18:27:25.796272Z",
+        "link": "https://physics.stackexchange.com/a/876128",
+        "owner": "GiorgioP-DoomsdayClockIsAt-85",
+        "question_id": "876113",
+        "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-18T06:56:00Z",
         "answer_id": "876125",
@@ -4171,7 +4181,7 @@
         "owner": "Agerhell",
         "question_id": "876113",
         "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-10T15:31:19Z",
@@ -4978,9 +4988,10 @@
       "875988": "2026-09-14T13:30:31.054978Z",
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z",
-      "876125": "2026-09-19T17:23:48.791702Z"
+      "876125": "2026-09-19T17:23:48.791702Z",
+      "876128": "2026-09-19T18:27:25.796272Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5009,7 +5020,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5051,7 +5062,7 @@
         "owner": "Michael",
         "question_id": "305972",
         "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-14T23:28:41Z",
@@ -6116,7 +6127,7 @@
       "305975": "2026-09-17T12:33:23.825482Z",
       "305976": "2026-09-17T12:33:23.825482Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "space-high-score": {
     "entries": [
@@ -6409,7 +6420,7 @@
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7593,6 +7604,6 @@
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-19T17:23:48.791702Z"
+    "last_checked": "2026-09-19T18:27:25.796272Z"
   }
 }
