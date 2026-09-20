@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "law-high-score": {
     "entries": [
@@ -1939,7 +1939,7 @@
       "115558": "2026-09-18T14:27:00.518212Z",
       "115562": "2026-09-19T17:23:48.791702Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "math-high-score": {
     "entries": [
@@ -2562,7 +2562,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4054,7 +4054,7 @@
       "515318": "2026-09-20T20:25:29.145077Z",
       "515348": "2026-09-19T02:26:02.169890Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4160,7 +4160,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4992,7 +4992,7 @@
       "876125": "2026-09-19T17:23:48.791702Z",
       "876128": "2026-09-19T18:27:25.796272Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5021,7 +5021,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6129,7 +6129,7 @@
       "305976": "2026-09-17T12:33:23.825482Z",
       "305988": "2026-09-20T09:25:20.729768Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "space-high-score": {
     "entries": [
@@ -6433,10 +6433,20 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-18T05:13:47Z",
+        "answer_id": "274589",
+        "first_seen": "2026-09-20T23:24:18.817304Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274589",
+        "owner": "Thucydides",
+        "question_id": "274583",
+        "question_title": "Communication between two ships while one of them is fully deactivated",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-16T20:43:00Z",
         "answer_id": "274576",
@@ -7426,16 +7436,6 @@
         "question_id": "274057",
         "question_title": "Why would an organ black market still exist even with the existence of a reliable white market?",
         "score": 19
-      },
-      {
-        "answer_created": "2026-07-16T05:18:34Z",
-        "answer_id": "274059",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274059",
-        "owner": "Escaped dental patient.",
-        "question_id": "274057",
-        "question_title": "Why would an organ black market still exist even with the existence of a reliable white market?",
-        "score": 15
       }
     ],
     "known": {
@@ -7615,8 +7615,9 @@
       "274552": "2026-09-15T17:24:52.402901Z",
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z",
-      "274576": "2026-09-17T20:27:27.685506Z"
+      "274576": "2026-09-17T20:27:27.685506Z",
+      "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-20T22:24:51.781670Z"
+    "last_checked": "2026-09-20T23:24:18.817304Z"
   }
 }
