@@ -9,7 +9,7 @@
         "owner": "deee",
         "question_id": "227703",
         "question_title": "Getting into a maths masters from biology background",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-16T19:16:06Z",
@@ -19,7 +19,7 @@
         "owner": "user67527",
         "question_id": "227686",
         "question_title": "How Can Universities Detect AI-Generated Statements of Purpose and Recommendation Letters?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-16T12:01:58Z",
@@ -29,7 +29,7 @@
         "owner": "deee",
         "question_id": "227686",
         "question_title": "How Can Universities Detect AI-Generated Statements of Purpose and Recommendation Letters?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-16T16:55:44Z",
@@ -39,7 +39,7 @@
         "owner": "Finncent Price",
         "question_id": "227691",
         "question_title": "How can I publish research based on an idea from a collaborator who has left the project?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-13T22:36:10Z",
@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "law-high-score": {
     "entries": [
@@ -1939,7 +1939,7 @@
       "115558": "2026-09-18T14:27:00.518212Z",
       "115562": "2026-09-19T17:23:48.791702Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "math-high-score": {
     "entries": [
@@ -2562,10 +2562,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-17T18:40:51Z",
+        "answer_id": "515318",
+        "first_seen": "2026-09-20T20:25:29.145077Z",
+        "link": "https://mathoverflow.net/a/515318",
+        "owner": "Anurag Sahay",
+        "question_id": "515314",
+        "question_title": "On the length of mollifiers for the Riemann Zeta function",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-18T16:30:13Z",
         "answer_id": "515348",
@@ -3555,16 +3565,6 @@
         "question_id": "513295",
         "question_title": "On the proof of Weil conjectures in the curve case",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-16T07:31:22Z",
-        "answer_id": "513278",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513278",
-        "owner": "Tomasz Kania",
-        "question_id": "502120",
-        "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
-        "score": 14
       }
     ],
     "known": {
@@ -4051,9 +4051,10 @@
       "515288": "2026-09-16T20:27:43.820626Z",
       "515291": "2026-09-16T15:27:16.600368Z",
       "515301": "2026-09-17T20:27:27.685506Z",
+      "515318": "2026-09-20T20:25:29.145077Z",
       "515348": "2026-09-19T02:26:02.169890Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4159,7 +4160,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4991,7 +4992,7 @@
       "876125": "2026-09-19T17:23:48.791702Z",
       "876128": "2026-09-19T18:27:25.796272Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5020,7 +5021,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6128,7 +6129,7 @@
       "305976": "2026-09-17T12:33:23.825482Z",
       "305988": "2026-09-20T09:25:20.729768Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "space-high-score": {
     "entries": [
@@ -6140,7 +6141,7 @@
         "owner": "Organic Marble",
         "question_id": "70714",
         "question_title": "Are astronauts permanently tethered during an EVA?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-08-14T23:56:24Z",
@@ -6432,7 +6433,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7616,6 +7617,6 @@
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z"
     },
-    "last_checked": "2026-09-20T19:23:00.516616Z"
+    "last_checked": "2026-09-20T20:25:29.145077Z"
   }
 }

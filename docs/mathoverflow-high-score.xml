@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 19:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:25:29 +0000</lastBuildDate>
+    <item>
+      <title>On the length of mollifiers for the Riemann Zeta function — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515318</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515318</guid>
+      <pubDate>Sun, 20 Sep 2026 20:25:29 +0000</pubDate>
+      <description>Answer by Anurag Sahay. Score when last checked: 10. Originally posted: 2026-09-17T18:40:51Z.</description>
+    </item>
     <item>
       <title>How do we prevent mathematics from devolving into the Medieval Era of secrecy? — answer reached score 14</title>
       <link>https://mathoverflow.net/a/515348</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:513297</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Will Sawin. Score when last checked: 10. Originally posted: 2026-07-16T19:26:34Z.</description>
-    </item>
-    <item>
-      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/513278</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513278</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Tomasz Kania. Score when last checked: 14. Originally posted: 2026-07-16T07:31:22Z.</description>
     </item>
   </channel>
 </rss>
