@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 21:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:25:32 +0000</lastBuildDate>
+    <item>
+      <title>How do you manage notation overload? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515412</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515412</guid>
+      <pubDate>Tue, 22 Sep 2026 22:25:32 +0000</pubDate>
+      <description>Answer by Alexandre Eremenko. Score when last checked: 10. Originally posted: 2026-09-21T12:41:44Z.</description>
+    </item>
     <item>
       <title>Recovering Laplacians on manifolds from their eigenvalues — answer reached score 10</title>
       <link>https://mathoverflow.net/a/515436</link>
@@ -14,11 +21,11 @@
       <description>Answer by Gabe K. Score when last checked: 10. Originally posted: 2026-09-21T21:26:48Z.</description>
     </item>
     <item>
-      <title>The mathematical Church-Turing thesis — answer reached score 11</title>
+      <title>The mathematical Church-Turing thesis — answer reached score 12</title>
       <link>https://mathoverflow.net/a/515449</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515449</guid>
       <pubDate>Tue, 22 Sep 2026 20:26:04 +0000</pubDate>
-      <description>Answer by Will Sawin. Score when last checked: 11. Originally posted: 2026-09-22T11:43:53Z.</description>
+      <description>Answer by Will Sawin. Score when last checked: 12. Originally posted: 2026-09-22T11:43:53Z.</description>
     </item>
     <item>
       <title>Recovering Laplacians on manifolds from their eigenvalues — answer reached score 14</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:513522</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Tom Gannon. Score when last checked: 11. Originally posted: 2026-07-23T18:16:37Z.</description>
-    </item>
-    <item>
-      <title>The simplest case of Jacobian conjecture — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/513493</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513493</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by ratto3423. Score when last checked: 14. Originally posted: 2026-07-23T07:13:02Z.</description>
     </item>
   </channel>
 </rss>
