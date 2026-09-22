@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "law-high-score": {
     "entries": [
@@ -1961,7 +1961,7 @@
       "115597": "2026-09-21T13:26:54.860115Z",
       "115598": "2026-09-21T13:26:54.860115Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "math-high-score": {
     "entries": [
@@ -2584,7 +2584,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2596,7 +2596,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 10
+        "score": 14
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -2606,7 +2606,7 @@
         "owner": "Carlo Beenakker",
         "question_id": "515418",
         "question_title": "Parametrisation for $x^4+y^4=1$",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-17T22:41:21Z",
@@ -4081,7 +4081,7 @@
       "515422": "2026-09-21T20:26:34.651358Z",
       "515442": "2026-09-22T03:27:11.340844Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4187,7 +4187,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4319,7 +4319,7 @@
         "owner": "GiorgioP-DoomsdayClockIsAt-85",
         "question_id": "875759",
         "question_title": "What is the fastest way to cool a pot of boiling water using ice and water?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-07T15:58:00Z",
@@ -5019,7 +5019,7 @@
       "876125": "2026-09-19T17:23:48.791702Z",
       "876128": "2026-09-19T18:27:25.796272Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5048,7 +5048,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5130,7 +5130,7 @@
         "owner": "Rand al'Thor",
         "question_id": "305972",
         "question_title": "Why didn't Frodo even suspect the Black Riders were the Ringwraiths?",
-        "score": 49
+        "score": 50
       },
       {
         "answer_created": "2026-09-17T08:59:08Z",
@@ -6160,7 +6160,7 @@
       "305999": "2026-09-21T12:30:08.304335Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "space-high-score": {
     "entries": [
@@ -6464,7 +6464,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7650,6 +7650,6 @@
       "274576": "2026-09-17T20:27:27.685506Z",
       "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-22T03:27:11.340844Z"
+    "last_checked": "2026-09-22T04:26:51.842935Z"
   }
 }
