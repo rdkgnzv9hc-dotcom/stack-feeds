@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "law-high-score": {
     "entries": [
@@ -1294,7 +1294,7 @@
         "owner": "Michael Seifert",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-17T19:25:50Z",
@@ -1961,7 +1961,7 @@
       "115597": "2026-09-21T13:26:54.860115Z",
       "115598": "2026-09-21T13:26:54.860115Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "math-high-score": {
     "entries": [
@@ -2413,7 +2413,7 @@
         "owner": "dialegou",
         "question_id": "5142917",
         "question_title": "Collatz-like iterate: prime $n\\mapsto 1 +$ next prime, else cancel $n$'s min factor $>\\!1$",
-        "score": 31
+        "score": 30
       },
       {
         "answer_created": "2026-07-06T03:10:50Z",
@@ -2584,10 +2584,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-22T00:17:49Z",
+        "answer_id": "515442",
+        "first_seen": "2026-09-22T03:27:11.340844Z",
+        "link": "https://mathoverflow.net/a/515442",
+        "owner": "mathworker21",
+        "question_id": "515435",
+        "question_title": "AI advisory group vs. immediate open access?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-21T16:19:48Z",
         "answer_id": "515422",
@@ -2956,7 +2966,7 @@
         "owner": "Pace Nielsen",
         "question_id": "514923",
         "question_title": "Posting AI proofs",
-        "score": 16
+        "score": 15
       },
       {
         "answer_created": "2026-09-05T05:21:53Z",
@@ -2976,7 +2986,7 @@
         "owner": "Z. A. K.",
         "question_id": "514882",
         "question_title": "Interesting anti-classical purely logical (e.g., higher-order propositional) axioms",
-        "score": 15
+        "score": 14
       },
       {
         "answer_created": "2026-09-04T18:41:55Z",
@@ -3106,7 +3116,7 @@
         "owner": "Amir",
         "question_id": "514406",
         "question_title": "Chameleon population dynamics",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-08-19T20:25:55Z",
@@ -3176,7 +3186,7 @@
         "owner": "Max Horn",
         "question_id": "514329",
         "question_title": "Finite subgroups of hyperbolic Kac-Moody groups",
-        "score": 11
+        "score": 10
       },
       {
         "answer_created": "2026-08-14T21:29:08Z",
@@ -3226,7 +3236,7 @@
         "owner": "B K",
         "question_id": "514207",
         "question_title": "What missing examples, other than counterexamples, would be most enlightening?",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-08-12T22:53:31Z",
@@ -3256,7 +3266,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "514181",
         "question_title": "What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one\u2019s area of expertise",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-08-11T13:34:47Z",
@@ -3286,7 +3296,7 @@
         "owner": "Marco Mantovanelli",
         "question_id": "514079",
         "question_title": "Variant of Euler's conjecture",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-08-08T15:20:45Z",
@@ -3576,16 +3586,6 @@
         "owner": "Thorgott",
         "question_id": "513434",
         "question_title": "Reference for Moore (measured) loop and path spaces",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-07-19T17:46:45Z",
-        "answer_id": "513374",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513374",
-        "owner": "Random",
-        "question_id": "513368",
-        "question_title": "Is the determinant of this \"$i+j$ is a power of $2$\" indicator matrix always $-1$ or $1$?",
         "score": 11
       }
     ],
@@ -4078,9 +4078,10 @@
       "515348": "2026-09-19T02:26:02.169890Z",
       "515378": "2026-09-21T10:27:01.647407Z",
       "515389": "2026-09-21T10:27:01.647407Z",
-      "515422": "2026-09-21T20:26:34.651358Z"
+      "515422": "2026-09-21T20:26:34.651358Z",
+      "515442": "2026-09-22T03:27:11.340844Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4186,7 +4187,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4248,7 +4249,7 @@
         "owner": "liaifat85",
         "question_id": "875982",
         "question_title": "Would a bird get fried if it stood on a microwave-frequency power line?",
-        "score": 18
+        "score": 17
       },
       {
         "answer_created": "2026-09-14T07:53:34Z",
@@ -5018,7 +5019,7 @@
       "876125": "2026-09-19T17:23:48.791702Z",
       "876128": "2026-09-19T18:27:25.796272Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5047,7 +5048,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6159,7 +6160,7 @@
       "305999": "2026-09-21T12:30:08.304335Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "space-high-score": {
     "entries": [
@@ -6463,7 +6464,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7649,6 +7650,6 @@
       "274576": "2026-09-17T20:27:27.685506Z",
       "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-22T02:27:11.459251Z"
+    "last_checked": "2026-09-22T03:27:11.340844Z"
   }
 }
