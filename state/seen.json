@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,10 +1272,30 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-21T02:13:17Z",
+        "answer_id": "115603",
+        "first_seen": "2026-09-22T20:26:04.451505Z",
+        "link": "https://law.stackexchange.com/a/115603",
+        "owner": "Jen",
+        "question_id": "115601",
+        "question_title": "What is the legal purpose of marriage?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-09-01T18:59:45Z",
+        "answer_id": "115429",
+        "first_seen": "2026-09-22T20:26:04.451505Z",
+        "link": "https://law.stackexchange.com/a/115429",
+        "owner": "Gouvernathor",
+        "question_id": "115423",
+        "question_title": "Can a US president issue a 'blank cheque' pardon that may be used after his term of office expires?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-21T21:16:38Z",
         "answer_id": "115613",
@@ -1304,7 +1324,7 @@
         "owner": "Dale M",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-20T14:16:01Z",
@@ -1314,7 +1334,7 @@
         "owner": "Michael Seifert",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-17T19:25:50Z",
@@ -1963,6 +1983,7 @@
       "115384": "2026-09-11T17:35:15.780317Z",
       "115386": "2026-09-11T17:35:15.780317Z",
       "115428": "2026-09-11T17:35:15.780317Z",
+      "115429": "2026-09-22T20:26:04.451505Z",
       "115436": "2026-09-11T17:35:15.780317Z",
       "115476": "2026-09-11T17:35:15.780317Z",
       "115480": "2026-09-11T17:35:15.780317Z",
@@ -1981,9 +2002,10 @@
       "115562": "2026-09-19T17:23:48.791702Z",
       "115597": "2026-09-21T13:26:54.860115Z",
       "115598": "2026-09-21T13:26:54.860115Z",
+      "115603": "2026-09-22T20:26:04.451505Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "math-high-score": {
     "entries": [
@@ -2606,10 +2628,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-22T11:43:53Z",
+        "answer_id": "515449",
+        "first_seen": "2026-09-22T20:26:04.451505Z",
+        "link": "https://mathoverflow.net/a/515449",
+        "owner": "Will Sawin",
+        "question_id": "515443",
+        "question_title": "The mathematical Church-Turing thesis",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-21T20:50:36Z",
         "answer_id": "515433",
@@ -2618,7 +2650,7 @@
         "owner": "Carlo Beenakker",
         "question_id": "515428",
         "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-21T23:17:21Z",
@@ -2668,7 +2700,7 @@
         "owner": "Jon Bannon",
         "question_id": "515377",
         "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-20T10:18:10Z",
@@ -2678,7 +2710,7 @@
         "owner": "Nate River",
         "question_id": "515377",
         "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-17T18:40:51Z",
@@ -3599,16 +3631,6 @@
         "question_id": "513485",
         "question_title": "On Borel measurable and continuous functions",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-22T21:47:48Z",
-        "answer_id": "513486",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513486",
-        "owner": "LSpice",
-        "question_id": "325105",
-        "question_title": "What are some noteworthy \"mic-drop\" moments in math?",
-        "score": 11
       }
     ],
     "known": {
@@ -4103,9 +4125,10 @@
       "515422": "2026-09-21T20:26:34.651358Z",
       "515433": "2026-09-22T13:28:26.553436Z",
       "515438": "2026-09-22T06:32:23.011073Z",
-      "515442": "2026-09-22T03:27:11.340844Z"
+      "515442": "2026-09-22T03:27:11.340844Z",
+      "515449": "2026-09-22T20:26:04.451505Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4211,7 +4234,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5054,7 +5077,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5083,7 +5106,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6195,7 +6218,7 @@
       "305999": "2026-09-21T12:30:08.304335Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "space-high-score": {
     "entries": [
@@ -6499,7 +6522,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7685,6 +7708,6 @@
       "274576": "2026-09-17T20:27:27.685506Z",
       "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-22T19:24:40.979741Z"
+    "last_checked": "2026-09-22T20:26:04.451505Z"
   }
 }
