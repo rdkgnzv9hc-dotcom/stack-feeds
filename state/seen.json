@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "law-high-score": {
     "entries": [
@@ -1972,7 +1972,7 @@
       "115597": "2026-09-21T13:26:54.860115Z",
       "115598": "2026-09-21T13:26:54.860115Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "math-high-score": {
     "entries": [
@@ -2595,10 +2595,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-21T20:50:36Z",
+        "answer_id": "515433",
+        "first_seen": "2026-09-22T13:28:26.553436Z",
+        "link": "https://mathoverflow.net/a/515433",
+        "owner": "Carlo Beenakker",
+        "question_id": "515428",
+        "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-21T23:17:21Z",
         "answer_id": "515438",
@@ -2617,7 +2627,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 25
+        "score": 27
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -3588,16 +3598,6 @@
         "question_id": "325105",
         "question_title": "What are some noteworthy \"mic-drop\" moments in math?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-22T10:49:08Z",
-        "answer_id": "513470",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513470",
-        "owner": "Jonas Stein",
-        "question_id": "513440",
-        "question_title": "Geometric degrees of counterexamples to the Jacobian conjecture in dimension three",
-        "score": 14
       }
     ],
     "known": {
@@ -4090,10 +4090,11 @@
       "515378": "2026-09-21T10:27:01.647407Z",
       "515389": "2026-09-21T10:27:01.647407Z",
       "515422": "2026-09-21T20:26:34.651358Z",
+      "515433": "2026-09-22T13:28:26.553436Z",
       "515438": "2026-09-22T06:32:23.011073Z",
       "515442": "2026-09-22T03:27:11.340844Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4199,7 +4200,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5042,7 +5043,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5071,7 +5072,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5103,7 +5104,7 @@
         "owner": "cometaryorbit",
         "question_id": "305957",
         "question_title": "What powers of the One Ring would be usable in warfare?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-18T23:22:23Z",
@@ -5123,7 +5124,7 @@
         "owner": "Ian Thompson",
         "question_id": "305957",
         "question_title": "What powers of the One Ring would be usable in warfare?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-17T03:10:39Z",
@@ -5133,7 +5134,7 @@
         "owner": "skyjack",
         "question_id": "305973",
         "question_title": "70s or 80s sci-fi novel, group of mixed aliens/Earthlings on a mission; Marcus is an alien but believes he is human, and a large ursine",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-17T01:02:31Z",
@@ -6183,7 +6184,7 @@
       "305999": "2026-09-21T12:30:08.304335Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "space-high-score": {
     "entries": [
@@ -6487,7 +6488,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7673,6 +7674,6 @@
       "274576": "2026-09-17T20:27:27.685506Z",
       "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-22T12:32:04.553542Z"
+    "last_checked": "2026-09-22T13:28:26.553436Z"
   }
 }
