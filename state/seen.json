@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "law-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
         "owner": "Dale M",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-20T14:16:01Z",
@@ -1294,7 +1294,7 @@
         "owner": "Michael Seifert",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-17T19:25:50Z",
@@ -1961,7 +1961,7 @@
       "115597": "2026-09-21T13:26:54.860115Z",
       "115598": "2026-09-21T13:26:54.860115Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "math-high-score": {
     "entries": [
@@ -2584,7 +2584,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2606,7 +2606,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 16
+        "score": 19
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -2636,7 +2636,7 @@
         "owner": "Jon Bannon",
         "question_id": "515377",
         "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-20T10:18:10Z",
@@ -2646,7 +2646,7 @@
         "owner": "Nate River",
         "question_id": "515377",
         "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-17T18:40:51Z",
@@ -4082,7 +4082,7 @@
       "515438": "2026-09-22T06:32:23.011073Z",
       "515442": "2026-09-22T03:27:11.340844Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4188,7 +4188,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5020,7 +5020,7 @@
       "876125": "2026-09-19T17:23:48.791702Z",
       "876128": "2026-09-19T18:27:25.796272Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5049,7 +5049,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6161,7 +6161,7 @@
       "305999": "2026-09-21T12:30:08.304335Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "space-high-score": {
     "entries": [
@@ -6465,7 +6465,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7651,6 +7651,6 @@
       "274576": "2026-09-17T20:27:27.685506Z",
       "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-22T06:32:23.011073Z"
+    "last_checked": "2026-09-22T07:27:14.767076Z"
   }
 }
