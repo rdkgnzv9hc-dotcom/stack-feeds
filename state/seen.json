@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "law-high-score": {
     "entries": [
@@ -2005,7 +2005,7 @@
       "115603": "2026-09-22T20:26:04.451505Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "math-high-score": {
     "entries": [
@@ -2628,10 +2628,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-21T21:26:48Z",
+        "answer_id": "515436",
+        "first_seen": "2026-09-22T21:24:54.419860Z",
+        "link": "https://mathoverflow.net/a/515436",
+        "owner": "Gabe K",
+        "question_id": "515428",
+        "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-22T11:43:53Z",
         "answer_id": "515449",
@@ -2640,7 +2650,7 @@
         "owner": "Will Sawin",
         "question_id": "515443",
         "question_title": "The mathematical Church-Turing thesis",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-21T20:50:36Z",
@@ -2650,7 +2660,7 @@
         "owner": "Carlo Beenakker",
         "question_id": "515428",
         "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-21T23:17:21Z",
@@ -2660,7 +2670,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -3621,16 +3631,6 @@
         "question_id": "513413",
         "question_title": "The simplest case of Jacobian conjecture",
         "score": 14
-      },
-      {
-        "answer_created": "2026-07-23T00:00:12Z",
-        "answer_id": "513488",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513488",
-        "owner": "Jochen Glueck",
-        "question_id": "513485",
-        "question_title": "On Borel measurable and continuous functions",
-        "score": 11
       }
     ],
     "known": {
@@ -4124,11 +4124,12 @@
       "515389": "2026-09-21T10:27:01.647407Z",
       "515422": "2026-09-21T20:26:34.651358Z",
       "515433": "2026-09-22T13:28:26.553436Z",
+      "515436": "2026-09-22T21:24:54.419860Z",
       "515438": "2026-09-22T06:32:23.011073Z",
       "515442": "2026-09-22T03:27:11.340844Z",
       "515449": "2026-09-22T20:26:04.451505Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4234,10 +4235,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-17T20:25:42Z",
+        "answer_id": "876115",
+        "first_seen": "2026-09-22T21:24:54.419860Z",
+        "link": "https://physics.stackexchange.com/a/876115",
+        "owner": "controlgroup",
+        "question_id": "876113",
+        "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-21T12:39:45Z",
         "answer_id": "876232",
@@ -4246,7 +4257,7 @@
         "owner": "Gilbert",
         "question_id": "876226",
         "question_title": "Snell's law in electrostatics",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-18T08:12:37Z",
@@ -5073,11 +5084,12 @@
       "875988": "2026-09-14T13:30:31.054978Z",
       "875997": "2026-09-16T00:33:10.119686Z",
       "876014": "2026-09-15T11:27:01.324422Z",
+      "876115": "2026-09-22T21:24:54.419860Z",
       "876125": "2026-09-19T17:23:48.791702Z",
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5106,7 +5118,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6218,7 +6230,7 @@
       "305999": "2026-09-21T12:30:08.304335Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "space-high-score": {
     "entries": [
@@ -6522,7 +6534,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7708,6 +7720,6 @@
       "274576": "2026-09-17T20:27:27.685506Z",
       "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-22T20:26:04.451505Z"
+    "last_checked": "2026-09-22T21:24:54.419860Z"
   }
 }
