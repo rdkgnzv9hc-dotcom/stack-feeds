@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "law-high-score": {
     "entries": [
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,10 +2639,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-07T13:43:39Z",
+        "answer_id": "515000",
+        "first_seen": "2026-09-23T16:29:05.285893Z",
+        "link": "https://mathoverflow.net/a/515000",
+        "owner": "Kimball",
+        "question_id": "514973",
+        "question_title": "Effect of AI on publication rates",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-23T11:06:27Z",
         "answer_id": "515481",
@@ -2691,7 +2701,7 @@
         "owner": "Timothy Chow",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-21T23:54:48Z",
@@ -2751,7 +2761,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 25
+        "score": 27
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -2761,7 +2771,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 40
+        "score": 41
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -3632,16 +3642,6 @@
         "question_id": "513742",
         "question_title": "Are we stuck with Lean?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-30T17:26:00Z",
-        "answer_id": "513761",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513761",
-        "owner": "Lawrence Paulson",
-        "question_id": "513742",
-        "question_title": "Are we stuck with Lean?",
-        "score": 13
       }
     ],
     "known": {
@@ -4093,6 +4093,7 @@
       "514996": "2026-09-11T16:35:49.698347Z",
       "514998": "2026-09-11T16:35:49.698347Z",
       "514999": "2026-09-11T16:35:49.698347Z",
+      "515000": "2026-09-23T16:29:05.285893Z",
       "515003": "2026-09-11T16:35:49.698347Z",
       "515005": "2026-09-11T16:35:49.698347Z",
       "515010": "2026-09-11T17:43:24.207171Z",
@@ -4147,7 +4148,7 @@
       "515476": "2026-09-23T15:27:56.734857Z",
       "515481": "2026-09-23T15:27:56.734857Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4253,7 +4254,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5107,7 +5108,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5136,7 +5137,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6251,7 +6252,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "space-high-score": {
     "entries": [
@@ -6555,7 +6556,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7742,6 +7743,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T15:27:56.734857Z"
+    "last_checked": "2026-09-23T16:29:05.285893Z"
   }
 }
