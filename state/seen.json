@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,10 +1272,20 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-21T04:01:13Z",
+        "answer_id": "115605",
+        "first_seen": "2026-09-23T09:27:25.929733Z",
+        "link": "https://law.stackexchange.com/a/115605",
+        "owner": "Jen",
+        "question_id": "115604",
+        "question_title": "Can posting a screenshot or photo of a screen of someone listening to copyright-protected music be an infringement?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-21T02:13:17Z",
         "answer_id": "115603",
@@ -2003,9 +2013,10 @@
       "115597": "2026-09-21T13:26:54.860115Z",
       "115598": "2026-09-21T13:26:54.860115Z",
       "115603": "2026-09-22T20:26:04.451505Z",
+      "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "math-high-score": {
     "entries": [
@@ -2628,7 +2639,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2640,7 +2651,7 @@
         "owner": "Timothy Chow",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-21T23:54:48Z",
@@ -2670,7 +2681,7 @@
         "owner": "Gabe K",
         "question_id": "515428",
         "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-22T11:43:53Z",
@@ -2680,7 +2691,7 @@
         "owner": "Will Sawin",
         "question_id": "515443",
         "question_title": "The mathematical Church-Turing thesis",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-21T20:50:36Z",
@@ -2690,7 +2701,7 @@
         "owner": "Carlo Beenakker",
         "question_id": "515428",
         "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-21T23:17:21Z",
@@ -2700,7 +2711,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 19
+        "score": 21
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -2930,7 +2941,7 @@
         "owner": "Reid Barton",
         "question_id": "515206",
         "question_title": "Looking for a finitely complete category with a subobject classifier, but without initial object",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-13T10:34:23Z",
@@ -4132,7 +4143,7 @@
       "515449": "2026-09-22T20:26:04.451505Z",
       "515470": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4238,7 +4249,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5092,7 +5103,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5121,10 +5132,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-10T23:59:33Z",
+        "answer_id": "305909",
+        "first_seen": "2026-09-23T09:27:25.929733Z",
+        "link": "https://scifi.stackexchange.com/a/305909",
+        "owner": "Milo P",
+        "question_id": "143653",
+        "question_title": "Was the Rancor handler able to go into the enclosure unprotected?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-19T14:49:20Z",
         "answer_id": "306001",
@@ -6114,16 +6135,6 @@
         "question_id": "304963",
         "question_title": "What's the origin of the depiction of Medusa with a serpent's lower body?",
         "score": 25
-      },
-      {
-        "answer_created": "2026-06-20T19:33:59Z",
-        "answer_id": "304951",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/304951",
-        "owner": "Jontia",
-        "question_id": "304950",
-        "question_title": "Aliens(?) that don't drink water",
-        "score": 28
       }
     ],
     "known": {
@@ -6218,6 +6229,7 @@
       "305873": "2026-09-11T17:35:15.780317Z",
       "305889": "2026-09-11T17:35:15.780317Z",
       "305905": "2026-09-12T04:26:18.109918Z",
+      "305909": "2026-09-23T09:27:25.929733Z",
       "305933": "2026-09-14T04:26:43.889697Z",
       "305941": "2026-09-14T12:34:04.948466Z",
       "305943": "2026-09-15T19:25:38.845347Z",
@@ -6234,7 +6246,7 @@
       "306001": "2026-09-23T06:33:07.982785Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "space-high-score": {
     "entries": [
@@ -6538,7 +6550,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7725,6 +7737,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T08:28:24.205560Z"
+    "last_checked": "2026-09-23T09:27:25.929733Z"
   }
 }
