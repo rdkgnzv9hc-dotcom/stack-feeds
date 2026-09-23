@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "law-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
         "owner": "Jen",
         "question_id": "115604",
         "question_title": "Can posting a screenshot or photo of a screen of someone listening to copyright-protected music be an infringement?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-21T02:13:17Z",
@@ -1314,7 +1314,7 @@
         "owner": "Dale M",
         "question_id": "115601",
         "question_title": "What is the legal purpose of marriage?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-16T01:07:50Z",
@@ -1334,7 +1334,7 @@
         "owner": "Dale M",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-20T14:16:01Z",
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,10 +2639,30 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-23T11:06:27Z",
+        "answer_id": "515481",
+        "first_seen": "2026-09-23T15:27:56.734857Z",
+        "link": "https://mathoverflow.net/a/515481",
+        "owner": "Francois Ziegler",
+        "question_id": "515435",
+        "question_title": "AI advisory group vs. immediate open access?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-09-23T06:06:27Z",
+        "answer_id": "515476",
+        "first_seen": "2026-09-23T15:27:56.734857Z",
+        "link": "https://mathoverflow.net/a/515476",
+        "owner": "Jochen Glueck",
+        "question_id": "515435",
+        "question_title": "AI advisory group vs. immediate open access?",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-22T17:34:04Z",
         "answer_id": "515461",
@@ -2671,7 +2691,7 @@
         "owner": "Timothy Chow",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-21T23:54:48Z",
@@ -2731,7 +2751,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -2741,7 +2761,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 38
+        "score": 40
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -2871,7 +2891,7 @@
         "owner": "David White",
         "question_id": "515282",
         "question_title": "Are mathematicians engaging with AI results?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-09-15T18:47:40Z",
@@ -3622,26 +3642,6 @@
         "question_id": "513742",
         "question_title": "Are we stuck with Lean?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-07-29T16:26:38Z",
-        "answer_id": "513716",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513716",
-        "owner": "Noah Schweber",
-        "question_id": "513712",
-        "question_title": "Unwrapping the proof of the fact that an illfounded computable tree can have no hyperarithmetic branches",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-07-29T15:26:52Z",
-        "answer_id": "513714",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513714",
-        "owner": "Noam Zeilberger",
-        "question_id": "513661",
-        "question_title": "Was a computational hardness argument ever used to solve a mathematical conjecture?",
-        "score": 12
       }
     ],
     "known": {
@@ -4143,9 +4143,11 @@
       "515442": "2026-09-22T03:27:11.340844Z",
       "515449": "2026-09-22T20:26:04.451505Z",
       "515461": "2026-09-23T12:32:25.677603Z",
-      "515470": "2026-09-23T07:28:02.174679Z"
+      "515470": "2026-09-23T07:28:02.174679Z",
+      "515476": "2026-09-23T15:27:56.734857Z",
+      "515481": "2026-09-23T15:27:56.734857Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4251,7 +4253,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5105,7 +5107,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5134,7 +5136,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6249,7 +6251,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "space-high-score": {
     "entries": [
@@ -6553,7 +6555,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7740,6 +7742,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T14:28:39.758733Z"
+    "last_checked": "2026-09-23T15:27:56.734857Z"
   }
 }
