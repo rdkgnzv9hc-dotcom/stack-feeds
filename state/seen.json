@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "law-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
         "owner": "Jen",
         "question_id": "115604",
         "question_title": "Can posting a screenshot or photo of a screen of someone listening to copyright-protected music be an infringement?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-21T02:13:17Z",
@@ -1334,7 +1334,7 @@
         "owner": "Dale M",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-09-20T14:16:01Z",
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,7 +2639,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2651,7 +2651,7 @@
         "owner": "Kimball",
         "question_id": "514973",
         "question_title": "Effect of AI on publication rates",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-23T11:06:27Z",
@@ -2671,7 +2671,7 @@
         "owner": "Jochen Glueck",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-22T17:34:04Z",
@@ -2701,7 +2701,7 @@
         "owner": "Timothy Chow",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 21
+        "score": 20
       },
       {
         "answer_created": "2026-09-21T23:54:48Z",
@@ -2761,7 +2761,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 27
+        "score": 29
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -2771,7 +2771,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 41
+        "score": 42
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -4148,7 +4148,7 @@
       "515476": "2026-09-23T15:27:56.734857Z",
       "515481": "2026-09-23T15:27:56.734857Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4254,10 +4254,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-22T14:25:15Z",
+        "answer_id": "876261",
+        "first_seen": "2026-09-23T17:26:50.025658Z",
+        "link": "https://physics.stackexchange.com/a/876261",
+        "owner": "Buzz",
+        "question_id": "876257",
+        "question_title": "Possible mistake in Griffiths: Introduction to Quantum Mechanics",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-17T20:25:42Z",
         "answer_id": "876115",
@@ -5106,9 +5116,10 @@
       "876115": "2026-09-22T21:24:54.419860Z",
       "876125": "2026-09-19T17:23:48.791702Z",
       "876128": "2026-09-19T18:27:25.796272Z",
-      "876232": "2026-09-22T09:26:17.065520Z"
+      "876232": "2026-09-22T09:26:17.065520Z",
+      "876261": "2026-09-23T17:26:50.025658Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5137,7 +5148,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5149,7 +5160,7 @@
         "owner": "DavidW",
         "question_id": "306013",
         "question_title": "\"Savage\" in computer-controlled city accidentally kills his mother",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-10T23:59:33Z",
@@ -6252,7 +6263,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "space-high-score": {
     "entries": [
@@ -6556,7 +6567,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7743,6 +7754,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T16:29:05.285893Z"
+    "last_checked": "2026-09-23T17:26:50.025658Z"
   }
 }
