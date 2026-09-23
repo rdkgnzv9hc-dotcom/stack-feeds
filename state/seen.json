@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "law-high-score": {
     "entries": [
@@ -2005,7 +2005,7 @@
       "115603": "2026-09-22T20:26:04.451505Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "math-high-score": {
     "entries": [
@@ -2628,7 +2628,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4130,7 +4130,7 @@
       "515442": "2026-09-22T03:27:11.340844Z",
       "515449": "2026-09-22T20:26:04.451505Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4236,7 +4236,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4298,7 +4298,7 @@
         "owner": "Xerxes",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting physics similar to how it is affecting mathematics?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-14T18:39:34Z",
@@ -4328,7 +4328,7 @@
         "owner": "knzhou",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting physics similar to how it is affecting mathematics?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-09-14T05:28:32Z",
@@ -4338,7 +4338,7 @@
         "owner": "AccidentalFourierTransform",
         "question_id": "875965",
         "question_title": "What are ways that AI is affecting physics similar to how it is affecting mathematics?",
-        "score": 26
+        "score": 25
       },
       {
         "answer_created": "2026-09-11T15:42:29Z",
@@ -5090,7 +5090,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5119,7 +5119,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6231,7 +6231,7 @@
       "305999": "2026-09-21T12:30:08.304335Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "space-high-score": {
     "entries": [
@@ -6243,7 +6243,7 @@
         "owner": "Organic Marble",
         "question_id": "70714",
         "question_title": "Are astronauts permanently tethered during an EVA?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-08-14T23:56:24Z",
@@ -6535,7 +6535,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7721,6 +7721,6 @@
       "274576": "2026-09-17T20:27:27.685506Z",
       "274589": "2026-09-20T23:24:18.817304Z"
     },
-    "last_checked": "2026-09-23T00:31:45.226258Z"
+    "last_checked": "2026-09-23T01:26:35.687942Z"
   }
 }
