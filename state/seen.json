@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "law-high-score": {
     "entries": [
@@ -1304,7 +1304,7 @@
         "owner": "Dale M",
         "question_id": "115601",
         "question_title": "What is the legal purpose of marriage?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-09-16T01:07:50Z",
@@ -1324,7 +1324,7 @@
         "owner": "Dale M",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-20T14:16:01Z",
@@ -2005,7 +2005,7 @@
       "115603": "2026-09-22T20:26:04.451505Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "math-high-score": {
     "entries": [
@@ -2628,7 +2628,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2660,7 +2660,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515391",
         "question_title": "How do you manage notation overload?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-21T21:26:48Z",
@@ -2740,7 +2740,7 @@
         "owner": "Jon Bannon",
         "question_id": "515377",
         "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-20T10:18:10Z",
@@ -2750,7 +2750,7 @@
         "owner": "Nate River",
         "question_id": "515377",
         "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-17T18:40:51Z",
@@ -4132,7 +4132,7 @@
       "515449": "2026-09-22T20:26:04.451505Z",
       "515470": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4238,7 +4238,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5092,7 +5092,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5121,7 +5121,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5263,7 +5263,7 @@
         "owner": "Henning Kockerbeck",
         "question_id": "305939",
         "question_title": "Why did French publishers of Marvel comics switch Wolverine's name back from \"Serval\" to \"Wolverine\" after the 1980s-90s?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-12T13:20:48Z",
@@ -6234,7 +6234,7 @@
       "306001": "2026-09-23T06:33:07.982785Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "space-high-score": {
     "entries": [
@@ -6538,7 +6538,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7725,6 +7725,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T07:28:02.174679Z"
+    "last_checked": "2026-09-23T08:28:24.205560Z"
   }
 }
