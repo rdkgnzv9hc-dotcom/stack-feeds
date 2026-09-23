@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "law-high-score": {
     "entries": [
@@ -2005,7 +2005,7 @@
       "115603": "2026-09-22T20:26:04.451505Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "math-high-score": {
     "entries": [
@@ -2628,10 +2628,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-23T03:04:36Z",
+        "answer_id": "515470",
+        "first_seen": "2026-09-23T07:28:02.174679Z",
+        "link": "https://mathoverflow.net/a/515470",
+        "owner": "Timothy Chow",
+        "question_id": "515435",
+        "question_title": "AI advisory group vs. immediate open access?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-21T23:54:48Z",
         "answer_id": "515440",
@@ -2650,7 +2660,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515391",
         "question_title": "How do you manage notation overload?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-21T21:26:48Z",
@@ -2670,7 +2680,7 @@
         "owner": "Will Sawin",
         "question_id": "515443",
         "question_title": "The mathematical Church-Turing thesis",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-21T20:50:36Z",
@@ -2700,7 +2710,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 34
+        "score": 36
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -3621,16 +3631,6 @@
         "question_id": "513515",
         "question_title": "Is this a counterexample to the claw-free Schur-positivity conjecture?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-23T22:33:53Z",
-        "answer_id": "513532",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513532",
-        "owner": "Alessandro Della Corte",
-        "question_id": "513498",
-        "question_title": "PhD student supervision and AI use statements",
-        "score": 13
       }
     ],
     "known": {
@@ -4129,9 +4129,10 @@
       "515438": "2026-09-22T06:32:23.011073Z",
       "515440": "2026-09-23T06:33:07.982785Z",
       "515442": "2026-09-22T03:27:11.340844Z",
-      "515449": "2026-09-22T20:26:04.451505Z"
+      "515449": "2026-09-22T20:26:04.451505Z",
+      "515470": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4237,7 +4238,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5091,7 +5092,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5120,7 +5121,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6233,7 +6234,7 @@
       "306001": "2026-09-23T06:33:07.982785Z",
       "306008": "2026-09-21T16:27:51.911434Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "space-high-score": {
     "entries": [
@@ -6537,10 +6538,20 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-23T00:37:44Z",
+        "answer_id": "274615",
+        "first_seen": "2026-09-23T07:28:02.174679Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274615",
+        "owner": "Navicula",
+        "question_id": "274614",
+        "question_title": "What is the effect of a world's birthrate being dependent on our world's death rate? Would the population be sustainable?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-14T23:02:16Z",
         "answer_id": "274557",
@@ -7530,16 +7541,6 @@
         "question_id": "274057",
         "question_title": "Why would an organ black market still exist even with the existence of a reliable white market?",
         "score": 8
-      },
-      {
-        "answer_created": "2026-07-16T11:53:05Z",
-        "answer_id": "274062",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274062",
-        "owner": "Trish",
-        "question_id": "274057",
-        "question_title": "Why would an organ black market still exist even with the existence of a reliable white market?",
-        "score": 7
       }
     ],
     "known": {
@@ -7721,8 +7722,9 @@
       "274566": "2026-09-16T13:29:04.392403Z",
       "274570": "2026-09-16T16:27:25.249371Z",
       "274576": "2026-09-17T20:27:27.685506Z",
-      "274589": "2026-09-20T23:24:18.817304Z"
+      "274589": "2026-09-20T23:24:18.817304Z",
+      "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T06:33:07.982785Z"
+    "last_checked": "2026-09-23T07:28:02.174679Z"
   }
 }
