@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "law-high-score": {
     "entries": [
@@ -1314,7 +1314,7 @@
         "owner": "Dale M",
         "question_id": "115601",
         "question_title": "What is the legal purpose of marriage?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-16T01:07:50Z",
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,7 +2639,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2651,7 +2651,7 @@
         "owner": "Timothy Chow",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-21T23:54:48Z",
@@ -2711,7 +2711,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -2721,7 +2721,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 37
+        "score": 36
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -4143,7 +4143,7 @@
       "515449": "2026-09-22T20:26:04.451505Z",
       "515470": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4249,7 +4249,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4261,7 +4261,7 @@
         "owner": "controlgroup",
         "question_id": "876113",
         "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-21T12:39:45Z",
@@ -4281,7 +4281,7 @@
         "owner": "GiorgioP-DoomsdayClockIsAt-85",
         "question_id": "876113",
         "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-18T06:56:00Z",
@@ -5103,7 +5103,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5132,7 +5132,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6247,7 +6247,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "space-high-score": {
     "entries": [
@@ -6551,7 +6551,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7738,6 +7738,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T10:27:29.184930Z"
+    "last_checked": "2026-09-23T11:26:53.687274Z"
   }
 }
