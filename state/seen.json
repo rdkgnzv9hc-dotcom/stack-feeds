@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "law-high-score": {
     "entries": [
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,10 +2639,30 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-22T17:34:04Z",
+        "answer_id": "515461",
+        "first_seen": "2026-09-23T12:32:25.677603Z",
+        "link": "https://mathoverflow.net/a/515461",
+        "owner": "Nicholas Kuhn",
+        "question_id": "515457",
+        "question_title": "Realizability of maps between classifying spaces of topological categories by functors",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-09-22T00:06:38Z",
+        "answer_id": "515441",
+        "first_seen": "2026-09-23T12:32:25.677603Z",
+        "link": "https://mathoverflow.net/a/515441",
+        "owner": "Matt F.",
+        "question_id": "515435",
+        "question_title": "AI advisory group vs. immediate open access?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-23T03:04:36Z",
         "answer_id": "515470",
@@ -2651,7 +2671,7 @@
         "owner": "Timothy Chow",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 12
+        "score": 16
       },
       {
         "answer_created": "2026-09-21T23:54:48Z",
@@ -2711,7 +2731,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -3622,26 +3642,6 @@
         "question_id": "513661",
         "question_title": "Was a computational hardness argument ever used to solve a mathematical conjecture?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-28T10:02:36Z",
-        "answer_id": "513677",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513677",
-        "owner": "Gary Ng",
-        "question_id": "511572",
-        "question_title": "What can mathematicians do to mitigate the deleterious impacts of AI?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-07-25T02:45:45Z",
-        "answer_id": "513576",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513576",
-        "owner": "user595929",
-        "question_id": "513515",
-        "question_title": "Is this a counterexample to the claw-free Schur-positivity conjecture?",
-        "score": 10
       }
     ],
     "known": {
@@ -4139,11 +4139,13 @@
       "515436": "2026-09-22T21:24:54.419860Z",
       "515438": "2026-09-22T06:32:23.011073Z",
       "515440": "2026-09-23T06:33:07.982785Z",
+      "515441": "2026-09-23T12:32:25.677603Z",
       "515442": "2026-09-22T03:27:11.340844Z",
       "515449": "2026-09-22T20:26:04.451505Z",
+      "515461": "2026-09-23T12:32:25.677603Z",
       "515470": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4249,7 +4251,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5103,7 +5105,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5132,7 +5134,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6247,7 +6249,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "space-high-score": {
     "entries": [
@@ -6551,7 +6553,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7738,6 +7740,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T11:26:53.687274Z"
+    "last_checked": "2026-09-23T12:32:25.677603Z"
   }
 }
