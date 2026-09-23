@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "law-high-score": {
     "entries": [
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,7 +2639,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2721,7 +2721,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 36
+        "score": 37
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -4143,7 +4143,7 @@
       "515449": "2026-09-22T20:26:04.451505Z",
       "515470": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4249,7 +4249,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5103,7 +5103,7 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5132,10 +5132,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-21T12:41:43Z",
+        "answer_id": "306015",
+        "first_seen": "2026-09-23T10:27:29.184930Z",
+        "link": "https://scifi.stackexchange.com/a/306015",
+        "owner": "DavidW",
+        "question_id": "306013",
+        "question_title": "\"Savage\" in computer-controlled city accidentally kills his mother",
+        "score": 15
+      },
       {
         "answer_created": "2026-09-10T23:59:33Z",
         "answer_id": "305909",
@@ -5504,7 +5514,7 @@
         "owner": "cometaryorbit",
         "question_id": "305668",
         "question_title": "Identifying an alien, otherworldly entity in Tolkien's legendarium",
-        "score": 48
+        "score": 49
       },
       {
         "answer_created": "2026-08-18T19:40:08Z",
@@ -6125,16 +6135,6 @@
         "question_id": "305007",
         "question_title": "Novel with an alien that is inhabiting a human, and has the power to switch minds and swap bodies",
         "score": 16
-      },
-      {
-        "answer_created": "2026-06-21T18:22:03Z",
-        "answer_id": "304965",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/304965",
-        "owner": "Valorum",
-        "question_id": "304963",
-        "question_title": "What's the origin of the depiction of Medusa with a serpent's lower body?",
-        "score": 25
       }
     ],
     "known": {
@@ -6244,9 +6244,10 @@
       "305996": "2026-09-21T10:27:01.647407Z",
       "305999": "2026-09-21T12:30:08.304335Z",
       "306001": "2026-09-23T06:33:07.982785Z",
-      "306008": "2026-09-21T16:27:51.911434Z"
+      "306008": "2026-09-21T16:27:51.911434Z",
+      "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "space-high-score": {
     "entries": [
@@ -6550,7 +6551,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7737,6 +7738,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T09:27:25.929733Z"
+    "last_checked": "2026-09-23T10:27:29.184930Z"
   }
 }
