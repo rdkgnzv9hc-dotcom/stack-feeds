@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "law-high-score": {
     "entries": [
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,7 +2639,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2661,7 +2661,7 @@
         "owner": "Sam Hopkins",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-07T13:43:39Z",
@@ -2691,7 +2691,7 @@
         "owner": "Jochen Glueck",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-09-22T17:34:04Z",
@@ -2781,7 +2781,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 28
+        "score": 31
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -2791,7 +2791,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 48
+        "score": 49
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -4150,7 +4150,7 @@
       "515487": "2026-09-23T23:22:38.000528Z",
       "515491": "2026-09-24T00:34:19.734526Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4256,7 +4256,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4308,7 +4308,7 @@
         "owner": "Agerhell",
         "question_id": "876113",
         "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-10T15:31:19Z",
@@ -5121,7 +5121,7 @@
       "876232": "2026-09-22T09:26:17.065520Z",
       "876261": "2026-09-23T17:26:50.025658Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5150,7 +5150,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6265,7 +6265,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "space-high-score": {
     "entries": [
@@ -6569,7 +6569,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7756,6 +7756,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-24T03:27:16.566060Z"
+    "last_checked": "2026-09-24T04:27:44.116729Z"
   }
 }
