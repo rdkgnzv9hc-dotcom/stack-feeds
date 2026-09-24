@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1043,7 +1043,7 @@
         "owner": "TomH",
         "question_id": "19658",
         "question_title": "What computers were originally used to verify the four color theorem?",
-        "score": 44
+        "score": 45
       },
       {
         "answer_created": "2026-08-14T13:22:46Z",
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "law-high-score": {
     "entries": [
@@ -1344,7 +1344,7 @@
         "owner": "Michael Seifert",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-09-17T19:25:50Z",
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,7 +2639,7 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2651,7 +2651,7 @@
         "owner": "tgkolda",
         "question_id": "514973",
         "question_title": "Effect of AI on publication rates",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-23T13:48:52Z",
@@ -4150,7 +4150,7 @@
       "515487": "2026-09-23T23:22:38.000528Z",
       "515491": "2026-09-24T00:34:19.734526Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4256,7 +4256,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4378,7 +4378,7 @@
         "owner": "Lawnmower Man",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-11T07:30:14Z",
@@ -5121,7 +5121,7 @@
       "876232": "2026-09-22T09:26:17.065520Z",
       "876261": "2026-09-23T17:26:50.025658Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5150,7 +5150,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6265,7 +6265,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "space-high-score": {
     "entries": [
@@ -6569,7 +6569,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7756,6 +7756,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-24T04:27:44.116729Z"
+    "last_checked": "2026-09-24T05:26:29.358002Z"
   }
 }
