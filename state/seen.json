@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "law-high-score": {
     "entries": [
@@ -1314,7 +1314,7 @@
         "owner": "Dale M",
         "question_id": "115601",
         "question_title": "What is the legal purpose of marriage?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-16T01:07:50Z",
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,10 +2639,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-23T15:18:23Z",
+        "answer_id": "515491",
+        "first_seen": "2026-09-24T00:34:19.734526Z",
+        "link": "https://mathoverflow.net/a/515491",
+        "owner": "tgkolda",
+        "question_id": "514973",
+        "question_title": "Effect of AI on publication rates",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-23T13:48:52Z",
         "answer_id": "515487",
@@ -2671,7 +2681,7 @@
         "owner": "Francois Ziegler",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-09-23T06:06:27Z",
@@ -3632,16 +3642,6 @@
         "question_id": "513755",
         "question_title": "Is every known counterexample to the Jacobian Conjecture in $\\mathbb C^n$, $n\u22654$, a trivial stabilization of a 3\u2011dimensional one?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-30T17:44:08Z",
-        "answer_id": "513763",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513763",
-        "owner": "David E Speyer",
-        "question_id": "513755",
-        "question_title": "Is every known counterexample to the Jacobian Conjecture in $\\mathbb C^n$, $n\u22654$, a trivial stabilization of a 3\u2011dimensional one?",
-        "score": 13
       }
     ],
     "known": {
@@ -4147,9 +4147,10 @@
       "515470": "2026-09-23T07:28:02.174679Z",
       "515476": "2026-09-23T15:27:56.734857Z",
       "515481": "2026-09-23T15:27:56.734857Z",
-      "515487": "2026-09-23T23:22:38.000528Z"
+      "515487": "2026-09-23T23:22:38.000528Z",
+      "515491": "2026-09-24T00:34:19.734526Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4255,7 +4256,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5120,7 +5121,7 @@
       "876232": "2026-09-22T09:26:17.065520Z",
       "876261": "2026-09-23T17:26:50.025658Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5149,7 +5150,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6264,7 +6265,7 @@
       "306008": "2026-09-21T16:27:51.911434Z",
       "306015": "2026-09-23T10:27:29.184930Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "space-high-score": {
     "entries": [
@@ -6568,7 +6569,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7755,6 +7756,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-23T23:22:38.000528Z"
+    "last_checked": "2026-09-24T00:34:19.734526Z"
   }
 }
