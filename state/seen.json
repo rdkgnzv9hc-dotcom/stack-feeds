@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "law-high-score": {
     "entries": [
@@ -1294,7 +1294,7 @@
         "owner": "Jen",
         "question_id": "115601",
         "question_title": "What is the legal purpose of marriage?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-01T18:59:45Z",
@@ -1314,7 +1314,7 @@
         "owner": "Dale M",
         "question_id": "115601",
         "question_title": "What is the legal purpose of marriage?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-16T01:07:50Z",
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "math-high-score": {
     "entries": [
@@ -2639,10 +2639,20 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-24T06:20:00Z",
+        "answer_id": "515500",
+        "first_seen": "2026-09-24T14:28:48.425272Z",
+        "link": "https://mathoverflow.net/a/515500",
+        "owner": "Achim Krause",
+        "question_id": "515497",
+        "question_title": "Minimal kernels",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-24T12:37:52Z",
         "answer_id": "515508",
@@ -2651,7 +2661,7 @@
         "owner": "James E Hanson",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 15
+        "score": 22
       },
       {
         "answer_created": "2026-09-15T03:16:48Z",
@@ -2711,7 +2721,7 @@
         "owner": "Jochen Glueck",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-22T17:34:04Z",
@@ -2801,7 +2811,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 30
+        "score": 33
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -2811,7 +2821,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 53
+        "score": 54
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -3301,7 +3311,7 @@
         "owner": "John Griesmer",
         "question_id": "514571",
         "question_title": "Is upper density preserved along many arithmetic progressions?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-08-22T22:59:02Z",
@@ -3632,16 +3642,6 @@
         "question_id": "513340",
         "question_title": "Is the determinant of this \"Fibonacci sum\" indicator matrix always $-1$, $0$, or $1$?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-31T22:51:04Z",
-        "answer_id": "513806",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513806",
-        "owner": "Rado",
-        "question_id": "513742",
-        "question_title": "Are we stuck with Lean?",
-        "score": 10
       }
     ],
     "known": {
@@ -4150,9 +4150,10 @@
       "515481": "2026-09-23T15:27:56.734857Z",
       "515487": "2026-09-23T23:22:38.000528Z",
       "515491": "2026-09-24T00:34:19.734526Z",
+      "515500": "2026-09-24T14:28:48.425272Z",
       "515508": "2026-09-24T13:29:16.708196Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4258,7 +4259,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5123,7 +5124,7 @@
       "876232": "2026-09-22T09:26:17.065520Z",
       "876261": "2026-09-23T17:26:50.025658Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5152,7 +5153,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5164,7 +5165,7 @@
         "owner": "F1Krazy",
         "question_id": "306027",
         "question_title": "In Harry Potter OotP, after Umbridge sacks Hagrid, why doesn't he go to Nr. 12, Grimmauld Place?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-21T12:41:43Z",
@@ -6268,7 +6269,7 @@
       "306015": "2026-09-23T10:27:29.184930Z",
       "306028": "2026-09-24T07:28:04.223525Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "space-high-score": {
     "entries": [
@@ -6572,7 +6573,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7759,6 +7760,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-24T13:29:16.708196Z"
+    "last_checked": "2026-09-24T14:28:48.425272Z"
   }
 }
