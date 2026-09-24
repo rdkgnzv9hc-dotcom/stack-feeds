@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "law-high-score": {
     "entries": [
@@ -1314,7 +1314,7 @@
         "owner": "Dale M",
         "question_id": "115601",
         "question_title": "What is the legal purpose of marriage?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-16T01:07:50Z",
@@ -2016,10 +2016,20 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "math-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-22T11:58:31Z",
+        "answer_id": "5150058",
+        "first_seen": "2026-09-24T18:30:41.045206Z",
+        "link": "https://math.stackexchange.com/a/5150058",
+        "owner": "lulu",
+        "question_id": "5150057",
+        "question_title": "Die with prime number of faces implies events are not independent why?",
+        "score": 25
+      },
       {
         "answer_created": "2026-09-06T22:45:45Z",
         "answer_id": "5148804",
@@ -2637,12 +2647,23 @@
       "5148047": "2026-09-11T15:46:44.077292Z",
       "5148447": "2026-09-11T15:46:44.077292Z",
       "5148704": "2026-09-11T15:46:44.077292Z",
-      "5148804": "2026-09-11T15:46:44.077292Z"
+      "5148804": "2026-09-11T15:46:44.077292Z",
+      "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-24T17:20:42Z",
+        "answer_id": "515516",
+        "first_seen": "2026-09-24T18:30:41.045206Z",
+        "link": "https://mathoverflow.net/a/515516",
+        "owner": "David White",
+        "question_id": "515514",
+        "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-24T15:46:54Z",
         "answer_id": "515515",
@@ -2651,7 +2672,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 15
+        "score": 19
       },
       {
         "answer_created": "2026-09-24T06:20:00Z",
@@ -2671,7 +2692,7 @@
         "owner": "James E Hanson",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 27
+        "score": 30
       },
       {
         "answer_created": "2026-09-15T03:16:48Z",
@@ -2701,7 +2722,7 @@
         "owner": "Sam Hopkins",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-07T13:43:39Z",
@@ -3632,16 +3653,6 @@
         "question_id": "455142",
         "question_title": "Realizing integral homology classes on non-orientable manifolds by embedded orientable submanifolds",
         "score": 12
-      },
-      {
-        "answer_created": "2026-08-03T06:45:39Z",
-        "answer_id": "513862",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513862",
-        "owner": "0x11111",
-        "question_id": "513818",
-        "question_title": "A serious challenge to equity in mathematical research",
-        "score": 13
       }
     ],
     "known": {
@@ -4152,9 +4163,10 @@
       "515491": "2026-09-24T00:34:19.734526Z",
       "515500": "2026-09-24T14:28:48.425272Z",
       "515508": "2026-09-24T13:29:16.708196Z",
-      "515515": "2026-09-24T16:29:14.203680Z"
+      "515515": "2026-09-24T16:29:14.203680Z",
+      "515516": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4260,7 +4272,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5136,7 +5148,7 @@
       "876261": "2026-09-23T17:26:50.025658Z",
       "876304": "2026-09-24T15:28:41.219148Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5165,7 +5177,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6281,7 +6293,7 @@
       "306015": "2026-09-23T10:27:29.184930Z",
       "306028": "2026-09-24T07:28:04.223525Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "space-high-score": {
     "entries": [
@@ -6585,7 +6597,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7772,6 +7784,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-24T17:26:16.591989Z"
+    "last_checked": "2026-09-24T18:30:41.045206Z"
   }
 }
