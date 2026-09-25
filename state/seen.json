@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "law-high-score": {
     "entries": [
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "math-high-score": {
     "entries": [
@@ -2650,7 +2650,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2672,7 +2672,7 @@
         "owner": "David White",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 16
+        "score": 15
       },
       {
         "answer_created": "2026-09-24T15:46:54Z",
@@ -2682,7 +2682,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 24
+        "score": 26
       },
       {
         "answer_created": "2026-09-24T06:20:00Z",
@@ -2702,7 +2702,7 @@
         "owner": "James E Hanson",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 36
+        "score": 38
       },
       {
         "answer_created": "2026-09-15T03:16:48Z",
@@ -2832,7 +2832,7 @@
         "owner": "Will Sawin",
         "question_id": "515443",
         "question_title": "Are there serious objections to Hilbert's Thesis?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-21T20:50:36Z",
@@ -4167,7 +4167,7 @@
       "515515": "2026-09-24T16:29:14.203680Z",
       "515516": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4273,7 +4273,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5149,7 +5149,7 @@
       "876261": "2026-09-23T17:26:50.025658Z",
       "876304": "2026-09-24T15:28:41.219148Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5178,7 +5178,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5190,7 +5190,7 @@
         "owner": "F1Krazy",
         "question_id": "306027",
         "question_title": "In Harry Potter OotP, after Umbridge sacks Hagrid, why doesn't he go to Nr. 12, Grimmauld Place?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-21T12:41:43Z",
@@ -6294,7 +6294,7 @@
       "306015": "2026-09-23T10:27:29.184930Z",
       "306028": "2026-09-24T07:28:04.223525Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "space-high-score": {
     "entries": [
@@ -6598,7 +6598,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7785,6 +7785,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-25T01:25:30.854910Z"
+    "last_checked": "2026-09-25T02:26:49.601675Z"
   }
 }
