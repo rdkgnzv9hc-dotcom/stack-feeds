@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "law-high-score": {
     "entries": [
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "math-high-score": {
     "entries": [
@@ -2650,7 +2650,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2682,7 +2682,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-24T06:20:00Z",
@@ -2862,7 +2862,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 59
+        "score": 60
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -4167,7 +4167,7 @@
       "515515": "2026-09-24T16:29:14.203680Z",
       "515516": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4273,10 +4273,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-23T22:14:01Z",
+        "answer_id": "876303",
+        "first_seen": "2026-09-25T06:33:16.163282Z",
+        "link": "https://physics.stackexchange.com/a/876303",
+        "owner": "Talal Bin Tariq",
+        "question_id": "876290",
+        "question_title": "Why are there different formulas for orbital decay times via gravitational radiation? And, which one is correct?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-24T00:07:27Z",
         "answer_id": "876304",
@@ -5147,9 +5157,10 @@
       "876128": "2026-09-19T18:27:25.796272Z",
       "876232": "2026-09-22T09:26:17.065520Z",
       "876261": "2026-09-23T17:26:50.025658Z",
+      "876303": "2026-09-25T06:33:16.163282Z",
       "876304": "2026-09-24T15:28:41.219148Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5178,7 +5189,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6294,7 +6305,7 @@
       "306015": "2026-09-23T10:27:29.184930Z",
       "306028": "2026-09-24T07:28:04.223525Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "space-high-score": {
     "entries": [
@@ -6598,7 +6609,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7785,6 +7796,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-25T05:26:25.014793Z"
+    "last_checked": "2026-09-25T06:33:16.163282Z"
   }
 }
