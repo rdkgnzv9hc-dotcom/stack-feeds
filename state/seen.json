@@ -906,7 +906,7 @@
       "227696": "2026-09-18T15:26:38.206317Z",
       "227705": "2026-09-18T15:26:38.206317Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "history-high-score": {
     "entries": [
@@ -1001,7 +1001,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "19659": "2026-09-11T17:35:15.780317Z",
       "19671": "2026-09-11T18:29:58.299746Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "law-high-score": {
     "entries": [
@@ -2016,7 +2016,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "math-high-score": {
     "entries": [
@@ -2650,7 +2650,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2672,7 +2672,7 @@
         "owner": "David White",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-24T15:46:54Z",
@@ -2682,7 +2682,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-24T06:20:00Z",
@@ -2702,7 +2702,7 @@
         "owner": "James E Hanson",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-09-15T03:16:48Z",
@@ -2862,7 +2862,7 @@
         "owner": "mathworker21",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 60
+        "score": 61
       },
       {
         "answer_created": "2026-09-21T16:19:48Z",
@@ -4167,7 +4167,7 @@
       "515515": "2026-09-24T16:29:14.203680Z",
       "515516": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4273,7 +4273,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5160,7 +5160,7 @@
       "876303": "2026-09-25T06:33:16.163282Z",
       "876304": "2026-09-24T15:28:41.219148Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5189,7 +5189,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6305,7 +6305,7 @@
       "306015": "2026-09-23T10:27:29.184930Z",
       "306028": "2026-09-24T07:28:04.223525Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "space-high-score": {
     "entries": [
@@ -6609,7 +6609,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6621,7 +6621,7 @@
         "owner": "Navicula",
         "question_id": "274614",
         "question_title": "What is the effect of a world's birthrate being dependent on our world's death rate? Would the population be sustainable?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-09-14T23:02:16Z",
@@ -7796,6 +7796,6 @@
       "274589": "2026-09-20T23:24:18.817304Z",
       "274615": "2026-09-23T07:28:02.174679Z"
     },
-    "last_checked": "2026-09-25T06:33:16.163282Z"
+    "last_checked": "2026-09-25T07:28:16.291687Z"
   }
 }
