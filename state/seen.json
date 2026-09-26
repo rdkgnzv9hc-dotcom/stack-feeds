@@ -917,7 +917,7 @@
       "227705": "2026-09-18T15:26:38.206317Z",
       "227727": "2026-09-25T11:27:26.729103Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "history-high-score": {
     "entries": [
@@ -1012,7 +1012,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1294,7 +1294,7 @@
       "19671": "2026-09-11T18:29:58.299746Z",
       "19685": "2026-09-25T21:26:38.386075Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "law-high-score": {
     "entries": [
@@ -2038,7 +2038,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "math-high-score": {
     "entries": [
@@ -2672,7 +2672,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2714,7 +2714,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-09-24T06:20:00Z",
@@ -4190,7 +4190,7 @@
       "515516": "2026-09-24T18:30:41.045206Z",
       "515536": "2026-09-25T21:26:38.386075Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4296,7 +4296,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4308,7 +4308,7 @@
         "owner": "arnoldS",
         "question_id": "876322",
         "question_title": "Does Newtonian mechanics make claims about how forces are created?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-23T22:14:01Z",
@@ -4318,7 +4318,7 @@
         "owner": "Talal Bin Tariq",
         "question_id": "876290",
         "question_title": "Why are there different formulas for orbital decay times via gravitational radiation? And, which one is correct?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-24T00:07:27Z",
@@ -4448,7 +4448,7 @@
         "owner": "Lawnmower Man",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-11T07:30:14Z",
@@ -4458,7 +4458,7 @@
         "owner": "Vladimir F \u0413\u0435\u0440\u043e\u044f\u043c \u0441\u043b\u0430\u0432\u0430",
         "question_id": "875854",
         "question_title": "What does the blowup solution to Navier\u2013Stokes mean for real-life liquids?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-10T14:17:04Z",
@@ -5194,7 +5194,7 @@
       "876304": "2026-09-24T15:28:41.219148Z",
       "876323": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5223,7 +5223,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5235,7 +5235,7 @@
         "owner": "user14111",
         "question_id": "306048",
         "question_title": "Pre-1995 novel: man wills away the rock his skeptical girlfriend is sitting on",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-09-23T16:03:53Z",
@@ -6340,7 +6340,7 @@
       "306028": "2026-09-24T07:28:04.223525Z",
       "306049": "2026-09-25T12:33:14.609101Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "space-high-score": {
     "entries": [
@@ -6644,7 +6644,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7832,6 +7832,6 @@
       "274615": "2026-09-23T07:28:02.174679Z",
       "274628": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-26T02:26:30.049143Z"
+    "last_checked": "2026-09-26T03:28:47.584119Z"
   }
 }
