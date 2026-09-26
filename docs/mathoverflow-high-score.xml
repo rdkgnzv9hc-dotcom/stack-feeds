@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 14:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:26:31 +0000</lastBuildDate>
+    <item>
+      <title>Extracting a first order proof from a non first order proof — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515561</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515561</guid>
+      <pubDate>Sat, 26 Sep 2026 15:26:31 +0000</pubDate>
+      <description>Answer by Andrei Sipoș. Score when last checked: 10. Originally posted: 2026-09-26T06:55:43Z.</description>
+    </item>
     <item>
       <title>Dossiers on LLMs in mathematical research — answer reached score 10</title>
       <link>https://mathoverflow.net/a/513901</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:513964</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by HJRW. Score when last checked: 10. Originally posted: 2026-08-05T12:38:34Z.</description>
-    </item>
-    <item>
-      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 12</title>
-      <link>https://mathoverflow.net/a/513956</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513956</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by M.González. Score when last checked: 12. Originally posted: 2026-08-05T08:30:37Z.</description>
     </item>
   </channel>
 </rss>

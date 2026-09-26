@@ -917,7 +917,7 @@
       "227705": "2026-09-18T15:26:38.206317Z",
       "227727": "2026-09-25T11:27:26.729103Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "history-high-score": {
     "entries": [
@@ -1012,7 +1012,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1024,7 +1024,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-09T11:46:15Z",
@@ -1294,7 +1294,7 @@
       "19671": "2026-09-11T18:29:58.299746Z",
       "19685": "2026-09-25T21:26:38.386075Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "law-high-score": {
     "entries": [
@@ -2038,7 +2038,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "math-high-score": {
     "entries": [
@@ -2672,10 +2672,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-26T06:55:43Z",
+        "answer_id": "515561",
+        "first_seen": "2026-09-26T15:26:31.710895Z",
+        "link": "https://mathoverflow.net/a/515561",
+        "owner": "Andrei Sipo\u0219",
+        "question_id": "515551",
+        "question_title": "Extracting a first order proof from a non first order proof",
+        "score": 10
+      },
       {
         "answer_created": "2026-08-03T23:08:02Z",
         "answer_id": "513901",
@@ -3665,16 +3675,6 @@
         "question_id": "513937",
         "question_title": "Calculating $\\pi_2(K)$",
         "score": 10
-      },
-      {
-        "answer_created": "2026-08-05T08:30:37Z",
-        "answer_id": "513956",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513956",
-        "owner": "M.Gonz\u00e1lez",
-        "question_id": "502120",
-        "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
-        "score": 12
       }
     ],
     "known": {
@@ -4189,9 +4189,10 @@
       "515508": "2026-09-24T13:29:16.708196Z",
       "515515": "2026-09-24T16:29:14.203680Z",
       "515516": "2026-09-24T18:30:41.045206Z",
-      "515536": "2026-09-25T21:26:38.386075Z"
+      "515536": "2026-09-25T21:26:38.386075Z",
+      "515561": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4297,7 +4298,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5206,7 +5207,7 @@
       "876308": "2026-09-26T08:27:55.956122Z",
       "876323": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5235,10 +5236,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-26T08:58:37Z",
+        "answer_id": "306069",
+        "first_seen": "2026-09-26T15:26:31.710895Z",
+        "link": "https://scifi.stackexchange.com/a/306069",
+        "owner": "Dave Goldman",
+        "question_id": "40701",
+        "question_title": "How did Ursula K. Le Guin come up with the word \"ansible\"?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-24T05:59:51Z",
         "answer_id": "306038",
@@ -6228,16 +6239,6 @@
         "question_id": "305028",
         "question_title": "Fire elemental is intimidated by magnesium burning under water",
         "score": 20
-      },
-      {
-        "answer_created": "2026-06-27T21:00:48Z",
-        "answer_id": "305029",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305029",
-        "owner": "Andrew",
-        "question_id": "305028",
-        "question_title": "Fire elemental is intimidated by magnesium burning under water",
-        "score": 15
       }
     ],
     "known": {
@@ -6351,9 +6352,10 @@
       "306015": "2026-09-23T10:27:29.184930Z",
       "306028": "2026-09-24T07:28:04.223525Z",
       "306038": "2026-09-26T08:27:55.956122Z",
-      "306049": "2026-09-25T12:33:14.609101Z"
+      "306049": "2026-09-25T12:33:14.609101Z",
+      "306069": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "space-high-score": {
     "entries": [
@@ -6657,7 +6659,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7845,6 +7847,6 @@
       "274615": "2026-09-23T07:28:02.174679Z",
       "274628": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-26T14:26:44.793092Z"
+    "last_checked": "2026-09-26T15:26:31.710895Z"
   }
 }
