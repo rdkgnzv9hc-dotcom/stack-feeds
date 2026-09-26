@@ -917,7 +917,7 @@
       "227705": "2026-09-18T15:26:38.206317Z",
       "227727": "2026-09-25T11:27:26.729103Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "history-high-score": {
     "entries": [
@@ -1012,7 +1012,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1024,7 +1024,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-09T11:46:15Z",
@@ -1294,7 +1294,7 @@
       "19671": "2026-09-11T18:29:58.299746Z",
       "19685": "2026-09-25T21:26:38.386075Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "law-high-score": {
     "entries": [
@@ -2038,7 +2038,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "math-high-score": {
     "entries": [
@@ -2672,7 +2672,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4193,7 +4193,7 @@
       "515561": "2026-09-26T15:26:31.710895Z",
       "515565": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4299,7 +4299,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5219,7 +5219,7 @@
       "876323": "2026-09-25T14:28:57.579961Z",
       "876363": "2026-09-26T17:26:08.727751Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5248,10 +5248,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-25T03:49:07Z",
+        "answer_id": "306053",
+        "first_seen": "2026-09-26T22:26:05.882310Z",
+        "link": "https://scifi.stackexchange.com/a/306053",
+        "owner": "nebogipfel",
+        "question_id": "306052",
+        "question_title": "Movie from the 2000s or before, possibly black and white, set on Earth with robots continuing their dead creator's mission",
+        "score": 15
+      },
       {
         "answer_created": "2026-09-26T08:58:37Z",
         "answer_id": "306069",
@@ -6241,16 +6251,6 @@
         "question_id": "305053",
         "question_title": "Has there been a Kryptonian who doesn't have blue eyes in the comics?",
         "score": 16
-      },
-      {
-        "answer_created": "2026-06-27T21:01:43Z",
-        "answer_id": "305030",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305030",
-        "owner": "Blaze",
-        "question_id": "305028",
-        "question_title": "Fire elemental is intimidated by magnesium burning under water",
-        "score": 20
       }
     ],
     "known": {
@@ -6365,9 +6365,10 @@
       "306028": "2026-09-24T07:28:04.223525Z",
       "306038": "2026-09-26T08:27:55.956122Z",
       "306049": "2026-09-25T12:33:14.609101Z",
+      "306053": "2026-09-26T22:26:05.882310Z",
       "306069": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "space-high-score": {
     "entries": [
@@ -6682,7 +6683,7 @@
       "70715": "2026-09-20T00:34:11.817599Z",
       "70719": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7870,6 +7871,6 @@
       "274615": "2026-09-23T07:28:02.174679Z",
       "274628": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-26T21:26:27.805425Z"
+    "last_checked": "2026-09-26T22:26:05.882310Z"
   }
 }
