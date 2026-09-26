@@ -917,7 +917,7 @@
       "227705": "2026-09-18T15:26:38.206317Z",
       "227727": "2026-09-25T11:27:26.729103Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "history-high-score": {
     "entries": [
@@ -1012,7 +1012,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1294,7 +1294,7 @@
       "19671": "2026-09-11T18:29:58.299746Z",
       "19685": "2026-09-25T21:26:38.386075Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "law-high-score": {
     "entries": [
@@ -2038,7 +2038,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "math-high-score": {
     "entries": [
@@ -2672,7 +2672,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2684,7 +2684,7 @@
         "owner": "Andrei Sipo\u0219",
         "question_id": "515551",
         "question_title": "Extracting a first order proof from a non first order proof",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-08-03T23:08:02Z",
@@ -2904,7 +2904,7 @@
         "owner": "Denis T",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-09-22T00:17:49Z",
@@ -4192,7 +4192,7 @@
       "515536": "2026-09-25T21:26:38.386075Z",
       "515561": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4298,10 +4298,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-25T11:46:50Z",
+        "answer_id": "876363",
+        "first_seen": "2026-09-26T17:26:08.727751Z",
+        "link": "https://physics.stackexchange.com/a/876363",
+        "owner": "Dale",
+        "question_id": "876355",
+        "question_title": "Is the assumption of a global (priviledged) inertial frame a practically necessary assumption to apply Newton's laws?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-24T04:28:47Z",
         "answer_id": "876308",
@@ -4320,7 +4330,7 @@
         "owner": "arnoldS",
         "question_id": "876322",
         "question_title": "Does Newtonian mechanics make claims about how forces are created?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-23T22:14:01Z",
@@ -5205,9 +5215,10 @@
       "876303": "2026-09-25T06:33:16.163282Z",
       "876304": "2026-09-24T15:28:41.219148Z",
       "876308": "2026-09-26T08:27:55.956122Z",
-      "876323": "2026-09-25T14:28:57.579961Z"
+      "876323": "2026-09-25T14:28:57.579961Z",
+      "876363": "2026-09-26T17:26:08.727751Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5236,7 +5247,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6355,7 +6366,7 @@
       "306049": "2026-09-25T12:33:14.609101Z",
       "306069": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "space-high-score": {
     "entries": [
@@ -6659,7 +6670,7 @@
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7847,6 +7858,6 @@
       "274615": "2026-09-23T07:28:02.174679Z",
       "274628": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-26T16:27:20.462793Z"
+    "last_checked": "2026-09-26T17:26:08.727751Z"
   }
 }
