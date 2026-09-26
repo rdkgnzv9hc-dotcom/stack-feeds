@@ -917,7 +917,7 @@
       "227705": "2026-09-18T15:26:38.206317Z",
       "227727": "2026-09-25T11:27:26.729103Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "history-high-score": {
     "entries": [
@@ -1012,7 +1012,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1294,7 +1294,7 @@
       "19671": "2026-09-11T18:29:58.299746Z",
       "19685": "2026-09-25T21:26:38.386075Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "law-high-score": {
     "entries": [
@@ -2038,7 +2038,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "math-high-score": {
     "entries": [
@@ -2672,10 +2672,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-26T12:17:02Z",
+        "answer_id": "515565",
+        "first_seen": "2026-09-26T19:24:57.012170Z",
+        "link": "https://mathoverflow.net/a/515565",
+        "owner": "David White",
+        "question_id": "515564",
+        "question_title": "How will we be able to assess quality of applicants for jobs in math?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-26T06:55:43Z",
         "answer_id": "515561",
@@ -2684,7 +2694,7 @@
         "owner": "Andrei Sipo\u0219",
         "question_id": "515551",
         "question_title": "Extracting a first order proof from a non first order proof",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-08-03T23:08:02Z",
@@ -2754,7 +2764,7 @@
         "owner": "James E Hanson",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 44
+        "score": 45
       },
       {
         "answer_created": "2026-09-15T03:16:48Z",
@@ -3665,16 +3675,6 @@
         "question_id": "258647",
         "question_title": "Is there a field $F$ which is isomorphic to $F(X,Y)$ but not to $F(X)$?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-08-05T12:38:34Z",
-        "answer_id": "513964",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/513964",
-        "owner": "HJRW",
-        "question_id": "513937",
-        "question_title": "Calculating $\\pi_2(K)$",
-        "score": 10
       }
     ],
     "known": {
@@ -4190,9 +4190,10 @@
       "515515": "2026-09-24T16:29:14.203680Z",
       "515516": "2026-09-24T18:30:41.045206Z",
       "515536": "2026-09-25T21:26:38.386075Z",
-      "515561": "2026-09-26T15:26:31.710895Z"
+      "515561": "2026-09-26T15:26:31.710895Z",
+      "515565": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4298,7 +4299,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5218,7 +5219,7 @@
       "876323": "2026-09-25T14:28:57.579961Z",
       "876363": "2026-09-26T17:26:08.727751Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5247,7 +5248,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5259,7 +5260,7 @@
         "owner": "Dave Goldman",
         "question_id": "40701",
         "question_title": "How did Ursula K. Le Guin come up with the word \"ansible\"?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-09-24T05:59:51Z",
@@ -6366,10 +6367,20 @@
       "306049": "2026-09-25T12:33:14.609101Z",
       "306069": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-25T18:00:51Z",
+        "answer_id": "70719",
+        "first_seen": "2026-09-26T19:24:57.012170Z",
+        "link": "https://space.stackexchange.com/a/70719",
+        "owner": "Oscar Lanzi",
+        "question_id": "46953",
+        "question_title": "How hard is the hardest ice in the solar system? Is it in Pluto's ice mountains?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-19T13:23:30Z",
         "answer_id": "70715",
@@ -6668,9 +6679,10 @@
       "70695": "2026-09-11T17:35:15.780317Z",
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z",
-      "70715": "2026-09-20T00:34:11.817599Z"
+      "70715": "2026-09-20T00:34:11.817599Z",
+      "70719": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7858,6 +7870,6 @@
       "274615": "2026-09-23T07:28:02.174679Z",
       "274628": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-26T18:29:31.557977Z"
+    "last_checked": "2026-09-26T19:24:57.012170Z"
   }
 }

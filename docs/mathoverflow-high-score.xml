@@ -5,13 +5,20 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 18:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:24:57 +0000</lastBuildDate>
     <item>
-      <title>Extracting a first order proof from a non first order proof — answer reached score 12</title>
+      <title>How will we be able to assess quality of applicants for jobs in math? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515565</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515565</guid>
+      <pubDate>Sat, 26 Sep 2026 19:24:57 +0000</pubDate>
+      <description>Answer by David White. Score when last checked: 10. Originally posted: 2026-09-26T12:17:02Z.</description>
+    </item>
+    <item>
+      <title>Extracting a first order proof from a non first order proof — answer reached score 13</title>
       <link>https://mathoverflow.net/a/515561</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515561</guid>
       <pubDate>Sat, 26 Sep 2026 15:26:31 +0000</pubDate>
-      <description>Answer by Andrei Sipoș. Score when last checked: 12. Originally posted: 2026-09-26T06:55:43Z.</description>
+      <description>Answer by Andrei Sipoș. Score when last checked: 13. Originally posted: 2026-09-26T06:55:43Z.</description>
     </item>
     <item>
       <title>Dossiers on LLMs in mathematical research — answer reached score 10</title>
@@ -56,11 +63,11 @@
       <description>Answer by Achim Krause. Score when last checked: 10. Originally posted: 2026-09-24T06:20:00Z.</description>
     </item>
     <item>
-      <title>AI advisory group vs. immediate open access? — answer reached score 44</title>
+      <title>AI advisory group vs. immediate open access? — answer reached score 45</title>
       <link>https://mathoverflow.net/a/515508</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515508</guid>
       <pubDate>Thu, 24 Sep 2026 13:29:16 +0000</pubDate>
-      <description>Answer by James E Hanson. Score when last checked: 44. Originally posted: 2026-09-24T12:37:52Z.</description>
+      <description>Answer by James E Hanson. Score when last checked: 45. Originally posted: 2026-09-24T12:37:52Z.</description>
     </item>
     <item>
       <title>Distribution of prime ideals on number fields — answer reached score 10</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:513970</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Asigan. Score when last checked: 10. Originally posted: 2026-08-05T16:06:42Z.</description>
-    </item>
-    <item>
-      <title>Calculating $\pi_2(K)$ — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/513964</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513964</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by HJRW. Score when last checked: 10. Originally posted: 2026-08-05T12:38:34Z.</description>
     </item>
   </channel>
 </rss>
