@@ -19,7 +19,7 @@
         "owner": "Bryan Krause",
         "question_id": "227738",
         "question_title": "What is a \"study\" really?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-25T14:47:59Z",
@@ -950,7 +950,7 @@
       "227739": "2026-09-27T19:24:31.989837Z",
       "227742": "2026-09-28T02:28:31.029045Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "history-high-score": {
     "entries": [
@@ -1045,7 +1045,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1057,7 +1057,7 @@
         "owner": "Andrew",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-24T13:14:38Z",
@@ -1067,7 +1067,7 @@
         "owner": "Mauro ALLEGRANZA",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-24T17:30:28Z",
@@ -1077,7 +1077,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-09T11:46:15Z",
@@ -1349,10 +1349,20 @@
       "19685": "2026-09-25T21:26:38.386075Z",
       "19686": "2026-09-27T02:27:38.893029Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-26T21:05:40Z",
+        "answer_id": "115649",
+        "first_seen": "2026-09-28T09:32:02.435446Z",
+        "link": "https://law.stackexchange.com/a/115649",
+        "owner": "Jen",
+        "question_id": "115644",
+        "question_title": "Can a confession be made expressly conditional on information supplied by police during interrogation?",
+        "score": 11
+      },
       {
         "answer_created": "2026-09-25T20:29:04Z",
         "answer_id": "115634",
@@ -2102,9 +2112,10 @@
       "115603": "2026-09-22T20:26:04.451505Z",
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z",
-      "115634": "2026-09-28T08:31:39.995135Z"
+      "115634": "2026-09-28T08:31:39.995135Z",
+      "115649": "2026-09-28T09:32:02.435446Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "math-high-score": {
     "entries": [
@@ -2738,7 +2749,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4259,7 +4270,7 @@
       "515561": "2026-09-26T15:26:31.710895Z",
       "515565": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4365,7 +4376,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5296,7 +5307,7 @@
       "876363": "2026-09-26T17:26:08.727751Z",
       "876392": "2026-09-28T07:30:30.373914Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5325,7 +5336,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6445,7 +6456,7 @@
       "306053": "2026-09-26T22:26:05.882310Z",
       "306069": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "space-high-score": {
     "entries": [
@@ -6760,7 +6771,7 @@
       "70715": "2026-09-20T00:34:11.817599Z",
       "70719": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7948,6 +7959,6 @@
       "274615": "2026-09-23T07:28:02.174679Z",
       "274628": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-28T08:31:39.995135Z"
+    "last_checked": "2026-09-28T09:32:02.435446Z"
   }
 }
