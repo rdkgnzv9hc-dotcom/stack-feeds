@@ -29,7 +29,7 @@
         "owner": "Bryan Krause",
         "question_id": "227731",
         "question_title": "Labmate doing others' work with AI",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-24T14:42:53Z",
@@ -950,7 +950,7 @@
       "227739": "2026-09-27T19:24:31.989837Z",
       "227742": "2026-09-28T02:28:31.029045Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "history-high-score": {
     "entries": [
@@ -1045,7 +1045,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1077,7 +1077,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-09T11:46:15Z",
@@ -1349,7 +1349,7 @@
       "19685": "2026-09-25T21:26:38.386075Z",
       "19686": "2026-09-27T02:27:38.893029Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "law-high-score": {
     "entries": [
@@ -2093,7 +2093,7 @@
       "115605": "2026-09-23T09:27:25.929733Z",
       "115613": "2026-09-22T18:30:34.336026Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "math-high-score": {
     "entries": [
@@ -2727,7 +2727,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4248,7 +4248,7 @@
       "515561": "2026-09-26T15:26:31.710895Z",
       "515565": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4354,10 +4354,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-26T08:44:45Z",
+        "answer_id": "876392",
+        "first_seen": "2026-09-28T07:30:30.373914Z",
+        "link": "https://physics.stackexchange.com/a/876392",
+        "owner": "GiorgioP-DoomsdayClockIsAt-85",
+        "question_id": "876387",
+        "question_title": "Can Single Particles have Entropy?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-25T11:46:50Z",
         "answer_id": "876363",
@@ -5272,9 +5282,10 @@
       "876304": "2026-09-24T15:28:41.219148Z",
       "876308": "2026-09-26T08:27:55.956122Z",
       "876323": "2026-09-25T14:28:57.579961Z",
-      "876363": "2026-09-26T17:26:08.727751Z"
+      "876363": "2026-09-26T17:26:08.727751Z",
+      "876392": "2026-09-28T07:30:30.373914Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5303,7 +5314,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6423,7 +6434,7 @@
       "306053": "2026-09-26T22:26:05.882310Z",
       "306069": "2026-09-26T15:26:31.710895Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "space-high-score": {
     "entries": [
@@ -6738,7 +6749,7 @@
       "70715": "2026-09-20T00:34:11.817599Z",
       "70719": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6750,7 +6761,7 @@
         "owner": "Monty Wild",
         "question_id": "274627",
         "question_title": "What adaptations could allow alien bacteria to survive in space",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-09-23T00:37:44Z",
@@ -7926,6 +7937,6 @@
       "274615": "2026-09-23T07:28:02.174679Z",
       "274628": "2026-09-25T14:28:57.579961Z"
     },
-    "last_checked": "2026-09-28T06:36:52.544717Z"
+    "last_checked": "2026-09-28T07:30:30.373914Z"
   }
 }
