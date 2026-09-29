@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 23:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 00:35:45 +0000</lastBuildDate>
+    <item>
+      <title>An intriguing calculus question — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/513200</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513200</guid>
+      <pubDate>Tue, 29 Sep 2026 00:35:45 +0000</pubDate>
+      <description>Answer by Tomas Ortega. Score when last checked: 10. Originally posted: 2026-07-13T13:45:11Z.</description>
+    </item>
     <item>
       <title>How will we be able to assess quality of applicants for jobs in math? — answer reached score 11</title>
       <link>https://mathoverflow.net/a/515565</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514013</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Pierre-Guy Plamondon. Score when last checked: 11. Originally posted: 2026-08-07T00:09:06Z.</description>
-    </item>
-    <item>
-      <title>Is there a field $F$ which is isomorphic to $F(X,Y)$ but not to $F(X)$? — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/513970</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513970</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Asigan. Score when last checked: 10. Originally posted: 2026-08-05T16:06:42Z.</description>
     </item>
   </channel>
 </rss>
