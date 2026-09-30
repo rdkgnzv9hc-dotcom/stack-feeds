@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-27T12:06:11Z",
+        "answer_id": "227748",
+        "first_seen": "2026-09-30T13:31:18.492431Z",
+        "link": "https://academia.stackexchange.com/a/227748",
+        "owner": "Buffy",
+        "question_id": "227746",
+        "question_title": "Are reviews seen as lesser publications than primary research?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-09-29T08:41:34Z",
         "answer_id": "227759",
         "first_seen": "2026-09-29T18:33:28.663218Z",
@@ -9,7 +19,7 @@
         "owner": "Terry",
         "question_id": "227755",
         "question_title": "I fell out with my PhD advisor and want to omit his reference when applying for faculty positions after postdoc",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-27T10:41:15Z",
@@ -19,7 +29,7 @@
         "owner": "Peter Flom",
         "question_id": "227746",
         "question_title": "Are reviews seen as lesser publications than primary research?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-26T02:13:49Z",
@@ -970,9 +980,10 @@
       "227739": "2026-09-27T19:24:31.989837Z",
       "227742": "2026-09-28T02:28:31.029045Z",
       "227747": "2026-09-28T22:26:56.527428Z",
+      "227748": "2026-09-30T13:31:18.492431Z",
       "227759": "2026-09-29T18:33:28.663218Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "history-high-score": {
     "entries": [
@@ -1067,7 +1078,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1079,7 +1090,7 @@
         "owner": "Andrew",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 17
+        "score": 16
       },
       {
         "answer_created": "2026-09-24T13:14:38Z",
@@ -1371,7 +1382,7 @@
       "19685": "2026-09-25T21:26:38.386075Z",
       "19686": "2026-09-27T02:27:38.893029Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "law-high-score": {
     "entries": [
@@ -2170,7 +2181,7 @@
       "115649": "2026-09-28T09:32:02.435446Z",
       "115653": "2026-09-28T11:29:34.524651Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "math-high-score": {
     "entries": [
@@ -2804,7 +2815,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2816,7 +2827,7 @@
         "owner": "Timothy Chow",
         "question_id": "515632",
         "question_title": "Formalization advice for mathematicians",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-29T23:12:43Z",
@@ -4329,7 +4340,7 @@
       "515634": "2026-09-30T04:30:11.709877Z",
       "515640": "2026-09-30T06:35:11.167763Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4435,7 +4446,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5388,7 +5399,7 @@
       "876392": "2026-09-28T07:30:30.373914Z",
       "876405": "2026-09-28T21:27:19.439008Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5417,7 +5428,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6539,10 +6550,20 @@
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-30T04:09:21Z",
+        "answer_id": "70723",
+        "first_seen": "2026-09-30T13:31:18.492431Z",
+        "link": "https://space.stackexchange.com/a/70723",
+        "owner": "blobbymcblobby",
+        "question_id": "66770",
+        "question_title": "Looking for information on this Apollo era CGI animation",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-25T18:00:51Z",
         "answer_id": "70719",
@@ -6852,9 +6873,10 @@
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z",
-      "70719": "2026-09-26T19:24:57.012170Z"
+      "70719": "2026-09-26T19:24:57.012170Z",
+      "70723": "2026-09-30T13:31:18.492431Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8049,6 +8071,6 @@
       "274676": "2026-09-30T00:37:23.913618Z",
       "274681": "2026-09-30T00:37:23.913618Z"
     },
-    "last_checked": "2026-09-30T12:38:55.735902Z"
+    "last_checked": "2026-09-30T13:31:18.492431Z"
   }
 }
