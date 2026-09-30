@@ -972,7 +972,7 @@
       "227747": "2026-09-28T22:26:56.527428Z",
       "227759": "2026-09-29T18:33:28.663218Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "history-high-score": {
     "entries": [
@@ -1067,7 +1067,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1371,7 +1371,7 @@
       "19685": "2026-09-25T21:26:38.386075Z",
       "19686": "2026-09-27T02:27:38.893029Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "law-high-score": {
     "entries": [
@@ -2170,7 +2170,7 @@
       "115649": "2026-09-28T09:32:02.435446Z",
       "115653": "2026-09-28T11:29:34.524651Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "math-high-score": {
     "entries": [
@@ -2804,10 +2804,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-30T01:19:25Z",
+        "answer_id": "515640",
+        "first_seen": "2026-09-30T06:35:11.167763Z",
+        "link": "https://mathoverflow.net/a/515640",
+        "owner": "Timothy Chow",
+        "question_id": "515632",
+        "question_title": "Formalization advice for mathematicians",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-29T23:12:43Z",
         "answer_id": "515634",
@@ -2816,7 +2826,7 @@
         "owner": "Sam Hopkins",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-28T12:25:25Z",
@@ -3797,16 +3807,6 @@
         "question_id": "514055",
         "question_title": "Can hereditarily non-well-orderable sets exist?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-08-08T10:44:13Z",
-        "answer_id": "514050",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514050",
-        "owner": "Timothy Chow",
-        "question_id": "511562",
-        "question_title": "Incentivizing mathematics in an era of AI-accelerated proof abundance",
-        "score": 12
       }
     ],
     "known": {
@@ -4326,9 +4326,10 @@
       "515561": "2026-09-26T15:26:31.710895Z",
       "515565": "2026-09-26T19:24:57.012170Z",
       "515602": "2026-09-29T06:35:12.219005Z",
-      "515634": "2026-09-30T04:30:11.709877Z"
+      "515634": "2026-09-30T04:30:11.709877Z",
+      "515640": "2026-09-30T06:35:11.167763Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4434,7 +4435,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5387,7 +5388,7 @@
       "876392": "2026-09-28T07:30:30.373914Z",
       "876405": "2026-09-28T21:27:19.439008Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5416,7 +5417,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6538,7 +6539,7 @@
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "space-high-score": {
     "entries": [
@@ -6853,7 +6854,7 @@
       "70715": "2026-09-20T00:34:11.817599Z",
       "70719": "2026-09-26T19:24:57.012170Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6875,7 +6876,7 @@
         "owner": "indeedy",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-29T04:16:03Z",
@@ -6885,7 +6886,7 @@
         "owner": "Thucydides",
         "question_id": "274670",
         "question_title": "What bunker materials are needed to protect against a microscopic neutron star explosion?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-09-27T23:04:35Z",
@@ -8048,6 +8049,6 @@
       "274676": "2026-09-30T00:37:23.913618Z",
       "274681": "2026-09-30T00:37:23.913618Z"
     },
-    "last_checked": "2026-09-30T05:29:27.181883Z"
+    "last_checked": "2026-09-30T06:35:11.167763Z"
   }
 }
