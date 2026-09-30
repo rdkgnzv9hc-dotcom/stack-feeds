@@ -19,7 +19,7 @@
         "owner": "Terry",
         "question_id": "227755",
         "question_title": "I fell out with my PhD advisor and want to omit his reference when applying for faculty positions after postdoc",
-        "score": 16
+        "score": 19
       },
       {
         "answer_created": "2026-09-27T10:41:15Z",
@@ -29,7 +29,7 @@
         "owner": "Peter Flom",
         "question_id": "227746",
         "question_title": "Are reviews seen as lesser publications than primary research?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-26T02:13:49Z",
@@ -983,7 +983,7 @@
       "227748": "2026-09-30T13:31:18.492431Z",
       "227759": "2026-09-29T18:33:28.663218Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "history-high-score": {
     "entries": [
@@ -1078,7 +1078,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1382,7 +1382,7 @@
       "19685": "2026-09-25T21:26:38.386075Z",
       "19686": "2026-09-27T02:27:38.893029Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "law-high-score": {
     "entries": [
@@ -2181,7 +2181,7 @@
       "115649": "2026-09-28T09:32:02.435446Z",
       "115653": "2026-09-28T11:29:34.524651Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "math-high-score": {
     "entries": [
@@ -2815,10 +2815,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-29T11:12:50Z",
+        "answer_id": "515616",
+        "first_seen": "2026-09-30T14:33:17.919844Z",
+        "link": "https://mathoverflow.net/a/515616",
+        "owner": "Will Sawin",
+        "question_id": "515611",
+        "question_title": "Do Ferris wheel numbers exist?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-30T01:19:25Z",
         "answer_id": "515640",
@@ -3808,16 +3818,6 @@
         "question_id": "514079",
         "question_title": "Variant of Euler's conjecture",
         "score": 12
-      },
-      {
-        "answer_created": "2026-08-08T15:20:45Z",
-        "answer_id": "514058",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514058",
-        "owner": "Joel David Hamkins",
-        "question_id": "514055",
-        "question_title": "Can hereditarily non-well-orderable sets exist?",
-        "score": 10
       }
     ],
     "known": {
@@ -4337,10 +4337,11 @@
       "515561": "2026-09-26T15:26:31.710895Z",
       "515565": "2026-09-26T19:24:57.012170Z",
       "515602": "2026-09-29T06:35:12.219005Z",
+      "515616": "2026-09-30T14:33:17.919844Z",
       "515634": "2026-09-30T04:30:11.709877Z",
       "515640": "2026-09-30T06:35:11.167763Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4446,7 +4447,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5399,7 +5400,7 @@
       "876392": "2026-09-28T07:30:30.373914Z",
       "876405": "2026-09-28T21:27:19.439008Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5428,7 +5429,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6550,7 +6551,7 @@
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "space-high-score": {
     "entries": [
@@ -6876,10 +6877,20 @@
       "70719": "2026-09-26T19:24:57.012170Z",
       "70723": "2026-09-30T13:31:18.492431Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-29T15:46:08Z",
+        "answer_id": "274683",
+        "first_seen": "2026-09-30T14:33:17.919844Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274683",
+        "owner": "JBH",
+        "question_id": "274675",
+        "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-29T12:57:00Z",
         "answer_id": "274681",
@@ -6888,7 +6899,7 @@
         "owner": "AlexP",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-29T10:54:42Z",
@@ -6898,7 +6909,7 @@
         "owner": "indeedy",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-09-29T04:16:03Z",
@@ -7869,16 +7880,6 @@
         "question_id": "274084",
         "question_title": "Would comic books still be relevant in a world of superheroes?",
         "score": 21
-      },
-      {
-        "answer_created": "2026-07-17T21:20:22Z",
-        "answer_id": "274085",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274085",
-        "owner": "L.Dutch",
-        "question_id": "274084",
-        "question_title": "Would comic books still be relevant in a world of superheroes?",
-        "score": 7
       }
     ],
     "known": {
@@ -8069,8 +8070,9 @@
       "274664": "2026-09-29T06:35:12.219005Z",
       "274673": "2026-09-29T15:32:08.285451Z",
       "274676": "2026-09-30T00:37:23.913618Z",
-      "274681": "2026-09-30T00:37:23.913618Z"
+      "274681": "2026-09-30T00:37:23.913618Z",
+      "274683": "2026-09-30T14:33:17.919844Z"
     },
-    "last_checked": "2026-09-30T13:31:18.492431Z"
+    "last_checked": "2026-09-30T14:33:17.919844Z"
   }
 }
