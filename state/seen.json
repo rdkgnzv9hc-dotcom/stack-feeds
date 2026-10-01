@@ -994,7 +994,7 @@
       "227759": "2026-09-29T18:33:28.663218Z",
       "227773": "2026-10-01T13:33:17.301956Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "history-high-score": {
     "entries": [
@@ -1089,7 +1089,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1415,7 +1415,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "law-high-score": {
     "entries": [
@@ -1427,7 +1427,7 @@
         "owner": "littleadv",
         "question_id": "115667",
         "question_title": "Can the government quarter troops in your yard without your permission?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-26T17:06:33Z",
@@ -2225,7 +2225,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "math-high-score": {
     "entries": [
@@ -2859,7 +2859,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2911,7 +2911,7 @@
         "owner": "Sam Hopkins",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-09-28T12:25:25Z",
@@ -4387,7 +4387,7 @@
       "515637": "2026-10-01T00:38:59.056333Z",
       "515640": "2026-09-30T06:35:11.167763Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4493,7 +4493,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5446,7 +5446,7 @@
       "876392": "2026-09-28T07:30:30.373914Z",
       "876405": "2026-09-28T21:27:19.439008Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5475,7 +5475,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6597,7 +6597,7 @@
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "space-high-score": {
     "entries": [
@@ -6923,10 +6923,20 @@
       "70719": "2026-09-26T19:24:57.012170Z",
       "70723": "2026-09-30T13:31:18.492431Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-29T12:45:14Z",
+        "answer_id": "274680",
+        "first_seen": "2026-10-01T15:31:37.578181Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274680",
+        "owner": "30Keydet",
+        "question_id": "274675",
+        "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-29T15:46:08Z",
         "answer_id": "274683",
@@ -7916,16 +7926,6 @@
         "question_id": "274117",
         "question_title": "Real world equivalent of fictional mental condition",
         "score": 17
-      },
-      {
-        "answer_created": "2026-07-17T23:07:28Z",
-        "answer_id": "274087",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274087",
-        "owner": "TheDemonLord",
-        "question_id": "274084",
-        "question_title": "Would comic books still be relevant in a world of superheroes?",
-        "score": 21
       }
     ],
     "known": {
@@ -8116,9 +8116,10 @@
       "274664": "2026-09-29T06:35:12.219005Z",
       "274673": "2026-09-29T15:32:08.285451Z",
       "274676": "2026-09-30T00:37:23.913618Z",
+      "274680": "2026-10-01T15:31:37.578181Z",
       "274681": "2026-09-30T00:37:23.913618Z",
       "274683": "2026-09-30T14:33:17.919844Z"
     },
-    "last_checked": "2026-10-01T14:33:11.971388Z"
+    "last_checked": "2026-10-01T15:31:37.578181Z"
   }
 }
