@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-09-30T19:48:13Z",
+        "answer_id": "227773",
+        "first_seen": "2026-10-01T13:33:17.301956Z",
+        "link": "https://academia.stackexchange.com/a/227773",
+        "owner": "Anonymous",
+        "question_id": "227765",
+        "question_title": "What knowledge and skills does a freshman college student seeking bachelor of medicine/engineering need to start researching and developing essays?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-09-27T12:06:11Z",
         "answer_id": "227748",
         "first_seen": "2026-09-30T13:31:18.492431Z",
@@ -981,9 +991,10 @@
       "227742": "2026-09-28T02:28:31.029045Z",
       "227747": "2026-09-28T22:26:56.527428Z",
       "227748": "2026-09-30T13:31:18.492431Z",
-      "227759": "2026-09-29T18:33:28.663218Z"
+      "227759": "2026-09-29T18:33:28.663218Z",
+      "227773": "2026-10-01T13:33:17.301956Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "history-high-score": {
     "entries": [
@@ -1078,7 +1089,7 @@
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1404,7 +1415,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "law-high-score": {
     "entries": [
@@ -2214,7 +2225,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "math-high-score": {
     "entries": [
@@ -2848,10 +2859,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-29T22:02:18Z",
+        "answer_id": "515633",
+        "first_seen": "2026-10-01T13:33:17.301956Z",
+        "link": "https://mathoverflow.net/a/515633",
+        "owner": "mark goresky",
+        "question_id": "56082",
+        "question_title": "Vanishing cycles in a nutshell?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-29T23:50:33Z",
         "answer_id": "515637",
@@ -2870,7 +2891,7 @@
         "owner": "Will Sawin",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-30T01:19:25Z",
@@ -3841,16 +3862,6 @@
         "question_id": "514108",
         "question_title": "True in the infinite, open in the finite case",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-11T02:16:36Z",
-        "answer_id": "514130",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514130",
-        "owner": "Timothy Chow",
-        "question_id": "514108",
-        "question_title": "True in the infinite, open in the finite case",
-        "score": 12
       }
     ],
     "known": {
@@ -4371,11 +4382,12 @@
       "515565": "2026-09-26T19:24:57.012170Z",
       "515602": "2026-09-29T06:35:12.219005Z",
       "515616": "2026-09-30T14:33:17.919844Z",
+      "515633": "2026-10-01T13:33:17.301956Z",
       "515634": "2026-09-30T04:30:11.709877Z",
       "515637": "2026-10-01T00:38:59.056333Z",
       "515640": "2026-09-30T06:35:11.167763Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4481,7 +4493,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4493,7 +4505,7 @@
         "owner": "Andrew",
         "question_id": "876306",
         "question_title": "Why is the definition of enthalpy $U + PV$ and not $U + \u222bPdV$?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-26T17:00:03Z",
@@ -5434,7 +5446,7 @@
       "876392": "2026-09-28T07:30:30.373914Z",
       "876405": "2026-09-28T21:27:19.439008Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5463,7 +5475,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6585,7 +6597,7 @@
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "space-high-score": {
     "entries": [
@@ -6911,7 +6923,7 @@
       "70719": "2026-09-26T19:24:57.012170Z",
       "70723": "2026-09-30T13:31:18.492431Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6943,7 +6955,7 @@
         "owner": "indeedy",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-29T04:16:03Z",
@@ -8107,6 +8119,6 @@
       "274681": "2026-09-30T00:37:23.913618Z",
       "274683": "2026-09-30T14:33:17.919844Z"
     },
-    "last_checked": "2026-10-01T12:36:45.123273Z"
+    "last_checked": "2026-10-01T13:33:17.301956Z"
   }
 }
