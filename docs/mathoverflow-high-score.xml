@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 23:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:38:59 +0000</lastBuildDate>
+    <item>
+      <title>Integer solutions to $2x^3+2y^3+2z^3 = xyz + 1$ — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515637</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515637</guid>
+      <pubDate>Thu, 01 Oct 2026 00:38:59 +0000</pubDate>
+      <description>Answer by ike. Score when last checked: 10. Originally posted: 2026-09-29T23:50:33Z.</description>
+    </item>
     <item>
       <title>Do Ferris wheel numbers exist? — answer reached score 11</title>
       <link>https://mathoverflow.net/a/515616</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514130</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Timothy Chow. Score when last checked: 12. Originally posted: 2026-08-11T02:16:36Z.</description>
-    </item>
-    <item>
-      <title>Variant of Euler's conjecture — answer reached score 12</title>
-      <link>https://mathoverflow.net/a/514084</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514084</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Marco Mantovanelli. Score when last checked: 12. Originally posted: 2026-08-09T12:16:50Z.</description>
     </item>
   </channel>
 </rss>
