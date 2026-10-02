@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 21:28:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:28:05 +0000</lastBuildDate>
+    <item>
+      <title>Dirichlet $L$-functions at $s=1/2$ — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515465</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515465</guid>
+      <pubDate>Fri, 02 Oct 2026 22:28:05 +0000</pubDate>
+      <description>Answer by Joshua Stucky. Score when last checked: 10. Originally posted: 2026-09-22T20:19:09Z.</description>
+    </item>
     <item>
       <title>Vanishing cycles in a nutshell? — answer reached score 10</title>
       <link>https://mathoverflow.net/a/515633</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514185</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Alex Elzenaar. Score when last checked: 12. Originally posted: 2026-08-12T10:58:20Z.</description>
-    </item>
-    <item>
-      <title>True in the infinite, open in the finite case — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/514149</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514149</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Markus Klyver. Score when last checked: 14. Originally posted: 2026-08-11T13:34:47Z.</description>
     </item>
   </channel>
 </rss>
