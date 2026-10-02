@@ -69,7 +69,7 @@
         "owner": "Bryan Krause",
         "question_id": "227731",
         "question_title": "Labmate doing others' work with AI",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-24T14:42:53Z",
@@ -129,7 +129,7 @@
         "owner": "Xander Henderson",
         "question_id": "227652",
         "question_title": "PhD in Math and Artificial Intelligence",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-14T18:58:59Z",
@@ -159,7 +159,7 @@
         "owner": "Buffy",
         "question_id": "227652",
         "question_title": "PhD in Math and Artificial Intelligence",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-12T02:14:27Z",
@@ -179,7 +179,7 @@
         "owner": "paul garrett",
         "question_id": "227633",
         "question_title": "Temporarily leaving to observe the changes in the field?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-09T17:51:14Z",
@@ -209,7 +209,7 @@
         "owner": "Ainsley H.",
         "question_id": "227633",
         "question_title": "Temporarily leaving to observe the changes in the field?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-09-09T07:59:18Z",
@@ -219,7 +219,7 @@
         "owner": "niemc",
         "question_id": "227633",
         "question_title": "Temporarily leaving to observe the changes in the field?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-08-29T12:02:03Z",
@@ -994,7 +994,7 @@
       "227759": "2026-09-29T18:33:28.663218Z",
       "227773": "2026-10-01T13:33:17.301956Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "history-high-score": {
     "entries": [
@@ -1100,7 +1100,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1426,7 +1426,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "law-high-score": {
     "entries": [
@@ -1438,7 +1438,7 @@
         "owner": "littleadv",
         "question_id": "115667",
         "question_title": "Can the government quarter troops in your yard without your permission?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-26T17:06:33Z",
@@ -2236,7 +2236,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "math-high-score": {
     "entries": [
@@ -2870,7 +2870,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3452,7 +3452,7 @@
         "owner": "Sam Hopkins",
         "question_id": "515144",
         "question_title": "Journal Editors: How are you evaluating AI assisted papers?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-11T05:42:33Z",
@@ -4398,7 +4398,7 @@
       "515637": "2026-10-01T00:38:59.056333Z",
       "515640": "2026-09-30T06:35:11.167763Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4504,7 +4504,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5468,7 +5468,7 @@
       "876405": "2026-09-28T21:27:19.439008Z",
       "876534": "2026-10-01T21:29:00.144041Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5497,7 +5497,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5739,7 +5739,7 @@
         "owner": "Stanley Webb",
         "question_id": "305930",
         "question_title": "What is the earliest sci-fi story to mention another real sci-fi work as fiction within its own universe?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-10T17:12:59Z",
@@ -6619,7 +6619,7 @@
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "space-high-score": {
     "entries": [
@@ -6945,7 +6945,7 @@
       "70719": "2026-09-26T19:24:57.012170Z",
       "70723": "2026-09-30T13:31:18.492431Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6987,7 +6987,7 @@
         "owner": "JBH",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-09-29T12:57:00Z",
@@ -8144,6 +8144,6 @@
       "274698": "2026-10-01T18:34:44.032826Z",
       "274701": "2026-10-01T17:30:02.244322Z"
     },
-    "last_checked": "2026-10-02T14:32:19.396269Z"
+    "last_checked": "2026-10-02T15:32:00.198025Z"
   }
 }
