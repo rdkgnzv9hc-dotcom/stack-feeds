@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 22:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:25:21 +0000</lastBuildDate>
+    <item>
+      <title>Monoids and univariate polynomials — answer reached score 11</title>
+      <link>https://mathoverflow.net/a/515686</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515686</guid>
+      <pubDate>Fri, 02 Oct 2026 23:25:21 +0000</pubDate>
+      <description>Answer by Wojowu. Score when last checked: 11. Originally posted: 2026-10-02T13:56:37Z.</description>
+    </item>
     <item>
       <title>Dirichlet $L$-functions at $s=1/2$ — answer reached score 10</title>
       <link>https://mathoverflow.net/a/515465</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514206</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by B K. Score when last checked: 13. Originally posted: 2026-08-12T18:52:30Z.</description>
-    </item>
-    <item>
-      <title>What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one’s area of expertise — answer reached score 12</title>
-      <link>https://mathoverflow.net/a/514185</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514185</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Alex Elzenaar. Score when last checked: 12. Originally posted: 2026-08-12T10:58:20Z.</description>
     </item>
   </channel>
 </rss>
