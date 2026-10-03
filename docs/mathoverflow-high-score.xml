@@ -5,13 +5,27 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 10:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:37:25 +0000</lastBuildDate>
     <item>
-      <title>Monoids and univariate polynomials — answer reached score 12</title>
+      <title>Extracting a first order proof from a non first order proof — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515554</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515554</guid>
+      <pubDate>Sat, 03 Oct 2026 14:37:25 +0000</pubDate>
+      <description>Answer by Matt F.. Score when last checked: 10. Originally posted: 2026-09-25T23:47:32Z.</description>
+    </item>
+    <item>
+      <title>Are there serious objections to Hilbert's Thesis? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515466</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515466</guid>
+      <pubDate>Sat, 03 Oct 2026 14:37:25 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 10. Originally posted: 2026-09-22T21:50:32Z.</description>
+    </item>
+    <item>
+      <title>Monoids and univariate polynomials — answer reached score 13</title>
       <link>https://mathoverflow.net/a/515686</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515686</guid>
       <pubDate>Fri, 02 Oct 2026 23:25:21 +0000</pubDate>
-      <description>Answer by Wojowu. Score when last checked: 12. Originally posted: 2026-10-02T13:56:37Z.</description>
+      <description>Answer by Wojowu. Score when last checked: 13. Originally posted: 2026-10-02T13:56:37Z.</description>
     </item>
     <item>
       <title>Dirichlet $L$-functions at $s=1/2$ — answer reached score 10</title>
@@ -77,11 +91,11 @@
       <description>Answer by David White. Score when last checked: 12. Originally posted: 2026-09-26T12:17:02Z.</description>
     </item>
     <item>
-      <title>Extracting a first order proof from a non first order proof — answer reached score 20</title>
+      <title>Extracting a first order proof from a non first order proof — answer reached score 21</title>
       <link>https://mathoverflow.net/a/515561</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515561</guid>
       <pubDate>Sat, 26 Sep 2026 15:26:31 +0000</pubDate>
-      <description>Answer by Andrei Sipoș. Score when last checked: 20. Originally posted: 2026-09-26T06:55:43Z.</description>
+      <description>Answer by Andrei Sipoș. Score when last checked: 21. Originally posted: 2026-09-26T06:55:43Z.</description>
     </item>
     <item>
       <title>Dossiers on LLMs in mathematical research — answer reached score 10</title>
@@ -217,11 +231,11 @@
       <description>Answer by Gabe K. Score when last checked: 15. Originally posted: 2026-09-21T21:26:48Z.</description>
     </item>
     <item>
-      <title>Are there serious objections to Hilbert's Thesis? — answer reached score 27</title>
+      <title>Are there serious objections to Hilbert's Thesis? — answer reached score 28</title>
       <link>https://mathoverflow.net/a/515449</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515449</guid>
       <pubDate>Tue, 22 Sep 2026 20:26:04 +0000</pubDate>
-      <description>Answer by Will Sawin. Score when last checked: 27. Originally posted: 2026-09-22T11:43:53Z.</description>
+      <description>Answer by Will Sawin. Score when last checked: 28. Originally posted: 2026-09-22T11:43:53Z.</description>
     </item>
     <item>
       <title>Recovering Laplacians on manifolds from their eigenvalues — answer reached score 18</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514222</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by B K. Score when last checked: 11. Originally posted: 2026-08-13T00:01:06Z.</description>
-    </item>
-    <item>
-      <title>What missing examples, other than counterexamples, would be most enlightening? — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/514219</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514219</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Kenta Suzuki. Score when last checked: 10. Originally posted: 2026-08-12T22:53:31Z.</description>
-    </item>
-    <item>
-      <title>What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one’s area of expertise — answer reached score 13</title>
-      <link>https://mathoverflow.net/a/514206</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514206</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by B K. Score when last checked: 13. Originally posted: 2026-08-12T18:52:30Z.</description>
     </item>
   </channel>
 </rss>
