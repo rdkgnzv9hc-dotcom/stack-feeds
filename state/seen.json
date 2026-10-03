@@ -994,7 +994,7 @@
       "227759": "2026-09-29T18:33:28.663218Z",
       "227773": "2026-10-01T13:33:17.301956Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "history-high-score": {
     "entries": [
@@ -1006,7 +1006,7 @@
         "owner": "Schwern",
         "question_id": "80362",
         "question_title": "What route did 8th Airforce bombers take exiting Germany?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-16T00:41:29Z",
@@ -1100,7 +1100,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1426,7 +1426,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "law-high-score": {
     "entries": [
@@ -2236,7 +2236,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "math-high-score": {
     "entries": [
@@ -2870,7 +2870,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4402,7 +4402,7 @@
       "515640": "2026-09-30T06:35:11.167763Z",
       "515686": "2026-10-02T23:25:21.382493Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4508,7 +4508,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4530,7 +4530,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "876532",
         "question_title": "How does artificial light cancel or dominate the light coming from stars?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-09-24T11:08:12Z",
@@ -5483,7 +5483,7 @@
       "876474": "2026-10-03T02:34:50.563823Z",
       "876534": "2026-10-01T21:29:00.144041Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5512,7 +5512,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5524,7 +5524,7 @@
         "owner": "user14111",
         "question_id": "306106",
         "question_title": "1970s (or earlier) SF novelette: aliens teach humans a martial-arts-like discipline called \u201cthe Wave\u201d that synchronizes the nervous system",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-27T06:45:40Z",
@@ -6635,7 +6635,7 @@
       "306085": "2026-09-28T14:32:11.582786Z",
       "306116": "2026-10-02T16:30:44.011660Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "space-high-score": {
     "entries": [
@@ -6972,7 +6972,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8173,6 +8173,6 @@
       "274703": "2026-10-02T23:25:21.382493Z",
       "274711": "2026-10-03T14:37:25.651553Z"
     },
-    "last_checked": "2026-10-03T14:37:25.651553Z"
+    "last_checked": "2026-10-03T19:42:06.706230Z"
   }
 }
