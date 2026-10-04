@@ -1005,7 +1005,7 @@
       "227773": "2026-10-01T13:33:17.301956Z",
       "227784": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "history-high-score": {
     "entries": [
@@ -1111,7 +1111,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1437,7 +1437,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "law-high-score": {
     "entries": [
@@ -2247,7 +2247,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "math-high-score": {
     "entries": [
@@ -2881,10 +2881,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-05-12T03:09:59Z",
+        "answer_id": "511209",
+        "first_seen": "2026-10-04T20:20:19.753515Z",
+        "link": "https://mathoverflow.net/a/511209",
+        "owner": "Sridhar Ramesh",
+        "question_id": "510304",
+        "question_title": "Are the Chaitin-style incompleteness theorems a consequence of Lawvere's Fixed Point Theorem?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-03T22:19:21Z",
         "answer_id": "515712",
@@ -2893,7 +2903,7 @@
         "owner": "Vepir",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 19
+        "score": 21
       },
       {
         "answer_created": "2026-09-25T23:47:32Z",
@@ -2973,7 +2983,7 @@
         "owner": "Timothy Chow",
         "question_id": "515632",
         "question_title": "Formalization advice for mathematicians",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-29T23:12:43Z",
@@ -3874,16 +3884,6 @@
         "question_id": "502120",
         "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-13T00:04:43Z",
-        "answer_id": "514223",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514223",
-        "owner": "Philip Weiss",
-        "question_id": "514181",
-        "question_title": "What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one\u2019s area of expertise",
-        "score": 14
       }
     ],
     "known": {
@@ -4016,6 +4016,7 @@
       "511183": "2026-09-11T16:35:49.698347Z",
       "511191": "2026-09-11T17:43:24.207171Z",
       "511206": "2026-09-11T16:35:49.698347Z",
+      "511209": "2026-10-04T20:20:19.753515Z",
       "511217": "2026-09-11T17:43:24.207171Z",
       "511229": "2026-09-11T17:43:24.207171Z",
       "511236": "2026-09-11T17:43:24.207171Z",
@@ -4414,7 +4415,7 @@
       "515686": "2026-10-02T23:25:21.382493Z",
       "515712": "2026-10-04T05:18:30.275203Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4520,10 +4521,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-01T18:06:25Z",
+        "answer_id": "876539",
+        "first_seen": "2026-10-04T20:20:19.753515Z",
+        "link": "https://physics.stackexchange.com/a/876539",
+        "owner": "controlgroup",
+        "question_id": "876538",
+        "question_title": "Why teach high school physics starting from force rather than momentum, when force is so abstract but mass & velocity are intuitive?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-02T07:52:13Z",
         "answer_id": "876553",
@@ -4552,7 +4563,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "876532",
         "question_title": "How does artificial light cancel or dominate the light coming from stars?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-09-24T11:08:12Z",
@@ -5504,9 +5515,10 @@
       "876405": "2026-09-28T21:27:19.439008Z",
       "876474": "2026-10-03T02:34:50.563823Z",
       "876534": "2026-10-01T21:29:00.144041Z",
+      "876539": "2026-10-04T20:20:19.753515Z",
       "876553": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5535,7 +5547,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5787,7 +5799,7 @@
         "owner": "Stanley Webb",
         "question_id": "305930",
         "question_title": "What is the earliest sci-fi story to mention another real sci-fi work as fiction within its own universe?",
-        "score": 29
+        "score": 31
       },
       {
         "answer_created": "2026-09-10T17:12:59Z",
@@ -6658,7 +6670,7 @@
       "306085": "2026-09-28T14:32:11.582786Z",
       "306116": "2026-10-02T16:30:44.011660Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "space-high-score": {
     "entries": [
@@ -6680,7 +6692,7 @@
         "owner": "blobbymcblobby",
         "question_id": "66770",
         "question_title": "Looking for information on this Apollo era CGI animation",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-25T18:00:51Z",
@@ -6995,7 +7007,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8196,6 +8208,6 @@
       "274703": "2026-10-02T23:25:21.382493Z",
       "274711": "2026-10-03T14:37:25.651553Z"
     },
-    "last_checked": "2026-10-04T13:35:51.465508Z"
+    "last_checked": "2026-10-04T20:20:19.753515Z"
   }
 }

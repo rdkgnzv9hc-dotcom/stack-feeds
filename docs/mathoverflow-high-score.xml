@@ -5,13 +5,20 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:20:19 +0000</lastBuildDate>
     <item>
-      <title>Do Ferris wheel numbers exist? — answer reached score 19</title>
+      <title>Are the Chaitin-style incompleteness theorems a consequence of Lawvere's Fixed Point Theorem? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/511209</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:511209</guid>
+      <pubDate>Sun, 04 Oct 2026 20:20:19 +0000</pubDate>
+      <description>Answer by Sridhar Ramesh. Score when last checked: 10. Originally posted: 2026-05-12T03:09:59Z.</description>
+    </item>
+    <item>
+      <title>Do Ferris wheel numbers exist? — answer reached score 21</title>
       <link>https://mathoverflow.net/a/515712</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515712</guid>
       <pubDate>Sun, 04 Oct 2026 05:18:30 +0000</pubDate>
-      <description>Answer by Vepir. Score when last checked: 19. Originally posted: 2026-10-03T22:19:21Z.</description>
+      <description>Answer by Vepir. Score when last checked: 21. Originally posted: 2026-10-03T22:19:21Z.</description>
     </item>
     <item>
       <title>Extracting a first order proof from a non first order proof — answer reached score 10</title>
@@ -63,11 +70,11 @@
       <description>Answer by Will Sawin. Score when last checked: 18. Originally posted: 2026-09-29T11:12:50Z.</description>
     </item>
     <item>
-      <title>Formalization advice for mathematicians — answer reached score 27</title>
+      <title>Formalization advice for mathematicians — answer reached score 28</title>
       <link>https://mathoverflow.net/a/515640</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515640</guid>
       <pubDate>Wed, 30 Sep 2026 06:35:11 +0000</pubDate>
-      <description>Answer by Timothy Chow. Score when last checked: 27. Originally posted: 2026-09-30T01:19:25Z.</description>
+      <description>Answer by Timothy Chow. Score when last checked: 28. Originally posted: 2026-09-30T01:19:25Z.</description>
     </item>
     <item>
       <title>AI advisory group vs. immediate open access? — answer reached score 24</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514265</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Emil Jeřábek. Score when last checked: 14. Originally posted: 2026-08-14T06:49:31Z.</description>
-    </item>
-    <item>
-      <title>What does one do when one accidentally stumbles upon an LLM-generated counterexample to a conjecture far outside one’s area of expertise — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/514223</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514223</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Philip Weiss. Score when last checked: 14. Originally posted: 2026-08-13T00:04:43Z.</description>
     </item>
   </channel>
 </rss>
