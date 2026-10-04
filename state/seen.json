@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-02T12:40:28Z",
+        "answer_id": "227784",
+        "first_seen": "2026-10-04T13:35:51.465508Z",
+        "link": "https://academia.stackexchange.com/a/227784",
+        "owner": "deee",
+        "question_id": "227781",
+        "question_title": "Would corrections found after resubmission usually require another major revision?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-09-30T19:48:13Z",
         "answer_id": "227773",
         "first_seen": "2026-10-01T13:33:17.301956Z",
@@ -992,9 +1002,10 @@
       "227747": "2026-09-28T22:26:56.527428Z",
       "227748": "2026-09-30T13:31:18.492431Z",
       "227759": "2026-09-29T18:33:28.663218Z",
-      "227773": "2026-10-01T13:33:17.301956Z"
+      "227773": "2026-10-01T13:33:17.301956Z",
+      "227784": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "history-high-score": {
     "entries": [
@@ -1100,7 +1111,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1426,7 +1437,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "law-high-score": {
     "entries": [
@@ -2236,7 +2247,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "math-high-score": {
     "entries": [
@@ -2870,7 +2881,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2882,7 +2893,7 @@
         "owner": "Vepir",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 14
+        "score": 19
       },
       {
         "answer_created": "2026-09-25T23:47:32Z",
@@ -4403,7 +4414,7 @@
       "515686": "2026-10-02T23:25:21.382493Z",
       "515712": "2026-10-04T05:18:30.275203Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4509,10 +4520,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-02T07:52:13Z",
+        "answer_id": "876553",
+        "first_seen": "2026-10-04T13:35:51.465508Z",
+        "link": "https://physics.stackexchange.com/a/876553",
+        "owner": "Timaios",
+        "question_id": "876547",
+        "question_title": "Justification of $A_\\mu=0$ for the vacuum states in the Higgs mechanism and its consequences?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-29T12:54:25Z",
         "answer_id": "876474",
@@ -4761,7 +4782,7 @@
         "owner": "GiorgioP-DoomsdayClockIsAt-85",
         "question_id": "875817",
         "question_title": "If temperature is related to the average kinetic energy of particles, what does temperature actually mean for a single particle?",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-09-07T21:49:10Z",
@@ -5482,9 +5503,10 @@
       "876392": "2026-09-28T07:30:30.373914Z",
       "876405": "2026-09-28T21:27:19.439008Z",
       "876474": "2026-10-03T02:34:50.563823Z",
-      "876534": "2026-10-01T21:29:00.144041Z"
+      "876534": "2026-10-01T21:29:00.144041Z",
+      "876553": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5513,7 +5535,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6636,7 +6658,7 @@
       "306085": "2026-09-28T14:32:11.582786Z",
       "306116": "2026-10-02T16:30:44.011660Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "space-high-score": {
     "entries": [
@@ -6973,7 +6995,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -6985,7 +7007,7 @@
         "owner": "Mark",
         "question_id": "274710",
         "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-01T13:38:12Z",
@@ -8174,6 +8196,6 @@
       "274703": "2026-10-02T23:25:21.382493Z",
       "274711": "2026-10-03T14:37:25.651553Z"
     },
-    "last_checked": "2026-10-04T05:18:30.275203Z"
+    "last_checked": "2026-10-04T13:35:51.465508Z"
   }
 }
