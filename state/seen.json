@@ -1016,7 +1016,7 @@
       "227784": "2026-10-04T13:35:51.465508Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "history-high-score": {
     "entries": [
@@ -1122,7 +1122,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1448,7 +1448,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "law-high-score": {
     "entries": [
@@ -2269,7 +2269,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "math-high-score": {
     "entries": [
@@ -2903,10 +2903,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-05T12:45:11Z",
+        "answer_id": "515738",
+        "first_seen": "2026-10-05T17:29:56.474752Z",
+        "link": "https://mathoverflow.net/a/515738",
+        "owner": "JF Meier",
+        "question_id": "515723",
+        "question_title": "Are interactions between different fields of mathematics always beneficial?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-05T11:27:13Z",
         "answer_id": "515735",
@@ -2915,7 +2925,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-03T08:47:58Z",
@@ -2955,7 +2965,7 @@
         "owner": "Vepir",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-25T23:47:32Z",
@@ -3896,16 +3906,6 @@
         "question_id": "502120",
         "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-15T23:40:06Z",
-        "answer_id": "514330",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514330",
-        "owner": "Max Horn",
-        "question_id": "514329",
-        "question_title": "Finite subgroups of hyperbolic Kac-Moody groups",
-        "score": 10
       }
     ],
     "known": {
@@ -4438,9 +4438,10 @@
       "515704": "2026-10-05T03:32:12.395083Z",
       "515712": "2026-10-04T05:18:30.275203Z",
       "515728": "2026-10-05T02:30:06.919701Z",
-      "515735": "2026-10-05T15:33:37.039832Z"
+      "515735": "2026-10-05T15:33:37.039832Z",
+      "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4546,7 +4547,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5554,7 +5555,7 @@
       "876539": "2026-10-04T20:20:19.753515Z",
       "876553": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5583,7 +5584,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6707,7 +6708,7 @@
       "306116": "2026-10-02T16:30:44.011660Z",
       "306121": "2026-10-05T11:31:28.842713Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "space-high-score": {
     "entries": [
@@ -7044,7 +7045,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8246,6 +8247,6 @@
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z"
     },
-    "last_checked": "2026-10-05T16:32:08.737724Z"
+    "last_checked": "2026-10-05T17:29:56.474752Z"
   }
 }
