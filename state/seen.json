@@ -1016,7 +1016,7 @@
       "227784": "2026-10-04T13:35:51.465508Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "history-high-score": {
     "entries": [
@@ -1028,7 +1028,7 @@
         "owner": "Schwern",
         "question_id": "80362",
         "question_title": "What route did 8th Airforce bombers take exiting Germany?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-09-16T00:41:29Z",
@@ -1122,7 +1122,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1154,7 +1154,7 @@
         "owner": "Andrew",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-24T13:14:38Z",
@@ -1448,7 +1448,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "law-high-score": {
     "entries": [
@@ -2269,7 +2269,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "math-high-score": {
     "entries": [
@@ -2903,7 +2903,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2915,7 +2915,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 10
+        "score": 13
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -2925,7 +2925,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-03T08:47:58Z",
@@ -2945,7 +2945,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 28
+        "score": 32
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -3045,7 +3045,7 @@
         "owner": "Timothy Chow",
         "question_id": "515632",
         "question_title": "Formalization advice for mathematicians",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-29T23:12:43Z",
@@ -4441,7 +4441,7 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4547,7 +4547,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4929,7 +4929,7 @@
         "owner": "Dale",
         "question_id": "875330",
         "question_title": "What are the permeability and permittivity of free space?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-08-24T16:22:22Z",
@@ -5555,7 +5555,7 @@
       "876539": "2026-10-04T20:20:19.753515Z",
       "876553": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5584,7 +5584,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6708,7 +6708,7 @@
       "306116": "2026-10-02T16:30:44.011660Z",
       "306121": "2026-10-05T11:31:28.842713Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "space-high-score": {
     "entries": [
@@ -7045,7 +7045,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7057,7 +7057,7 @@
         "owner": "g s",
         "question_id": "274710",
         "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 5
+        "score": 8
       },
       {
         "answer_created": "2026-10-03T02:19:26Z",
@@ -7067,7 +7067,7 @@
         "owner": "Mark",
         "question_id": "274710",
         "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-01T13:38:12Z",
@@ -8247,6 +8247,6 @@
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z"
     },
-    "last_checked": "2026-10-05T18:35:46.997365Z"
+    "last_checked": "2026-10-05T21:31:59.291573Z"
   }
 }
