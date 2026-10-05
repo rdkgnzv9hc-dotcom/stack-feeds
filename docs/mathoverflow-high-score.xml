@@ -5,13 +5,20 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 02:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 03:32:12 +0000</lastBuildDate>
     <item>
-      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 10</title>
+      <title>Do $3$ and $5$ generate all odd primes by arithmetic progressions? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515704</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515704</guid>
+      <pubDate>Mon, 05 Oct 2026 03:32:12 +0000</pubDate>
+      <description>Answer by Marco Ripà. Score when last checked: 10. Originally posted: 2026-10-03T08:47:58Z.</description>
+    </item>
+    <item>
+      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 11</title>
       <link>https://mathoverflow.net/a/515728</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515728</guid>
       <pubDate>Mon, 05 Oct 2026 02:30:06 +0000</pubDate>
-      <description>Answer by Wolfgang Allred. Score when last checked: 10. Originally posted: 2026-10-04T21:33:47Z.</description>
+      <description>Answer by Wolfgang Allred. Score when last checked: 11. Originally posted: 2026-10-04T21:33:47Z.</description>
     </item>
     <item>
       <title>Are the Chaitin-style incompleteness theorems a consequence of Lawvere's Fixed Point Theorem? — answer reached score 10</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514292</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Ian Agol. Score when last checked: 13. Originally posted: 2026-08-14T21:29:08Z.</description>
-    </item>
-    <item>
-      <title>What missing examples, other than counterexamples, would be most enlightening? — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/514290</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514290</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Amir. Score when last checked: 10. Originally posted: 2026-08-14T21:06:15Z.</description>
     </item>
   </channel>
 </rss>

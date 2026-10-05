@@ -1005,7 +1005,7 @@
       "227773": "2026-10-01T13:33:17.301956Z",
       "227784": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "history-high-score": {
     "entries": [
@@ -1111,7 +1111,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1437,7 +1437,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "law-high-score": {
     "entries": [
@@ -2247,7 +2247,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "math-high-score": {
     "entries": [
@@ -2881,10 +2881,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-03T08:47:58Z",
+        "answer_id": "515704",
+        "first_seen": "2026-10-05T03:32:12.395083Z",
+        "link": "https://mathoverflow.net/a/515704",
+        "owner": "Marco Rip\u00e0",
+        "question_id": "515702",
+        "question_title": "Do $3$ and $5$ generate all odd primes by arithmetic progressions?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-04T21:33:47Z",
         "answer_id": "515728",
@@ -2893,7 +2903,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -3874,16 +3884,6 @@
         "question_id": "514108",
         "question_title": "True in the infinite, open in the finite case",
         "score": 13
-      },
-      {
-        "answer_created": "2026-08-14T21:06:15Z",
-        "answer_id": "514290",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514290",
-        "owner": "Amir",
-        "question_id": "514207",
-        "question_title": "What missing examples, other than counterexamples, would be most enlightening?",
-        "score": 10
       }
     ],
     "known": {
@@ -4413,10 +4413,11 @@
       "515637": "2026-10-01T00:38:59.056333Z",
       "515640": "2026-09-30T06:35:11.167763Z",
       "515686": "2026-10-02T23:25:21.382493Z",
+      "515704": "2026-10-05T03:32:12.395083Z",
       "515712": "2026-10-04T05:18:30.275203Z",
       "515728": "2026-10-05T02:30:06.919701Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4522,7 +4523,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5519,7 +5520,7 @@
       "876539": "2026-10-04T20:20:19.753515Z",
       "876553": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5548,7 +5549,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6671,7 +6672,7 @@
       "306085": "2026-09-28T14:32:11.582786Z",
       "306116": "2026-10-02T16:30:44.011660Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "space-high-score": {
     "entries": [
@@ -7008,7 +7009,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8209,6 +8210,6 @@
       "274703": "2026-10-02T23:25:21.382493Z",
       "274711": "2026-10-03T14:37:25.651553Z"
     },
-    "last_checked": "2026-10-05T02:30:06.919701Z"
+    "last_checked": "2026-10-05T03:32:12.395083Z"
   }
 }
