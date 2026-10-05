@@ -1005,7 +1005,7 @@
       "227773": "2026-10-01T13:33:17.301956Z",
       "227784": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "history-high-score": {
     "entries": [
@@ -1111,7 +1111,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1437,7 +1437,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "law-high-score": {
     "entries": [
@@ -2258,7 +2258,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "math-high-score": {
     "entries": [
@@ -2892,7 +2892,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2914,7 +2914,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -4428,7 +4428,7 @@
       "515712": "2026-10-04T05:18:30.275203Z",
       "515728": "2026-10-05T02:30:06.919701Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4534,7 +4534,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4586,7 +4586,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "876532",
         "question_title": "How does artificial light cancel or dominate the light coming from stars?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-24T11:08:12Z",
@@ -5542,7 +5542,7 @@
       "876539": "2026-10-04T20:20:19.753515Z",
       "876553": "2026-10-04T13:35:51.465508Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5571,10 +5571,20 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-02T15:57:16Z",
+        "answer_id": "306121",
+        "first_seen": "2026-10-05T11:31:28.842713Z",
+        "link": "https://scifi.stackexchange.com/a/306121",
+        "owner": "Valorum",
+        "question_id": "306119",
+        "question_title": "Which comic book is the image of Mjolnir on the Marvel.com 404 page from?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-01T23:44:37Z",
         "answer_id": "306116",
@@ -6564,16 +6574,6 @@
         "question_id": "305123",
         "question_title": "Short story: interstellar federation will destroy Earth unless it becomes more like one humble village (American, ~1950s\u201360s)",
         "score": 24
-      },
-      {
-        "answer_created": "2026-07-03T00:36:15Z",
-        "answer_id": "305091",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305091",
-        "owner": "arp",
-        "question_id": "305089",
-        "question_title": "Story ID: Human breaches alien cultural norms, hilarity ensues",
-        "score": 20
       }
     ],
     "known": {
@@ -6692,9 +6692,10 @@
       "306062": "2026-09-28T11:29:34.524651Z",
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z",
-      "306116": "2026-10-02T16:30:44.011660Z"
+      "306116": "2026-10-02T16:30:44.011660Z",
+      "306121": "2026-10-05T11:31:28.842713Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "space-high-score": {
     "entries": [
@@ -7031,7 +7032,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8232,6 +8233,6 @@
       "274703": "2026-10-02T23:25:21.382493Z",
       "274711": "2026-10-03T14:37:25.651553Z"
     },
-    "last_checked": "2026-10-05T10:32:30.339752Z"
+    "last_checked": "2026-10-05T11:31:28.842713Z"
   }
 }
