@@ -1038,7 +1038,7 @@
       "227796": "2026-10-06T06:36:31.977335Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "history-high-score": {
     "entries": [
@@ -1144,7 +1144,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1470,10 +1470,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-03T11:55:38Z",
+        "answer_id": "115688",
+        "first_seen": "2026-10-06T14:31:55.653069Z",
+        "link": "https://law.stackexchange.com/a/115688",
+        "owner": "Weather Vane",
+        "question_id": "115676",
+        "question_title": "Are there any other obstacles to registering a company in someone else's name?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-21T00:33:03Z",
         "answer_id": "115600",
@@ -2289,9 +2299,10 @@
       "115645": "2026-09-29T05:28:22.367180Z",
       "115649": "2026-09-28T09:32:02.435446Z",
       "115653": "2026-09-28T11:29:34.524651Z",
-      "115668": "2026-09-30T22:29:11.091447Z"
+      "115668": "2026-09-30T22:29:11.091447Z",
+      "115688": "2026-10-06T14:31:55.653069Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "math-high-score": {
     "entries": [
@@ -2925,7 +2936,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2937,7 +2948,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -2947,7 +2958,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-03T08:47:58Z",
@@ -2957,7 +2968,7 @@
         "owner": "Marco Rip\u00e0",
         "question_id": "515702",
         "question_title": "Do $3$ and $5$ generate all odd primes by arithmetic progressions?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-04T21:33:47Z",
@@ -2967,7 +2978,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -4463,7 +4474,7 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4569,7 +4580,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5599,7 +5610,7 @@
       "876558": "2026-10-05T23:26:24.304825Z",
       "876578": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5628,7 +5639,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5640,7 +5651,7 @@
         "owner": "galacticninja",
         "question_id": "306136",
         "question_title": "1950s sci-fi short story set in the early computer days, about a man inside a computer typing out answers",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-02T15:57:16Z",
@@ -5900,7 +5911,7 @@
         "owner": "Stanley Webb",
         "question_id": "305930",
         "question_title": "What is the earliest sci-fi story to mention another real sci-fi work as fiction within its own universe?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-09-10T17:12:59Z",
@@ -6753,7 +6764,7 @@
       "306121": "2026-10-05T11:31:28.842713Z",
       "306140": "2026-10-06T01:29:02.084335Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "space-high-score": {
     "entries": [
@@ -7090,7 +7101,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8294,6 +8305,6 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-06T13:31:59.764983Z"
+    "last_checked": "2026-10-06T14:31:55.653069Z"
   }
 }
