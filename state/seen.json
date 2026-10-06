@@ -1038,7 +1038,7 @@
       "227796": "2026-10-06T06:36:31.977335Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "history-high-score": {
     "entries": [
@@ -1144,7 +1144,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1470,7 +1470,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "law-high-score": {
     "entries": [
@@ -2302,7 +2302,7 @@
       "115668": "2026-09-30T22:29:11.091447Z",
       "115688": "2026-10-06T14:31:55.653069Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "math-high-score": {
     "entries": [
@@ -2936,7 +2936,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2948,7 +2948,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -2978,7 +2978,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 40
+        "score": 41
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -4474,7 +4474,7 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4580,7 +4580,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5610,7 +5610,7 @@
       "876558": "2026-10-05T23:26:24.304825Z",
       "876578": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5639,7 +5639,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5661,7 +5661,7 @@
         "owner": "Valorum",
         "question_id": "306119",
         "question_title": "Which comic book is the image of Mjolnir on the Marvel.com 404 page from?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-01T23:44:37Z",
@@ -6764,7 +6764,7 @@
       "306121": "2026-10-05T11:31:28.842713Z",
       "306140": "2026-10-06T01:29:02.084335Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "space-high-score": {
     "entries": [
@@ -7101,7 +7101,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7113,7 +7113,7 @@
         "owner": "Arcturus",
         "question_id": "274722",
         "question_title": "Alternative energy sources for carbon-based life in the Degenerate Era?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-01T18:51:59Z",
@@ -8305,6 +8305,6 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-06T14:31:55.653069Z"
+    "last_checked": "2026-10-06T15:30:20.377222Z"
   }
 }
