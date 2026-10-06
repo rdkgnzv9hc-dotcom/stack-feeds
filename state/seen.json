@@ -1038,7 +1038,7 @@
       "227796": "2026-10-06T06:36:31.977335Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "history-high-score": {
     "entries": [
@@ -1144,7 +1144,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1470,7 +1470,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "law-high-score": {
     "entries": [
@@ -2291,7 +2291,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "math-high-score": {
     "entries": [
@@ -2925,7 +2925,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4463,7 +4463,7 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4569,10 +4569,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-03T19:14:22Z",
+        "answer_id": "876578",
+        "first_seen": "2026-10-06T13:31:59.764983Z",
+        "link": "https://physics.stackexchange.com/a/876578",
+        "owner": "Buzz",
+        "question_id": "876577",
+        "question_title": "Why is the magnetic field vector the axial vector?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-02T13:51:13Z",
         "answer_id": "876558",
@@ -5586,9 +5596,10 @@
       "876534": "2026-10-01T21:29:00.144041Z",
       "876539": "2026-10-04T20:20:19.753515Z",
       "876553": "2026-10-04T13:35:51.465508Z",
-      "876558": "2026-10-05T23:26:24.304825Z"
+      "876558": "2026-10-05T23:26:24.304825Z",
+      "876578": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5617,7 +5628,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6742,7 +6753,7 @@
       "306121": "2026-10-05T11:31:28.842713Z",
       "306140": "2026-10-06T01:29:02.084335Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "space-high-score": {
     "entries": [
@@ -7079,10 +7090,20 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-21T15:24:32Z",
+        "answer_id": "274723",
+        "first_seen": "2026-10-06T13:31:59.764983Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274723",
+        "owner": "Arcturus",
+        "question_id": "274722",
+        "question_title": "Alternative energy sources for carbon-based life in the Degenerate Era?",
+        "score": 9
+      },
       {
         "answer_created": "2026-10-01T18:51:59Z",
         "answer_id": "274707",
@@ -7111,7 +7132,7 @@
         "owner": "Mark",
         "question_id": "274710",
         "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-01T13:38:12Z",
@@ -8072,16 +8093,6 @@
         "question_id": "274142",
         "question_title": "What weapons would a terrestrial cephalopod use?",
         "score": 6
-      },
-      {
-        "answer_created": "2026-07-25T05:18:46Z",
-        "answer_id": "274143",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274143",
-        "owner": "Escaped dental patient.",
-        "question_id": "274139",
-        "question_title": "I need a reason why a politician that only offers 'sacrifices and pain' is consistently getting re-elected",
-        "score": 14
       }
     ],
     "known": {
@@ -8280,8 +8291,9 @@
       "274703": "2026-10-02T23:25:21.382493Z",
       "274707": "2026-10-06T10:31:07.446916Z",
       "274711": "2026-10-03T14:37:25.651553Z",
-      "274714": "2026-10-05T12:37:51.967961Z"
+      "274714": "2026-10-05T12:37:51.967961Z",
+      "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-06T12:36:18.536359Z"
+    "last_checked": "2026-10-06T13:31:59.764983Z"
   }
 }
