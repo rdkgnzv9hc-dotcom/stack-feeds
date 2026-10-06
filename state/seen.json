@@ -1016,7 +1016,7 @@
       "227784": "2026-10-04T13:35:51.465508Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "history-high-score": {
     "entries": [
@@ -1122,7 +1122,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1448,7 +1448,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "law-high-score": {
     "entries": [
@@ -2269,7 +2269,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "math-high-score": {
     "entries": [
@@ -2903,7 +2903,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2915,7 +2915,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -2925,7 +2925,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-03T08:47:58Z",
@@ -2945,7 +2945,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 35
+        "score": 36
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -4441,7 +4441,7 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4547,7 +4547,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5566,7 +5566,7 @@
       "876553": "2026-10-04T13:35:51.465508Z",
       "876558": "2026-10-05T23:26:24.304825Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5595,7 +5595,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6720,7 +6720,7 @@
       "306121": "2026-10-05T11:31:28.842713Z",
       "306140": "2026-10-06T01:29:02.084335Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "space-high-score": {
     "entries": [
@@ -7057,7 +7057,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8259,6 +8259,6 @@
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z"
     },
-    "last_checked": "2026-10-06T03:29:58.672967Z"
+    "last_checked": "2026-10-06T04:31:02.893786Z"
   }
 }
