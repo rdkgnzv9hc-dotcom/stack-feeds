@@ -1027,7 +1027,7 @@
       "227796": "2026-10-06T06:36:31.977335Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "history-high-score": {
     "entries": [
@@ -1133,7 +1133,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1459,7 +1459,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "law-high-score": {
     "entries": [
@@ -2280,7 +2280,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "math-high-score": {
     "entries": [
@@ -2914,7 +2914,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4452,7 +4452,7 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4558,7 +4558,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5577,7 +5577,7 @@
       "876553": "2026-10-04T13:35:51.465508Z",
       "876558": "2026-10-05T23:26:24.304825Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5606,7 +5606,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6731,7 +6731,7 @@
       "306121": "2026-10-05T11:31:28.842713Z",
       "306140": "2026-10-06T01:29:02.084335Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "space-high-score": {
     "entries": [
@@ -7068,10 +7068,20 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-01T18:51:59Z",
+        "answer_id": "274707",
+        "first_seen": "2026-10-06T10:31:07.446916Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274707",
+        "owner": "Robert Rapplean",
+        "question_id": "274697",
+        "question_title": "Practicality of sail-powered airships in a fantasy setting?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-03T19:44:55Z",
         "answer_id": "274714",
@@ -8061,16 +8071,6 @@
         "question_id": "274139",
         "question_title": "I need a reason why a politician that only offers 'sacrifices and pain' is consistently getting re-elected",
         "score": 14
-      },
-      {
-        "answer_created": "2026-07-25T02:49:00Z",
-        "answer_id": "274138",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274138",
-        "owner": "g s",
-        "question_id": "274136",
-        "question_title": "Could continuous heavy spaceship traffic strip away a terraformed moon's fragile atmosphere?",
-        "score": 22
       }
     ],
     "known": {
@@ -8267,9 +8267,10 @@
       "274698": "2026-10-01T18:34:44.032826Z",
       "274701": "2026-10-01T17:30:02.244322Z",
       "274703": "2026-10-02T23:25:21.382493Z",
+      "274707": "2026-10-06T10:31:07.446916Z",
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z"
     },
-    "last_checked": "2026-10-06T09:31:55.852473Z"
+    "last_checked": "2026-10-06T10:31:07.446916Z"
   }
 }
