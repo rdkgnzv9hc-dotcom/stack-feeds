@@ -5,20 +5,27 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 18:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:29:18 +0000</lastBuildDate>
     <item>
-      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 21</title>
+      <title>Can adding one vertex change every edge of the shortest Hamiltonian cycle? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515740</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515740</guid>
+      <pubDate>Tue, 06 Oct 2026 19:29:18 +0000</pubDate>
+      <description>Answer by Marco Ripà. Score when last checked: 10. Originally posted: 2026-10-05T14:15:13Z.</description>
+    </item>
+    <item>
+      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 22</title>
       <link>https://mathoverflow.net/a/515738</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515738</guid>
       <pubDate>Mon, 05 Oct 2026 17:29:56 +0000</pubDate>
-      <description>Answer by JF Meier. Score when last checked: 21. Originally posted: 2026-10-05T12:45:11Z.</description>
+      <description>Answer by JF Meier. Score when last checked: 22. Originally posted: 2026-10-05T12:45:11Z.</description>
     </item>
     <item>
-      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 25</title>
+      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 27</title>
       <link>https://mathoverflow.net/a/515735</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515735</guid>
       <pubDate>Mon, 05 Oct 2026 15:33:37 +0000</pubDate>
-      <description>Answer by Alexandre Eremenko. Score when last checked: 25. Originally posted: 2026-10-05T11:27:13Z.</description>
+      <description>Answer by Alexandre Eremenko. Score when last checked: 27. Originally posted: 2026-10-05T11:27:13Z.</description>
     </item>
     <item>
       <title>Do $3$ and $5$ generate all odd primes by arithmetic progressions? — answer reached score 12</title>
@@ -28,11 +35,11 @@
       <description>Answer by Marco Ripà. Score when last checked: 12. Originally posted: 2026-10-03T08:47:58Z.</description>
     </item>
     <item>
-      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 42</title>
+      <title>Are interactions between different fields of mathematics always beneficial? — answer reached score 43</title>
       <link>https://mathoverflow.net/a/515728</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515728</guid>
       <pubDate>Mon, 05 Oct 2026 02:30:06 +0000</pubDate>
-      <description>Answer by Wolfgang Allred. Score when last checked: 42. Originally posted: 2026-10-04T21:33:47Z.</description>
+      <description>Answer by Wolfgang Allred. Score when last checked: 43. Originally posted: 2026-10-04T21:33:47Z.</description>
     </item>
     <item>
       <title>Are the Chaitin-style incompleteness theorems a consequence of Lawvere's Fixed Point Theorem? — answer reached score 10</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514350</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Anton Petrunin. Score when last checked: 13. Originally posted: 2026-08-16T15:10:31Z.</description>
-    </item>
-    <item>
-      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/514339</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514339</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by Paradox. Score when last checked: 14. Originally posted: 2026-08-16T05:04:18Z.</description>
     </item>
   </channel>
 </rss>
