@@ -1016,7 +1016,7 @@
       "227784": "2026-10-04T13:35:51.465508Z",
       "227799": "2026-10-05T13:35:53.928868Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "history-high-score": {
     "entries": [
@@ -1122,7 +1122,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1448,7 +1448,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "law-high-score": {
     "entries": [
@@ -2269,7 +2269,7 @@
       "115653": "2026-09-28T11:29:34.524651Z",
       "115668": "2026-09-30T22:29:11.091447Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "math-high-score": {
     "entries": [
@@ -2903,7 +2903,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2915,7 +2915,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -2945,7 +2945,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -4441,7 +4441,7 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4547,7 +4547,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5566,7 +5566,7 @@
       "876553": "2026-10-04T13:35:51.465508Z",
       "876558": "2026-10-05T23:26:24.304825Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5595,7 +5595,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6719,7 +6719,7 @@
       "306116": "2026-10-02T16:30:44.011660Z",
       "306121": "2026-10-05T11:31:28.842713Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "space-high-score": {
     "entries": [
@@ -6731,7 +6731,7 @@
         "owner": "blobbymcblobby",
         "question_id": "70724",
         "question_title": "Why are they wearing those black and orange suits in this video during water survival training?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-30T04:09:21Z",
@@ -7056,7 +7056,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7088,7 +7088,7 @@
         "owner": "automaton",
         "question_id": "274694",
         "question_title": "How to build a medieval fantasy bunker?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-01T08:08:05Z",
@@ -8258,6 +8258,6 @@
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z"
     },
-    "last_checked": "2026-10-05T23:26:24.304825Z"
+    "last_checked": "2026-10-06T00:40:27.582298Z"
   }
 }
