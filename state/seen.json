@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "law-high-score": {
     "entries": [
@@ -2324,7 +2324,7 @@
       "115668": "2026-09-30T22:29:11.091447Z",
       "115688": "2026-10-06T14:31:55.653069Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "math-high-score": {
     "entries": [
@@ -2958,10 +2958,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-06T15:18:21Z",
+        "answer_id": "515770",
+        "first_seen": "2026-10-07T22:28:11.862922Z",
+        "link": "https://mathoverflow.net/a/515770",
+        "owner": "GH from MO",
+        "question_id": "515769",
+        "question_title": "Large and Larger Sieve- Why Sieve",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-05T12:17:02Z",
         "answer_id": "514933",
@@ -2980,7 +2990,7 @@
         "owner": "David White",
         "question_id": "515795",
         "question_title": "Possible suggestions to \"AI advisory group\"?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-05T14:15:13Z",
@@ -3780,7 +3790,7 @@
         "owner": "Pace Nielsen",
         "question_id": "514923",
         "question_title": "Posting AI proofs",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-05T05:21:53Z",
@@ -3951,16 +3961,6 @@
         "question_id": "514380",
         "question_title": "About AI and how we publish",
         "score": 11
-      },
-      {
-        "answer_created": "2026-08-17T18:33:42Z",
-        "answer_id": "514386",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514386",
-        "owner": "Pace Nielsen",
-        "question_id": "162162",
-        "question_title": "Are there non-scalar endomorphisms of the functor $V\\mapsto V^{**}/V$?",
-        "score": 10
       }
     ],
     "known": {
@@ -4497,9 +4497,10 @@
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z",
       "515740": "2026-10-06T19:29:18.695762Z",
+      "515770": "2026-10-07T22:28:11.862922Z",
       "515797": "2026-10-07T15:40:44.107584Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4605,7 +4606,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5646,7 +5647,7 @@
       "876558": "2026-10-05T23:26:24.304825Z",
       "876578": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5675,7 +5676,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5697,7 +5698,7 @@
         "owner": "VBartilucci",
         "question_id": "306145",
         "question_title": "When was the first time a Lantern ring was charged by a different Lantern?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-04T04:20:03Z",
@@ -6802,7 +6803,7 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "space-high-score": {
     "entries": [
@@ -7139,7 +7140,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8343,6 +8344,6 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T21:30:38.785071Z"
+    "last_checked": "2026-10-07T22:28:11.862922Z"
   }
 }
