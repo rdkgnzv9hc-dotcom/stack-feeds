@@ -1049,7 +1049,7 @@
       "227799": "2026-10-05T13:35:53.928868Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "history-high-score": {
     "entries": [
@@ -1155,7 +1155,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1277,7 +1277,7 @@
         "owner": "Andrew",
         "question_id": "19616",
         "question_title": "Could Archimedes prove his eponymous law using his \"calculus\"?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-07-28T12:48:13Z",
@@ -1481,7 +1481,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "law-high-score": {
     "entries": [
@@ -2313,7 +2313,7 @@
       "115668": "2026-09-30T22:29:11.091447Z",
       "115688": "2026-10-06T14:31:55.653069Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "math-high-score": {
     "entries": [
@@ -2947,7 +2947,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3099,7 +3099,7 @@
         "owner": "Timothy Chow",
         "question_id": "515632",
         "question_title": "Formalization advice for mathematicians",
-        "score": 29
+        "score": 28
       },
       {
         "answer_created": "2026-09-29T23:12:43Z",
@@ -4486,7 +4486,7 @@
       "515738": "2026-10-05T17:29:56.474752Z",
       "515740": "2026-10-06T19:29:18.695762Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4592,7 +4592,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5633,7 +5633,7 @@
       "876558": "2026-10-05T23:26:24.304825Z",
       "876578": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5662,10 +5662,30 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-06T17:00:52Z",
+        "answer_id": "306154",
+        "first_seen": "2026-10-07T12:38:19.763256Z",
+        "link": "https://scifi.stackexchange.com/a/306154",
+        "owner": "Valorum",
+        "question_id": "306153",
+        "question_title": "Do the Borg ignore the species they deem unworthy of assimilation?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-05T17:28:46Z",
+        "answer_id": "306147",
+        "first_seen": "2026-10-07T12:38:19.763256Z",
+        "link": "https://scifi.stackexchange.com/a/306147",
+        "owner": "VBartilucci",
+        "question_id": "306145",
+        "question_title": "When was the first time a Lantern ring was charged by a different Lantern?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-04T04:20:03Z",
         "answer_id": "306140",
@@ -6645,26 +6665,6 @@
         "question_id": "305130",
         "question_title": "What is meant by casting Carson Beckett as 'international'?",
         "score": 15
-      },
-      {
-        "answer_created": "2026-07-05T17:16:04Z",
-        "answer_id": "305131",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305131",
-        "owner": "Paulie_D",
-        "question_id": "305130",
-        "question_title": "What is meant by casting Carson Beckett as 'international'?",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-07-05T00:32:41Z",
-        "answer_id": "305127",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305127",
-        "owner": "LogicDictates",
-        "question_id": "305125",
-        "question_title": "Did Picard really destroy the Tox Uthat?",
-        "score": 14
       }
     ],
     "known": {
@@ -6785,9 +6785,11 @@
       "306085": "2026-09-28T14:32:11.582786Z",
       "306116": "2026-10-02T16:30:44.011660Z",
       "306121": "2026-10-05T11:31:28.842713Z",
-      "306140": "2026-10-06T01:29:02.084335Z"
+      "306140": "2026-10-06T01:29:02.084335Z",
+      "306147": "2026-10-07T12:38:19.763256Z",
+      "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "space-high-score": {
     "entries": [
@@ -7124,7 +7126,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8328,6 +8330,6 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T11:30:09.432465Z"
+    "last_checked": "2026-10-07T12:38:19.763256Z"
   }
 }
