@@ -1049,7 +1049,7 @@
       "227799": "2026-10-05T13:35:53.928868Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "history-high-score": {
     "entries": [
@@ -1155,7 +1155,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1481,7 +1481,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "law-high-score": {
     "entries": [
@@ -2313,7 +2313,7 @@
       "115668": "2026-09-30T22:29:11.091447Z",
       "115688": "2026-10-06T14:31:55.653069Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "math-high-score": {
     "entries": [
@@ -2947,10 +2947,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-05T12:17:02Z",
+        "answer_id": "514933",
+        "first_seen": "2026-10-07T16:33:57.472438Z",
+        "link": "https://mathoverflow.net/a/514933",
+        "owner": "JF Meier",
+        "question_id": "514923",
+        "question_title": "Posting AI proofs",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-07T11:56:26Z",
         "answer_id": "515797",
@@ -2959,7 +2969,7 @@
         "owner": "David White",
         "question_id": "515795",
         "question_title": "Possible suggestions to \"AI advisory group\"?",
-        "score": 10
+        "score": 13
       },
       {
         "answer_created": "2026-10-05T14:15:13Z",
@@ -3209,7 +3219,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 48
+        "score": 49
       },
       {
         "answer_created": "2026-09-24T06:20:00Z",
@@ -3749,7 +3759,7 @@
         "owner": "Sean Eberhard",
         "question_id": "514923",
         "question_title": "Posting AI proofs",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-05T15:38:48Z",
@@ -3759,7 +3769,7 @@
         "owner": "Pace Nielsen",
         "question_id": "514923",
         "question_title": "Posting AI proofs",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-05T05:21:53Z",
@@ -3940,16 +3950,6 @@
         "question_id": "162162",
         "question_title": "Are there non-scalar endomorphisms of the functor $V\\mapsto V^{**}/V$?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-08-17T12:30:21Z",
-        "answer_id": "514373",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514373",
-        "owner": "Peter LeFanu Lumsdaine",
-        "question_id": "514365",
-        "question_title": "Do all topos have \"enough ordinals\" to get fixpoint by iterations?",
-        "score": 13
       }
     ],
     "known": {
@@ -4394,6 +4394,7 @@
       "514924": "2026-09-11T17:43:24.207171Z",
       "514929": "2026-09-11T16:35:49.698347Z",
       "514932": "2026-09-11T16:35:49.698347Z",
+      "514933": "2026-10-07T16:33:57.472438Z",
       "514939": "2026-09-11T16:35:49.698347Z",
       "514943": "2026-09-11T17:43:24.207171Z",
       "514953": "2026-09-11T16:35:49.698347Z",
@@ -4487,7 +4488,7 @@
       "515740": "2026-10-06T19:29:18.695762Z",
       "515797": "2026-10-07T15:40:44.107584Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4593,7 +4594,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5634,7 +5635,7 @@
       "876558": "2026-10-05T23:26:24.304825Z",
       "876578": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5663,7 +5664,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5675,7 +5676,7 @@
         "owner": "Valorum",
         "question_id": "306153",
         "question_title": "Do the Borg ignore the species they deem unworthy of assimilation?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-05T17:28:46Z",
@@ -5835,7 +5836,7 @@
         "owner": "FuzzyBoots",
         "question_id": "305997",
         "question_title": "Engineer's Report on the Death Star",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-09-19T04:56:40Z",
@@ -6790,7 +6791,7 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "space-high-score": {
     "entries": [
@@ -7127,7 +7128,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8331,6 +8332,6 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T15:40:44.107584Z"
+    "last_checked": "2026-10-07T16:33:57.472438Z"
   }
 }
