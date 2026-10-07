@@ -9,7 +9,7 @@
         "owner": "Especially Lime",
         "question_id": "227803",
         "question_title": "Is it necessary to include an AI disclosure for a third party communication?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-09-30T19:05:16Z",
@@ -1049,7 +1049,7 @@
       "227799": "2026-10-05T13:35:53.928868Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "history-high-score": {
     "entries": [
@@ -1155,7 +1155,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1481,7 +1481,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "law-high-score": {
     "entries": [
@@ -2313,7 +2313,7 @@
       "115668": "2026-09-30T22:29:11.091447Z",
       "115688": "2026-10-06T14:31:55.653069Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "math-high-score": {
     "entries": [
@@ -2947,10 +2947,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-07T11:56:26Z",
+        "answer_id": "515797",
+        "first_seen": "2026-10-07T15:40:44.107584Z",
+        "link": "https://mathoverflow.net/a/515797",
+        "owner": "David White",
+        "question_id": "515795",
+        "question_title": "Possible suggestions to \"AI advisory group\"?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-05T14:15:13Z",
         "answer_id": "515740",
@@ -2969,7 +2979,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -2979,7 +2989,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-10-03T08:47:58Z",
@@ -2999,7 +3009,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 49
+        "score": 50
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -3940,16 +3950,6 @@
         "question_id": "514365",
         "question_title": "Do all topos have \"enough ordinals\" to get fixpoint by iterations?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-08-16T15:10:31Z",
-        "answer_id": "514350",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514350",
-        "owner": "Anton Petrunin",
-        "question_id": "5479",
-        "question_title": "Milnor's cartography problem",
-        "score": 13
       }
     ],
     "known": {
@@ -4484,9 +4484,10 @@
       "515728": "2026-10-05T02:30:06.919701Z",
       "515735": "2026-10-05T15:33:37.039832Z",
       "515738": "2026-10-05T17:29:56.474752Z",
-      "515740": "2026-10-06T19:29:18.695762Z"
+      "515740": "2026-10-06T19:29:18.695762Z",
+      "515797": "2026-10-07T15:40:44.107584Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4592,7 +4593,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5633,7 +5634,7 @@
       "876558": "2026-10-05T23:26:24.304825Z",
       "876578": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5662,7 +5663,7 @@
       "94780": "2026-09-11T17:35:15.780317Z",
       "94790": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5674,7 +5675,7 @@
         "owner": "Valorum",
         "question_id": "306153",
         "question_title": "Do the Borg ignore the species they deem unworthy of assimilation?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-05T17:28:46Z",
@@ -6789,7 +6790,7 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "space-high-score": {
     "entries": [
@@ -6811,7 +6812,7 @@
         "owner": "blobbymcblobby",
         "question_id": "66770",
         "question_title": "Looking for information on this Apollo era CGI animation",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-25T18:00:51Z",
@@ -7126,7 +7127,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8330,6 +8331,6 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-07T14:32:14.552069Z"
+    "last_checked": "2026-10-07T15:40:44.107584Z"
   }
 }
