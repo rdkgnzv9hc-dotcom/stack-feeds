@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "law-high-score": {
     "entries": [
@@ -1504,7 +1504,7 @@
         "owner": "Nuclear Hoagie",
         "question_id": "115700",
         "question_title": "What is the legal threshold for switching from execution to life saving medical intervention?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-03T11:55:38Z",
@@ -2335,7 +2335,7 @@
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "math-high-score": {
     "entries": [
@@ -2969,7 +2969,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2981,7 +2981,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "515824",
         "question_title": "How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-08T02:10:02Z",
@@ -2991,7 +2991,7 @@
         "owner": "Joe Silverman",
         "question_id": "515822",
         "question_title": "When does simplification require complication?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-05T21:21:03Z",
@@ -3091,7 +3091,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 52
+        "score": 53
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -3291,7 +3291,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 49
+        "score": 50
       },
       {
         "answer_created": "2026-09-24T06:20:00Z",
@@ -3621,7 +3621,7 @@
         "owner": "Tom Gannon",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-09-06T02:10:08Z",
@@ -4515,7 +4515,7 @@
       "515826": "2026-10-08T13:34:49.601083Z",
       "515832": "2026-10-08T07:33:52.773061Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4621,7 +4621,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5673,7 +5673,7 @@
       "876578": "2026-10-06T13:31:59.764983Z",
       "876625": "2026-10-08T07:33:52.773061Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5713,7 +5713,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6840,7 +6840,7 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "space-high-score": {
     "entries": [
@@ -7177,7 +7177,7 @@
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7219,7 +7219,7 @@
         "owner": "Mark",
         "question_id": "274710",
         "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-01T13:38:12Z",
@@ -8381,6 +8381,6 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z"
     },
-    "last_checked": "2026-10-08T13:34:49.601083Z"
+    "last_checked": "2026-10-08T14:34:53.134123Z"
   }
 }
