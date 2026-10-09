@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "law-high-score": {
     "entries": [
@@ -2335,7 +2335,7 @@
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "math-high-score": {
     "entries": [
@@ -2969,10 +2969,30 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-09T01:34:15Z",
+        "answer_id": "515868",
+        "first_seen": "2026-10-09T08:33:16.251020Z",
+        "link": "https://mathoverflow.net/a/515868",
+        "owner": "Will Sawin",
+        "question_id": "515861",
+        "question_title": "Current projects and the recent AI news",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-09T01:16:39Z",
+        "answer_id": "515867",
+        "first_seen": "2026-10-09T08:33:16.251020Z",
+        "link": "https://mathoverflow.net/a/515867",
+        "owner": "Will Sawin",
+        "question_id": "515849",
+        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-08T23:18:05Z",
         "answer_id": "515863",
@@ -2991,7 +3011,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 22
+        "score": 26
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -3952,26 +3972,6 @@
         "question_id": "514690",
         "question_title": "Do only Mersenne primes have \u201cgood\u201d permutations?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-08-24T20:15:23Z",
-        "answer_id": "514631",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514631",
-        "owner": "Andrej Bauer",
-        "question_id": "514625",
-        "question_title": "Identity in homotopy type theory",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-08-24T01:59:59Z",
-        "answer_id": "514607",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514607",
-        "owner": "Stopple",
-        "question_id": "514584",
-        "question_title": "Scholarships and funding opportunities for students interested in mathematical quantum mechanics",
-        "score": 11
       }
     ],
     "known": {
@@ -4515,9 +4515,11 @@
       "515826": "2026-10-08T13:34:49.601083Z",
       "515832": "2026-10-08T07:33:52.773061Z",
       "515855": "2026-10-08T23:29:11.360456Z",
-      "515863": "2026-10-09T04:32:08.678299Z"
+      "515863": "2026-10-09T04:32:08.678299Z",
+      "515867": "2026-10-09T08:33:16.251020Z",
+      "515868": "2026-10-09T08:33:16.251020Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4623,7 +4625,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5686,7 +5688,7 @@
       "876623": "2026-10-09T04:32:08.678299Z",
       "876625": "2026-10-08T07:33:52.773061Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5726,7 +5728,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6853,7 +6855,7 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "space-high-score": {
     "entries": [
@@ -7201,7 +7203,7 @@
       "70725": "2026-10-02T18:33:16.116144Z",
       "70736": "2026-10-08T23:29:11.360456Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7223,7 +7225,7 @@
         "owner": "Monty Wild",
         "question_id": "274728",
         "question_title": "Does my species work? Sea-bats",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-01T05:58:27Z",
@@ -8408,6 +8410,6 @@
       "274723": "2026-10-06T13:31:59.764983Z",
       "274730": "2026-10-08T22:30:33.098296Z"
     },
-    "last_checked": "2026-10-09T07:33:12.942160Z"
+    "last_checked": "2026-10-09T08:33:16.251020Z"
   }
 }
