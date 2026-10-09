@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "law-high-score": {
     "entries": [
@@ -2335,7 +2335,7 @@
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "math-high-score": {
     "entries": [
@@ -2969,10 +2969,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-24T14:47:19Z",
+        "answer_id": "515513",
+        "first_seen": "2026-10-09T14:35:29.903279Z",
+        "link": "https://mathoverflow.net/a/515513",
+        "owner": "Will Sawin",
+        "question_id": "515510",
+        "question_title": "Is positive upper density preserved along many arithmetic progressions?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-08T23:31:02Z",
         "answer_id": "515864",
@@ -2991,7 +3001,7 @@
         "owner": "Will Sawin",
         "question_id": "515861",
         "question_title": "Current projects and the recent AI news",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-09T01:16:39Z",
@@ -3001,7 +3011,7 @@
         "owner": "Will Sawin",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-08T23:18:05Z",
@@ -3011,7 +3021,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "515861",
         "question_title": "Current projects and the recent AI news",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-08T21:30:51Z",
@@ -3021,7 +3031,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 32
+        "score": 35
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -3041,7 +3051,7 @@
         "owner": "Joe Silverman",
         "question_id": "515822",
         "question_title": "When does simplification require complication?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-05T21:21:03Z",
@@ -3241,7 +3251,7 @@
         "owner": "Timothy Chow",
         "question_id": "515632",
         "question_title": "Formalization advice for mathematicians",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-29T23:12:43Z",
@@ -3962,16 +3972,6 @@
         "question_id": "511572",
         "question_title": "What can mathematicians do to mitigate the deleterious impacts of AI?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-08-30T06:03:53Z",
-        "answer_id": "514773",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514773",
-        "owner": "GH from MO",
-        "question_id": "514772",
-        "question_title": "How many lattice points can lie on a circle with exactly $n$ interior points?",
-        "score": 12
       }
     ],
     "known": {
@@ -4489,6 +4489,7 @@
       "515491": "2026-09-24T00:34:19.734526Z",
       "515500": "2026-09-24T14:28:48.425272Z",
       "515508": "2026-09-24T13:29:16.708196Z",
+      "515513": "2026-10-09T14:35:29.903279Z",
       "515515": "2026-09-24T16:29:14.203680Z",
       "515516": "2026-09-24T18:30:41.045206Z",
       "515536": "2026-09-25T21:26:38.386075Z",
@@ -4520,7 +4521,7 @@
       "515867": "2026-10-09T08:33:16.251020Z",
       "515868": "2026-10-09T08:33:16.251020Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4626,7 +4627,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5689,7 +5690,7 @@
       "876623": "2026-10-09T04:32:08.678299Z",
       "876625": "2026-10-08T07:33:52.773061Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5729,7 +5730,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6856,7 +6857,7 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "space-high-score": {
     "entries": [
@@ -7204,7 +7205,7 @@
       "70725": "2026-10-02T18:33:16.116144Z",
       "70736": "2026-10-08T23:29:11.360456Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8411,6 +8412,6 @@
       "274723": "2026-10-06T13:31:59.764983Z",
       "274730": "2026-10-08T22:30:33.098296Z"
     },
-    "last_checked": "2026-10-09T13:34:32.578362Z"
+    "last_checked": "2026-10-09T14:35:29.903279Z"
   }
 }
