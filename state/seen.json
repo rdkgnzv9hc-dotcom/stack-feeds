@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "law-high-score": {
     "entries": [
@@ -2335,7 +2335,7 @@
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "math-high-score": {
     "entries": [
@@ -2969,10 +2969,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-08T23:01:16Z",
+        "answer_id": "515860",
+        "first_seen": "2026-10-09T15:31:32.579886Z",
+        "link": "https://mathoverflow.net/a/515860",
+        "owner": "Nik Weaver",
+        "question_id": "515849",
+        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-24T14:47:19Z",
         "answer_id": "515513",
@@ -3011,7 +3021,7 @@
         "owner": "Will Sawin",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-08T23:18:05Z",
@@ -3031,7 +3041,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 35
+        "score": 38
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -3962,16 +3972,6 @@
         "question_id": "514836",
         "question_title": "Can a submanifold with boundary always be extended?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-08-30T23:00:19Z",
-        "answer_id": "514791",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514791",
-        "owner": "Beni Bogosel",
-        "question_id": "511572",
-        "question_title": "What can mathematicians do to mitigate the deleterious impacts of AI?",
-        "score": 13
       }
     ],
     "known": {
@@ -4516,12 +4516,13 @@
       "515826": "2026-10-08T13:34:49.601083Z",
       "515832": "2026-10-08T07:33:52.773061Z",
       "515855": "2026-10-08T23:29:11.360456Z",
+      "515860": "2026-10-09T15:31:32.579886Z",
       "515863": "2026-10-09T04:32:08.678299Z",
       "515864": "2026-10-09T11:29:27.150913Z",
       "515867": "2026-10-09T08:33:16.251020Z",
       "515868": "2026-10-09T08:33:16.251020Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4627,7 +4628,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5690,7 +5691,7 @@
       "876623": "2026-10-09T04:32:08.678299Z",
       "876625": "2026-10-08T07:33:52.773061Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5730,7 +5731,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6857,10 +6858,20 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306154": "2026-10-07T12:38:19.763256Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-08T16:33:38Z",
+        "answer_id": "70735",
+        "first_seen": "2026-10-09T15:31:32.579886Z",
+        "link": "https://space.stackexchange.com/a/70735",
+        "owner": "Woody",
+        "question_id": "70734",
+        "question_title": "What new technologies would be needed to for a probe to survive for a moderate time within the atmosphere of a gas giant?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-08T16:34:36Z",
         "answer_id": "70736",
@@ -7203,9 +7214,10 @@
       "70719": "2026-09-26T19:24:57.012170Z",
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z",
+      "70735": "2026-10-09T15:31:32.579886Z",
       "70736": "2026-10-08T23:29:11.360456Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8412,6 +8424,6 @@
       "274723": "2026-10-06T13:31:59.764983Z",
       "274730": "2026-10-08T22:30:33.098296Z"
     },
-    "last_checked": "2026-10-09T14:35:29.903279Z"
+    "last_checked": "2026-10-09T15:31:32.579886Z"
   }
 }
