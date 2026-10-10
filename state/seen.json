@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "law-high-score": {
     "entries": [
@@ -2335,7 +2335,7 @@
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "math-high-score": {
     "entries": [
@@ -2969,7 +2969,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3071,7 +3071,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 52
+        "score": 53
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4525,7 +4525,7 @@
       "515868": "2026-10-09T08:33:16.251020Z",
       "515891": "2026-10-10T01:31:14.820303Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4631,10 +4631,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-09T08:30:47Z",
+        "answer_id": "876729",
+        "first_seen": "2026-10-10T17:27:25.801572Z",
+        "link": "https://physics.stackexchange.com/a/876729",
+        "owner": "Roger V.",
+        "question_id": "876727",
+        "question_title": "Uncertainty in classical physics?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-05T19:07:58Z",
         "answer_id": "876623",
@@ -5692,9 +5702,10 @@
       "876558": "2026-10-05T23:26:24.304825Z",
       "876578": "2026-10-06T13:31:59.764983Z",
       "876623": "2026-10-09T04:32:08.678299Z",
-      "876625": "2026-10-08T07:33:52.773061Z"
+      "876625": "2026-10-08T07:33:52.773061Z",
+      "876729": "2026-10-10T17:27:25.801572Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5734,7 +5745,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6863,7 +6874,7 @@
       "306154": "2026-10-07T12:38:19.763256Z",
       "306183": "2026-10-10T02:30:37.168900Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "space-high-score": {
     "entries": [
@@ -7233,10 +7244,20 @@
       "70735": "2026-10-09T15:31:32.579886Z",
       "70736": "2026-10-08T23:29:11.360456Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-10T00:43:54Z",
+        "answer_id": "274742",
+        "first_seen": "2026-10-10T17:27:25.801572Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274742",
+        "owner": "Monty Wild",
+        "question_id": "274739",
+        "question_title": "How realistic or efficient is a clockwork powered tank?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-29T12:42:04Z",
         "answer_id": "274679",
@@ -8226,16 +8247,6 @@
         "question_id": "274139",
         "question_title": "I need a reason why a politician that only offers 'sacrifices and pain' is consistently getting re-elected",
         "score": 9
-      },
-      {
-        "answer_created": "2026-07-27T05:28:23Z",
-        "answer_id": "274164",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274164",
-        "owner": "flox",
-        "question_id": "274162",
-        "question_title": "Megacity with no crude resources, structural limit of vertical building",
-        "score": 16
       }
     ],
     "known": {
@@ -8438,8 +8449,9 @@
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z",
       "274723": "2026-10-06T13:31:59.764983Z",
-      "274730": "2026-10-08T22:30:33.098296Z"
+      "274730": "2026-10-08T22:30:33.098296Z",
+      "274742": "2026-10-10T17:27:25.801572Z"
     },
-    "last_checked": "2026-10-10T16:28:46.853165Z"
+    "last_checked": "2026-10-10T17:27:25.801572Z"
   }
 }
