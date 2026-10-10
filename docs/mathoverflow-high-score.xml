@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:29:58 +0000</lastBuildDate>
+    <item>
+      <title>Tools for searching full texts of large collections of mathematical papers — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515840</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515840</guid>
+      <pubDate>Sat, 10 Oct 2026 07:29:58 +0000</pubDate>
+      <description>Answer by Peter LeFanu Lumsdaine. Score when last checked: 10. Originally posted: 2026-10-08T12:49:49Z.</description>
+    </item>
     <item>
       <title>How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references? — answer reached score 13</title>
       <link>https://mathoverflow.net/a/515891</link>
@@ -63,11 +70,11 @@
       <description>Answer by Alex Elzenaar. Score when last checked: 26. Originally posted: 2026-10-08T23:18:05Z.</description>
     </item>
     <item>
-      <title>How many of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 47</title>
+      <title>How many of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 48</title>
       <link>https://mathoverflow.net/a/515855</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515855</guid>
       <pubDate>Thu, 08 Oct 2026 23:29:11 +0000</pubDate>
-      <description>Answer by Philip Weiss. Score when last checked: 47. Originally posted: 2026-10-08T21:30:51Z.</description>
+      <description>Answer by Philip Weiss. Score when last checked: 48. Originally posted: 2026-10-08T21:30:51Z.</description>
     </item>
     <item>
       <title>How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture — answer reached score 15</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514915</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Fedor Petrov. Score when last checked: 12. Originally posted: 2026-09-04T18:41:55Z.</description>
-    </item>
-    <item>
-      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/514886</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514886</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by natalia. Score when last checked: 14. Originally posted: 2026-09-03T19:47:07Z.</description>
     </item>
   </channel>
 </rss>
