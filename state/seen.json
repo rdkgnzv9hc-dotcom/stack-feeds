@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "law-high-score": {
     "entries": [
@@ -1504,7 +1504,7 @@
         "owner": "Nuclear Hoagie",
         "question_id": "115700",
         "question_title": "What is the legal threshold for switching from execution to life saving medical intervention?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-03T11:55:38Z",
@@ -2335,7 +2335,7 @@
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "math-high-score": {
     "entries": [
@@ -2969,7 +2969,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -2991,7 +2991,7 @@
         "owner": "Dimitri Vulis",
         "question_id": "515845",
         "question_title": "How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-08T22:08:10Z",
@@ -4525,7 +4525,7 @@
       "515868": "2026-10-09T08:33:16.251020Z",
       "515891": "2026-10-10T01:31:14.820303Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4631,7 +4631,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5705,7 +5705,7 @@
       "876625": "2026-10-08T07:33:52.773061Z",
       "876729": "2026-10-10T17:27:25.801572Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5717,7 +5717,7 @@
         "owner": "Machavity",
         "question_id": "95039",
         "question_title": "Why was Christa Pike given medical treatment after her execution failed?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-07-13T19:42:58Z",
@@ -5745,7 +5745,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5767,7 +5767,7 @@
         "owner": "galacticninja",
         "question_id": "306182",
         "question_title": "Short story about a real estate developer on an island who learns that a seafood dish was engineered to give people a peaceful nature",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-06T17:00:52Z",
@@ -6874,7 +6874,7 @@
       "306154": "2026-10-07T12:38:19.763256Z",
       "306183": "2026-10-10T02:30:37.168900Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "space-high-score": {
     "entries": [
@@ -7244,7 +7244,7 @@
       "70735": "2026-10-09T15:31:32.579886Z",
       "70736": "2026-10-08T23:29:11.360456Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7256,7 +7256,7 @@
         "owner": "Monty Wild",
         "question_id": "274739",
         "question_title": "How realistic or efficient is a clockwork powered tank?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-29T12:42:04Z",
@@ -8452,6 +8452,6 @@
       "274730": "2026-10-08T22:30:33.098296Z",
       "274742": "2026-10-10T17:27:25.801572Z"
     },
-    "last_checked": "2026-10-10T17:27:25.801572Z"
+    "last_checked": "2026-10-10T18:32:15.115916Z"
   }
 }
