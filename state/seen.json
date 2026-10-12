@@ -1060,7 +1060,7 @@
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "history-high-score": {
     "entries": [
@@ -1166,7 +1166,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1198,7 +1198,7 @@
         "owner": "Andrew",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-24T13:14:38Z",
@@ -1218,7 +1218,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "19683",
         "question_title": "What is the modern historical consensus on Galileo?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-09-09T11:46:15Z",
@@ -1228,7 +1228,7 @@
         "owner": "Georg Essl",
         "question_id": "19670",
         "question_title": "How did Michael Polanyi come to correspond with Einstein?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-01T12:14:27Z",
@@ -1238,7 +1238,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "19654",
         "question_title": "Times when a scientist named something after him- or herself and it stuck",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-08-31T15:26:03Z",
@@ -1248,7 +1248,7 @@
         "owner": "Anyon",
         "question_id": "19654",
         "question_title": "Times when a scientist named something after him- or herself and it stuck",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-08-25T20:18:46Z",
@@ -1492,7 +1492,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "law-high-score": {
     "entries": [
@@ -1524,7 +1524,7 @@
         "owner": "Jen",
         "question_id": "115599",
         "question_title": "Does the McClain Doctrine apply to stolen Indigenous data?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-30T00:27:14Z",
@@ -1644,7 +1644,7 @@
         "owner": "Dale M",
         "question_id": "115595",
         "question_title": "Is it legal to refuse to pay the bill if you are promoting the restaurant?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-20T14:16:01Z",
@@ -2335,7 +2335,7 @@
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "math-high-score": {
     "entries": [
@@ -2969,10 +2969,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-12T14:49:49Z",
+        "answer_id": "515971",
+        "first_seen": "2026-10-12T17:54:27.600860Z",
+        "link": "https://mathoverflow.net/a/515971",
+        "owner": "Benjamin Durkan",
+        "question_id": "515968",
+        "question_title": "Consequences of quasi-RH",
+        "score": 17
+      },
       {
         "answer_created": "2026-10-10T11:04:08Z",
         "answer_id": "515903",
@@ -3081,7 +3091,7 @@
         "owner": "Will Sawin",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 37
+        "score": 38
       },
       {
         "answer_created": "2026-10-08T23:18:05Z",
@@ -3111,7 +3121,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "515824",
         "question_title": "How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-08T02:10:02Z",
@@ -3741,7 +3751,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-15T21:27:56Z",
@@ -3962,16 +3972,6 @@
         "question_id": "514923",
         "question_title": "Posting AI proofs",
         "score": 15
-      },
-      {
-        "answer_created": "2026-09-05T15:38:48Z",
-        "answer_id": "514943",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514943",
-        "owner": "Pace Nielsen",
-        "question_id": "514923",
-        "question_title": "Posting AI proofs",
-        "score": 17
       }
     ],
     "known": {
@@ -4526,9 +4526,10 @@
       "515867": "2026-10-09T08:33:16.251020Z",
       "515868": "2026-10-09T08:33:16.251020Z",
       "515891": "2026-10-10T01:31:14.820303Z",
-      "515903": "2026-10-10T21:28:19.397818Z"
+      "515903": "2026-10-10T21:28:19.397818Z",
+      "515971": "2026-10-12T17:54:27.600860Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4634,7 +4635,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4645,8 +4646,8 @@
         "link": "https://physics.stackexchange.com/a/876729",
         "owner": "Roger V.",
         "question_id": "876727",
-        "question_title": "Uncertainty in classical physics?",
-        "score": 13
+        "question_title": "If we cannot simultaneously pin down the state of motion and the position of a quantum in quantum physics, why can we in classical physics?",
+        "score": 14
       },
       {
         "answer_created": "2026-10-05T19:07:58Z",
@@ -5708,7 +5709,7 @@
       "876625": "2026-10-08T07:33:52.773061Z",
       "876729": "2026-10-10T17:27:25.801572Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5748,7 +5749,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5760,7 +5761,7 @@
         "owner": "Valorum",
         "question_id": "306194",
         "question_title": "What are the \"bat clues\" on the cover of Action Comics #344 showing Superman having nightmares?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-06T07:33:07Z",
@@ -6878,7 +6879,7 @@
       "306183": "2026-10-10T02:30:37.168900Z",
       "306195": "2026-10-11T18:32:36.087186Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "space-high-score": {
     "entries": [
@@ -6910,7 +6911,7 @@
         "owner": "Joe",
         "question_id": "58168",
         "question_title": "What's the highest latitude for a human spaceflight?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-01T17:58:05Z",
@@ -7248,10 +7249,40 @@
       "70735": "2026-10-09T15:31:32.579886Z",
       "70736": "2026-10-08T23:29:11.360456Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-10T02:55:51Z",
+        "answer_id": "274743",
+        "first_seen": "2026-10-12T17:54:27.600860Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274743",
+        "owner": "JBH",
+        "question_id": "274739",
+        "question_title": "How realistic or efficient is a clockwork powered tank?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-06T07:46:30Z",
+        "answer_id": "274721",
+        "first_seen": "2026-10-12T17:54:27.600860Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274721",
+        "owner": "Separatrix",
+        "question_id": "274685",
+        "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-02T20:21:28Z",
+        "answer_id": "274709",
+        "first_seen": "2026-10-12T17:54:27.600860Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274709",
+        "owner": "Trish",
+        "question_id": "274704",
+        "question_title": "All existing communication infrastructure has vanished. What technology do we use to rebuild it?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-10T00:43:54Z",
         "answer_id": "274742",
@@ -7260,7 +7291,7 @@
         "owner": "Monty Wild",
         "question_id": "274739",
         "question_title": "How realistic or efficient is a clockwork powered tank?",
-        "score": 8
+        "score": 11
       },
       {
         "answer_created": "2026-09-29T12:42:04Z",
@@ -7270,7 +7301,7 @@
         "owner": "LazyLizard",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-08T12:43:57Z",
@@ -7290,7 +7321,7 @@
         "owner": "FlyingLemmingSoup",
         "question_id": "274685",
         "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-21T15:24:32Z",
@@ -7320,7 +7351,7 @@
         "owner": "g s",
         "question_id": "274710",
         "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-03T02:19:26Z",
@@ -7330,7 +7361,7 @@
         "owner": "Mark",
         "question_id": "274710",
         "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-01T13:38:12Z",
@@ -7370,7 +7401,7 @@
         "owner": "30Keydet",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-29T15:46:08Z",
@@ -7380,7 +7411,7 @@
         "owner": "JBH",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-09-29T12:57:00Z",
@@ -7390,7 +7421,7 @@
         "owner": "AlexP",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-09-29T10:54:42Z",
@@ -7400,7 +7431,7 @@
         "owner": "indeedy",
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-29T04:16:03Z",
@@ -7410,7 +7441,7 @@
         "owner": "Thucydides",
         "question_id": "274670",
         "question_title": "What bunker materials are needed to protect against a microscopic neutron star explosion?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-27T23:04:35Z",
@@ -8221,36 +8252,6 @@
         "question_id": "274177",
         "question_title": "What kind of unique, non-camera style eyes would work for a predator while being inconspicuous?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-07-29T04:06:26Z",
-        "answer_id": "274179",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274179",
-        "owner": "Monty Wild",
-        "question_id": "274177",
-        "question_title": "What kind of unique, non-camera style eyes would work for a predator while being inconspicuous?",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-07-29T02:29:12Z",
-        "answer_id": "274178",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274178",
-        "owner": "JBH",
-        "question_id": "274177",
-        "question_title": "What kind of unique, non-camera style eyes would work for a predator while being inconspicuous?",
-        "score": 8
-      },
-      {
-        "answer_created": "2026-07-27T22:07:07Z",
-        "answer_id": "274168",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274168",
-        "owner": "Nosajimiki",
-        "question_id": "274139",
-        "question_title": "I need a reason why a politician that only offers 'sacrifices and pain' is consistently getting re-elected",
-        "score": 9
       }
     ],
     "known": {
@@ -8450,12 +8451,15 @@
       "274701": "2026-10-01T17:30:02.244322Z",
       "274703": "2026-10-02T23:25:21.382493Z",
       "274707": "2026-10-06T10:31:07.446916Z",
+      "274709": "2026-10-12T17:54:27.600860Z",
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z",
+      "274721": "2026-10-12T17:54:27.600860Z",
       "274723": "2026-10-06T13:31:59.764983Z",
       "274730": "2026-10-08T22:30:33.098296Z",
-      "274742": "2026-10-10T17:27:25.801572Z"
+      "274742": "2026-10-10T17:27:25.801572Z",
+      "274743": "2026-10-12T17:54:27.600860Z"
     },
-    "last_checked": "2026-10-12T07:21:02.021293Z"
+    "last_checked": "2026-10-12T17:54:27.600860Z"
   }
 }
