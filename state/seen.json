@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-11T01:03:00Z",
+        "answer_id": "227840",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://academia.stackexchange.com/a/227840",
+        "owner": "CrimsonDark",
+        "question_id": "227838",
+        "question_title": "When does paraphrasing become patchwork (or mosaic) plagiarism?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-11T14:59:39Z",
         "answer_id": "227843",
         "first_seen": "2026-10-13T07:42:28.730978Z",
@@ -1069,9 +1079,10 @@
       "227799": "2026-10-05T13:35:53.928868Z",
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z",
+      "227840": "2026-10-13T15:59:00.350142Z",
       "227843": "2026-10-13T07:42:28.730978Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "history-high-score": {
     "entries": [
@@ -1177,7 +1188,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1503,10 +1514,30 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-12T22:46:01Z",
+        "answer_id": "115728",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://law.stackexchange.com/a/115728",
+        "owner": "Jen",
+        "question_id": "115727",
+        "question_title": "Does purchasing video games from DRM-free sources grant you ownership of the game?",
+        "score": 13
+      },
+      {
+        "answer_created": "2026-10-11T20:50:40Z",
+        "answer_id": "115722",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://law.stackexchange.com/a/115722",
+        "owner": "Dale M",
+        "question_id": "115719",
+        "question_title": "What if one ship of the Russian shadow fleet \u2212 Europeans are used to board and arrest \u2212 claims: \"I'm carrying diesel for the U.S., let me pass\"?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-11T02:31:56Z",
         "answer_id": "115718",
@@ -1515,7 +1546,7 @@
         "owner": "Jen",
         "question_id": "115716",
         "question_title": "Estimated birthdate and age of consent law?",
-        "score": 10
+        "score": 14
       },
       {
         "answer_created": "2026-10-07T15:53:16Z",
@@ -1525,7 +1556,7 @@
         "owner": "Nuclear Hoagie",
         "question_id": "115700",
         "question_title": "What is the legal threshold for switching from execution to life saving medical intervention?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-10-03T11:55:38Z",
@@ -1635,7 +1666,7 @@
         "owner": "Gouvernathor",
         "question_id": "115423",
         "question_title": "Can a US president issue a 'blank cheque' pardon that may be used after his term of office expires?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-21T21:16:38Z",
@@ -2355,9 +2386,11 @@
       "115668": "2026-09-30T22:29:11.091447Z",
       "115688": "2026-10-06T14:31:55.653069Z",
       "115701": "2026-10-08T05:30:50.748991Z",
-      "115718": "2026-10-13T07:42:28.730978Z"
+      "115718": "2026-10-13T07:42:28.730978Z",
+      "115722": "2026-10-13T15:59:00.350142Z",
+      "115728": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "math-high-score": {
     "entries": [
@@ -2991,10 +3024,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-10T03:10:06Z",
+        "answer_id": "515897",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://mathoverflow.net/a/515897",
+        "owner": "Joshua P. Swanson",
+        "question_id": "515849",
+        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-12T21:20:06Z",
         "answer_id": "515992",
@@ -3003,7 +3046,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic theta functions?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3013,7 +3056,7 @@
         "owner": "GH from MO",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-12T14:49:49Z",
@@ -3053,7 +3096,7 @@
         "owner": "Pace Nielsen",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-08T12:49:49Z",
@@ -3153,7 +3196,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 57
+        "score": 59
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -3984,16 +4027,6 @@
         "question_id": "514989",
         "question_title": "certifying a proof without publishing it",
         "score": 13
-      },
-      {
-        "answer_created": "2026-09-06T14:58:48Z",
-        "answer_id": "514970",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/514970",
-        "owner": "David White",
-        "question_id": "514968",
-        "question_title": "Examples for the use of AI and LLMs to autonomously find important errors in published results",
-        "score": 15
       }
     ],
     "known": {
@@ -4548,12 +4581,13 @@
       "515867": "2026-10-09T08:33:16.251020Z",
       "515868": "2026-10-09T08:33:16.251020Z",
       "515891": "2026-10-10T01:31:14.820303Z",
+      "515897": "2026-10-13T15:59:00.350142Z",
       "515903": "2026-10-10T21:28:19.397818Z",
       "515971": "2026-10-12T17:54:27.600860Z",
       "515975": "2026-10-13T00:39:51.786504Z",
       "515992": "2026-10-13T00:39:51.786504Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4659,10 +4693,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-12T22:32:01Z",
+        "answer_id": "876831",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://physics.stackexchange.com/a/876831",
+        "owner": "fraxinus",
+        "question_id": "876829",
+        "question_title": "How can a wireless mouse dongle efficiently receive a signal with a much longer wavelength?",
+        "score": 12
+      },
       {
         "answer_created": "2026-10-09T08:30:47Z",
         "answer_id": "876729",
@@ -5731,9 +5775,10 @@
       "876578": "2026-10-06T13:31:59.764983Z",
       "876623": "2026-10-09T04:32:08.678299Z",
       "876625": "2026-10-08T07:33:52.773061Z",
-      "876729": "2026-10-10T17:27:25.801572Z"
+      "876729": "2026-10-10T17:27:25.801572Z",
+      "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5773,10 +5818,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-10T11:47:03Z",
+        "answer_id": "306193",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://scifi.stackexchange.com/a/306193",
+        "owner": "Valorum",
+        "question_id": "306191",
+        "question_title": "What comics references are hidden in the logo for Marvel's spy series Zodiac?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-10T21:04:48Z",
         "answer_id": "306195",
@@ -6766,16 +6821,6 @@
         "question_id": "305171",
         "question_title": "90s\u20132000s fantasy novel about a female mage who escapes to an all-male magic world",
         "score": 15
-      },
-      {
-        "answer_created": "2026-07-08T12:19:44Z",
-        "answer_id": "305159",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305159",
-        "owner": "J-J-J",
-        "question_id": "305095",
-        "question_title": "What are the original Chinese names for the Chinese Fairy Tales translated by Marie Ponsot?",
-        "score": 10
       }
     ],
     "known": {
@@ -6901,12 +6946,23 @@
       "306150": "2026-10-10T05:29:22.356081Z",
       "306154": "2026-10-07T12:38:19.763256Z",
       "306183": "2026-10-10T02:30:37.168900Z",
+      "306193": "2026-10-13T15:59:00.350142Z",
       "306195": "2026-10-11T18:32:36.087186Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-12T21:01:43Z",
+        "answer_id": "70744",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://space.stackexchange.com/a/70744",
+        "owner": "Erin Anne",
+        "question_id": "70742",
+        "question_title": "How would rockets function in an atmosphere which has 100 % oxygen?",
+        "score": 6
+      },
       {
         "answer_created": "2026-10-07T22:49:16Z",
         "answer_id": "70733",
@@ -7271,12 +7327,33 @@
       "70725": "2026-10-02T18:33:16.116144Z",
       "70733": "2026-10-09T16:31:36.253872Z",
       "70735": "2026-10-09T15:31:32.579886Z",
-      "70736": "2026-10-08T23:29:11.360456Z"
+      "70736": "2026-10-08T23:29:11.360456Z",
+      "70744": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-12T12:42:42Z",
+        "answer_id": "274757",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274757",
+        "owner": "Toph",
+        "question_id": "274754",
+        "question_title": "How To Make a Dark Sky on a Jovian Planet?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-10-12T04:19:02Z",
+        "answer_id": "274752",
+        "first_seen": "2026-10-13T15:59:00.350142Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274752",
+        "owner": "g s",
+        "question_id": "274751",
+        "question_title": "Hexapodal Locomotion",
+        "score": 6
+      },
       {
         "answer_created": "2026-10-10T02:55:51Z",
         "answer_id": "274743",
@@ -8256,26 +8333,6 @@
         "question_id": "274177",
         "question_title": "What kind of unique, non-camera style eyes would work for a predator while being inconspicuous?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-07-29T18:03:34Z",
-        "answer_id": "274183",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274183",
-        "owner": "Thibe",
-        "question_id": "274182",
-        "question_title": "How to design a biological whip-like tail that doesn't break itself?",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-07-29T15:30:26Z",
-        "answer_id": "274181",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274181",
-        "owner": "GOATNine",
-        "question_id": "274177",
-        "question_title": "What kind of unique, non-camera style eyes would work for a predator while being inconspicuous?",
-        "score": 5
       }
     ],
     "known": {
@@ -8482,8 +8539,10 @@
       "274723": "2026-10-06T13:31:59.764983Z",
       "274730": "2026-10-08T22:30:33.098296Z",
       "274742": "2026-10-10T17:27:25.801572Z",
-      "274743": "2026-10-12T17:54:27.600860Z"
+      "274743": "2026-10-12T17:54:27.600860Z",
+      "274752": "2026-10-13T15:59:00.350142Z",
+      "274757": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-13T07:42:28.730978Z"
+    "last_checked": "2026-10-13T15:59:00.350142Z"
   }
 }

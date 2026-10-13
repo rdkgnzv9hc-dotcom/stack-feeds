@@ -5,20 +5,27 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:59:00 +0000</lastBuildDate>
     <item>
-      <title>Why cubic theta functions? — answer reached score 17</title>
+      <title>How many of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515897</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515897</guid>
+      <pubDate>Tue, 13 Oct 2026 15:59:00 +0000</pubDate>
+      <description>Answer by Joshua P. Swanson. Score when last checked: 10. Originally posted: 2026-10-10T03:10:06Z.</description>
+    </item>
+    <item>
+      <title>Why cubic theta functions? — answer reached score 19</title>
       <link>https://mathoverflow.net/a/515992</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515992</guid>
       <pubDate>Tue, 13 Oct 2026 00:39:51 +0000</pubDate>
-      <description>Answer by Will Sawin. Score when last checked: 17. Originally posted: 2026-10-12T21:20:06Z.</description>
+      <description>Answer by Will Sawin. Score when last checked: 19. Originally posted: 2026-10-12T21:20:06Z.</description>
     </item>
     <item>
-      <title>Consequences of quasi-RH — answer reached score 11</title>
+      <title>Consequences of quasi-RH — answer reached score 13</title>
       <link>https://mathoverflow.net/a/515975</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515975</guid>
       <pubDate>Tue, 13 Oct 2026 00:39:51 +0000</pubDate>
-      <description>Answer by GH from MO. Score when last checked: 11. Originally posted: 2026-10-12T15:33:49Z.</description>
+      <description>Answer by GH from MO. Score when last checked: 13. Originally posted: 2026-10-12T15:33:49Z.</description>
     </item>
     <item>
       <title>Consequences of quasi-RH — answer reached score 22</title>
@@ -42,11 +49,11 @@
       <description>Answer by mathworker21. Score when last checked: 12. Originally posted: 2026-10-09T01:08:23Z.</description>
     </item>
     <item>
-      <title>How many of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 13</title>
+      <title>How many of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 14</title>
       <link>https://mathoverflow.net/a/515854</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515854</guid>
       <pubDate>Sat, 10 Oct 2026 19:27:40 +0000</pubDate>
-      <description>Answer by Pace Nielsen. Score when last checked: 13. Originally posted: 2026-10-08T21:02:25Z.</description>
+      <description>Answer by Pace Nielsen. Score when last checked: 14. Originally posted: 2026-10-08T21:02:25Z.</description>
     </item>
     <item>
       <title>Tools for searching full texts of large collections of mathematical papers — answer reached score 13</title>
@@ -112,11 +119,11 @@
       <description>Answer by Alex Elzenaar. Score when last checked: 33. Originally posted: 2026-10-08T23:18:05Z.</description>
     </item>
     <item>
-      <title>How many of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 57</title>
+      <title>How many of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 59</title>
       <link>https://mathoverflow.net/a/515855</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515855</guid>
       <pubDate>Thu, 08 Oct 2026 23:29:11 +0000</pubDate>
-      <description>Answer by Philip Weiss. Score when last checked: 57. Originally posted: 2026-10-08T21:30:51Z.</description>
+      <description>Answer by Philip Weiss. Score when last checked: 59. Originally posted: 2026-10-08T21:30:51Z.</description>
     </item>
     <item>
       <title>How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture — answer reached score 17</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:514991</guid>
       <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
       <description>Answer by Carlo Beenakker. Score when last checked: 13. Originally posted: 2026-09-07T08:36:37Z.</description>
-    </item>
-    <item>
-      <title>Examples for the use of AI and LLMs to autonomously find important errors in published results — answer reached score 15</title>
-      <link>https://mathoverflow.net/a/514970</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:514970</guid>
-      <pubDate>Fri, 11 Sep 2026 17:43:24 +0000</pubDate>
-      <description>Answer by David White. Score when last checked: 15. Originally posted: 2026-09-06T14:58:48Z.</description>
     </item>
   </channel>
 </rss>
