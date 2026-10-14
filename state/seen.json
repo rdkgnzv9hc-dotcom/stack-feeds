@@ -1104,7 +1104,7 @@
       "227843": "2026-10-13T07:42:28.730978Z",
       "227852": "2026-10-13T21:14:40.703005Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "history-high-score": {
     "entries": [
@@ -1210,7 +1210,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1536,10 +1536,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-13T21:38:01Z",
+        "answer_id": "115735",
+        "first_seen": "2026-10-14T17:10:29.633090Z",
+        "link": "https://law.stackexchange.com/a/115735",
+        "owner": "Dale M",
+        "question_id": "115733",
+        "question_title": "Why does a Deputy Justice \u2018say to people that courts are terrible places to resolve customer services in\u2019?",
+        "score": 12
+      },
       {
         "answer_created": "2026-10-12T22:46:01Z",
         "answer_id": "115728",
@@ -1548,7 +1558,7 @@
         "owner": "Jen",
         "question_id": "115727",
         "question_title": "Does purchasing video games from DRM-free sources grant you ownership of the game?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-11T20:50:40Z",
@@ -2410,9 +2420,10 @@
       "115701": "2026-10-08T05:30:50.748991Z",
       "115718": "2026-10-13T07:42:28.730978Z",
       "115722": "2026-10-13T15:59:00.350142Z",
-      "115728": "2026-10-13T15:59:00.350142Z"
+      "115728": "2026-10-13T15:59:00.350142Z",
+      "115735": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "math-high-score": {
     "entries": [
@@ -3046,7 +3057,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3078,7 +3089,7 @@
         "owner": "Wojowu",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-13T08:07:26Z",
@@ -3098,7 +3109,7 @@
         "owner": "Thomas Bloom",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-10T03:10:06Z",
@@ -3118,7 +3129,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3128,7 +3139,7 @@
         "owner": "GH from MO",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-12T14:49:49Z",
@@ -3208,7 +3219,7 @@
         "owner": "Nik Weaver",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-24T14:47:19Z",
@@ -3238,7 +3249,7 @@
         "owner": "Will Sawin",
         "question_id": "515861",
         "question_title": "Current projects and the recent AI news",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-09T01:16:39Z",
@@ -4614,7 +4625,7 @@
       "516006": "2026-10-13T21:14:40.703005Z",
       "516024": "2026-10-14T06:08:59.659912Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4720,7 +4731,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4732,7 +4743,7 @@
         "owner": "fraxinus",
         "question_id": "876829",
         "question_title": "How can a wireless mouse dongle efficiently receive a signal with a much longer wavelength?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-09T08:30:47Z",
@@ -5805,7 +5816,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5845,10 +5856,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-14T00:03:07Z",
+        "answer_id": "306227",
+        "first_seen": "2026-10-14T17:10:29.633090Z",
+        "link": "https://scifi.stackexchange.com/a/306227",
+        "owner": "Buzz",
+        "question_id": "306226",
+        "question_title": "Villain killed by striking him behind the ear where not protected by armor",
+        "score": 17
+      },
       {
         "answer_created": "2026-10-10T11:47:03Z",
         "answer_id": "306193",
@@ -5867,7 +5888,7 @@
         "owner": "Valorum",
         "question_id": "306194",
         "question_title": "What are the \"bat clues\" on the cover of Action Comics #344 showing Superman having nightmares?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-06T07:33:07Z",
@@ -6838,16 +6859,6 @@
         "question_id": "305182",
         "question_title": "Unscrupulous scavenger ends up in suspended animation, awakened in a future utopia, used for his savagery, then tricked into death",
         "score": 21
-      },
-      {
-        "answer_created": "2026-07-09T03:55:17Z",
-        "answer_id": "305173",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305173",
-        "owner": "DavidW",
-        "question_id": "305171",
-        "question_title": "90s\u20132000s fantasy novel about a female mage who escapes to an all-male magic world",
-        "score": 15
       }
     ],
     "known": {
@@ -6974,12 +6985,23 @@
       "306154": "2026-10-07T12:38:19.763256Z",
       "306183": "2026-10-10T02:30:37.168900Z",
       "306193": "2026-10-13T15:59:00.350142Z",
-      "306195": "2026-10-11T18:32:36.087186Z"
+      "306195": "2026-10-11T18:32:36.087186Z",
+      "306227": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-13T22:00:36Z",
+        "answer_id": "70752",
+        "first_seen": "2026-10-14T17:10:29.633090Z",
+        "link": "https://space.stackexchange.com/a/70752",
+        "owner": "J\u00f6rg W Mittag",
+        "question_id": "70748",
+        "question_title": "What spacecraft are using the 2026 Mars launch window?",
+        "score": 6
+      },
       {
         "answer_created": "2026-10-13T15:50:26Z",
         "answer_id": "70749",
@@ -6988,7 +7010,7 @@
         "owner": "TJM",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-10-12T21:01:43Z",
@@ -7366,9 +7388,10 @@
       "70735": "2026-10-09T15:31:32.579886Z",
       "70736": "2026-10-08T23:29:11.360456Z",
       "70744": "2026-10-13T15:59:00.350142Z",
-      "70749": "2026-10-14T11:52:28.882570Z"
+      "70749": "2026-10-14T11:52:28.882570Z",
+      "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7390,7 +7413,7 @@
         "owner": "David R",
         "question_id": "274755",
         "question_title": "Would an organism that travels with rain be possible",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-23T15:23:28Z",
@@ -7420,7 +7443,7 @@
         "owner": "g s",
         "question_id": "274751",
         "question_title": "Hexapodal Locomotion",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-10T02:55:51Z",
@@ -8584,6 +8607,6 @@
       "274758": "2026-10-14T11:52:28.882570Z",
       "274766": "2026-10-14T11:52:28.882570Z"
     },
-    "last_checked": "2026-10-14T11:52:28.882570Z"
+    "last_checked": "2026-10-14T17:10:29.633090Z"
   }
 }
