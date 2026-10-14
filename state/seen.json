@@ -9,7 +9,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "227850",
         "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-09T08:51:11Z",
@@ -1104,7 +1104,7 @@
       "227843": "2026-10-13T07:42:28.730978Z",
       "227852": "2026-10-13T21:14:40.703005Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "history-high-score": {
     "entries": [
@@ -1210,7 +1210,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1536,7 +1536,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "law-high-score": {
     "entries": [
@@ -2412,7 +2412,7 @@
       "115722": "2026-10-13T15:59:00.350142Z",
       "115728": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "math-high-score": {
     "entries": [
@@ -2424,7 +2424,7 @@
         "owner": "lulu",
         "question_id": "5150057",
         "question_title": "Die with prime number of faces implies events are not independent why?",
-        "score": 33
+        "score": 32
       },
       {
         "answer_created": "2026-09-06T22:45:45Z",
@@ -3046,10 +3046,30 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-13T19:40:29Z",
+        "answer_id": "516024",
+        "first_seen": "2026-10-14T06:08:59.659912Z",
+        "link": "https://mathoverflow.net/a/516024",
+        "owner": "J.J. Green",
+        "question_id": "516022",
+        "question_title": "Disappearence of D. Salamon's Floer Lectures",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-04-19T05:15:36Z",
+        "answer_id": "510423",
+        "first_seen": "2026-10-14T06:08:59.659912Z",
+        "link": "https://mathoverflow.net/a/510423",
+        "owner": "Mart\u00edn-Blas P\u00e9rez Pinilla",
+        "question_id": "57465",
+        "question_title": "Can we unify addition and multiplication into one binary operation? To what extent can we find universal binary operations?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-12T15:38:12Z",
         "answer_id": "515977",
@@ -3098,7 +3118,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 28
+        "score": 30
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3118,7 +3138,7 @@
         "owner": "Benjamin Durkan",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-10T11:04:08Z",
@@ -3458,7 +3478,7 @@
         "owner": "Will Sawin",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 18
+        "score": 17
       },
       {
         "answer_created": "2026-09-30T01:19:25Z",
@@ -3468,7 +3488,7 @@
         "owner": "Timothy Chow",
         "question_id": "515632",
         "question_title": "Formalization advice for mathematicians",
-        "score": 29
+        "score": 28
       },
       {
         "answer_created": "2026-09-29T23:12:43Z",
@@ -4029,26 +4049,6 @@
         "question_id": "443186",
         "question_title": "What is the smallest group not known to be a Galois group over $\\mathbb{Q}$?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-09-09T17:07:05Z",
-        "answer_id": "515089",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/515089",
-        "owner": "Amir",
-        "question_id": "515058",
-        "question_title": "What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics",
-        "score": 13
-      },
-      {
-        "answer_created": "2026-09-09T04:19:03Z",
-        "answer_id": "515069",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/515069",
-        "owner": "Rybin Dmitry",
-        "question_id": "446995",
-        "question_title": "Orthogonal vectors with entries from $\\{-1,0,1\\}$",
-        "score": 12
       }
     ],
     "known": {
@@ -4133,6 +4133,7 @@
       "510330": "2026-09-11T17:43:24.207171Z",
       "510332": "2026-09-11T16:35:49.698347Z",
       "510410": "2026-09-11T17:43:24.207171Z",
+      "510423": "2026-10-14T06:08:59.659912Z",
       "510442": "2026-09-11T17:43:24.207171Z",
       "510447": "2026-09-11T17:43:24.207171Z",
       "510457": "2026-09-11T17:43:24.207171Z",
@@ -4610,9 +4611,10 @@
       "515977": "2026-10-14T00:19:41.892670Z",
       "515992": "2026-10-13T00:39:51.786504Z",
       "516001": "2026-10-13T21:14:40.703005Z",
-      "516006": "2026-10-13T21:14:40.703005Z"
+      "516006": "2026-10-13T21:14:40.703005Z",
+      "516024": "2026-10-14T06:08:59.659912Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4718,7 +4720,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5803,7 +5805,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5843,7 +5845,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6974,7 +6976,7 @@
       "306193": "2026-10-13T15:59:00.350142Z",
       "306195": "2026-10-11T18:32:36.087186Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "space-high-score": {
     "entries": [
@@ -7355,7 +7357,7 @@
       "70736": "2026-10-08T23:29:11.360456Z",
       "70744": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8568,6 +8570,6 @@
       "274752": "2026-10-13T15:59:00.350142Z",
       "274757": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-14T00:19:41.892670Z"
+    "last_checked": "2026-10-14T06:08:59.659912Z"
   }
 }
