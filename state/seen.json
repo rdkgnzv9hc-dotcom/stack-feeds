@@ -9,7 +9,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "227850",
         "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-09T08:51:11Z",
@@ -39,7 +39,7 @@
         "owner": "Buffy",
         "question_id": "227842",
         "question_title": "Advice for Math PhD in a super niche field - extremely good from India or mediocre from abroad?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-05T13:09:21Z",
@@ -1104,7 +1104,7 @@
       "227843": "2026-10-13T07:42:28.730978Z",
       "227852": "2026-10-13T21:14:40.703005Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "history-high-score": {
     "entries": [
@@ -1210,7 +1210,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1536,10 +1536,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-14T07:32:01Z",
+        "answer_id": "115744",
+        "first_seen": "2026-10-14T20:41:19.345873Z",
+        "link": "https://law.stackexchange.com/a/115744",
+        "owner": "Dale M",
+        "question_id": "115743",
+        "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
+        "score": 12
+      },
       {
         "answer_created": "2026-10-13T21:38:01Z",
         "answer_id": "115735",
@@ -1548,7 +1558,7 @@
         "owner": "Dale M",
         "question_id": "115733",
         "question_title": "Why does a Deputy Justice \u2018say to people that courts are terrible places to resolve customer services in\u2019?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-12T22:46:01Z",
@@ -1558,7 +1568,7 @@
         "owner": "Jen",
         "question_id": "115727",
         "question_title": "Does purchasing video games from DRM-free sources grant you ownership of the game?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-11T20:50:40Z",
@@ -1568,7 +1578,7 @@
         "owner": "Dale M",
         "question_id": "115719",
         "question_title": "What if one ship of the Russian shadow fleet \u2212 Europeans are used to board and arrest \u2212 claims: \"I'm carrying diesel for the U.S., let me pass\"?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-11T02:31:56Z",
@@ -2421,9 +2431,10 @@
       "115718": "2026-10-13T07:42:28.730978Z",
       "115722": "2026-10-13T15:59:00.350142Z",
       "115728": "2026-10-13T15:59:00.350142Z",
-      "115735": "2026-10-14T17:10:29.633090Z"
+      "115735": "2026-10-14T17:10:29.633090Z",
+      "115744": "2026-10-14T20:41:19.345873Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "math-high-score": {
     "entries": [
@@ -3057,10 +3068,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-12T19:34:17Z",
+        "answer_id": "515989",
+        "first_seen": "2026-10-14T20:41:19.345873Z",
+        "link": "https://mathoverflow.net/a/515989",
+        "owner": "D.-C. Cisinski",
+        "question_id": "515921",
+        "question_title": "Shall I compare thee to a cohomology theory?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-13T19:40:29Z",
         "answer_id": "516024",
@@ -3069,7 +3090,7 @@
         "owner": "J.J. Green",
         "question_id": "516022",
         "question_title": "Disappearence of D. Salamon's Floer Lectures",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-04-19T05:15:36Z",
@@ -3089,7 +3110,7 @@
         "owner": "Wojowu",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-13T08:07:26Z",
@@ -3109,7 +3130,7 @@
         "owner": "Thomas Bloom",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-10T03:10:06Z",
@@ -3139,7 +3160,7 @@
         "owner": "GH from MO",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 15
+        "score": 14
       },
       {
         "answer_created": "2026-10-12T14:49:49Z",
@@ -3149,7 +3170,7 @@
         "owner": "Benjamin Durkan",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-10T11:04:08Z",
@@ -4050,16 +4071,6 @@
         "question_id": "515121",
         "question_title": "Lagrange on magma",
         "score": 15
-      },
-      {
-        "answer_created": "2026-09-10T01:00:37Z",
-        "answer_id": "515100",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/515100",
-        "owner": "Joachim K\u00f6nig",
-        "question_id": "443186",
-        "question_title": "What is the smallest group not known to be a Galois group over $\\mathbb{Q}$?",
-        "score": 14
       }
     ],
     "known": {
@@ -4620,12 +4631,13 @@
       "515971": "2026-10-12T17:54:27.600860Z",
       "515975": "2026-10-13T00:39:51.786504Z",
       "515977": "2026-10-14T00:19:41.892670Z",
+      "515989": "2026-10-14T20:41:19.345873Z",
       "515992": "2026-10-13T00:39:51.786504Z",
       "516001": "2026-10-13T21:14:40.703005Z",
       "516006": "2026-10-13T21:14:40.703005Z",
       "516024": "2026-10-14T06:08:59.659912Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4731,7 +4743,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5816,7 +5828,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5856,7 +5868,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5868,7 +5880,7 @@
         "owner": "Buzz",
         "question_id": "306226",
         "question_title": "Villain killed by striking him behind the ear where not protected by armor",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-10T11:47:03Z",
@@ -6988,7 +7000,7 @@
       "306195": "2026-10-11T18:32:36.087186Z",
       "306227": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "space-high-score": {
     "entries": [
@@ -7000,7 +7012,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-13T15:50:26Z",
@@ -7391,10 +7403,20 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-12T07:22:19Z",
+        "answer_id": "274753",
+        "first_seen": "2026-10-14T20:41:19.345873Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274753",
+        "owner": "Monty Wild",
+        "question_id": "274751",
+        "question_title": "Hexapodal Locomotion",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-13T04:59:34Z",
         "answer_id": "274766",
@@ -7403,7 +7425,7 @@
         "owner": "Monty Wild",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-12T14:29:35Z",
@@ -7413,7 +7435,7 @@
         "owner": "David R",
         "question_id": "274755",
         "question_title": "Would an organism that travels with rain be possible",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-23T15:23:28Z",
@@ -7433,7 +7455,7 @@
         "owner": "Toph",
         "question_id": "274754",
         "question_title": "How To Make a Dark Sky on a Jovian Planet?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-12T04:19:02Z",
@@ -7443,7 +7465,7 @@
         "owner": "g s",
         "question_id": "274751",
         "question_title": "Hexapodal Locomotion",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-10-10T02:55:51Z",
@@ -8384,16 +8406,6 @@
         "question_id": "274201",
         "question_title": "How to minimize my point system's potential perverse incentive?",
         "score": 16
-      },
-      {
-        "answer_created": "2026-08-01T13:03:11Z",
-        "answer_id": "274205",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274205",
-        "owner": "Anketam",
-        "question_id": "274201",
-        "question_title": "How to minimize my point system's potential perverse incentive?",
-        "score": 5
       }
     ],
     "known": {
@@ -8603,10 +8615,11 @@
       "274742": "2026-10-10T17:27:25.801572Z",
       "274743": "2026-10-12T17:54:27.600860Z",
       "274752": "2026-10-13T15:59:00.350142Z",
+      "274753": "2026-10-14T20:41:19.345873Z",
       "274757": "2026-10-13T15:59:00.350142Z",
       "274758": "2026-10-14T11:52:28.882570Z",
       "274766": "2026-10-14T11:52:28.882570Z"
     },
-    "last_checked": "2026-10-14T17:10:29.633090Z"
+    "last_checked": "2026-10-14T20:41:19.345873Z"
   }
 }
