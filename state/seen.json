@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-07T11:51:18Z",
+        "answer_id": "227812",
+        "first_seen": "2026-10-15T19:07:32.762884Z",
+        "link": "https://academia.stackexchange.com/a/227812",
+        "owner": "Buffy",
+        "question_id": "227809",
+        "question_title": "How can I stay on task and be productive when writing a thesis?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-13T05:24:32Z",
         "answer_id": "227851",
         "first_seen": "2026-10-15T15:00:59.532923Z",
@@ -9,7 +19,7 @@
         "owner": "Allure",
         "question_id": "227850",
         "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-13T06:02:17Z",
@@ -19,7 +29,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "227850",
         "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-10-09T08:51:11Z",
@@ -639,7 +649,7 @@
         "owner": "Ben",
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-07-26T09:42:36Z",
@@ -649,7 +659,7 @@
         "owner": "Arno",
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
-        "score": 35
+        "score": 37
       },
       {
         "answer_created": "2026-07-25T11:58:40Z",
@@ -990,16 +1000,6 @@
         "question_id": "226977",
         "question_title": "I sent my paper to a math journal last August and I'm still waiting for any kind of feedback. I tried reaching out but got no reply. What should I do?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-06-15T18:44:44Z",
-        "answer_id": "226976",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/226976",
-        "owner": "Andreas Blass",
-        "question_id": "226972",
-        "question_title": "Should I change my PhD position if the project is very different from what was advertised?",
-        "score": 11
       }
     ],
     "known": {
@@ -1099,13 +1099,14 @@
       "227799": "2026-10-05T13:35:53.928868Z",
       "227805": "2026-10-07T19:30:26.096882Z",
       "227808": "2026-10-06T16:32:53.669395Z",
+      "227812": "2026-10-15T19:07:32.762884Z",
       "227825": "2026-10-13T21:14:40.703005Z",
       "227840": "2026-10-13T15:59:00.350142Z",
       "227843": "2026-10-13T07:42:28.730978Z",
       "227851": "2026-10-15T15:00:59.532923Z",
       "227852": "2026-10-13T21:14:40.703005Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "history-high-score": {
     "entries": [
@@ -1211,7 +1212,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1537,10 +1538,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-15T05:33:07Z",
+        "answer_id": "115753",
+        "first_seen": "2026-10-15T19:07:32.762884Z",
+        "link": "https://law.stackexchange.com/a/115753",
+        "owner": "user541686",
+        "question_id": "115743",
+        "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
+        "score": 12
+      },
       {
         "answer_created": "2026-10-14T13:53:31Z",
         "answer_id": "115747",
@@ -1549,7 +1560,7 @@
         "owner": "Jen",
         "question_id": "115746",
         "question_title": "Are there any countries that exclude mythology and folklore from copyright protection?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-14T07:32:01Z",
@@ -1569,7 +1580,7 @@
         "owner": "Dale M",
         "question_id": "115733",
         "question_title": "Why does a Deputy Justice \u2018say to people that courts are terrible places to resolve customer services in\u2019?",
-        "score": 19
+        "score": 21
       },
       {
         "answer_created": "2026-10-12T22:46:01Z",
@@ -1579,7 +1590,7 @@
         "owner": "Jen",
         "question_id": "115727",
         "question_title": "Does purchasing video games from DRM-free sources grant you ownership of the game?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-11T20:50:40Z",
@@ -2444,9 +2455,10 @@
       "115728": "2026-10-13T15:59:00.350142Z",
       "115735": "2026-10-14T17:10:29.633090Z",
       "115744": "2026-10-14T20:41:19.345873Z",
-      "115747": "2026-10-15T09:54:47.023013Z"
+      "115747": "2026-10-15T09:54:47.023013Z",
+      "115753": "2026-10-15T19:07:32.762884Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "math-high-score": {
     "entries": [
@@ -3080,10 +3092,30 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-14T14:20:41Z",
+        "answer_id": "516041",
+        "first_seen": "2026-10-15T19:07:32.762884Z",
+        "link": "https://mathoverflow.net/a/516041",
+        "owner": "GH from MO",
+        "question_id": "515968",
+        "question_title": "Consequences of quasi-RH",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-12T23:26:35Z",
+        "answer_id": "515995",
+        "first_seen": "2026-10-15T19:07:32.762884Z",
+        "link": "https://mathoverflow.net/a/515995",
+        "owner": "so-called friend Don",
+        "question_id": "515968",
+        "question_title": "Consequences of quasi-RH",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-10T01:33:08Z",
         "answer_id": "515895",
@@ -3102,7 +3134,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "515921",
         "question_title": "Shall I compare thee to a cohomology theory?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-13T19:40:29Z",
@@ -3112,7 +3144,7 @@
         "owner": "J.J. Green",
         "question_id": "516022",
         "question_title": "Disappearence of D. Salamon's Floer Lectures",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-04-19T05:15:36Z",
@@ -3132,7 +3164,7 @@
         "owner": "Wojowu",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-13T08:07:26Z",
@@ -3142,7 +3174,7 @@
         "owner": "MaoWao",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-13T06:57:27Z",
@@ -3152,7 +3184,7 @@
         "owner": "Thomas Bloom",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-10T03:10:06Z",
@@ -3182,7 +3214,7 @@
         "owner": "GH from MO",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-12T14:49:49Z",
@@ -3192,7 +3224,7 @@
         "owner": "Benjamin Durkan",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 24
+        "score": 26
       },
       {
         "answer_created": "2026-10-10T11:04:08Z",
@@ -3222,7 +3254,7 @@
         "owner": "Pace Nielsen",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-08T12:49:49Z",
@@ -3342,7 +3374,7 @@
         "owner": "Joe Silverman",
         "question_id": "515822",
         "question_title": "When does simplification require complication?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-05T21:21:03Z",
@@ -4063,26 +4095,6 @@
         "question_id": "515179",
         "question_title": "How to write a grant application in 2026?",
         "score": 19
-      },
-      {
-        "answer_created": "2026-09-12T11:24:58Z",
-        "answer_id": "515161",
-        "first_seen": "2026-09-14T04:26:43.889697Z",
-        "link": "https://mathoverflow.net/a/515161",
-        "owner": "JRN",
-        "question_id": "515157",
-        "question_title": "Need reference about $10$-trillionth digit of $\\pi$",
-        "score": 13
-      },
-      {
-        "answer_created": "2026-09-12T03:07:54Z",
-        "answer_id": "515151",
-        "first_seen": "2026-09-12T19:23:48.014355Z",
-        "link": "https://mathoverflow.net/a/515151",
-        "owner": "Sam Hopkins",
-        "question_id": "515144",
-        "question_title": "Journal Editors: How are you evaluating AI assisted papers?",
-        "score": 17
       }
     ],
     "known": {
@@ -4646,11 +4658,13 @@
       "515977": "2026-10-14T00:19:41.892670Z",
       "515989": "2026-10-14T20:41:19.345873Z",
       "515992": "2026-10-13T00:39:51.786504Z",
+      "515995": "2026-10-15T19:07:32.762884Z",
       "516001": "2026-10-13T21:14:40.703005Z",
       "516006": "2026-10-13T21:14:40.703005Z",
-      "516024": "2026-10-14T06:08:59.659912Z"
+      "516024": "2026-10-14T06:08:59.659912Z",
+      "516041": "2026-10-15T19:07:32.762884Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4756,7 +4770,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5841,7 +5855,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5881,7 +5895,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6143,7 +6157,7 @@
         "owner": "cometaryorbit",
         "question_id": "305957",
         "question_title": "What powers of the One Ring would be usable in warfare?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-18T23:22:23Z",
@@ -7016,7 +7030,7 @@
       "306227": "2026-10-14T17:10:29.633090Z",
       "306236": "2026-10-15T15:00:59.532923Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "space-high-score": {
     "entries": [
@@ -7028,7 +7042,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-13T15:50:26Z",
@@ -7038,7 +7052,7 @@
         "owner": "TJM",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-12T21:01:43Z",
@@ -7419,7 +7433,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7471,7 +7485,7 @@
         "owner": "Monty Wild",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-12T14:29:35Z",
@@ -8639,6 +8653,6 @@
       "274769": "2026-10-15T09:54:47.023013Z",
       "274770": "2026-10-15T09:54:47.023013Z"
     },
-    "last_checked": "2026-10-15T15:00:59.532923Z"
+    "last_checked": "2026-10-15T19:07:32.762884Z"
   }
 }
