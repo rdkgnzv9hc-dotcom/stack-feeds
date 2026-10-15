@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-13T05:24:32Z",
+        "answer_id": "227851",
+        "first_seen": "2026-10-15T15:00:59.532923Z",
+        "link": "https://academia.stackexchange.com/a/227851",
+        "owner": "Allure",
+        "question_id": "227850",
+        "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-13T06:02:17Z",
         "answer_id": "227852",
         "first_seen": "2026-10-13T21:14:40.703005Z",
@@ -9,7 +19,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "227850",
         "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-09T08:51:11Z",
@@ -639,7 +649,7 @@
         "owner": "Arno",
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
-        "score": 34
+        "score": 35
       },
       {
         "answer_created": "2026-07-25T11:58:40Z",
@@ -990,16 +1000,6 @@
         "question_id": "226972",
         "question_title": "Should I change my PhD position if the project is very different from what was advertised?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-06-15T09:58:37Z",
-        "answer_id": "226973",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/226973",
-        "owner": "Buffy",
-        "question_id": "226972",
-        "question_title": "Should I change my PhD position if the project is very different from what was advertised?",
-        "score": 10
       }
     ],
     "known": {
@@ -1102,9 +1102,10 @@
       "227825": "2026-10-13T21:14:40.703005Z",
       "227840": "2026-10-13T15:59:00.350142Z",
       "227843": "2026-10-13T07:42:28.730978Z",
+      "227851": "2026-10-15T15:00:59.532923Z",
       "227852": "2026-10-13T21:14:40.703005Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "history-high-score": {
     "entries": [
@@ -1210,7 +1211,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1536,7 +1537,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "law-high-score": {
     "entries": [
@@ -1548,7 +1549,7 @@
         "owner": "Jen",
         "question_id": "115746",
         "question_title": "Are there any countries that exclude mythology and folklore from copyright protection?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-14T07:32:01Z",
@@ -1558,7 +1559,7 @@
         "owner": "Dale M",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 23
+        "score": 26
       },
       {
         "answer_created": "2026-10-13T21:38:01Z",
@@ -2445,7 +2446,7 @@
       "115744": "2026-10-14T20:41:19.345873Z",
       "115747": "2026-10-15T09:54:47.023013Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "math-high-score": {
     "entries": [
@@ -3079,7 +3080,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3111,7 +3112,7 @@
         "owner": "J.J. Green",
         "question_id": "516022",
         "question_title": "Disappearence of D. Salamon's Floer Lectures",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-04-19T05:15:36Z",
@@ -3171,7 +3172,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 38
+        "score": 39
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3331,7 +3332,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "515824",
         "question_title": "How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-08T02:10:02Z",
@@ -4649,7 +4650,7 @@
       "516006": "2026-10-13T21:14:40.703005Z",
       "516024": "2026-10-14T06:08:59.659912Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4755,7 +4756,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5117,7 +5118,7 @@
         "owner": "GiorgioP-DoomsdayClockIsAt-85",
         "question_id": "875759",
         "question_title": "What is the fastest way to cool a pot of boiling water using ice and water?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-07T15:58:00Z",
@@ -5127,7 +5128,7 @@
         "owner": "rob",
         "question_id": "875759",
         "question_title": "What is the fastest way to cool a pot of boiling water using ice and water?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-09-05T11:40:57Z",
@@ -5840,7 +5841,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5880,10 +5881,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-14T19:56:37Z",
+        "answer_id": "306236",
+        "first_seen": "2026-10-15T15:00:59.532923Z",
+        "link": "https://scifi.stackexchange.com/a/306236",
+        "owner": "Valorum",
+        "question_id": "306234",
+        "question_title": "Are there any indications what year THX 1138 was set?",
+        "score": 10
+      },
       {
         "answer_created": "2026-07-24T19:33:37Z",
         "answer_id": "305345",
@@ -5912,7 +5923,7 @@
         "owner": "Buzz",
         "question_id": "306226",
         "question_title": "Villain killed by striking him behind the ear where not protected by armor",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-10T11:47:03Z",
@@ -5922,7 +5933,7 @@
         "owner": "Valorum",
         "question_id": "306191",
         "question_title": "What comics references are hidden in the logo for Marvel's spy series Zodiac?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-10T21:04:48Z",
@@ -6873,16 +6884,6 @@
         "question_id": "305229",
         "question_title": "Return time for Grace from Tau Ceti?",
         "score": 15
-      },
-      {
-        "answer_created": "2026-07-13T12:28:21Z",
-        "answer_id": "305223",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305223",
-        "owner": "umopapisdn",
-        "question_id": "305217",
-        "question_title": "Trying to find a book called \"great galactic railroad\" or something like that. 40 year old memory here",
-        "score": 16
       }
     ],
     "known": {
@@ -7012,9 +7013,10 @@
       "306183": "2026-10-10T02:30:37.168900Z",
       "306193": "2026-10-13T15:59:00.350142Z",
       "306195": "2026-10-11T18:32:36.087186Z",
-      "306227": "2026-10-14T17:10:29.633090Z"
+      "306227": "2026-10-14T17:10:29.633090Z",
+      "306236": "2026-10-15T15:00:59.532923Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "space-high-score": {
     "entries": [
@@ -7036,7 +7038,7 @@
         "owner": "TJM",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 9
+        "score": 11
       },
       {
         "answer_created": "2026-10-12T21:01:43Z",
@@ -7417,10 +7419,20 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-07T10:36:01Z",
+        "answer_id": "274726",
+        "first_seen": "2026-10-15T15:00:59.532923Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274726",
+        "owner": "Monty Wild",
+        "question_id": "274685",
+        "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-14T14:14:24Z",
         "answer_id": "274770",
@@ -7429,7 +7441,7 @@
         "owner": "Anketam",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-14T00:06:50Z",
@@ -7459,7 +7471,7 @@
         "owner": "Monty Wild",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-12T14:29:35Z",
@@ -7469,7 +7481,7 @@
         "owner": "David R",
         "question_id": "274755",
         "question_title": "Would an organism that travels with rain be possible",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-09-23T15:23:28Z",
@@ -7519,7 +7531,7 @@
         "owner": "Separatrix",
         "question_id": "274685",
         "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-02T20:21:28Z",
@@ -8410,16 +8422,6 @@
         "question_id": "274213",
         "question_title": "How Could a Man From the 2100s Take Over the World by Manipulating the Roman Empire?",
         "score": 6
-      },
-      {
-        "answer_created": "2026-08-02T11:20:13Z",
-        "answer_id": "274216",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274216",
-        "owner": "IMP9024",
-        "question_id": "274214",
-        "question_title": "Would atomic bombs be developed if there were powerful superheroes in the world?",
-        "score": 7
       }
     ],
     "known": {
@@ -8625,6 +8627,7 @@
       "274714": "2026-10-05T12:37:51.967961Z",
       "274721": "2026-10-12T17:54:27.600860Z",
       "274723": "2026-10-06T13:31:59.764983Z",
+      "274726": "2026-10-15T15:00:59.532923Z",
       "274730": "2026-10-08T22:30:33.098296Z",
       "274742": "2026-10-10T17:27:25.801572Z",
       "274743": "2026-10-12T17:54:27.600860Z",
@@ -8636,6 +8639,6 @@
       "274769": "2026-10-15T09:54:47.023013Z",
       "274770": "2026-10-15T09:54:47.023013Z"
     },
-    "last_checked": "2026-10-15T09:54:47.023013Z"
+    "last_checked": "2026-10-15T15:00:59.532923Z"
   }
 }
