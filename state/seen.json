@@ -39,7 +39,7 @@
         "owner": "Buffy",
         "question_id": "227842",
         "question_title": "Advice for Math PhD in a super niche field - extremely good from India or mediocre from abroad?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-05T13:09:21Z",
@@ -1104,7 +1104,7 @@
       "227843": "2026-10-13T07:42:28.730978Z",
       "227852": "2026-10-13T21:14:40.703005Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "history-high-score": {
     "entries": [
@@ -1210,7 +1210,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1536,10 +1536,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-14T13:53:31Z",
+        "answer_id": "115747",
+        "first_seen": "2026-10-15T09:54:47.023013Z",
+        "link": "https://law.stackexchange.com/a/115747",
+        "owner": "Jen",
+        "question_id": "115746",
+        "question_title": "Are there any countries that exclude mythology and folklore from copyright protection?",
+        "score": 14
+      },
       {
         "answer_created": "2026-10-14T07:32:01Z",
         "answer_id": "115744",
@@ -1548,7 +1558,7 @@
         "owner": "Dale M",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 16
+        "score": 23
       },
       {
         "answer_created": "2026-10-13T21:38:01Z",
@@ -1558,7 +1568,7 @@
         "owner": "Dale M",
         "question_id": "115733",
         "question_title": "Why does a Deputy Justice \u2018say to people that courts are terrible places to resolve customer services in\u2019?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-10-12T22:46:01Z",
@@ -1568,7 +1578,7 @@
         "owner": "Jen",
         "question_id": "115727",
         "question_title": "Does purchasing video games from DRM-free sources grant you ownership of the game?",
-        "score": 20
+        "score": 22
       },
       {
         "answer_created": "2026-10-11T20:50:40Z",
@@ -2432,9 +2442,10 @@
       "115722": "2026-10-13T15:59:00.350142Z",
       "115728": "2026-10-13T15:59:00.350142Z",
       "115735": "2026-10-14T17:10:29.633090Z",
-      "115744": "2026-10-14T20:41:19.345873Z"
+      "115744": "2026-10-14T20:41:19.345873Z",
+      "115747": "2026-10-15T09:54:47.023013Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "math-high-score": {
     "entries": [
@@ -3068,10 +3079,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-10T01:33:08Z",
+        "answer_id": "515895",
+        "first_seen": "2026-10-15T09:54:47.023013Z",
+        "link": "https://mathoverflow.net/a/515895",
+        "owner": "TimH",
+        "question_id": "515845",
+        "question_title": "How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-12T19:34:17Z",
         "answer_id": "515989",
@@ -3090,7 +3111,7 @@
         "owner": "J.J. Green",
         "question_id": "516022",
         "question_title": "Disappearence of D. Salamon's Floer Lectures",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-04-19T05:15:36Z",
@@ -3120,7 +3141,7 @@
         "owner": "MaoWao",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-13T06:57:27Z",
@@ -3150,7 +3171,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 35
+        "score": 38
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3190,7 +3211,7 @@
         "owner": "mathworker21",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-08T21:02:25Z",
@@ -3230,7 +3251,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-08T23:01:16Z",
@@ -4061,16 +4082,6 @@
         "question_id": "515144",
         "question_title": "Journal Editors: How are you evaluating AI assisted papers?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-09-11T05:42:33Z",
-        "answer_id": "515128",
-        "first_seen": "2026-09-11T17:43:24.207171Z",
-        "link": "https://mathoverflow.net/a/515128",
-        "owner": "Wojowu",
-        "question_id": "515121",
-        "question_title": "Lagrange on magma",
-        "score": 15
       }
     ],
     "known": {
@@ -4626,6 +4637,7 @@
       "515867": "2026-10-09T08:33:16.251020Z",
       "515868": "2026-10-09T08:33:16.251020Z",
       "515891": "2026-10-10T01:31:14.820303Z",
+      "515895": "2026-10-15T09:54:47.023013Z",
       "515897": "2026-10-13T15:59:00.350142Z",
       "515903": "2026-10-10T21:28:19.397818Z",
       "515971": "2026-10-12T17:54:27.600860Z",
@@ -4637,7 +4649,7 @@
       "516006": "2026-10-13T21:14:40.703005Z",
       "516024": "2026-10-14T06:08:59.659912Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4743,7 +4755,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4755,7 +4767,7 @@
         "owner": "fraxinus",
         "question_id": "876829",
         "question_title": "How can a wireless mouse dongle efficiently receive a signal with a much longer wavelength?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-09T08:30:47Z",
@@ -5828,7 +5840,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5868,10 +5880,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-07-24T19:33:37Z",
+        "answer_id": "305345",
+        "first_seen": "2026-10-15T09:54:47.023013Z",
+        "link": "https://scifi.stackexchange.com/a/305345",
+        "owner": "Valorum",
+        "question_id": "305344",
+        "question_title": "Why was an atmospheric EVA necessary?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-28T16:05:26Z",
         "answer_id": "306092",
@@ -5890,7 +5912,7 @@
         "owner": "Buzz",
         "question_id": "306226",
         "question_title": "Villain killed by striking him behind the ear where not protected by armor",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-10T11:47:03Z",
@@ -6861,16 +6883,6 @@
         "question_id": "305217",
         "question_title": "Trying to find a book called \"great galactic railroad\" or something like that. 40 year old memory here",
         "score": 16
-      },
-      {
-        "answer_created": "2026-07-12T12:16:17Z",
-        "answer_id": "305215",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305215",
-        "owner": "LogicDictates",
-        "question_id": "305213",
-        "question_title": "How did Kryptonite reach Earth in the Modern Age comics?",
-        "score": 14
       }
     ],
     "known": {
@@ -6913,6 +6925,7 @@
       "305318": "2026-09-11T17:35:15.780317Z",
       "305320": "2026-09-11T17:35:15.780317Z",
       "305340": "2026-09-11T17:35:15.780317Z",
+      "305345": "2026-10-15T09:54:47.023013Z",
       "305355": "2026-09-11T17:35:15.780317Z",
       "305358": "2026-09-11T17:35:15.780317Z",
       "305368": "2026-09-11T17:35:15.780317Z",
@@ -7001,7 +7014,7 @@
       "306195": "2026-10-11T18:32:36.087186Z",
       "306227": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "space-high-score": {
     "entries": [
@@ -7013,7 +7026,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-10-13T15:50:26Z",
@@ -7404,10 +7417,30 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-14T14:14:24Z",
+        "answer_id": "274770",
+        "first_seen": "2026-10-15T09:54:47.023013Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274770",
+        "owner": "Anketam",
+        "question_id": "274764",
+        "question_title": "World Wide Mycelium",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-10-14T00:06:50Z",
+        "answer_id": "274769",
+        "first_seen": "2026-10-15T09:54:47.023013Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274769",
+        "owner": "Navicula",
+        "question_id": "274764",
+        "question_title": "World Wide Mycelium",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-12T07:22:19Z",
         "answer_id": "274753",
@@ -7426,7 +7459,7 @@
         "owner": "Monty Wild",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-10-12T14:29:35Z",
@@ -7456,7 +7489,7 @@
         "owner": "Toph",
         "question_id": "274754",
         "question_title": "How To Make a Dark Sky on a Jovian Planet?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-12T04:19:02Z",
@@ -8387,26 +8420,6 @@
         "question_id": "274214",
         "question_title": "Would atomic bombs be developed if there were powerful superheroes in the world?",
         "score": 7
-      },
-      {
-        "answer_created": "2026-08-02T09:02:06Z",
-        "answer_id": "274215",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274215",
-        "owner": "Trish",
-        "question_id": "274214",
-        "question_title": "Would atomic bombs be developed if there were powerful superheroes in the world?",
-        "score": 7
-      },
-      {
-        "answer_created": "2026-08-01T16:51:53Z",
-        "answer_id": "274206",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274206",
-        "owner": "Charles Staats",
-        "question_id": "274201",
-        "question_title": "How to minimize my point system's potential perverse incentive?",
-        "score": 16
       }
     ],
     "known": {
@@ -8619,8 +8632,10 @@
       "274753": "2026-10-14T20:41:19.345873Z",
       "274757": "2026-10-13T15:59:00.350142Z",
       "274758": "2026-10-14T11:52:28.882570Z",
-      "274766": "2026-10-14T11:52:28.882570Z"
+      "274766": "2026-10-14T11:52:28.882570Z",
+      "274769": "2026-10-15T09:54:47.023013Z",
+      "274770": "2026-10-15T09:54:47.023013Z"
     },
-    "last_checked": "2026-10-15T04:39:15.064052Z"
+    "last_checked": "2026-10-15T09:54:47.023013Z"
   }
 }
