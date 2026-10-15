@@ -1104,7 +1104,7 @@
       "227843": "2026-10-13T07:42:28.730978Z",
       "227852": "2026-10-13T21:14:40.703005Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "history-high-score": {
     "entries": [
@@ -1210,7 +1210,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1536,7 +1536,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "law-high-score": {
     "entries": [
@@ -1548,7 +1548,7 @@
         "owner": "Dale M",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-13T21:38:01Z",
@@ -1558,7 +1558,7 @@
         "owner": "Dale M",
         "question_id": "115733",
         "question_title": "Why does a Deputy Justice \u2018say to people that courts are terrible places to resolve customer services in\u2019?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-12T22:46:01Z",
@@ -2434,7 +2434,7 @@
       "115735": "2026-10-14T17:10:29.633090Z",
       "115744": "2026-10-14T20:41:19.345873Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "math-high-score": {
     "entries": [
@@ -3068,7 +3068,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3150,7 +3150,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 34
+        "score": 35
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3230,7 +3230,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-08T23:01:16Z",
@@ -3240,7 +3240,7 @@
         "owner": "Nik Weaver",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-09-24T14:47:19Z",
@@ -3300,7 +3300,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 59
+        "score": 60
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4637,7 +4637,7 @@
       "516006": "2026-10-13T21:14:40.703005Z",
       "516024": "2026-10-14T06:08:59.659912Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4743,7 +4743,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5828,7 +5828,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5868,10 +5868,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-28T16:05:26Z",
+        "answer_id": "306092",
+        "first_seen": "2026-10-15T04:39:15.064052Z",
+        "link": "https://scifi.stackexchange.com/a/306092",
+        "owner": "just me",
+        "question_id": "71107",
+        "question_title": "What are the names of Katniss' parents?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-14T00:03:07Z",
         "answer_id": "306227",
@@ -5880,7 +5890,7 @@
         "owner": "Buzz",
         "question_id": "306226",
         "question_title": "Villain killed by striking him behind the ear where not protected by armor",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-10T11:47:03Z",
@@ -6861,16 +6871,6 @@
         "question_id": "305213",
         "question_title": "How did Kryptonite reach Earth in the Modern Age comics?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-07-09T21:08:44Z",
-        "answer_id": "305184",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305184",
-        "owner": "Danny Mc G",
-        "question_id": "305182",
-        "question_title": "Unscrupulous scavenger ends up in suspended animation, awakened in a future utopia, used for his savagery, then tricked into death",
-        "score": 21
       }
     ],
     "known": {
@@ -6989,6 +6989,7 @@
       "306062": "2026-09-28T11:29:34.524651Z",
       "306069": "2026-09-26T15:26:31.710895Z",
       "306085": "2026-09-28T14:32:11.582786Z",
+      "306092": "2026-10-15T04:39:15.064052Z",
       "306116": "2026-10-02T16:30:44.011660Z",
       "306121": "2026-10-05T11:31:28.842713Z",
       "306140": "2026-10-06T01:29:02.084335Z",
@@ -7000,7 +7001,7 @@
       "306195": "2026-10-11T18:32:36.087186Z",
       "306227": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "space-high-score": {
     "entries": [
@@ -7403,7 +7404,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7465,7 +7466,7 @@
         "owner": "g s",
         "question_id": "274751",
         "question_title": "Hexapodal Locomotion",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-10T02:55:51Z",
@@ -8620,6 +8621,6 @@
       "274758": "2026-10-14T11:52:28.882570Z",
       "274766": "2026-10-14T11:52:28.882570Z"
     },
-    "last_checked": "2026-10-14T23:54:51.269407Z"
+    "last_checked": "2026-10-15T04:39:15.064052Z"
   }
 }
