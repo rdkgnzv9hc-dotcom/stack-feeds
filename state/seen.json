@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "law-high-score": {
     "entries": [
@@ -1561,7 +1561,7 @@
         "owner": "user541686",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-10-14T13:53:31Z",
@@ -1581,7 +1581,7 @@
         "owner": "Dale M",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-13T21:38:01Z",
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,7 +3104,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3116,7 +3116,7 @@
         "owner": "GH from MO",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-12T23:26:35Z",
@@ -3236,7 +3236,7 @@
         "owner": "Benjamin Durkan",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-10-10T11:04:08Z",
@@ -4676,7 +4676,7 @@
       "516024": "2026-10-14T06:08:59.659912Z",
       "516041": "2026-10-15T19:07:32.762884Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4782,7 +4782,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5867,7 +5867,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5907,10 +5907,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-08T11:14:59Z",
+        "answer_id": "306176",
+        "first_seen": "2026-10-16T17:24:20.489291Z",
+        "link": "https://scifi.stackexchange.com/a/306176",
+        "owner": "LogicDictates",
+        "question_id": "306173",
+        "question_title": "Mid-1960s Superman comic where Lois Lane becomes Lex Luthor's gun moll, later revealed to be an android",
+        "score": 15
+      },
       {
         "answer_created": "2026-10-14T19:58:39Z",
         "answer_id": "306237",
@@ -5929,7 +5939,7 @@
         "owner": "Valorum",
         "question_id": "306234",
         "question_title": "Are there any indications what year THX 1138 was set?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-07-24T19:33:37Z",
@@ -5959,7 +5969,7 @@
         "owner": "Buzz",
         "question_id": "306226",
         "question_title": "Villain killed by striking him behind the ear where not protected by armor",
-        "score": 21
+        "score": 23
       },
       {
         "answer_created": "2026-10-10T11:47:03Z",
@@ -6900,16 +6910,6 @@
         "question_id": "305254",
         "question_title": "Story ID: Vampire vs Leukemia",
         "score": 16
-      },
-      {
-        "answer_created": "2026-07-13T20:47:21Z",
-        "answer_id": "305234",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305234",
-        "owner": "Valorum",
-        "question_id": "305233",
-        "question_title": "Do we know what happened on Earth in the 26 years before the probes returned to Earth?",
-        "score": 15
       }
     ],
     "known": {
@@ -7036,6 +7036,7 @@
       "306147": "2026-10-07T12:38:19.763256Z",
       "306150": "2026-10-10T05:29:22.356081Z",
       "306154": "2026-10-07T12:38:19.763256Z",
+      "306176": "2026-10-16T17:24:20.489291Z",
       "306183": "2026-10-10T02:30:37.168900Z",
       "306193": "2026-10-13T15:59:00.350142Z",
       "306195": "2026-10-11T18:32:36.087186Z",
@@ -7043,7 +7044,7 @@
       "306236": "2026-10-15T15:00:59.532923Z",
       "306237": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "space-high-score": {
     "entries": [
@@ -7446,7 +7447,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7458,7 +7459,7 @@
         "owner": "ccprog",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-07T10:36:01Z",
@@ -7478,7 +7479,7 @@
         "owner": "Anketam",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-14T00:06:50Z",
@@ -7488,7 +7489,7 @@
         "owner": "Navicula",
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-12T07:22:19Z",
@@ -7628,7 +7629,7 @@
         "owner": "Arcturus",
         "question_id": "274722",
         "question_title": "Alternative energy sources for carbon-based life in the Degenerate Era?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-01T18:51:59Z",
@@ -8667,6 +8668,6 @@
       "274770": "2026-10-15T09:54:47.023013Z",
       "274772": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T12:25:27.452200Z"
+    "last_checked": "2026-10-16T17:24:20.489291Z"
   }
 }
