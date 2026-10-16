@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "law-high-score": {
     "entries": [
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,10 +3104,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-16T20:28:01Z",
+        "answer_id": "516112",
+        "first_seen": "2026-10-16T21:08:23.084853Z",
+        "link": "https://mathoverflow.net/a/516112",
+        "owner": "Emil Je\u0159\u00e1bek",
+        "question_id": "516107",
+        "question_title": "Is the classification of finite simple groups independent of the axiom of choice?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-14T14:20:41Z",
         "answer_id": "516041",
@@ -3236,7 +3246,7 @@
         "owner": "Benjamin Durkan",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-10-10T11:04:08Z",
@@ -4097,16 +4107,6 @@
         "question_id": "515180",
         "question_title": "Different publication model in the new era of AI generated math",
         "score": 23
-      },
-      {
-        "answer_created": "2026-09-13T07:14:30Z",
-        "answer_id": "515189",
-        "first_seen": "2026-09-14T04:26:43.889697Z",
-        "link": "https://mathoverflow.net/a/515189",
-        "owner": "Carlo Beenakker",
-        "question_id": "515179",
-        "question_title": "How to write a grant application in 2026?",
-        "score": 19
       }
     ],
     "known": {
@@ -4674,9 +4674,10 @@
       "516001": "2026-10-13T21:14:40.703005Z",
       "516006": "2026-10-13T21:14:40.703005Z",
       "516024": "2026-10-14T06:08:59.659912Z",
-      "516041": "2026-10-15T19:07:32.762884Z"
+      "516041": "2026-10-15T19:07:32.762884Z",
+      "516112": "2026-10-16T21:08:23.084853Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4782,7 +4783,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5867,7 +5868,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5907,7 +5908,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7044,7 +7045,7 @@
       "306236": "2026-10-15T15:00:59.532923Z",
       "306237": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "space-high-score": {
     "entries": [
@@ -7447,7 +7448,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8668,6 +8669,6 @@
       "274770": "2026-10-15T09:54:47.023013Z",
       "274772": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T17:24:20.489291Z"
+    "last_checked": "2026-10-16T21:08:23.084853Z"
   }
 }
