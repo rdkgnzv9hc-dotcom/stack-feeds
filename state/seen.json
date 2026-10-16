@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "law-high-score": {
     "entries": [
@@ -1561,7 +1561,7 @@
         "owner": "user541686",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 16
+        "score": 18
       },
       {
         "answer_created": "2026-10-14T13:53:31Z",
@@ -1591,7 +1591,7 @@
         "owner": "Dale M",
         "question_id": "115733",
         "question_title": "Why does a Deputy Justice \u2018say to people that courts are terrible places to resolve customer services in\u2019?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-10-12T22:46:01Z",
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,7 +3104,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3146,7 +3146,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "515921",
         "question_title": "Shall I compare thee to a cohomology theory?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-13T19:40:29Z",
@@ -3186,7 +3186,7 @@
         "owner": "MaoWao",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-13T06:57:27Z",
@@ -4676,7 +4676,7 @@
       "516024": "2026-10-14T06:08:59.659912Z",
       "516041": "2026-10-15T19:07:32.762884Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4782,7 +4782,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5867,7 +5867,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5879,7 +5879,7 @@
         "owner": "Machavity",
         "question_id": "95039",
         "question_title": "Why was Christa Pike given medical treatment after her execution failed?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-07-13T19:42:58Z",
@@ -5907,7 +5907,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7043,7 +7043,7 @@
       "306236": "2026-10-15T15:00:59.532923Z",
       "306237": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "space-high-score": {
     "entries": [
@@ -7065,7 +7065,7 @@
         "owner": "TJM",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-12T21:01:43Z",
@@ -7446,7 +7446,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7498,7 +7498,7 @@
         "owner": "Monty Wild",
         "question_id": "274751",
         "question_title": "Hexapodal Locomotion",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-13T04:59:34Z",
@@ -7548,7 +7548,7 @@
         "owner": "g s",
         "question_id": "274751",
         "question_title": "Hexapodal Locomotion",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-10T02:55:51Z",
@@ -8667,6 +8667,6 @@
       "274770": "2026-10-15T09:54:47.023013Z",
       "274772": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T07:09:59.857418Z"
+    "last_checked": "2026-10-16T12:25:27.452200Z"
   }
 }
