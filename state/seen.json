@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "law-high-score": {
     "entries": [
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,10 +3104,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-16T18:53:33Z",
+        "answer_id": "516108",
+        "first_seen": "2026-10-17T17:10:24.565406Z",
+        "link": "https://mathoverflow.net/a/516108",
+        "owner": "Ian Agol",
+        "question_id": "442444",
+        "question_title": "Hyperbolic groups and residual finiteness",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-16T20:28:01Z",
         "answer_id": "516112",
@@ -3116,7 +3126,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups independent of the axiom of choice?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-14T14:20:41Z",
@@ -3246,7 +3256,7 @@
         "owner": "Benjamin Durkan",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-10T11:04:08Z",
@@ -4097,16 +4107,6 @@
         "question_id": "515206",
         "question_title": "Looking for a finitely complete category with a subobject classifier, but without initial object",
         "score": 13
-      },
-      {
-        "answer_created": "2026-09-13T10:34:23Z",
-        "answer_id": "515194",
-        "first_seen": "2026-09-14T12:34:04.948466Z",
-        "link": "https://mathoverflow.net/a/515194",
-        "owner": "Piero D'Ancona",
-        "question_id": "515180",
-        "question_title": "Different publication model in the new era of AI generated math",
-        "score": 23
       }
     ],
     "known": {
@@ -4675,9 +4675,10 @@
       "516006": "2026-10-13T21:14:40.703005Z",
       "516024": "2026-10-14T06:08:59.659912Z",
       "516041": "2026-10-15T19:07:32.762884Z",
+      "516108": "2026-10-17T17:10:24.565406Z",
       "516112": "2026-10-16T21:08:23.084853Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4783,7 +4784,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5891,7 +5892,7 @@
       "876849": "2026-10-17T13:43:16.457499Z",
       "876941": "2026-10-17T13:43:16.457499Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5931,7 +5932,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6003,7 +6004,7 @@
         "owner": "Buzz",
         "question_id": "306226",
         "question_title": "Villain killed by striking him behind the ear where not protected by armor",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-10-10T11:47:03Z",
@@ -7069,7 +7070,7 @@
       "306237": "2026-10-15T22:18:15.867786Z",
       "306244": "2026-10-17T04:26:16.332930Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "space-high-score": {
     "entries": [
@@ -7472,7 +7473,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8694,6 +8695,6 @@
       "274770": "2026-10-15T09:54:47.023013Z",
       "274772": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-17T13:43:16.457499Z"
+    "last_checked": "2026-10-17T17:10:24.565406Z"
   }
 }
