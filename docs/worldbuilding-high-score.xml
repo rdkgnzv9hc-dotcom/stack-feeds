@@ -5,7 +5,14 @@
     <link>https://worldbuilding.stackexchange.com</link>
     <description>Answers from worldbuilding that reached a score of 5 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:43:16 +0000</lastBuildDate>
+    <item>
+      <title>Hexapodal Locomotion — answer reached score 5</title>
+      <link>https://worldbuilding.stackexchange.com/a/274759</link>
+      <guid isPermaLink="false">stackexchange:worldbuilding:answer:274759</guid>
+      <pubDate>Sat, 17 Oct 2026 13:43:16 +0000</pubDate>
+      <description>Answer by Ted Wrigley. Score when last checked: 5. Originally posted: 2026-10-12T14:31:00Z.</description>
+    </item>
     <item>
       <title>World Wide Mycelium — answer reached score 7</title>
       <link>https://worldbuilding.stackexchange.com/a/274772</link>
@@ -70,11 +77,11 @@
       <description>Answer by Toph. Score when last checked: 10. Originally posted: 2026-10-12T12:42:42Z.</description>
     </item>
     <item>
-      <title>Hexapodal Locomotion — answer reached score 10</title>
+      <title>Hexapodal Locomotion — answer reached score 11</title>
       <link>https://worldbuilding.stackexchange.com/a/274752</link>
       <guid isPermaLink="false">stackexchange:worldbuilding:answer:274752</guid>
       <pubDate>Tue, 13 Oct 2026 15:59:00 +0000</pubDate>
-      <description>Answer by g s. Score when last checked: 10. Originally posted: 2026-10-12T04:19:02Z.</description>
+      <description>Answer by g s. Score when last checked: 11. Originally posted: 2026-10-12T04:19:02Z.</description>
     </item>
     <item>
       <title>How realistic or efficient is a clockwork powered tank? — answer reached score 5</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:worldbuilding:answer:274223</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by g s. Score when last checked: 6. Originally posted: 2026-08-03T15:22:39Z.</description>
-    </item>
-    <item>
-      <title>Would atomic bombs be developed if there were powerful superheroes in the world? — answer reached score 18</title>
-      <link>https://worldbuilding.stackexchange.com/a/274219</link>
-      <guid isPermaLink="false">stackexchange:worldbuilding:answer:274219</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by JBH. Score when last checked: 18. Originally posted: 2026-08-02T18:09:16Z.</description>
     </item>
   </channel>
 </rss>
