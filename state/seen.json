@@ -9,7 +9,7 @@
         "owner": "Bryan Krause",
         "question_id": "227858",
         "question_title": "When should field-specific terminology be quoted during paraphrasing?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-07T11:51:18Z",
@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "law-high-score": {
     "entries": [
@@ -1551,7 +1551,7 @@
         "owner": "Solomon Ucko",
         "question_id": "115746",
         "question_title": "Are there any countries that exclude mythology and folklore from copyright protection?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-15T05:33:07Z",
@@ -1561,7 +1561,7 @@
         "owner": "user541686",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-14T13:53:31Z",
@@ -1571,7 +1571,7 @@
         "owner": "Jen",
         "question_id": "115746",
         "question_title": "Are there any countries that exclude mythology and folklore from copyright protection?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-14T07:32:01Z",
@@ -1581,7 +1581,7 @@
         "owner": "Dale M",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-10-13T21:38:01Z",
@@ -1591,7 +1591,7 @@
         "owner": "Dale M",
         "question_id": "115733",
         "question_title": "Why does a Deputy Justice \u2018say to people that courts are terrible places to resolve customer services in\u2019?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-10-12T22:46:01Z",
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "math-high-score": {
     "entries": [
@@ -2492,7 +2492,7 @@
         "owner": "Eric Towers",
         "question_id": "5148798",
         "question_title": "Math shorthand symbol for \"assume\"",
-        "score": 29
+        "score": 28
       },
       {
         "answer_created": "2026-09-05T16:22:37Z",
@@ -3104,7 +3104,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3116,7 +3116,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups independent of the axiom of choice?",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-10-14T14:20:41Z",
@@ -4677,7 +4677,7 @@
       "516041": "2026-10-15T19:07:32.762884Z",
       "516112": "2026-10-16T21:08:23.084853Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4783,7 +4783,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5868,7 +5868,7 @@
       "876729": "2026-10-10T17:27:25.801572Z",
       "876831": "2026-10-13T15:59:00.350142Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5908,10 +5908,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-15T03:57:04Z",
+        "answer_id": "306244",
+        "first_seen": "2026-10-17T04:26:16.332930Z",
+        "link": "https://scifi.stackexchange.com/a/306244",
+        "owner": "Martheen",
+        "question_id": "306238",
+        "question_title": "What crime did The Cat commit?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-08T11:14:59Z",
         "answer_id": "306176",
@@ -5930,7 +5940,7 @@
         "owner": "Paul D. Waite",
         "question_id": "306232",
         "question_title": "Why was travelling across multiverse a big deal?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-14T19:56:37Z",
@@ -5940,7 +5950,7 @@
         "owner": "Valorum",
         "question_id": "306234",
         "question_title": "Are there any indications what year THX 1138 was set?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-07-24T19:33:37Z",
@@ -5970,7 +5980,7 @@
         "owner": "Buzz",
         "question_id": "306226",
         "question_title": "Villain killed by striking him behind the ear where not protected by armor",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-10T11:47:03Z",
@@ -6901,16 +6911,6 @@
         "question_id": "305259",
         "question_title": "How long is the Pillar of Autumn?",
         "score": 18
-      },
-      {
-        "answer_created": "2026-07-16T19:38:56Z",
-        "answer_id": "305257",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305257",
-        "owner": "Shawn",
-        "question_id": "305254",
-        "question_title": "Story ID: Vampire vs Leukemia",
-        "score": 16
       }
     ],
     "known": {
@@ -7043,9 +7043,10 @@
       "306195": "2026-10-11T18:32:36.087186Z",
       "306227": "2026-10-14T17:10:29.633090Z",
       "306236": "2026-10-15T15:00:59.532923Z",
-      "306237": "2026-10-15T22:18:15.867786Z"
+      "306237": "2026-10-15T22:18:15.867786Z",
+      "306244": "2026-10-17T04:26:16.332930Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "space-high-score": {
     "entries": [
@@ -7448,7 +7449,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8669,6 +8670,6 @@
       "274770": "2026-10-15T09:54:47.023013Z",
       "274772": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-16T23:35:45.849041Z"
+    "last_checked": "2026-10-17T04:26:16.332930Z"
   }
 }
