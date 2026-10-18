@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "law-high-score": {
     "entries": [
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,7 +3104,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3126,7 +3126,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-16T18:53:33Z",
@@ -3146,7 +3146,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "516107",
         "question_title": "Does the classification of finite simple groups depend on the axiom of choice?",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-10-14T14:20:41Z",
@@ -4680,7 +4680,7 @@
       "516112": "2026-10-16T21:08:23.084853Z",
       "516156": "2026-10-18T14:34:47.044490Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4786,7 +4786,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5895,7 +5895,7 @@
       "876941": "2026-10-17T13:43:16.457499Z",
       "876942": "2026-10-18T20:43:38.933774Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5935,7 +5935,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5957,7 +5957,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306205",
         "question_title": "What's the origin of this Harry Potter book title?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-17T17:31:22Z",
@@ -5967,7 +5967,7 @@
         "owner": "Sotto Voce",
         "question_id": "306260",
         "question_title": "Single book or series where a starship crew are gods to the settlers",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-15T03:57:04Z",
@@ -7076,7 +7076,7 @@
       "306247": "2026-10-18T18:05:44.647005Z",
       "306262": "2026-10-18T14:34:47.044490Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "space-high-score": {
     "entries": [
@@ -7479,7 +7479,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8702,6 +8702,6 @@
       "274772": "2026-10-15T22:18:15.867786Z",
       "274779": "2026-10-17T22:19:02.796444Z"
     },
-    "last_checked": "2026-10-18T20:43:38.933774Z"
+    "last_checked": "2026-10-18T23:12:35.296370Z"
   }
 }
