@@ -9,7 +9,7 @@
         "owner": "Bryan Krause",
         "question_id": "227858",
         "question_title": "When should field-specific terminology be quoted during paraphrasing?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-07T11:51:18Z",
@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "law-high-score": {
     "entries": [
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,7 +3104,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3116,7 +3116,7 @@
         "owner": "Timothy Chow",
         "question_id": "22142",
         "question_title": "Has Vaught's Conjecture Been Solved?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-16T19:25:06Z",
@@ -3146,7 +3146,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "516107",
         "question_title": "Does the classification of finite simple groups depend on the axiom of choice?",
-        "score": 30
+        "score": 33
       },
       {
         "answer_created": "2026-10-14T14:20:41Z",
@@ -3256,7 +3256,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 43
+        "score": 44
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3496,7 +3496,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 27
+        "score": 26
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -4680,7 +4680,7 @@
       "516112": "2026-10-16T21:08:23.084853Z",
       "516156": "2026-10-18T14:34:47.044490Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4786,10 +4786,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-15T19:32:06Z",
+        "answer_id": "876942",
+        "first_seen": "2026-10-18T20:43:38.933774Z",
+        "link": "https://physics.stackexchange.com/a/876942",
+        "owner": "Thomas Fritsch",
+        "question_id": "876939",
+        "question_title": "How is total linear momentum conserved in the Sun-Earth system?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-15T19:24:21Z",
         "answer_id": "876941",
@@ -4798,7 +4808,7 @@
         "owner": "Vincent Thacker",
         "question_id": "876939",
         "question_title": "How is total linear momentum conserved in the Sun-Earth system?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-13T07:23:05Z",
@@ -5779,16 +5789,6 @@
         "question_id": "873356",
         "question_title": "Significant figures: reliably know digits + 1 estimated digit?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-06-14T21:20:15Z",
-        "answer_id": "873331",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873331",
-        "owner": "Anders Sandberg",
-        "question_id": "873326",
-        "question_title": "How much does the CMB temperature drop in one year?",
-        "score": 16
       }
     ],
     "known": {
@@ -5892,9 +5892,10 @@
       "876777": "2026-10-17T13:43:16.457499Z",
       "876831": "2026-10-13T15:59:00.350142Z",
       "876849": "2026-10-17T13:43:16.457499Z",
-      "876941": "2026-10-17T13:43:16.457499Z"
+      "876941": "2026-10-17T13:43:16.457499Z",
+      "876942": "2026-10-18T20:43:38.933774Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5934,7 +5935,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5966,7 +5967,7 @@
         "owner": "Sotto Voce",
         "question_id": "306260",
         "question_title": "Single book or series where a starship crew are gods to the settlers",
-        "score": 21
+        "score": 23
       },
       {
         "answer_created": "2026-10-15T03:57:04Z",
@@ -7075,7 +7076,7 @@
       "306247": "2026-10-18T18:05:44.647005Z",
       "306262": "2026-10-18T14:34:47.044490Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "space-high-score": {
     "entries": [
@@ -7478,7 +7479,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8701,6 +8702,6 @@
       "274772": "2026-10-15T22:18:15.867786Z",
       "274779": "2026-10-17T22:19:02.796444Z"
     },
-    "last_checked": "2026-10-18T18:05:44.647005Z"
+    "last_checked": "2026-10-18T20:43:38.933774Z"
   }
 }
