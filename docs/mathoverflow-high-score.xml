@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:05:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:34:47 +0000</lastBuildDate>
+    <item>
+      <title>Has Vaught's Conjecture Been Solved? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516156</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516156</guid>
+      <pubDate>Sun, 18 Oct 2026 14:34:47 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 10. Originally posted: 2026-10-18T12:42:37Z.</description>
+    </item>
     <item>
       <title>Consequences of quasi-RH — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516109</link>
@@ -98,11 +105,11 @@
       <description>Answer by Joshua P. Swanson. Score when last checked: 11. Originally posted: 2026-10-10T03:10:06Z.</description>
     </item>
     <item>
-      <title>Why cubic Gauss sums? — answer reached score 41</title>
+      <title>Why cubic Gauss sums? — answer reached score 43</title>
       <link>https://mathoverflow.net/a/515992</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515992</guid>
       <pubDate>Tue, 13 Oct 2026 00:39:51 +0000</pubDate>
-      <description>Answer by Will Sawin. Score when last checked: 41. Originally posted: 2026-10-12T21:20:06Z.</description>
+      <description>Answer by Will Sawin. Score when last checked: 43. Originally posted: 2026-10-12T21:20:06Z.</description>
     </item>
     <item>
       <title>Consequences of quasi-RH — answer reached score 16</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515141</guid>
       <pubDate>Tue, 15 Sep 2026 00:35:31 +0000</pubDate>
       <description>Answer by a3nm. Score when last checked: 10. Originally posted: 2026-09-11T16:57:06Z.</description>
-    </item>
-    <item>
-      <title>Different publication model in the new era of AI generated math — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/515182</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515182</guid>
-      <pubDate>Mon, 14 Sep 2026 18:31:04 +0000</pubDate>
-      <description>Answer by Jon Bannon. Score when last checked: 10. Originally posted: 2026-09-13T01:46:23Z.</description>
     </item>
   </channel>
 </rss>

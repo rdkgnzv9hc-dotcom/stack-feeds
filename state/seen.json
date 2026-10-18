@@ -669,7 +669,7 @@
         "owner": "Arno",
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
-        "score": 37
+        "score": 38
       },
       {
         "answer_created": "2026-07-25T11:58:40Z",
@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,7 +1539,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "law-high-score": {
     "entries": [
@@ -2470,7 +2470,7 @@
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,10 +3104,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-18T12:42:37Z",
+        "answer_id": "516156",
+        "first_seen": "2026-10-18T14:34:47.044490Z",
+        "link": "https://mathoverflow.net/a/516156",
+        "owner": "Timothy Chow",
+        "question_id": "22142",
+        "question_title": "Has Vaught's Conjecture Been Solved?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-16T19:25:06Z",
         "answer_id": "516109",
@@ -3246,7 +3256,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 41
+        "score": 43
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -4097,16 +4107,6 @@
         "question_id": "515058",
         "question_title": "What should be the editorial policy of a journal regarding AI usage given the rapid changes undergoing mathematics",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-13T01:46:23Z",
-        "answer_id": "515182",
-        "first_seen": "2026-09-14T18:31:04.780121Z",
-        "link": "https://mathoverflow.net/a/515182",
-        "owner": "Jon Bannon",
-        "question_id": "515180",
-        "question_title": "Different publication model in the new era of AI generated math",
-        "score": 10
       }
     ],
     "known": {
@@ -4677,9 +4677,10 @@
       "516041": "2026-10-15T19:07:32.762884Z",
       "516108": "2026-10-17T17:10:24.565406Z",
       "516109": "2026-10-17T22:19:02.796444Z",
-      "516112": "2026-10-16T21:08:23.084853Z"
+      "516112": "2026-10-16T21:08:23.084853Z",
+      "516156": "2026-10-18T14:34:47.044490Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4785,7 +4786,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5893,7 +5894,7 @@
       "876849": "2026-10-17T13:43:16.457499Z",
       "876941": "2026-10-17T13:43:16.457499Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5933,10 +5934,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-17T17:31:22Z",
+        "answer_id": "306262",
+        "first_seen": "2026-10-18T14:34:47.044490Z",
+        "link": "https://scifi.stackexchange.com/a/306262",
+        "owner": "Sotto Voce",
+        "question_id": "306260",
+        "question_title": "Single book or series where a starship crew are gods to the settlers",
+        "score": 18
+      },
       {
         "answer_created": "2026-10-15T03:57:04Z",
         "answer_id": "306244",
@@ -6926,16 +6937,6 @@
         "question_id": "305276",
         "question_title": "Novel where an alien comes to Earth to spy on us. She receives surgical alteration to the 'Lucent Ideal'. Humans are unable to travel by 'SKord'",
         "score": 24
-      },
-      {
-        "answer_created": "2026-07-17T10:46:18Z",
-        "answer_id": "305262",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305262",
-        "owner": "Withad",
-        "question_id": "305259",
-        "question_title": "How long is the Pillar of Autumn?",
-        "score": 18
       }
     ],
     "known": {
@@ -7069,9 +7070,10 @@
       "306227": "2026-10-14T17:10:29.633090Z",
       "306236": "2026-10-15T15:00:59.532923Z",
       "306237": "2026-10-15T22:18:15.867786Z",
-      "306244": "2026-10-17T04:26:16.332930Z"
+      "306244": "2026-10-17T04:26:16.332930Z",
+      "306262": "2026-10-18T14:34:47.044490Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "space-high-score": {
     "entries": [
@@ -7474,7 +7476,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7486,7 +7488,7 @@
         "owner": "L.Dutch",
         "question_id": "274776",
         "question_title": "How Would Rings Affect Trade Winds?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-12T14:31:00Z",
@@ -8697,6 +8699,6 @@
       "274772": "2026-10-15T22:18:15.867786Z",
       "274779": "2026-10-17T22:19:02.796444Z"
     },
-    "last_checked": "2026-10-18T11:05:19.008375Z"
+    "last_checked": "2026-10-18T14:34:47.044490Z"
   }
 }
