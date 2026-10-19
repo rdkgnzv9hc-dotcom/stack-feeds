@@ -1107,7 +1107,7 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "history-high-score": {
     "entries": [
@@ -1213,7 +1213,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1539,10 +1539,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-18T18:54:29Z",
+        "answer_id": "116784",
+        "first_seen": "2026-10-19T15:59:36.462008Z",
+        "link": "https://law.stackexchange.com/a/116784",
+        "owner": "Jen",
+        "question_id": "116783",
+        "question_title": "Tx property code law has 10 to 60 meeting notice requirement, an HOA bylaws has 30 to 60 day requirement, so are the bylaws contrary to Tx law?",
+        "score": 12
+      },
       {
         "answer_created": "2026-10-15T07:31:39Z",
         "answer_id": "115754",
@@ -2468,9 +2478,10 @@
       "115744": "2026-10-14T20:41:19.345873Z",
       "115747": "2026-10-15T09:54:47.023013Z",
       "115753": "2026-10-15T19:07:32.762884Z",
-      "115754": "2026-10-15T22:18:15.867786Z"
+      "115754": "2026-10-15T22:18:15.867786Z",
+      "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "math-high-score": {
     "entries": [
@@ -3104,7 +3115,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3116,7 +3127,7 @@
         "owner": "Timothy Chow",
         "question_id": "22142",
         "question_title": "Has Vaught's Conjecture Been Solved?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-16T19:25:06Z",
@@ -3146,7 +3157,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "516107",
         "question_title": "Does the classification of finite simple groups depend on the axiom of choice?",
-        "score": 38
+        "score": 39
       },
       {
         "answer_created": "2026-10-14T14:20:41Z",
@@ -4680,7 +4691,7 @@
       "516112": "2026-10-16T21:08:23.084853Z",
       "516156": "2026-10-18T14:34:47.044490Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4786,10 +4797,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-17T15:08:01Z",
+        "answer_id": "877001",
+        "first_seen": "2026-10-19T15:59:36.462008Z",
+        "link": "https://physics.stackexchange.com/a/877001",
+        "owner": "Math Keeps Me Busy",
+        "question_id": "876990",
+        "question_title": "If two punches collide in mid-air (one with 50N of force, one with 60N), what is the actual reaction force felt at the knuckles?",
+        "score": 13
+      },
       {
         "answer_created": "2026-10-15T19:32:06Z",
         "answer_id": "876942",
@@ -5779,16 +5800,6 @@
         "question_id": "873356",
         "question_title": "Significant figures: reliably know digits + 1 estimated digit?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-06-15T19:03:55Z",
-        "answer_id": "873360",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873360",
-        "owner": "rob",
-        "question_id": "873356",
-        "question_title": "Significant figures: reliably know digits + 1 estimated digit?",
-        "score": 14
       }
     ],
     "known": {
@@ -5893,9 +5904,10 @@
       "876831": "2026-10-13T15:59:00.350142Z",
       "876849": "2026-10-17T13:43:16.457499Z",
       "876941": "2026-10-17T13:43:16.457499Z",
-      "876942": "2026-10-18T20:43:38.933774Z"
+      "876942": "2026-10-18T20:43:38.933774Z",
+      "877001": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5935,10 +5947,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-18T00:46:28Z",
+        "answer_id": "306264",
+        "first_seen": "2026-10-19T15:59:36.462008Z",
+        "link": "https://scifi.stackexchange.com/a/306264",
+        "owner": "Paulie_D",
+        "question_id": "306263",
+        "question_title": "SF dystopia novel 50+ years old : Earth's surface confiscated by a few privileged people, everyone else lives underground",
+        "score": 15
+      },
       {
         "answer_created": "2026-10-15T16:07:18Z",
         "answer_id": "306247",
@@ -5957,7 +5979,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306205",
         "question_title": "What's the origin of this Harry Potter book title?",
-        "score": 16
+        "score": 22
       },
       {
         "answer_created": "2026-10-17T17:31:22Z",
@@ -5967,7 +5989,7 @@
         "owner": "Sotto Voce",
         "question_id": "306260",
         "question_title": "Single book or series where a starship crew are gods to the settlers",
-        "score": 25
+        "score": 31
       },
       {
         "answer_created": "2026-10-15T03:57:04Z",
@@ -6928,16 +6950,6 @@
         "question_id": "305289",
         "question_title": "Book about a mage with a limp, walks with a cane, deals with the fey",
         "score": 17
-      },
-      {
-        "answer_created": "2026-07-19T13:29:20Z",
-        "answer_id": "305282",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305282",
-        "owner": "nebogipfel",
-        "question_id": "305279",
-        "question_title": "Short story about using drugged mink brain waves broadcast into space to deter alien invaders",
-        "score": 21
       }
     ],
     "known": {
@@ -7074,9 +7086,10 @@
       "306244": "2026-10-17T04:26:16.332930Z",
       "306245": "2026-10-18T18:05:44.647005Z",
       "306247": "2026-10-18T18:05:44.647005Z",
-      "306262": "2026-10-18T14:34:47.044490Z"
+      "306262": "2026-10-18T14:34:47.044490Z",
+      "306264": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "space-high-score": {
     "entries": [
@@ -7479,10 +7492,20 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-18T15:30:43Z",
+        "answer_id": "274790",
+        "first_seen": "2026-10-19T15:59:36.462008Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274790",
+        "owner": "Ted Wrigley",
+        "question_id": "274789",
+        "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-17T13:21:16Z",
         "answer_id": "274782",
@@ -7501,7 +7524,7 @@
         "owner": "L.Dutch",
         "question_id": "274776",
         "question_title": "How Would Rings Affect Trade Winds?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-12T14:31:00Z",
@@ -8472,16 +8495,6 @@
         "question_id": "274238",
         "question_title": "Alternative History: A natural canal exists connecting the Azov sea (Black sea) to the Caspian sea - how does the regional climate change?",
         "score": 22
-      },
-      {
-        "answer_created": "2026-08-05T14:59:28Z",
-        "answer_id": "274240",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274240",
-        "owner": "Nosajimiki",
-        "question_id": "274201",
-        "question_title": "How to minimize my point system's potential perverse incentive?",
-        "score": 5
       }
     ],
     "known": {
@@ -8701,8 +8714,9 @@
       "274770": "2026-10-15T09:54:47.023013Z",
       "274772": "2026-10-15T22:18:15.867786Z",
       "274779": "2026-10-17T22:19:02.796444Z",
-      "274782": "2026-10-19T07:46:19.841906Z"
+      "274782": "2026-10-19T07:46:19.841906Z",
+      "274790": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-19T07:46:19.841906Z"
+    "last_checked": "2026-10-19T15:59:36.462008Z"
   }
 }
