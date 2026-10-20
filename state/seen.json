@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "law-high-score": {
     "entries": [
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "math-high-score": {
     "entries": [
@@ -2527,7 +2527,7 @@
         "owner": "lulu",
         "question_id": "5150057",
         "question_title": "Die with prime number of faces implies events are not independent why?",
-        "score": 32
+        "score": 33
       },
       {
         "answer_created": "2026-09-06T22:45:45Z",
@@ -3149,7 +3149,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3161,7 +3161,7 @@
         "owner": "Jonathan Love",
         "question_id": "516182",
         "question_title": "Status of effective Mordell--Faltings",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-19T04:31:23Z",
@@ -4727,7 +4727,7 @@
       "516171": "2026-10-19T21:02:51.589699Z",
       "516183": "2026-10-20T11:36:46.445700Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4833,7 +4833,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4855,7 +4855,7 @@
         "owner": "Vincent Thacker",
         "question_id": "877039",
         "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-17T15:08:01Z",
@@ -4875,7 +4875,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "876939",
         "question_title": "How is total linear momentum conserved in the Sun-Earth system?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-15T19:24:21Z",
@@ -4885,7 +4885,7 @@
         "owner": "Vincent Thacker",
         "question_id": "876939",
         "question_title": "How is total linear momentum conserved in the Sun-Earth system?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-13T07:23:05Z",
@@ -5945,7 +5945,7 @@
       "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5985,10 +5985,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-20T13:34:03Z",
+        "answer_id": "306276",
+        "first_seen": "2026-10-20T23:52:43.278798Z",
+        "link": "https://scifi.stackexchange.com/a/306276",
+        "owner": "TheLethalCarrot",
+        "question_id": "306275",
+        "question_title": "Does Batman ever wear a parka?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-17T03:02:37Z",
         "answer_id": "306259",
@@ -6978,16 +6988,6 @@
         "question_id": "305316",
         "question_title": "Can The Doctor be an animal?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-22T15:23:43Z",
-        "answer_id": "305318",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305318",
-        "owner": "Longshanks",
-        "question_id": "305316",
-        "question_title": "Can The Doctor be an animal?",
-        "score": 12
       }
     ],
     "known": {
@@ -7126,9 +7126,10 @@
       "306247": "2026-10-18T18:05:44.647005Z",
       "306259": "2026-10-20T06:00:44.474765Z",
       "306262": "2026-10-18T14:34:47.044490Z",
-      "306264": "2026-10-19T15:59:36.462008Z"
+      "306264": "2026-10-19T15:59:36.462008Z",
+      "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "space-high-score": {
     "entries": [
@@ -7542,7 +7543,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8769,6 +8770,6 @@
       "274790": "2026-10-19T15:59:36.462008Z",
       "274791": "2026-10-20T11:36:46.445700Z"
     },
-    "last_checked": "2026-10-20T20:35:20.281762Z"
+    "last_checked": "2026-10-20T23:52:43.278798Z"
   }
 }
