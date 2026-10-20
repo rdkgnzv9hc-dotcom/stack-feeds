@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:36:46 +0000</lastBuildDate>
+    <item>
+      <title>Status of effective Mordell--Faltings — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516183</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516183</guid>
+      <pubDate>Tue, 20 Oct 2026 11:36:46 +0000</pubDate>
+      <description>Answer by Jonathan Love. Score when last checked: 10. Originally posted: 2026-10-19T20:25:12Z.</description>
+    </item>
     <item>
       <title>Is the classification of finite simple groups provable without the axiom of choice? — answer reached score 15</title>
       <link>https://mathoverflow.net/a/516171</link>
@@ -224,11 +231,11 @@
       <description>Answer by Philip Weiss. Score when last checked: 60. Originally posted: 2026-10-08T21:30:51Z.</description>
     </item>
     <item>
-      <title>How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture — answer reached score 18</title>
+      <title>How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture — answer reached score 19</title>
       <link>https://mathoverflow.net/a/515826</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515826</guid>
       <pubDate>Thu, 08 Oct 2026 13:34:49 +0000</pubDate>
-      <description>Answer by Alex Elzenaar. Score when last checked: 18. Originally posted: 2026-10-07T23:02:10Z.</description>
+      <description>Answer by Alex Elzenaar. Score when last checked: 19. Originally posted: 2026-10-07T23:02:10Z.</description>
     </item>
     <item>
       <title>When does simplification require complication? — answer reached score 22</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515129</guid>
       <pubDate>Tue, 15 Sep 2026 17:24:52 +0000</pubDate>
       <description>Answer by Emil Jeřábek. Score when last checked: 12. Originally posted: 2026-09-11T07:47:45Z.</description>
-    </item>
-    <item>
-      <title>Presheaves on paracompact spaces for which the plus construction does not yield sheafification — answer reached score 11</title>
-      <link>https://mathoverflow.net/a/515231</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515231</guid>
-      <pubDate>Tue, 15 Sep 2026 08:30:56 +0000</pubDate>
-      <description>Answer by R. van Dobben de Bruyn. Score when last checked: 11. Originally posted: 2026-09-14T19:30:10Z.</description>
     </item>
   </channel>
 </rss>

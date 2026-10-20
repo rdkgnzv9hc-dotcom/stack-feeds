@@ -669,7 +669,7 @@
         "owner": "Ben",
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-07-26T09:42:36Z",
@@ -679,7 +679,7 @@
         "owner": "Arno",
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
-        "score": 38
+        "score": 39
       },
       {
         "answer_created": "2026-07-25T11:58:40Z",
@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "law-high-score": {
     "entries": [
@@ -1562,7 +1562,7 @@
         "owner": "Nate Eldredge",
         "question_id": "116778",
         "question_title": "Are ports of video games to unsupported platforms illegal?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-17T10:04:39Z",
@@ -1582,7 +1582,7 @@
         "owner": "Jen",
         "question_id": "116783",
         "question_title": "Tx property code law has 10 to 60 meeting notice requirement, an HOA bylaws has 30 to 60 day requirement, so are the bylaws contrary to Tx law?",
-        "score": 15
+        "score": 18
       },
       {
         "answer_created": "2026-10-15T07:31:39Z",
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,10 +3149,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-19T20:25:12Z",
+        "answer_id": "516183",
+        "first_seen": "2026-10-20T11:36:46.445700Z",
+        "link": "https://mathoverflow.net/a/516183",
+        "owner": "Jonathan Love",
+        "question_id": "516182",
+        "question_title": "Status of effective Mordell--Faltings",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-19T04:31:23Z",
         "answer_id": "516171",
@@ -3471,7 +3481,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "515824",
         "question_title": "How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-08T02:10:02Z",
@@ -4142,16 +4152,6 @@
         "question_id": "502120",
         "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
         "score": 12
-      },
-      {
-        "answer_created": "2026-09-14T19:30:10Z",
-        "answer_id": "515231",
-        "first_seen": "2026-09-15T08:30:56.873314Z",
-        "link": "https://mathoverflow.net/a/515231",
-        "owner": "R. van Dobben de Bruyn",
-        "question_id": "515213",
-        "question_title": "Presheaves on paracompact spaces for which the plus construction does not yield sheafification",
-        "score": 11
       }
     ],
     "known": {
@@ -4724,9 +4724,10 @@
       "516109": "2026-10-17T22:19:02.796444Z",
       "516112": "2026-10-16T21:08:23.084853Z",
       "516156": "2026-10-18T14:34:47.044490Z",
-      "516171": "2026-10-19T21:02:51.589699Z"
+      "516171": "2026-10-19T21:02:51.589699Z",
+      "516183": "2026-10-20T11:36:46.445700Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4832,7 +4833,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4844,7 +4845,7 @@
         "owner": "Vincent Thacker",
         "question_id": "877039",
         "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-10-17T15:08:01Z",
@@ -4874,7 +4875,7 @@
         "owner": "Vincent Thacker",
         "question_id": "876939",
         "question_title": "How is total linear momentum conserved in the Sun-Earth system?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-13T07:23:05Z",
@@ -5943,7 +5944,7 @@
       "877001": "2026-10-19T15:59:36.462008Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5983,7 +5984,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6025,7 +6026,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306205",
         "question_title": "What's the origin of this Harry Potter book title?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-17T17:31:22Z",
@@ -7126,7 +7127,7 @@
       "306262": "2026-10-18T14:34:47.044490Z",
       "306264": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "space-high-score": {
     "entries": [
@@ -7529,10 +7530,20 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-19T06:00:10Z",
+        "answer_id": "274791",
+        "first_seen": "2026-10-20T11:36:46.445700Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274791",
+        "owner": "Vesper",
+        "question_id": "274789",
+        "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-18T15:30:43Z",
         "answer_id": "274790",
@@ -7541,7 +7552,7 @@
         "owner": "Ted Wrigley",
         "question_id": "274789",
         "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
-        "score": 6
+        "score": 8
       },
       {
         "answer_created": "2026-10-17T13:21:16Z",
@@ -7561,7 +7572,7 @@
         "owner": "L.Dutch",
         "question_id": "274776",
         "question_title": "How Would Rings Affect Trade Winds?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-12T14:31:00Z",
@@ -8522,16 +8533,6 @@
         "question_id": "274230",
         "question_title": "If earth become tidally locked to the sun, how long would it take for the moon to fall?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-08-05T15:56:49Z",
-        "answer_id": "274241",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274241",
-        "owner": "AlexP",
-        "question_id": "274238",
-        "question_title": "Alternative History: A natural canal exists connecting the Azov sea (Black sea) to the Caspian sea - how does the regional climate change?",
-        "score": 22
       }
     ],
     "known": {
@@ -8752,8 +8753,9 @@
       "274772": "2026-10-15T22:18:15.867786Z",
       "274779": "2026-10-17T22:19:02.796444Z",
       "274782": "2026-10-19T07:46:19.841906Z",
-      "274790": "2026-10-19T15:59:36.462008Z"
+      "274790": "2026-10-19T15:59:36.462008Z",
+      "274791": "2026-10-20T11:36:46.445700Z"
     },
-    "last_checked": "2026-10-20T06:00:44.474765Z"
+    "last_checked": "2026-10-20T11:36:46.445700Z"
   }
 }
