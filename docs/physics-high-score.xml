@@ -5,7 +5,14 @@
     <link>https://physics.stackexchange.com</link>
     <description>Answers from physics that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 21:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:20:14 +0000</lastBuildDate>
+    <item>
+      <title>How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect? — answer reached score 11</title>
+      <link>https://physics.stackexchange.com/a/877043</link>
+      <guid isPermaLink="false">stackexchange:physics:answer:877043</guid>
+      <pubDate>Tue, 20 Oct 2026 00:20:14 +0000</pubDate>
+      <description>Answer by Vincent Thacker. Score when last checked: 11. Originally posted: 2026-10-19T11:45:15Z.</description>
+    </item>
     <item>
       <title>If two punches collide in mid-air (one with 50N of force, one with 60N), what is the actual reaction force felt at the knuckles? — answer reached score 14</title>
       <link>https://physics.stackexchange.com/a/877001</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:physics:answer:873407</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by rob. Score when last checked: 22. Originally posted: 2026-06-16T22:58:39Z.</description>
-    </item>
-    <item>
-      <title>Significant figures: reliably know digits + 1 estimated digit? — answer reached score 17</title>
-      <link>https://physics.stackexchange.com/a/873363</link>
-      <guid isPermaLink="false">stackexchange:physics:answer:873363</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by naturallyInconsistent. Score when last checked: 17. Originally posted: 2026-06-15T19:52:47Z.</description>
     </item>
   </channel>
 </rss>

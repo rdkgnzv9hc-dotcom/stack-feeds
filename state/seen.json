@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227874",
         "question_title": "Does reading a book on writing actually improve writing quality and speed?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-14T14:59:56Z",
@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "law-high-score": {
     "entries": [
@@ -1572,7 +1572,7 @@
         "owner": "Jen",
         "question_id": "116783",
         "question_title": "Tx property code law has 10 to 60 meeting notice requirement, an HOA bylaws has 30 to 60 day requirement, so are the bylaws contrary to Tx law?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-15T07:31:39Z",
@@ -2504,7 +2504,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "math-high-score": {
     "entries": [
@@ -3138,7 +3138,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3150,7 +3150,7 @@
         "owner": "Robin Saunders",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups provable without the axiom of choice?",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-10-18T12:42:37Z",
@@ -4715,7 +4715,7 @@
       "516156": "2026-10-18T14:34:47.044490Z",
       "516171": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4821,10 +4821,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-19T11:45:15Z",
+        "answer_id": "877043",
+        "first_seen": "2026-10-20T00:20:14.225496Z",
+        "link": "https://physics.stackexchange.com/a/877043",
+        "owner": "Vincent Thacker",
+        "question_id": "877039",
+        "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-17T15:08:01Z",
         "answer_id": "877001",
@@ -5814,16 +5824,6 @@
         "question_id": "873405",
         "question_title": "Was Carl Sagan correct to say that meteor entry is \"completely silent\"?",
         "score": 22
-      },
-      {
-        "answer_created": "2026-06-15T19:52:47Z",
-        "answer_id": "873363",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873363",
-        "owner": "naturallyInconsistent",
-        "question_id": "873356",
-        "question_title": "Significant figures: reliably know digits + 1 estimated digit?",
-        "score": 17
       }
     ],
     "known": {
@@ -5929,9 +5929,10 @@
       "876849": "2026-10-17T13:43:16.457499Z",
       "876941": "2026-10-17T13:43:16.457499Z",
       "876942": "2026-10-18T20:43:38.933774Z",
-      "877001": "2026-10-19T15:59:36.462008Z"
+      "877001": "2026-10-19T15:59:36.462008Z",
+      "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5971,7 +5972,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6003,7 +6004,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306205",
         "question_title": "What's the origin of this Harry Potter book title?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-10-17T17:31:22Z",
@@ -7113,7 +7114,7 @@
       "306262": "2026-10-18T14:34:47.044490Z",
       "306264": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "space-high-score": {
     "entries": [
@@ -7516,7 +7517,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8741,6 +8742,6 @@
       "274782": "2026-10-19T07:46:19.841906Z",
       "274790": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-19T21:02:51.589699Z"
+    "last_checked": "2026-10-20T00:20:14.225496Z"
   }
 }
