@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227874",
         "question_title": "Does reading a book on writing actually improve writing quality and speed?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-14T14:59:56Z",
@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,10 +1540,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-16T19:30:27Z",
+        "answer_id": "116763",
+        "first_seen": "2026-10-20T06:00:44.474765Z",
+        "link": "https://law.stackexchange.com/a/116763",
+        "owner": "Jen",
+        "question_id": "115765",
+        "question_title": "What is the purpose of an Alford plea?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-17T20:49:58Z",
         "answer_id": "116779",
@@ -1562,7 +1572,7 @@
         "owner": "Neil Meyer",
         "question_id": "115765",
         "question_title": "What is the purpose of an Alford plea?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-18T18:54:29Z",
@@ -2500,11 +2510,12 @@
       "115747": "2026-10-15T09:54:47.023013Z",
       "115753": "2026-10-15T19:07:32.762884Z",
       "115754": "2026-10-15T22:18:15.867786Z",
+      "116763": "2026-10-20T06:00:44.474765Z",
       "116773": "2026-10-19T21:02:51.589699Z",
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "math-high-score": {
     "entries": [
@@ -3138,7 +3149,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3220,7 +3231,7 @@
         "owner": "TimH",
         "question_id": "515845",
         "question_title": "How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-12T19:34:17Z",
@@ -3370,7 +3381,7 @@
         "owner": "Dimitri Vulis",
         "question_id": "515845",
         "question_title": "How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-08T22:08:10Z",
@@ -3810,7 +3821,7 @@
         "owner": "tgkolda",
         "question_id": "514973",
         "question_title": "Effect of AI on publication rates",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-23T13:48:52Z",
@@ -4715,7 +4726,7 @@
       "516156": "2026-10-18T14:34:47.044490Z",
       "516171": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4821,7 +4832,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4833,7 +4844,7 @@
         "owner": "Vincent Thacker",
         "question_id": "877039",
         "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-17T15:08:01Z",
@@ -4843,7 +4854,7 @@
         "owner": "Math Keeps Me Busy",
         "question_id": "876990",
         "question_title": "If two punches collide in mid-air (one with 50N of force, one with 60N), what is the actual reaction force felt at the knuckles?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-15T19:32:06Z",
@@ -5932,7 +5943,7 @@
       "877001": "2026-10-19T15:59:36.462008Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5972,10 +5983,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-17T03:02:37Z",
+        "answer_id": "306259",
+        "first_seen": "2026-10-20T06:00:44.474765Z",
+        "link": "https://scifi.stackexchange.com/a/306259",
+        "owner": "FuzzyBoots",
+        "question_id": "306256",
+        "question_title": "Was Fitz/Simmons one person or two?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-18T00:46:28Z",
         "answer_id": "306264",
@@ -6004,7 +6025,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306205",
         "question_title": "What's the origin of this Harry Potter book title?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-10-17T17:31:22Z",
@@ -6965,16 +6986,6 @@
         "question_id": "305316",
         "question_title": "Can The Doctor be an animal?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-20T02:57:07Z",
-        "answer_id": "305291",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305291",
-        "owner": "Moriarty",
-        "question_id": "305289",
-        "question_title": "Book about a mage with a limp, walks with a cane, deals with the fey",
-        "score": 17
       }
     ],
     "known": {
@@ -7111,10 +7122,11 @@
       "306244": "2026-10-17T04:26:16.332930Z",
       "306245": "2026-10-18T18:05:44.647005Z",
       "306247": "2026-10-18T18:05:44.647005Z",
+      "306259": "2026-10-20T06:00:44.474765Z",
       "306262": "2026-10-18T14:34:47.044490Z",
       "306264": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "space-high-score": {
     "entries": [
@@ -7517,7 +7529,7 @@
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8742,6 +8754,6 @@
       "274782": "2026-10-19T07:46:19.841906Z",
       "274790": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T00:20:14.225496Z"
+    "last_checked": "2026-10-20T06:00:44.474765Z"
   }
 }
