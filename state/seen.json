@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "law-high-score": {
     "entries": [
@@ -1582,7 +1582,7 @@
         "owner": "Jen",
         "question_id": "116783",
         "question_title": "Tx property code law has 10 to 60 meeting notice requirement, an HOA bylaws has 30 to 60 day requirement, so are the bylaws contrary to Tx law?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-15T07:31:39Z",
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,7 +3149,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4727,7 +4727,7 @@
       "516171": "2026-10-19T21:02:51.589699Z",
       "516183": "2026-10-20T11:36:46.445700Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4833,10 +4833,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-19T11:17:49Z",
+        "answer_id": "877041",
+        "first_seen": "2026-10-20T20:35:20.281762Z",
+        "link": "https://physics.stackexchange.com/a/877041",
+        "owner": "Dale",
+        "question_id": "877039",
+        "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-19T11:45:15Z",
         "answer_id": "877043",
@@ -4845,7 +4855,7 @@
         "owner": "Vincent Thacker",
         "question_id": "877039",
         "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-10-17T15:08:01Z",
@@ -5826,16 +5836,6 @@
         "question_id": "873405",
         "question_title": "Was Carl Sagan correct to say that meteor entry is \"completely silent\"?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-06-16T22:58:39Z",
-        "answer_id": "873407",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873407",
-        "owner": "rob",
-        "question_id": "873405",
-        "question_title": "Was Carl Sagan correct to say that meteor entry is \"completely silent\"?",
-        "score": 22
       }
     ],
     "known": {
@@ -5942,9 +5942,10 @@
       "876941": "2026-10-17T13:43:16.457499Z",
       "876942": "2026-10-18T20:43:38.933774Z",
       "877001": "2026-10-19T15:59:36.462008Z",
+      "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5984,7 +5985,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6026,7 +6027,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306205",
         "question_title": "What's the origin of this Harry Potter book title?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-10-17T17:31:22Z",
@@ -7127,7 +7128,7 @@
       "306262": "2026-10-18T14:34:47.044490Z",
       "306264": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "space-high-score": {
     "entries": [
@@ -7541,7 +7542,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7583,7 +7584,7 @@
         "owner": "AlexP",
         "question_id": "274781",
         "question_title": "will i break my bones if i jump from 15 feet on pillows?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-17T05:10:59Z",
@@ -8768,6 +8769,6 @@
       "274790": "2026-10-19T15:59:36.462008Z",
       "274791": "2026-10-20T11:36:46.445700Z"
     },
-    "last_checked": "2026-10-20T17:10:42.630528Z"
+    "last_checked": "2026-10-20T20:35:20.281762Z"
   }
 }
