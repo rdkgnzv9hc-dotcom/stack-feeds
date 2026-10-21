@@ -679,7 +679,7 @@
         "owner": "Arno",
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
-        "score": 40
+        "score": 41
       },
       {
         "answer_created": "2026-07-25T11:58:40Z",
@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "law-high-score": {
     "entries": [
@@ -1562,7 +1562,7 @@
         "owner": "Nate Eldredge",
         "question_id": "116778",
         "question_title": "Are ports of video games to unsupported platforms illegal?",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-10-17T10:04:39Z",
@@ -1582,7 +1582,7 @@
         "owner": "Jen",
         "question_id": "116783",
         "question_title": "Tx property code law has 10 to 60 meeting notice requirement, an HOA bylaws has 30 to 60 day requirement, so are the bylaws contrary to Tx law?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-15T07:31:39Z",
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,7 +3149,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3161,7 +3161,7 @@
         "owner": "Timothy Chow",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 12
+        "score": 21
       },
       {
         "answer_created": "2026-10-19T20:25:12Z",
@@ -3171,7 +3171,7 @@
         "owner": "Jonathan Love",
         "question_id": "516182",
         "question_title": "Status of effective Mordell--Faltings",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-19T04:31:23Z",
@@ -4728,7 +4728,7 @@
       "516183": "2026-10-20T11:36:46.445700Z",
       "516219": "2026-10-21T04:47:21.770643Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4834,10 +4834,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-17T22:28:58Z",
+        "answer_id": "877012",
+        "first_seen": "2026-10-21T10:08:43.314464Z",
+        "link": "https://physics.stackexchange.com/a/877012",
+        "owner": "Vincent Thacker",
+        "question_id": "877008",
+        "question_title": "How does enthalpy depend on pressure exactly?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-19T11:17:49Z",
         "answer_id": "877041",
@@ -4866,7 +4876,7 @@
         "owner": "Math Keeps Me Busy",
         "question_id": "876990",
         "question_title": "If two punches collide in mid-air (one with 50N of force, one with 60N), what is the actual reaction force felt at the knuckles?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-15T19:32:06Z",
@@ -5827,16 +5837,6 @@
         "question_id": "873466",
         "question_title": "When partially viewing a ruler through a magnifying glass, are the apparently missing ruler intervals excluded from the image or remapped within it?",
         "score": 19
-      },
-      {
-        "answer_created": "2026-06-17T08:23:52Z",
-        "answer_id": "873426",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873426",
-        "owner": "Negdo",
-        "question_id": "873405",
-        "question_title": "Was Carl Sagan correct to say that meteor entry is \"completely silent\"?",
-        "score": 11
       }
     ],
     "known": {
@@ -5943,10 +5943,11 @@
       "876941": "2026-10-17T13:43:16.457499Z",
       "876942": "2026-10-18T20:43:38.933774Z",
       "877001": "2026-10-19T15:59:36.462008Z",
+      "877012": "2026-10-21T10:08:43.314464Z",
       "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5986,7 +5987,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5998,7 +5999,7 @@
         "owner": "TheLethalCarrot",
         "question_id": "306275",
         "question_title": "Does Batman ever wear a parka?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-17T03:02:37Z",
@@ -7130,7 +7131,7 @@
       "306264": "2026-10-19T15:59:36.462008Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "space-high-score": {
     "entries": [
@@ -7142,7 +7143,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70760",
         "question_title": "How hard would it be to locate the Apollo 11 launch abort subsystem?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-10-13T22:00:36Z",
@@ -7544,10 +7545,20 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T02:35:22Z",
+        "answer_id": "274809",
+        "first_seen": "2026-10-21T10:08:43.314464Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274809",
+        "owner": "Trish",
+        "question_id": "274804",
+        "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
+        "score": 6
+      },
       {
         "answer_created": "2026-10-17T16:59:59Z",
         "answer_id": "274783",
@@ -7596,7 +7607,7 @@
         "owner": "L.Dutch",
         "question_id": "274776",
         "question_title": "How Would Rings Affect Trade Winds?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-12T14:31:00Z",
@@ -8537,16 +8548,6 @@
         "question_id": "274245",
         "question_title": "How much could undead labour increase food production?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-08-06T12:53:38Z",
-        "answer_id": "274246",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274246",
-        "owner": "30Keydet",
-        "question_id": "274245",
-        "question_title": "How much could undead labour increase food production?",
-        "score": 6
       }
     ],
     "known": {
@@ -8769,8 +8770,9 @@
       "274782": "2026-10-19T07:46:19.841906Z",
       "274783": "2026-10-20T17:10:42.630528Z",
       "274790": "2026-10-19T15:59:36.462008Z",
-      "274791": "2026-10-20T11:36:46.445700Z"
+      "274791": "2026-10-20T11:36:46.445700Z",
+      "274809": "2026-10-21T10:08:43.314464Z"
     },
-    "last_checked": "2026-10-21T04:47:21.770643Z"
+    "last_checked": "2026-10-21T10:08:43.314464Z"
   }
 }

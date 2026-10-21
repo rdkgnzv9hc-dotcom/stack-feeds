@@ -5,7 +5,14 @@
     <link>https://physics.stackexchange.com</link>
     <description>Answers from physics that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:08:43 +0000</lastBuildDate>
+    <item>
+      <title>How does enthalpy depend on pressure exactly? — answer reached score 10</title>
+      <link>https://physics.stackexchange.com/a/877012</link>
+      <guid isPermaLink="false">stackexchange:physics:answer:877012</guid>
+      <pubDate>Wed, 21 Oct 2026 10:08:43 +0000</pubDate>
+      <description>Answer by Vincent Thacker. Score when last checked: 10. Originally posted: 2026-10-17T22:28:58Z.</description>
+    </item>
     <item>
       <title>How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect? — answer reached score 11</title>
       <link>https://physics.stackexchange.com/a/877041</link>
@@ -21,11 +28,11 @@
       <description>Answer by Vincent Thacker. Score when last checked: 21. Originally posted: 2026-10-19T11:45:15Z.</description>
     </item>
     <item>
-      <title>If two punches collide in mid-air (one with 50N of force, one with 60N), what is the actual reaction force felt at the knuckles? — answer reached score 15</title>
+      <title>If two punches collide in mid-air (one with 50N of force, one with 60N), what is the actual reaction force felt at the knuckles? — answer reached score 16</title>
       <link>https://physics.stackexchange.com/a/877001</link>
       <guid isPermaLink="false">stackexchange:physics:answer:877001</guid>
       <pubDate>Mon, 19 Oct 2026 15:59:36 +0000</pubDate>
-      <description>Answer by Math Keeps Me Busy. Score when last checked: 15. Originally posted: 2026-10-17T15:08:01Z.</description>
+      <description>Answer by Math Keeps Me Busy. Score when last checked: 16. Originally posted: 2026-10-17T15:08:01Z.</description>
     </item>
     <item>
       <title>How is total linear momentum conserved in the Sun-Earth system? — answer reached score 11</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:physics:answer:873469</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by Thomas Fritsch. Score when last checked: 19. Originally posted: 2026-06-18T19:12:35Z.</description>
-    </item>
-    <item>
-      <title>Was Carl Sagan correct to say that meteor entry is "completely silent"? — answer reached score 11</title>
-      <link>https://physics.stackexchange.com/a/873426</link>
-      <guid isPermaLink="false">stackexchange:physics:answer:873426</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by Negdo. Score when last checked: 11. Originally posted: 2026-06-17T08:23:52Z.</description>
     </item>
   </channel>
 </rss>
