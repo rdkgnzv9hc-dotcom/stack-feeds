@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "law-high-score": {
     "entries": [
@@ -1582,7 +1582,7 @@
         "owner": "Jen",
         "question_id": "116783",
         "question_title": "Tx property code law has 10 to 60 meeting notice requirement, an HOA bylaws has 30 to 60 day requirement, so are the bylaws contrary to Tx law?",
-        "score": 22
+        "score": 24
       },
       {
         "answer_created": "2026-10-15T07:31:39Z",
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,7 +3149,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3171,7 +3171,7 @@
         "owner": "Timothy Chow",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 21
+        "score": 24
       },
       {
         "answer_created": "2026-10-19T20:25:12Z",
@@ -4729,7 +4729,7 @@
       "516219": "2026-10-21T04:47:21.770643Z",
       "516224": "2026-10-21T15:14:36.781826Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4835,10 +4835,20 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-03T13:49:47Z",
+        "answer_id": "876576",
+        "first_seen": "2026-10-21T19:19:35.625661Z",
+        "link": "https://physics.stackexchange.com/a/876576",
+        "owner": "Marco Mantovanelli",
+        "question_id": "876574",
+        "question_title": "Energy, waves, wave packet, particles, and corpuscles",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-17T22:28:58Z",
         "answer_id": "877012",
@@ -5137,7 +5147,7 @@
         "owner": "controlgroup",
         "question_id": "876113",
         "question_title": "Can the relativistic effects on Mercury\u2019s orbit be reproduced in Newtonian mechanics by modifying Newton's gravity force law?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-21T12:39:45Z",
@@ -5828,16 +5838,6 @@
         "question_id": "873466",
         "question_title": "When partially viewing a ruler through a magnifying glass, are the apparently missing ruler intervals excluded from the image or remapped within it?",
         "score": 20
-      },
-      {
-        "answer_created": "2026-06-18T19:12:35Z",
-        "answer_id": "873469",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873469",
-        "owner": "Thomas Fritsch",
-        "question_id": "873466",
-        "question_title": "When partially viewing a ruler through a magnifying glass, are the apparently missing ruler intervals excluded from the image or remapped within it?",
-        "score": 19
       }
     ],
     "known": {
@@ -5934,6 +5934,7 @@
       "876539": "2026-10-04T20:20:19.753515Z",
       "876553": "2026-10-04T13:35:51.465508Z",
       "876558": "2026-10-05T23:26:24.304825Z",
+      "876576": "2026-10-21T19:19:35.625661Z",
       "876578": "2026-10-06T13:31:59.764983Z",
       "876623": "2026-10-09T04:32:08.678299Z",
       "876625": "2026-10-08T07:33:52.773061Z",
@@ -5948,7 +5949,7 @@
       "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5988,7 +5989,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6000,7 +6001,7 @@
         "owner": "TheLethalCarrot",
         "question_id": "306275",
         "question_title": "Does Batman ever wear a parka?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-17T03:02:37Z",
@@ -7132,7 +7133,7 @@
       "306264": "2026-10-19T15:59:36.462008Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "space-high-score": {
     "entries": [
@@ -7144,7 +7145,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70760",
         "question_title": "How hard would it be to locate the Apollo 11 launch abort subsystem?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-13T22:00:36Z",
@@ -7546,10 +7547,20 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T11:25:26Z",
+        "answer_id": "274812",
+        "first_seen": "2026-10-21T19:19:35.625661Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274812",
+        "owner": "Mindwin Remember Monica",
+        "question_id": "274804",
+        "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
+        "score": 7
+      },
       {
         "answer_created": "2026-10-21T11:17:28Z",
         "answer_id": "274811",
@@ -7558,7 +7569,7 @@
         "owner": "vsz",
         "question_id": "274804",
         "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
-        "score": 6
+        "score": 9
       },
       {
         "answer_created": "2026-10-02T16:05:43Z",
@@ -7578,7 +7589,7 @@
         "owner": "Trish",
         "question_id": "274804",
         "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-17T16:59:59Z",
@@ -7598,7 +7609,7 @@
         "owner": "Vesper",
         "question_id": "274789",
         "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-18T15:30:43Z",
@@ -7608,7 +7619,7 @@
         "owner": "Ted Wrigley",
         "question_id": "274789",
         "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-17T13:21:16Z",
@@ -8539,16 +8550,6 @@
         "question_id": "274250",
         "question_title": "Method for transferring asteroid from belt to earth orbit feasible?",
         "score": 8
-      },
-      {
-        "answer_created": "2026-08-06T20:43:03Z",
-        "answer_id": "274254",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274254",
-        "owner": "Nyakouai",
-        "question_id": "274251",
-        "question_title": "Effective ammunition to use against Superhumans",
-        "score": 10
       }
     ],
     "known": {
@@ -8774,8 +8775,9 @@
       "274790": "2026-10-19T15:59:36.462008Z",
       "274791": "2026-10-20T11:36:46.445700Z",
       "274809": "2026-10-21T10:08:43.314464Z",
-      "274811": "2026-10-21T15:14:36.781826Z"
+      "274811": "2026-10-21T15:14:36.781826Z",
+      "274812": "2026-10-21T19:19:35.625661Z"
     },
-    "last_checked": "2026-10-21T15:14:36.781826Z"
+    "last_checked": "2026-10-21T19:19:35.625661Z"
   }
 }
