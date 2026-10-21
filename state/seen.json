@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "law-high-score": {
     "entries": [
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,10 +3149,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-20T22:56:34Z",
+        "answer_id": "516219",
+        "first_seen": "2026-10-21T04:47:21.770643Z",
+        "link": "https://mathoverflow.net/a/516219",
+        "owner": "Timothy Chow",
+        "question_id": "516206",
+        "question_title": "Reliability of Anthropic's Lean verifications",
+        "score": 12
+      },
       {
         "answer_created": "2026-10-19T20:25:12Z",
         "answer_id": "516183",
@@ -4142,16 +4152,6 @@
         "question_id": "515222",
         "question_title": "Research statements in the era of AI scooping",
         "score": 13
-      },
-      {
-        "answer_created": "2026-09-11T07:47:45Z",
-        "answer_id": "515129",
-        "first_seen": "2026-09-15T17:24:52.402901Z",
-        "link": "https://mathoverflow.net/a/515129",
-        "owner": "Emil Je\u0159\u00e1bek",
-        "question_id": "502120",
-        "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
-        "score": 12
       }
     ],
     "known": {
@@ -4725,9 +4725,10 @@
       "516112": "2026-10-16T21:08:23.084853Z",
       "516156": "2026-10-18T14:34:47.044490Z",
       "516171": "2026-10-19T21:02:51.589699Z",
-      "516183": "2026-10-20T11:36:46.445700Z"
+      "516183": "2026-10-20T11:36:46.445700Z",
+      "516219": "2026-10-21T04:47:21.770643Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4833,7 +4834,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5945,7 +5946,7 @@
       "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5985,7 +5986,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5997,7 +5998,7 @@
         "owner": "TheLethalCarrot",
         "question_id": "306275",
         "question_title": "Does Batman ever wear a parka?",
-        "score": 10
+        "score": 15
       },
       {
         "answer_created": "2026-10-17T03:02:37Z",
@@ -6017,7 +6018,7 @@
         "owner": "Paulie_D",
         "question_id": "306263",
         "question_title": "SF dystopia novel 50+ years old : Earth's surface confiscated by a few privileged people, everyone else lives underground",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-15T16:07:18Z",
@@ -7129,7 +7130,7 @@
       "306264": "2026-10-19T15:59:36.462008Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "space-high-score": {
     "entries": [
@@ -7141,7 +7142,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70760",
         "question_title": "How hard would it be to locate the Apollo 11 launch abort subsystem?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-13T22:00:36Z",
@@ -7543,7 +7544,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8770,6 +8771,6 @@
       "274790": "2026-10-19T15:59:36.462008Z",
       "274791": "2026-10-20T11:36:46.445700Z"
     },
-    "last_checked": "2026-10-20T23:52:43.278798Z"
+    "last_checked": "2026-10-21T04:47:21.770643Z"
   }
 }

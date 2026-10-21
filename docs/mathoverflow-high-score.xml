@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:52:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:47:21 +0000</lastBuildDate>
+    <item>
+      <title>Reliability of Anthropic's Lean verifications — answer reached score 12</title>
+      <link>https://mathoverflow.net/a/516219</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516219</guid>
+      <pubDate>Wed, 21 Oct 2026 04:47:21 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 12. Originally posted: 2026-10-20T22:56:34Z.</description>
+    </item>
     <item>
       <title>Status of effective Mordell--Faltings — answer reached score 11</title>
       <link>https://mathoverflow.net/a/516183</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515224</guid>
       <pubDate>Tue, 15 Sep 2026 17:24:52 +0000</pubDate>
       <description>Answer by Willie Wong. Score when last checked: 13. Originally posted: 2026-09-14T13:59:54Z.</description>
-    </item>
-    <item>
-      <title>Examples for the use of AI and especially LLMs in major mathematical developments — answer reached score 12</title>
-      <link>https://mathoverflow.net/a/515129</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515129</guid>
-      <pubDate>Tue, 15 Sep 2026 17:24:52 +0000</pubDate>
-      <description>Answer by Emil Jeřábek. Score when last checked: 12. Originally posted: 2026-09-11T07:47:45Z.</description>
     </item>
   </channel>
 </rss>
