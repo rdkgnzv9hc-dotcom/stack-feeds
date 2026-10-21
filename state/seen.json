@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227874",
         "question_title": "Does reading a book on writing actually improve writing quality and speed?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-14T14:59:56Z",
@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "law-high-score": {
     "entries": [
@@ -1582,7 +1582,7 @@
         "owner": "Jen",
         "question_id": "116783",
         "question_title": "Tx property code law has 10 to 60 meeting notice requirement, an HOA bylaws has 30 to 60 day requirement, so are the bylaws contrary to Tx law?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-10-15T07:31:39Z",
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,7 +3149,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3161,7 +3161,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "516223",
         "question_title": "Equivalence of Cisinski's Proposition 4.3.2 (Ast\u00e9risque 308) ? When $A = BG$",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-10-20T22:56:34Z",
@@ -3191,7 +3191,7 @@
         "owner": "Robin Saunders",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups provable without the axiom of choice?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-18T12:42:37Z",
@@ -4729,10 +4729,20 @@
       "516219": "2026-10-21T04:47:21.770643Z",
       "516224": "2026-10-21T15:14:36.781826Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "philosophy-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-16T11:11:30Z",
+        "answer_id": "142664",
+        "first_seen": "2026-10-21T23:19:36.332792Z",
+        "link": "https://philosophy.stackexchange.com/a/142664",
+        "owner": "Professor Sushing",
+        "question_id": "142663",
+        "question_title": "Does physicalism make debates about rationality, morality, and probability confused?",
+        "score": 15
+      },
       {
         "answer_created": "2026-08-13T08:47:53Z",
         "answer_id": "140674",
@@ -4833,12 +4843,23 @@
       "139456": "2026-09-11T17:35:15.780317Z",
       "139673": "2026-09-11T17:35:15.780317Z",
       "140633": "2026-09-11T17:35:15.780317Z",
-      "140674": "2026-09-11T17:35:15.780317Z"
+      "140674": "2026-09-11T17:35:15.780317Z",
+      "142664": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T17:59:18Z",
+        "answer_id": "877106",
+        "first_seen": "2026-10-21T23:19:36.332792Z",
+        "link": "https://physics.stackexchange.com/a/877106",
+        "owner": "Dale",
+        "question_id": "877104",
+        "question_title": "If a black hole event horizon expands towards a clock, does the clock slow down just as it would if it was moving towards a hole with a fixed mass?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-03T13:49:47Z",
         "answer_id": "876576",
@@ -5828,16 +5849,6 @@
         "question_id": "873555",
         "question_title": "How come the Michelson-Morley experiment coudn't be explained with Galilean transformations and no aether?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-06-19T07:27:22Z",
-        "answer_id": "873495",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873495",
-        "owner": "relatively_random",
-        "question_id": "873466",
-        "question_title": "When partially viewing a ruler through a magnifying glass, are the apparently missing ruler intervals excluded from the image or remapped within it?",
-        "score": 20
       }
     ],
     "known": {
@@ -5947,9 +5958,10 @@
       "877001": "2026-10-19T15:59:36.462008Z",
       "877012": "2026-10-21T10:08:43.314464Z",
       "877041": "2026-10-20T20:35:20.281762Z",
-      "877043": "2026-10-20T00:20:14.225496Z"
+      "877043": "2026-10-20T00:20:14.225496Z",
+      "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5989,7 +6001,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6001,7 +6013,7 @@
         "owner": "TheLethalCarrot",
         "question_id": "306275",
         "question_title": "Does Batman ever wear a parka?",
-        "score": 22
+        "score": 25
       },
       {
         "answer_created": "2026-10-17T03:02:37Z",
@@ -7133,7 +7145,7 @@
       "306264": "2026-10-19T15:59:36.462008Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "space-high-score": {
     "entries": [
@@ -7145,7 +7157,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70760",
         "question_title": "How hard would it be to locate the Apollo 11 launch abort subsystem?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-13T22:00:36Z",
@@ -7547,10 +7559,20 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-20T19:47:28Z",
+        "answer_id": "274805",
+        "first_seen": "2026-10-21T23:19:36.332792Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274805",
+        "owner": "L.Dutch",
+        "question_id": "274804",
+        "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-21T11:25:26Z",
         "answer_id": "274812",
@@ -8540,16 +8562,6 @@
         "question_id": "274250",
         "question_title": "Method for transferring asteroid from belt to earth orbit feasible?",
         "score": 9
-      },
-      {
-        "answer_created": "2026-08-07T00:55:25Z",
-        "answer_id": "274255",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274255",
-        "owner": "g s",
-        "question_id": "274250",
-        "question_title": "Method for transferring asteroid from belt to earth orbit feasible?",
-        "score": 8
       }
     ],
     "known": {
@@ -8774,10 +8786,11 @@
       "274783": "2026-10-20T17:10:42.630528Z",
       "274790": "2026-10-19T15:59:36.462008Z",
       "274791": "2026-10-20T11:36:46.445700Z",
+      "274805": "2026-10-21T23:19:36.332792Z",
       "274809": "2026-10-21T10:08:43.314464Z",
       "274811": "2026-10-21T15:14:36.781826Z",
       "274812": "2026-10-21T19:19:35.625661Z"
     },
-    "last_checked": "2026-10-21T19:19:35.625661Z"
+    "last_checked": "2026-10-21T23:19:36.332792Z"
   }
 }
