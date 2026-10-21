@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227874",
         "question_title": "Does reading a book on writing actually improve writing quality and speed?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-14T14:59:56Z",
@@ -389,7 +389,7 @@
         "owner": "David White",
         "question_id": "227545",
         "question_title": "arXiv submission on hold for almost three months in total \u2014 is this normal?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-08-22T01:01:25Z",
@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "law-high-score": {
     "entries": [
@@ -1562,7 +1562,7 @@
         "owner": "Nate Eldredge",
         "question_id": "116778",
         "question_title": "Are ports of video games to unsupported platforms illegal?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-17T10:04:39Z",
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,10 +3149,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T06:53:43Z",
+        "answer_id": "516224",
+        "first_seen": "2026-10-21T15:14:36.781826Z",
+        "link": "https://mathoverflow.net/a/516224",
+        "owner": "D.-C. Cisinski",
+        "question_id": "516223",
+        "question_title": "Equivalence of Cisinski's Proposition 4.3.2 (Ast\u00e9risque 308) ? When $A = BG$",
+        "score": 13
+      },
       {
         "answer_created": "2026-10-20T22:56:34Z",
         "answer_id": "516219",
@@ -4142,16 +4152,6 @@
         "question_id": "514946",
         "question_title": "Ratio of number of standard Young tableaux of two certain shapes",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-14T13:59:54Z",
-        "answer_id": "515224",
-        "first_seen": "2026-09-15T17:24:52.402901Z",
-        "link": "https://mathoverflow.net/a/515224",
-        "owner": "Willie Wong",
-        "question_id": "515222",
-        "question_title": "Research statements in the era of AI scooping",
-        "score": 13
       }
     ],
     "known": {
@@ -4726,9 +4726,10 @@
       "516156": "2026-10-18T14:34:47.044490Z",
       "516171": "2026-10-19T21:02:51.589699Z",
       "516183": "2026-10-20T11:36:46.445700Z",
-      "516219": "2026-10-21T04:47:21.770643Z"
+      "516219": "2026-10-21T04:47:21.770643Z",
+      "516224": "2026-10-21T15:14:36.781826Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4834,7 +4835,7 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4866,7 +4867,7 @@
         "owner": "Vincent Thacker",
         "question_id": "877039",
         "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-17T15:08:01Z",
@@ -5947,7 +5948,7 @@
       "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "politics-high-score": {
     "entries": [
@@ -5987,7 +5988,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -5999,7 +6000,7 @@
         "owner": "TheLethalCarrot",
         "question_id": "306275",
         "question_title": "Does Batman ever wear a parka?",
-        "score": 17
+        "score": 21
       },
       {
         "answer_created": "2026-10-17T03:02:37Z",
@@ -6089,7 +6090,7 @@
         "owner": "Valorum",
         "question_id": "306234",
         "question_title": "Are there any indications what year THX 1138 was set?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-07-24T19:33:37Z",
@@ -7131,7 +7132,7 @@
       "306264": "2026-10-19T15:59:36.462008Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "space-high-score": {
     "entries": [
@@ -7143,7 +7144,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70760",
         "question_title": "How hard would it be to locate the Apollo 11 launch abort subsystem?",
-        "score": 8
+        "score": 10
       },
       {
         "answer_created": "2026-10-13T22:00:36Z",
@@ -7545,10 +7546,30 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T11:17:28Z",
+        "answer_id": "274811",
+        "first_seen": "2026-10-21T15:14:36.781826Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274811",
+        "owner": "vsz",
+        "question_id": "274804",
+        "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-10-02T16:05:43Z",
+        "answer_id": "274708",
+        "first_seen": "2026-10-21T15:14:36.781826Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274708",
+        "owner": "Cort Ammon",
+        "question_id": "274704",
+        "question_title": "All existing communication infrastructure has vanished. What technology do we use to rebuild it?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-21T02:35:22Z",
         "answer_id": "274809",
@@ -7587,7 +7608,7 @@
         "owner": "Ted Wrigley",
         "question_id": "274789",
         "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-17T13:21:16Z",
@@ -8528,26 +8549,6 @@
         "question_id": "274251",
         "question_title": "Effective ammunition to use against Superhumans",
         "score": 10
-      },
-      {
-        "answer_created": "2026-08-06T18:04:04Z",
-        "answer_id": "274249",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274249",
-        "owner": "JBH",
-        "question_id": "274245",
-        "question_title": "How much could undead labour increase food production?",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-08-06T14:46:47Z",
-        "answer_id": "274247",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274247",
-        "owner": "Nosajimiki",
-        "question_id": "274245",
-        "question_title": "How much could undead labour increase food production?",
-        "score": 13
       }
     ],
     "known": {
@@ -8748,6 +8749,7 @@
       "274701": "2026-10-01T17:30:02.244322Z",
       "274703": "2026-10-02T23:25:21.382493Z",
       "274707": "2026-10-06T10:31:07.446916Z",
+      "274708": "2026-10-21T15:14:36.781826Z",
       "274709": "2026-10-12T17:54:27.600860Z",
       "274711": "2026-10-03T14:37:25.651553Z",
       "274714": "2026-10-05T12:37:51.967961Z",
@@ -8771,8 +8773,9 @@
       "274783": "2026-10-20T17:10:42.630528Z",
       "274790": "2026-10-19T15:59:36.462008Z",
       "274791": "2026-10-20T11:36:46.445700Z",
-      "274809": "2026-10-21T10:08:43.314464Z"
+      "274809": "2026-10-21T10:08:43.314464Z",
+      "274811": "2026-10-21T15:14:36.781826Z"
     },
-    "last_checked": "2026-10-21T10:08:43.314464Z"
+    "last_checked": "2026-10-21T15:14:36.781826Z"
   }
 }
