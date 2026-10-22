@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "law-high-score": {
     "entries": [
@@ -2515,7 +2515,7 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "math-high-score": {
     "entries": [
@@ -3149,10 +3149,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-20T21:54:24Z",
+        "answer_id": "516217",
+        "first_seen": "2026-10-22T04:45:50.517856Z",
+        "link": "https://mathoverflow.net/a/516217",
+        "owner": "Hercule Poirot",
+        "question_id": "516216",
+        "question_title": "Self-study path and prerequisites: From fundamental group theory to Clausen\u2013Scholze condensed mathematics",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-21T06:53:43Z",
         "answer_id": "516224",
@@ -3161,7 +3171,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "516223",
         "question_title": "Equivalence of Cisinski's Proposition 4.3.2 (Ast\u00e9risque 308) ? When $A = BG$",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-20T22:56:34Z",
@@ -3171,7 +3181,7 @@
         "owner": "Timothy Chow",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-10-19T20:25:12Z",
@@ -4142,16 +4152,6 @@
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
         "score": 30
-      },
-      {
-        "answer_created": "2026-09-06T02:10:08Z",
-        "answer_id": "514954",
-        "first_seen": "2026-09-16T00:33:10.119686Z",
-        "link": "https://mathoverflow.net/a/514954",
-        "owner": "Fedor Petrov",
-        "question_id": "514946",
-        "question_title": "Ratio of number of standard Young tableaux of two certain shapes",
-        "score": 10
       }
     ],
     "known": {
@@ -4726,10 +4726,11 @@
       "516156": "2026-10-18T14:34:47.044490Z",
       "516171": "2026-10-19T21:02:51.589699Z",
       "516183": "2026-10-20T11:36:46.445700Z",
+      "516217": "2026-10-22T04:45:50.517856Z",
       "516219": "2026-10-21T04:47:21.770643Z",
       "516224": "2026-10-21T15:14:36.781826Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4846,7 +4847,7 @@
       "140674": "2026-09-11T17:35:15.780317Z",
       "142664": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4888,7 +4889,7 @@
         "owner": "Dale",
         "question_id": "877039",
         "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-19T11:45:15Z",
@@ -5961,7 +5962,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6001,7 +6002,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6013,7 +6014,7 @@
         "owner": "TheLethalCarrot",
         "question_id": "306275",
         "question_title": "Does Batman ever wear a parka?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-10-17T03:02:37Z",
@@ -7145,7 +7146,7 @@
       "306264": "2026-10-19T15:59:36.462008Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "space-high-score": {
     "entries": [
@@ -7559,7 +7560,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8791,6 +8792,6 @@
       "274811": "2026-10-21T15:14:36.781826Z",
       "274812": "2026-10-21T19:19:35.625661Z"
     },
-    "last_checked": "2026-10-21T23:19:36.332792Z"
+    "last_checked": "2026-10-22T04:45:50.517856Z"
   }
 }
