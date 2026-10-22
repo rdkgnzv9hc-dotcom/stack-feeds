@@ -5,7 +5,14 @@
     <link>https://physics.stackexchange.com</link>
     <description>Answers from physics that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:16:54 +0000</lastBuildDate>
+    <item>
+      <title>Why is GPS confirmation of Special Relativity? — answer reached score 10</title>
+      <link>https://physics.stackexchange.com/a/876080</link>
+      <guid isPermaLink="false">stackexchange:physics:answer:876080</guid>
+      <pubDate>Thu, 22 Oct 2026 15:16:54 +0000</pubDate>
+      <description>Answer by Markus Klyver. Score when last checked: 10. Originally posted: 2026-09-16T17:02:36Z.</description>
+    </item>
     <item>
       <title>If a black hole event horizon expands towards a clock, does the clock slow down just as it would if it was moving towards a hole with a fixed mass? — answer reached score 11</title>
       <link>https://physics.stackexchange.com/a/877106</link>
@@ -35,11 +42,11 @@
       <description>Answer by Dale. Score when last checked: 12. Originally posted: 2026-10-19T11:17:49Z.</description>
     </item>
     <item>
-      <title>How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect? — answer reached score 22</title>
+      <title>How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect? — answer reached score 23</title>
       <link>https://physics.stackexchange.com/a/877043</link>
       <guid isPermaLink="false">stackexchange:physics:answer:877043</guid>
       <pubDate>Tue, 20 Oct 2026 00:20:14 +0000</pubDate>
-      <description>Answer by Vincent Thacker. Score when last checked: 22. Originally posted: 2026-10-19T11:45:15Z.</description>
+      <description>Answer by Vincent Thacker. Score when last checked: 23. Originally posted: 2026-10-19T11:45:15Z.</description>
     </item>
     <item>
       <title>If two punches collide in mid-air (one with 50N of force, one with 60N), what is the actual reaction force felt at the knuckles? — answer reached score 16</title>
@@ -266,11 +273,11 @@
       <description>Answer by Xerxes. Score when last checked: 15. Originally posted: 2026-09-14T13:58:39Z.</description>
     </item>
     <item>
-      <title>Why is GPS confirmation of Special Relativity? — answer reached score 43</title>
+      <title>Why is GPS confirmation of Special Relativity? — answer reached score 44</title>
       <link>https://physics.stackexchange.com/a/876014</link>
       <guid isPermaLink="false">stackexchange:physics:answer:876014</guid>
       <pubDate>Tue, 15 Sep 2026 11:27:01 +0000</pubDate>
-      <description>Answer by rob. Score when last checked: 43. Originally posted: 2026-09-14T18:39:34Z.</description>
+      <description>Answer by rob. Score when last checked: 44. Originally posted: 2026-09-14T18:39:34Z.</description>
     </item>
     <item>
       <title>Would a bird get fried if it stood on a microwave-frequency power line? — answer reached score 17</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:physics:answer:873563</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by rustot. Score when last checked: 10. Originally posted: 2026-06-21T06:20:53Z.</description>
-    </item>
-    <item>
-      <title>How come the Michelson-Morley experiment coudn't be explained with Galilean transformations and no aether? — answer reached score 17</title>
-      <link>https://physics.stackexchange.com/a/873556</link>
-      <guid isPermaLink="false">stackexchange:physics:answer:873556</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by Dale. Score when last checked: 17. Originally posted: 2026-06-21T00:15:56Z.</description>
     </item>
   </channel>
 </rss>
