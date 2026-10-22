@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "law-high-score": {
     "entries": [
@@ -1552,7 +1552,7 @@
         "owner": "bdb484",
         "question_id": "116805",
         "question_title": "Is live-streaming a government action encouraged by FOIA?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-21T10:29:24Z",
@@ -2537,7 +2537,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "math-high-score": {
     "entries": [
@@ -3171,7 +3171,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4752,7 +4752,7 @@
       "516219": "2026-10-21T04:47:21.770643Z",
       "516224": "2026-10-21T15:14:36.781826Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4869,7 +4869,7 @@
       "140674": "2026-09-11T17:35:15.780317Z",
       "142664": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5985,7 +5985,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6025,10 +6025,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-20T03:01:40Z",
+        "answer_id": "306273",
+        "first_seen": "2026-10-22T19:15:44.483282Z",
+        "link": "https://scifi.stackexchange.com/a/306273",
+        "owner": "user23087",
+        "question_id": "306272",
+        "question_title": "thief executed by church, dream-like tarot-inspired fool's journey",
+        "score": 15
+      },
       {
         "answer_created": "2026-10-20T13:34:03Z",
         "answer_id": "306276",
@@ -6036,8 +6046,8 @@
         "link": "https://scifi.stackexchange.com/a/306276",
         "owner": "TheLethalCarrot",
         "question_id": "306275",
-        "question_title": "Does Batman ever wear a parka?",
-        "score": 29
+        "question_title": "When did Batman wear a parka in Batman: The Animated Series?",
+        "score": 30
       },
       {
         "answer_created": "2026-10-17T03:02:37Z",
@@ -7018,16 +7028,6 @@
         "question_id": "305335",
         "question_title": "Military SF series where the protagonist forms a mental connection to an alien hive mind and tries to fight against a woman with the same ability",
         "score": 15
-      },
-      {
-        "answer_created": "2026-07-22T16:40:16Z",
-        "answer_id": "305320",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305320",
-        "owner": "agarza",
-        "question_id": "305316",
-        "question_title": "Can The Doctor be an animal?",
-        "score": 12
       }
     ],
     "known": {
@@ -7167,9 +7167,10 @@
       "306259": "2026-10-20T06:00:44.474765Z",
       "306262": "2026-10-18T14:34:47.044490Z",
       "306264": "2026-10-19T15:59:36.462008Z",
+      "306273": "2026-10-22T19:15:44.483282Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "space-high-score": {
     "entries": [
@@ -7583,10 +7584,20 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-22T00:20:11Z",
+        "answer_id": "274817",
+        "first_seen": "2026-10-22T19:15:44.483282Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274817",
+        "owner": "g s",
+        "question_id": "274815",
+        "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-22T13:27:38Z",
         "answer_id": "274821",
@@ -7595,7 +7606,7 @@
         "owner": "Thorne",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 5
+        "score": 7
       },
       {
         "answer_created": "2026-10-22T04:07:55Z",
@@ -7605,7 +7616,7 @@
         "owner": "JBH",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 6
+        "score": 8
       },
       {
         "answer_created": "2026-10-21T23:50:13Z",
@@ -8576,16 +8587,6 @@
         "question_id": "274299",
         "question_title": "Why wouldn't the modern world and my biopunk nation converge technologically?",
         "score": 9
-      },
-      {
-        "answer_created": "2026-08-14T16:12:25Z",
-        "answer_id": "274301",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274301",
-        "owner": "Mathaddict",
-        "question_id": "274299",
-        "question_title": "Why wouldn't the modern world and my biopunk nation converge technologically?",
-        "score": 7
       }
     ],
     "known": {
@@ -8815,9 +8816,10 @@
       "274811": "2026-10-21T15:14:36.781826Z",
       "274812": "2026-10-21T19:19:35.625661Z",
       "274816": "2026-10-22T10:11:20.364138Z",
+      "274817": "2026-10-22T19:15:44.483282Z",
       "274818": "2026-10-22T15:16:54.381000Z",
       "274821": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-22T15:16:54.381000Z"
+    "last_checked": "2026-10-22T19:15:44.483282Z"
   }
 }
