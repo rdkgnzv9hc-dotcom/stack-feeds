@@ -1109,7 +1109,7 @@
       "227875": "2026-10-19T21:02:51.589699Z",
       "227908": "2026-10-23T13:26:56.405697Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "history-high-score": {
     "entries": [
@@ -1215,7 +1215,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1541,7 +1541,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "law-high-score": {
     "entries": [
@@ -1563,7 +1563,7 @@
         "owner": "Jen",
         "question_id": "116802",
         "question_title": "In the United States, are catch all terms enforceable in an employment contract?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-16T19:30:27Z",
@@ -2538,7 +2538,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "math-high-score": {
     "entries": [
@@ -3172,7 +3172,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3184,7 +3184,7 @@
         "owner": "Ali Enayat",
         "question_id": "516305",
         "question_title": "Resplendency vs recursive saturation in models of PA",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-22T23:31:26Z",
@@ -3244,7 +3244,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "516223",
         "question_title": "Equivalence of Cisinski's Proposition 4.3.2 (Ast\u00e9risque 308) ? When $A = BG$",
-        "score": 16
+        "score": 18
       },
       {
         "answer_created": "2026-10-20T22:56:34Z",
@@ -3254,7 +3254,7 @@
         "owner": "Timothy Chow",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-10-19T20:25:12Z",
@@ -3564,7 +3564,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "515861",
         "question_title": "Current projects and the recent AI news",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-10-08T21:30:51Z",
@@ -4758,7 +4758,7 @@
       "516296": "2026-10-23T18:21:41.590960Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4886,7 +4886,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6002,7 +6002,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6042,7 +6042,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7187,7 +7187,7 @@
       "306273": "2026-10-22T19:15:44.483282Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "space-high-score": {
     "entries": [
@@ -7229,7 +7229,7 @@
         "owner": "Erin Anne",
         "question_id": "70742",
         "question_title": "How would rockets function in an atmosphere which has 100 % oxygen?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-07T22:49:16Z",
@@ -7601,7 +7601,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7663,7 +7663,7 @@
         "owner": "Navicula",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-20T19:47:28Z",
@@ -8839,6 +8839,6 @@
       "274818": "2026-10-22T15:16:54.381000Z",
       "274821": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-23T18:21:41.590960Z"
+    "last_checked": "2026-10-23T22:11:05.025158Z"
   }
 }
