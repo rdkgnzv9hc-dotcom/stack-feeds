@@ -1108,7 +1108,7 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "history-high-score": {
     "entries": [
@@ -1214,7 +1214,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1540,7 +1540,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "law-high-score": {
     "entries": [
@@ -1562,7 +1562,7 @@
         "owner": "Jen",
         "question_id": "116802",
         "question_title": "In the United States, are catch all terms enforceable in an employment contract?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-16T19:30:27Z",
@@ -2537,7 +2537,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "math-high-score": {
     "entries": [
@@ -3171,10 +3171,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T12:55:29Z",
+        "answer_id": "516234",
+        "first_seen": "2026-10-23T07:32:43.796099Z",
+        "link": "https://mathoverflow.net/a/516234",
+        "owner": "GH from MO",
+        "question_id": "516229",
+        "question_title": "Do these two two-variable functions cover all sufficiently large positive integers?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-22T01:16:30Z",
         "answer_id": "516250",
@@ -3213,7 +3223,7 @@
         "owner": "Timothy Chow",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-19T20:25:12Z",
@@ -3353,7 +3363,7 @@
         "owner": "MaoWao",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-13T06:57:27Z",
@@ -3423,7 +3433,7 @@
         "owner": "mathworker21",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-08T21:02:25Z",
@@ -3463,7 +3473,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-08T23:01:16Z",
@@ -3533,7 +3543,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 60
+        "score": 61
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -3873,7 +3883,7 @@
         "owner": "James E Hanson",
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
-        "score": 54
+        "score": 55
       },
       {
         "answer_created": "2026-09-15T03:16:48Z",
@@ -4164,16 +4174,6 @@
         "question_id": "515282",
         "question_title": "Are mathematicians engaging with AI results?",
         "score": 30
-      },
-      {
-        "answer_created": "2026-09-15T18:47:40Z",
-        "answer_id": "515262",
-        "first_seen": "2026-09-16T15:27:16.600368Z",
-        "link": "https://mathoverflow.net/a/515262",
-        "owner": "Stanley Yao Xiao",
-        "question_id": "515260",
-        "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 28
       }
     ],
     "known": {
@@ -4751,9 +4751,10 @@
       "516217": "2026-10-22T04:45:50.517856Z",
       "516219": "2026-10-21T04:47:21.770643Z",
       "516224": "2026-10-21T15:14:36.781826Z",
+      "516234": "2026-10-23T07:32:43.796099Z",
       "516250": "2026-10-22T22:24:12.632029Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4870,7 +4871,7 @@
       "140674": "2026-09-11T17:35:15.780317Z",
       "142664": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5986,7 +5987,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6026,7 +6027,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7171,7 +7172,7 @@
       "306273": "2026-10-22T19:15:44.483282Z",
       "306276": "2026-10-20T23:52:43.278798Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "space-high-score": {
     "entries": [
@@ -7585,10 +7586,30 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-28T02:14:59Z",
+        "answer_id": "274656",
+        "first_seen": "2026-10-23T07:32:43.796099Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274656",
+        "owner": "Escaped dental patient.",
+        "question_id": "274648",
+        "question_title": "Evolution to an arboreal civilization",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-09-27T20:29:33Z",
+        "answer_id": "274649",
+        "first_seen": "2026-10-23T07:32:43.796099Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274649",
+        "owner": "bob1",
+        "question_id": "274642",
+        "question_title": "Could an Entire People Bathe in Pomegranate Juice?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-22T00:20:11Z",
         "answer_id": "274817",
@@ -7627,7 +7648,7 @@
         "owner": "Navicula",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-20T19:47:28Z",
@@ -7667,7 +7688,7 @@
         "owner": "Cort Ammon",
         "question_id": "274704",
         "question_title": "All existing communication infrastructure has vanished. What technology do we use to rebuild it?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-21T02:35:22Z",
@@ -7757,7 +7778,7 @@
         "owner": "Monty Wild",
         "question_id": "274685",
         "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-14T14:14:24Z",
@@ -7857,7 +7878,7 @@
         "owner": "Separatrix",
         "question_id": "274685",
         "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-02T20:21:28Z",
@@ -8037,7 +8058,7 @@
         "owner": "Penguino",
         "question_id": "274642",
         "question_title": "Could an Entire People Bathe in Pomegranate Juice?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-09-25T05:13:55Z",
@@ -8057,7 +8078,7 @@
         "owner": "L.Dutch",
         "question_id": "274662",
         "question_title": "Would a planet with a rocky shell and a subsurface ocean explode if it were moved closer to its Sun due to the internal water 'boiling' off?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-28T14:14:00Z",
@@ -8568,26 +8589,6 @@
         "question_id": "274310",
         "question_title": "How possible is an anti-tank/vehicle \"shotgun\" weapon or ammo, firing multiple anti-armor rounds in a \"shotgun blast\" instead of one big projectile?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-08-14T20:16:16Z",
-        "answer_id": "274304",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274304",
-        "owner": "JBH",
-        "question_id": "274299",
-        "question_title": "Why wouldn't the modern world and my biopunk nation converge technologically?",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-08-14T19:46:40Z",
-        "answer_id": "274303",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274303",
-        "owner": "Navicula",
-        "question_id": "274299",
-        "question_title": "Why wouldn't the modern world and my biopunk nation converge technologically?",
-        "score": 9
       }
     ],
     "known": {
@@ -8774,7 +8775,9 @@
       "274618": "2026-10-14T11:52:28.882570Z",
       "274628": "2026-09-25T14:28:57.579961Z",
       "274630": "2026-09-29T14:30:50.451402Z",
+      "274649": "2026-10-23T07:32:43.796099Z",
       "274652": "2026-09-29T15:32:08.285451Z",
+      "274656": "2026-10-23T07:32:43.796099Z",
       "274660": "2026-09-28T19:27:50.329531Z",
       "274664": "2026-09-29T06:35:12.219005Z",
       "274673": "2026-09-29T15:32:08.285451Z",
@@ -8821,6 +8824,6 @@
       "274818": "2026-10-22T15:16:54.381000Z",
       "274821": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-23T01:31:28.779819Z"
+    "last_checked": "2026-10-23T07:32:43.796099Z"
   }
 }
