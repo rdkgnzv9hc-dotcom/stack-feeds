@@ -1109,7 +1109,7 @@
       "227875": "2026-10-19T21:02:51.589699Z",
       "227908": "2026-10-23T13:26:56.405697Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "history-high-score": {
     "entries": [
@@ -1215,7 +1215,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1541,7 +1541,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "law-high-score": {
     "entries": [
@@ -2538,7 +2538,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "math-high-score": {
     "entries": [
@@ -3172,7 +3172,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3194,7 +3194,7 @@
         "owner": "R\u00e5ttkungen",
         "question_id": "516294",
         "question_title": "Fox ideals are invariant under automorphisms reference request",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-22T23:21:12Z",
@@ -4758,7 +4758,7 @@
       "516296": "2026-10-23T18:21:41.590960Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4886,7 +4886,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6002,7 +6002,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6042,10 +6042,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T17:00:59Z",
+        "answer_id": "306289",
+        "first_seen": "2026-10-24T05:54:12.291202Z",
+        "link": "https://scifi.stackexchange.com/a/306289",
+        "owner": "DavidW",
+        "question_id": "306288",
+        "question_title": "YA novel, 60's, Spaceship crew offered a choice of remembering",
+        "score": 16
+      },
       {
         "answer_created": "2026-10-20T03:01:40Z",
         "answer_id": "306273",
@@ -7035,16 +7045,6 @@
         "question_id": "305354",
         "question_title": "Lost SF story. Humanity as rats, stowing away on Alien ships",
         "score": 23
-      },
-      {
-        "answer_created": "2026-07-24T10:08:25Z",
-        "answer_id": "305340",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305340",
-        "owner": "thedorklord",
-        "question_id": "305335",
-        "question_title": "Military SF series where the protagonist forms a mental connection to an alien hive mind and tries to fight against a woman with the same ability",
-        "score": 15
       }
     ],
     "known": {
@@ -7185,9 +7185,10 @@
       "306262": "2026-10-18T14:34:47.044490Z",
       "306264": "2026-10-19T15:59:36.462008Z",
       "306273": "2026-10-22T19:15:44.483282Z",
-      "306276": "2026-10-20T23:52:43.278798Z"
+      "306276": "2026-10-20T23:52:43.278798Z",
+      "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "space-high-score": {
     "entries": [
@@ -7601,7 +7602,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8839,6 +8840,6 @@
       "274818": "2026-10-22T15:16:54.381000Z",
       "274821": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-24T00:42:19.793447Z"
+    "last_checked": "2026-10-24T05:54:12.291202Z"
   }
 }
