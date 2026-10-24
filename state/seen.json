@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-23T11:42:45Z",
+        "answer_id": "227922",
+        "first_seen": "2026-10-24T11:00:33.667313Z",
+        "link": "https://academia.stackexchange.com/a/227922",
+        "owner": "Buffy",
+        "question_id": "227921",
+        "question_title": "I love my PhD, but I am tired",
+        "score": 11
+      },
+      {
         "answer_created": "2026-10-21T03:25:47Z",
         "answer_id": "227908",
         "first_seen": "2026-10-23T13:26:56.405697Z",
@@ -990,16 +1000,6 @@
         "question_id": "226997",
         "question_title": "Is it a concern if I don't get asked to peer-review?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-06-17T01:03:11Z",
-        "answer_id": "226991",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/226991",
-        "owner": "CrimsonDark",
-        "question_id": "226982",
-        "question_title": "Two papers, the same appendix: Is it plagiarism?",
-        "score": 18
       }
     ],
     "known": {
@@ -1107,9 +1107,10 @@
       "227852": "2026-10-13T21:14:40.703005Z",
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z",
-      "227908": "2026-10-23T13:26:56.405697Z"
+      "227908": "2026-10-23T13:26:56.405697Z",
+      "227922": "2026-10-24T11:00:33.667313Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "history-high-score": {
     "entries": [
@@ -1215,7 +1216,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1541,7 +1542,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "law-high-score": {
     "entries": [
@@ -2538,7 +2539,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "math-high-score": {
     "entries": [
@@ -3172,10 +3173,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-23T10:10:26Z",
+        "answer_id": "516318",
+        "first_seen": "2026-10-24T11:00:33.667313Z",
+        "link": "https://mathoverflow.net/a/516318",
+        "owner": "Alex Elzenaar",
+        "question_id": "516302",
+        "question_title": "Exceptional surgeries on figure eight knot (Section 4.8 of Thurston's notes)",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-23T10:33:12Z",
         "answer_id": "516320",
@@ -3194,7 +3205,7 @@
         "owner": "R\u00e5ttkungen",
         "question_id": "516294",
         "question_title": "Fox ideals are invariant under automorphisms reference request",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-22T23:21:12Z",
@@ -4165,16 +4176,6 @@
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
         "score": 16
-      },
-      {
-        "answer_created": "2026-09-15T23:27:58Z",
-        "answer_id": "515273",
-        "first_seen": "2026-09-17T20:27:27.685506Z",
-        "link": "https://mathoverflow.net/a/515273",
-        "owner": "David White",
-        "question_id": "515137",
-        "question_title": "What are the mathematical implications of the claimed solution of the Navier\u2013Stokes Millennium Problem?",
-        "score": 13
       }
     ],
     "known": {
@@ -4756,9 +4757,10 @@
       "516250": "2026-10-22T22:24:12.632029Z",
       "516295": "2026-10-23T18:21:41.590960Z",
       "516296": "2026-10-23T18:21:41.590960Z",
+      "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4886,7 +4888,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4908,7 +4910,7 @@
         "owner": "Dale",
         "question_id": "877104",
         "question_title": "If a black hole event horizon expands towards a clock, does the clock slow down just as it would if it was moving towards a hole with a fixed mass?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-03T13:49:47Z",
@@ -6002,7 +6004,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6042,7 +6044,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7188,7 +7190,7 @@
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "space-high-score": {
     "entries": [
@@ -7602,7 +7604,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8840,6 +8842,6 @@
       "274818": "2026-10-22T15:16:54.381000Z",
       "274821": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-24T05:54:12.291202Z"
+    "last_checked": "2026-10-24T11:00:33.667313Z"
   }
 }
