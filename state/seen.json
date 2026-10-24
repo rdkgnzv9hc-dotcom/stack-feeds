@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227921",
         "question_title": "I love my PhD, but I am tired",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-21T03:25:47Z",
@@ -1110,7 +1110,7 @@
       "227908": "2026-10-23T13:26:56.405697Z",
       "227922": "2026-10-24T11:00:33.667313Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "history-high-score": {
     "entries": [
@@ -1216,7 +1216,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1542,7 +1542,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "law-high-score": {
     "entries": [
@@ -2539,7 +2539,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "math-high-score": {
     "entries": [
@@ -3173,7 +3173,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3595,7 +3595,7 @@
         "owner": "Alex Elzenaar",
         "question_id": "515824",
         "question_title": "How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-08T02:10:02Z",
@@ -4760,7 +4760,7 @@
       "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4888,7 +4888,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6004,7 +6004,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6044,7 +6044,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7190,7 +7190,7 @@
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "space-high-score": {
     "entries": [
@@ -7604,10 +7604,70 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-23T02:27:12Z",
+        "answer_id": "274823",
+        "first_seen": "2026-10-24T14:33:16.336339Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274823",
+        "owner": "bta",
+        "question_id": "274815",
+        "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-22T15:18:16Z",
+        "answer_id": "274822",
+        "first_seen": "2026-10-24T14:33:16.336339Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274822",
+        "owner": "Robert Rapplean",
+        "question_id": "274815",
+        "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-09-04T10:36:55Z",
+        "answer_id": "274490",
+        "first_seen": "2026-10-24T14:33:16.336339Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274490",
+        "owner": "Trish",
+        "question_id": "274487",
+        "question_title": "How would prehensile Quills work?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-09-03T19:02:45Z",
+        "answer_id": "274484",
+        "first_seen": "2026-10-24T14:33:16.336339Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274484",
+        "owner": "T.E.D.",
+        "question_id": "274460",
+        "question_title": "Could convergent evolution explain humans developing on another planet independently of Earth?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-08-31T20:26:11Z",
+        "answer_id": "274444",
+        "first_seen": "2026-10-24T14:33:16.336339Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274444",
+        "owner": "Zags",
+        "question_id": "274429",
+        "question_title": "Designing a barren yet \"shirt-sleeve habitable\" exoplanet",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-08-29T16:33:50Z",
+        "answer_id": "274427",
+        "first_seen": "2026-10-24T14:33:16.336339Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274427",
+        "owner": "Rymyll the Wanderer",
+        "question_id": "274420",
+        "question_title": "How would my exploding bullets work?",
+        "score": 5
+      },
       {
         "answer_created": "2026-09-28T02:14:59Z",
         "answer_id": "274656",
@@ -7646,7 +7706,7 @@
         "owner": "Thorne",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-22T04:07:55Z",
@@ -8366,7 +8426,7 @@
         "owner": "AlexP",
         "question_id": "274464",
         "question_title": "What would a mobile or traveling tavern need to be self sustainable?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-09-02T06:08:25Z",
@@ -8446,7 +8506,7 @@
         "owner": "Yastreb",
         "question_id": "274429",
         "question_title": "Designing a barren yet \"shirt-sleeve habitable\" exoplanet",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-08-29T11:02:47Z",
@@ -8547,66 +8607,6 @@
         "question_id": "274339",
         "question_title": "How big can an airplane be before the airframe can't take the stress?",
         "score": 7
-      },
-      {
-        "answer_created": "2026-08-20T15:37:27Z",
-        "answer_id": "274340",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274340",
-        "owner": "Monty Wild",
-        "question_id": "274339",
-        "question_title": "How big can an airplane be before the airframe can't take the stress?",
-        "score": 15
-      },
-      {
-        "answer_created": "2026-08-20T07:10:57Z",
-        "answer_id": "274337",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274337",
-        "owner": "M. A. Golding",
-        "question_id": "274330",
-        "question_title": "Scientifically credible maximum visible size of 1:1 ratio binary Earth in the night sky without noticeable tidal forces?",
-        "score": 7
-      },
-      {
-        "answer_created": "2026-08-18T17:21:48Z",
-        "answer_id": "274331",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274331",
-        "owner": "AlexP",
-        "question_id": "274330",
-        "question_title": "Scientifically credible maximum visible size of 1:1 ratio binary Earth in the night sky without noticeable tidal forces?",
-        "score": 7
-      },
-      {
-        "answer_created": "2026-08-16T23:23:42Z",
-        "answer_id": "274320",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274320",
-        "owner": "Graham",
-        "question_id": "274312",
-        "question_title": "Would cybernetic wings be useful in combat?",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-08-16T06:13:11Z",
-        "answer_id": "274317",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274317",
-        "owner": "g s",
-        "question_id": "274310",
-        "question_title": "How possible is an anti-tank/vehicle \"shotgun\" weapon or ammo, firing multiple anti-armor rounds in a \"shotgun blast\" instead of one big projectile?",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-08-15T19:32:51Z",
-        "answer_id": "274316",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274316",
-        "owner": "Pica",
-        "question_id": "274310",
-        "question_title": "How possible is an anti-tank/vehicle \"shotgun\" weapon or ammo, firing multiple anti-armor rounds in a \"shotgun blast\" instead of one big projectile?",
-        "score": 11
       }
     ],
     "known": {
@@ -8757,7 +8757,9 @@
       "274394": "2026-09-11T17:35:15.780317Z",
       "274398": "2026-09-11T17:35:15.780317Z",
       "274423": "2026-09-11T17:35:15.780317Z",
+      "274427": "2026-10-24T14:33:16.336339Z",
       "274434": "2026-09-11T17:35:15.780317Z",
+      "274444": "2026-10-24T14:33:16.336339Z",
       "274448": "2026-09-11T17:35:15.780317Z",
       "274449": "2026-09-11T17:35:15.780317Z",
       "274455": "2026-09-11T17:35:15.780317Z",
@@ -8770,6 +8772,8 @@
       "274471": "2026-09-11T17:35:15.780317Z",
       "274473": "2026-09-11T17:35:15.780317Z",
       "274474": "2026-09-11T17:35:15.780317Z",
+      "274484": "2026-10-24T14:33:16.336339Z",
+      "274490": "2026-10-24T14:33:16.336339Z",
       "274496": "2026-09-11T17:35:15.780317Z",
       "274498": "2026-09-11T17:35:15.780317Z",
       "274504": "2026-09-11T17:35:15.780317Z",
@@ -8840,8 +8844,10 @@
       "274816": "2026-10-22T10:11:20.364138Z",
       "274817": "2026-10-22T19:15:44.483282Z",
       "274818": "2026-10-22T15:16:54.381000Z",
-      "274821": "2026-10-22T15:16:54.381000Z"
+      "274821": "2026-10-22T15:16:54.381000Z",
+      "274822": "2026-10-24T14:33:16.336339Z",
+      "274823": "2026-10-24T14:33:16.336339Z"
     },
-    "last_checked": "2026-10-24T11:00:33.667313Z"
+    "last_checked": "2026-10-24T14:33:16.336339Z"
   }
 }
