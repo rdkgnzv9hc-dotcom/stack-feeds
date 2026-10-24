@@ -1110,7 +1110,7 @@
       "227908": "2026-10-23T13:26:56.405697Z",
       "227922": "2026-10-24T11:00:33.667313Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "history-high-score": {
     "entries": [
@@ -1216,7 +1216,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1542,7 +1542,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "law-high-score": {
     "entries": [
@@ -2539,7 +2539,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "math-high-score": {
     "entries": [
@@ -3173,7 +3173,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3205,7 +3205,7 @@
         "owner": "R\u00e5ttkungen",
         "question_id": "516294",
         "question_title": "Fox ideals are invariant under automorphisms reference request",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-22T23:21:12Z",
@@ -3225,7 +3225,7 @@
         "owner": "GH from MO",
         "question_id": "516229",
         "question_title": "Do these two two-variable functions cover all sufficiently large positive integers?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-22T01:16:30Z",
@@ -4760,7 +4760,7 @@
       "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4888,7 +4888,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6004,7 +6004,7 @@
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6044,7 +6044,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6056,7 +6056,7 @@
         "owner": "DavidW",
         "question_id": "306288",
         "question_title": "YA novel, 60's, Spaceship crew offered a choice of remembering",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-20T03:01:40Z",
@@ -7190,7 +7190,7 @@
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "space-high-score": {
     "entries": [
@@ -7604,10 +7604,20 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-23T06:39:05Z",
+        "answer_id": "274826",
+        "first_seen": "2026-10-24T18:09:36.405360Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274826",
+        "owner": "Mike Scott",
+        "question_id": "274825",
+        "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-23T02:27:12Z",
         "answer_id": "274823",
@@ -8597,16 +8607,6 @@
         "question_id": "274349",
         "question_title": "How would sapient frogs communicate with their tadpoles?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-08-20T15:40:40Z",
-        "answer_id": "274341",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274341",
-        "owner": "Thibe",
-        "question_id": "274339",
-        "question_title": "How big can an airplane be before the airframe can't take the stress?",
-        "score": 7
       }
     ],
     "known": {
@@ -8846,8 +8846,9 @@
       "274818": "2026-10-22T15:16:54.381000Z",
       "274821": "2026-10-22T15:16:54.381000Z",
       "274822": "2026-10-24T14:33:16.336339Z",
-      "274823": "2026-10-24T14:33:16.336339Z"
+      "274823": "2026-10-24T14:33:16.336339Z",
+      "274826": "2026-10-24T18:09:36.405360Z"
     },
-    "last_checked": "2026-10-24T14:33:16.336339Z"
+    "last_checked": "2026-10-24T18:09:36.405360Z"
   }
 }
