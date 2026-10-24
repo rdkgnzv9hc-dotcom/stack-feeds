@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 18:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:49:54 +0000</lastBuildDate>
+    <item>
+      <title>Applications of the $\operatorname{li}(x)$ function besides $\pi(x)$ — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516226</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516226</guid>
+      <pubDate>Sat, 24 Oct 2026 20:49:54 +0000</pubDate>
+      <description>Answer by Carlo Beenakker. Score when last checked: 10. Originally posted: 2026-10-21T10:03:27Z.</description>
+    </item>
     <item>
       <title>Exceptional surgeries on figure eight knot (Section 4.8 of Thurston's notes) — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516318</link>
@@ -56,11 +63,11 @@
       <description>Answer by Hercule Poirot. Score when last checked: 10. Originally posted: 2026-10-20T21:54:24Z.</description>
     </item>
     <item>
-      <title>Equivalence of Cisinski's Proposition 4.3.2 (Astérisque 308) ? When $A = BG$ — answer reached score 18</title>
+      <title>Equivalence of Cisinski's Proposition 4.3.2 (Astérisque 308) ? When $A = BG$ — answer reached score 19</title>
       <link>https://mathoverflow.net/a/516224</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516224</guid>
       <pubDate>Wed, 21 Oct 2026 15:14:36 +0000</pubDate>
-      <description>Answer by D.-C. Cisinski. Score when last checked: 18. Originally posted: 2026-10-21T06:53:43Z.</description>
+      <description>Answer by D.-C. Cisinski. Score when last checked: 19. Originally posted: 2026-10-21T06:53:43Z.</description>
     </item>
     <item>
       <title>Reliability of Anthropic's Lean verifications — answer reached score 30</title>
@@ -77,11 +84,11 @@
       <description>Answer by Jonathan Love. Score when last checked: 12. Originally posted: 2026-10-19T20:25:12Z.</description>
     </item>
     <item>
-      <title>Is the classification of finite simple groups provable without the axiom of choice? — answer reached score 16</title>
+      <title>Is the classification of finite simple groups provable without the axiom of choice? — answer reached score 17</title>
       <link>https://mathoverflow.net/a/516171</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516171</guid>
       <pubDate>Mon, 19 Oct 2026 21:02:51 +0000</pubDate>
-      <description>Answer by Robin Saunders. Score when last checked: 16. Originally posted: 2026-10-19T04:31:23Z.</description>
+      <description>Answer by Robin Saunders. Score when last checked: 17. Originally posted: 2026-10-19T04:31:23Z.</description>
     </item>
     <item>
       <title>Has Vaught's Conjecture Been Solved? — answer reached score 17</title>
@@ -105,11 +112,11 @@
       <description>Answer by Ian Agol. Score when last checked: 11. Originally posted: 2026-10-16T18:53:33Z.</description>
     </item>
     <item>
-      <title>Is the classification of finite simple groups provable without the axiom of choice? — answer reached score 40</title>
+      <title>Is the classification of finite simple groups provable without the axiom of choice? — answer reached score 41</title>
       <link>https://mathoverflow.net/a/516112</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516112</guid>
       <pubDate>Fri, 16 Oct 2026 21:08:23 +0000</pubDate>
-      <description>Answer by Emil Jeřábek. Score when last checked: 40. Originally posted: 2026-10-16T20:28:01Z.</description>
+      <description>Answer by Emil Jeřábek. Score when last checked: 41. Originally posted: 2026-10-16T20:28:01Z.</description>
     </item>
     <item>
       <title>Consequences of quasi-RH — answer reached score 13</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515135</guid>
       <pubDate>Fri, 18 Sep 2026 17:23:52 +0000</pubDate>
       <description>Answer by Bogdan Grechuk. Score when last checked: 11. Originally posted: 2026-09-11T10:59:51Z.</description>
-    </item>
-    <item>
-      <title>How do we prevent mathematics from devolving into the Medieval Era of secrecy? — answer reached score 16</title>
-      <link>https://mathoverflow.net/a/515301</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515301</guid>
-      <pubDate>Thu, 17 Sep 2026 20:27:27 +0000</pubDate>
-      <description>Answer by JF Meier. Score when last checked: 16. Originally posted: 2026-09-16T19:38:55Z.</description>
     </item>
   </channel>
 </rss>

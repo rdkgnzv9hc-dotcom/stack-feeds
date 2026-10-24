@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227921",
         "question_title": "I love my PhD, but I am tired",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-21T03:25:47Z",
@@ -1110,7 +1110,7 @@
       "227908": "2026-10-23T13:26:56.405697Z",
       "227922": "2026-10-24T11:00:33.667313Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "history-high-score": {
     "entries": [
@@ -1216,7 +1216,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1542,7 +1542,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "law-high-score": {
     "entries": [
@@ -1564,7 +1564,7 @@
         "owner": "Jen",
         "question_id": "116802",
         "question_title": "In the United States, are catch all terms enforceable in an employment contract?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-16T19:30:27Z",
@@ -2539,7 +2539,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "math-high-score": {
     "entries": [
@@ -3173,10 +3173,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-21T10:03:27Z",
+        "answer_id": "516226",
+        "first_seen": "2026-10-24T20:49:54.990023Z",
+        "link": "https://mathoverflow.net/a/516226",
+        "owner": "Carlo Beenakker",
+        "question_id": "516212",
+        "question_title": "Applications of the $\\operatorname{li}(x)$ function besides $\\pi(x)$",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-23T10:10:26Z",
         "answer_id": "516318",
@@ -3255,7 +3265,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "516223",
         "question_title": "Equivalence of Cisinski's Proposition 4.3.2 (Ast\u00e9risque 308) ? When $A = BG$",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-20T22:56:34Z",
@@ -3285,7 +3295,7 @@
         "owner": "Robin Saunders",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups provable without the axiom of choice?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-18T12:42:37Z",
@@ -3325,7 +3335,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups provable without the axiom of choice?",
-        "score": 40
+        "score": 41
       },
       {
         "answer_created": "2026-10-14T14:20:41Z",
@@ -4166,16 +4176,6 @@
         "question_id": "502120",
         "question_title": "Examples for the use of AI and especially LLMs in major mathematical developments",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-16T19:38:55Z",
-        "answer_id": "515301",
-        "first_seen": "2026-09-17T20:27:27.685506Z",
-        "link": "https://mathoverflow.net/a/515301",
-        "owner": "JF Meier",
-        "question_id": "515260",
-        "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 16
       }
     ],
     "known": {
@@ -4753,6 +4753,7 @@
       "516217": "2026-10-22T04:45:50.517856Z",
       "516219": "2026-10-21T04:47:21.770643Z",
       "516224": "2026-10-21T15:14:36.781826Z",
+      "516226": "2026-10-24T20:49:54.990023Z",
       "516234": "2026-10-23T07:32:43.796099Z",
       "516250": "2026-10-22T22:24:12.632029Z",
       "516295": "2026-10-23T18:21:41.590960Z",
@@ -4760,7 +4761,7 @@
       "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4888,10 +4889,20 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-22T07:25:27Z",
+        "answer_id": "877119",
+        "first_seen": "2026-10-24T20:49:54.990023Z",
+        "link": "https://physics.stackexchange.com/a/877119",
+        "owner": "Dale M",
+        "question_id": "877116",
+        "question_title": "Why is a point mass on a rod whose ends slide freely on perpendicular rails equivalent to a simple pendulum?",
+        "score": 10
+      },
       {
         "answer_created": "2026-09-16T17:02:36Z",
         "answer_id": "876080",
@@ -5881,16 +5892,6 @@
         "question_id": "873554",
         "question_title": "Does force have a primitive status within Newtonian mechanics?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-06-21T06:20:53Z",
-        "answer_id": "873563",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873563",
-        "owner": "rustot",
-        "question_id": "873555",
-        "question_title": "How come the Michelson-Morley experiment coudn't be explained with Galilean transformations and no aether?",
-        "score": 10
       }
     ],
     "known": {
@@ -6002,9 +6003,10 @@
       "877012": "2026-10-21T10:08:43.314464Z",
       "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z",
-      "877106": "2026-10-21T23:19:36.332792Z"
+      "877106": "2026-10-21T23:19:36.332792Z",
+      "877119": "2026-10-24T20:49:54.990023Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6044,7 +6046,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7190,7 +7192,7 @@
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "space-high-score": {
     "entries": [
@@ -7604,7 +7606,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8849,6 +8851,6 @@
       "274823": "2026-10-24T14:33:16.336339Z",
       "274826": "2026-10-24T18:09:36.405360Z"
     },
-    "last_checked": "2026-10-24T18:09:36.405360Z"
+    "last_checked": "2026-10-24T20:49:54.990023Z"
   }
 }

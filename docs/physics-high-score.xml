@@ -5,7 +5,14 @@
     <link>https://physics.stackexchange.com</link>
     <description>Answers from physics that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 18:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:49:54 +0000</lastBuildDate>
+    <item>
+      <title>Why is a point mass on a rod whose ends slide freely on perpendicular rails equivalent to a simple pendulum? — answer reached score 10</title>
+      <link>https://physics.stackexchange.com/a/877119</link>
+      <guid isPermaLink="false">stackexchange:physics:answer:877119</guid>
+      <pubDate>Sat, 24 Oct 2026 20:49:54 +0000</pubDate>
+      <description>Answer by Dale M. Score when last checked: 10. Originally posted: 2026-10-22T07:25:27Z.</description>
+    </item>
     <item>
       <title>Why is GPS confirmation of Special Relativity? — answer reached score 10</title>
       <link>https://physics.stackexchange.com/a/876080</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:physics:answer:873566</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by GiorgioP-DoomsdayClockIsAt-85. Score when last checked: 11. Originally posted: 2026-06-21T07:28:04Z.</description>
-    </item>
-    <item>
-      <title>How come the Michelson-Morley experiment coudn't be explained with Galilean transformations and no aether? — answer reached score 10</title>
-      <link>https://physics.stackexchange.com/a/873563</link>
-      <guid isPermaLink="false">stackexchange:physics:answer:873563</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by rustot. Score when last checked: 10. Originally posted: 2026-06-21T06:20:53Z.</description>
     </item>
   </channel>
 </rss>
