@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227921",
         "question_title": "I love my PhD, but I am tired",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-21T03:25:47Z",
@@ -1110,7 +1110,7 @@
       "227908": "2026-10-23T13:26:56.405697Z",
       "227922": "2026-10-24T11:00:33.667313Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "history-high-score": {
     "entries": [
@@ -1216,7 +1216,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1542,7 +1542,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "law-high-score": {
     "entries": [
@@ -2539,7 +2539,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "math-high-score": {
     "entries": [
@@ -3173,7 +3173,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3225,7 +3225,7 @@
         "owner": "Pace Nielsen",
         "question_id": "516292",
         "question_title": "Determine if there are infinite prime pairs $(p, q)$, such that $p^2+q^2$ is prime",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-21T12:55:29Z",
@@ -3255,7 +3255,7 @@
         "owner": "Hercule Poirot",
         "question_id": "516216",
         "question_title": "Self-study path and prerequisites: From fundamental group theory to Clausen\u2013Scholze condensed mathematics",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-21T06:53:43Z",
@@ -4761,7 +4761,7 @@
       "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4889,7 +4889,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6006,7 +6006,7 @@
       "877106": "2026-10-21T23:19:36.332792Z",
       "877119": "2026-10-24T20:49:54.990023Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6046,7 +6046,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7192,7 +7192,7 @@
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "space-high-score": {
     "entries": [
@@ -7606,10 +7606,20 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-23T16:42:45Z",
+        "answer_id": "274833",
+        "first_seen": "2026-10-25T19:37:17.089730Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274833",
+        "owner": "g s",
+        "question_id": "274825",
+        "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-23T07:04:32Z",
         "answer_id": "274827",
@@ -7638,7 +7648,7 @@
         "owner": "Mike Scott",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-10-23T02:27:12Z",
@@ -8528,7 +8538,7 @@
         "owner": "g s",
         "question_id": "274436",
         "question_title": "Why is alien civilization so familiar?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-08-30T08:11:45Z",
@@ -8599,16 +8609,6 @@
         "question_id": "274380",
         "question_title": "I need a reason why military retention is still high despite the abolition of wages, salaries, and professional development",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-25T04:46:37Z",
-        "answer_id": "274372",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274372",
-        "owner": "Rymyll the Wanderer",
-        "question_id": "274370",
-        "question_title": "How to justify my biopunk nation not mass-producing brains to fuel their wetware computers?",
-        "score": 8
       }
     ],
     "known": {
@@ -8851,8 +8851,9 @@
       "274822": "2026-10-24T14:33:16.336339Z",
       "274823": "2026-10-24T14:33:16.336339Z",
       "274826": "2026-10-24T18:09:36.405360Z",
-      "274827": "2026-10-25T16:19:31.201205Z"
+      "274827": "2026-10-25T16:19:31.201205Z",
+      "274833": "2026-10-25T19:37:17.089730Z"
     },
-    "last_checked": "2026-10-25T16:19:31.201205Z"
+    "last_checked": "2026-10-25T19:37:17.089730Z"
   }
 }
