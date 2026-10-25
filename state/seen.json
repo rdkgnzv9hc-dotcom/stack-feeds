@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227921",
         "question_title": "I love my PhD, but I am tired",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-21T03:25:47Z",
@@ -1110,7 +1110,7 @@
       "227908": "2026-10-23T13:26:56.405697Z",
       "227922": "2026-10-24T11:00:33.667313Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "history-high-score": {
     "entries": [
@@ -1216,7 +1216,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1542,7 +1542,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "law-high-score": {
     "entries": [
@@ -2539,7 +2539,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "math-high-score": {
     "entries": [
@@ -3173,7 +3173,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3185,7 +3185,7 @@
         "owner": "Carlo Beenakker",
         "question_id": "516212",
         "question_title": "Applications of the $\\operatorname{li}(x)$ function besides $\\pi(x)$",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-23T10:10:26Z",
@@ -4761,7 +4761,7 @@
       "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4889,7 +4889,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6006,7 +6006,7 @@
       "877106": "2026-10-21T23:19:36.332792Z",
       "877119": "2026-10-24T20:49:54.990023Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6046,7 +6046,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7192,7 +7192,7 @@
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "space-high-score": {
     "entries": [
@@ -7606,10 +7606,30 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-23T07:04:32Z",
+        "answer_id": "274827",
+        "first_seen": "2026-10-25T16:19:31.201205Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274827",
+        "owner": "Haylen",
+        "question_id": "274815",
+        "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-22T12:00:12Z",
+        "answer_id": "274819",
+        "first_seen": "2026-10-25T16:19:31.201205Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274819",
+        "owner": "dmcontador",
+        "question_id": "274815",
+        "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-23T06:39:05Z",
         "answer_id": "274826",
@@ -7618,7 +7638,7 @@
         "owner": "Mike Scott",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 5
+        "score": 7
       },
       {
         "answer_created": "2026-10-23T02:27:12Z",
@@ -7628,7 +7648,7 @@
         "owner": "bta",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-22T15:18:16Z",
@@ -7638,7 +7658,7 @@
         "owner": "Robert Rapplean",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-09-04T10:36:55Z",
@@ -7708,7 +7728,7 @@
         "owner": "g s",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-22T13:27:38Z",
@@ -7718,7 +7738,7 @@
         "owner": "Thorne",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-22T04:07:55Z",
@@ -7728,7 +7748,7 @@
         "owner": "JBH",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-21T23:50:13Z",
@@ -7738,7 +7758,7 @@
         "owner": "Navicula",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-20T19:47:28Z",
@@ -8589,26 +8609,6 @@
         "question_id": "274370",
         "question_title": "How to justify my biopunk nation not mass-producing brains to fuel their wetware computers?",
         "score": 8
-      },
-      {
-        "answer_created": "2026-08-24T03:50:37Z",
-        "answer_id": "274361",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274361",
-        "owner": "Mon",
-        "question_id": "274349",
-        "question_title": "How would sapient frogs communicate with their tadpoles?",
-        "score": 8
-      },
-      {
-        "answer_created": "2026-08-23T20:04:41Z",
-        "answer_id": "274358",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274358",
-        "owner": "SPavel",
-        "question_id": "274349",
-        "question_title": "How would sapient frogs communicate with their tadpoles?",
-        "score": 12
       }
     ],
     "known": {
@@ -8846,11 +8846,13 @@
       "274816": "2026-10-22T10:11:20.364138Z",
       "274817": "2026-10-22T19:15:44.483282Z",
       "274818": "2026-10-22T15:16:54.381000Z",
+      "274819": "2026-10-25T16:19:31.201205Z",
       "274821": "2026-10-22T15:16:54.381000Z",
       "274822": "2026-10-24T14:33:16.336339Z",
       "274823": "2026-10-24T14:33:16.336339Z",
-      "274826": "2026-10-24T18:09:36.405360Z"
+      "274826": "2026-10-24T18:09:36.405360Z",
+      "274827": "2026-10-25T16:19:31.201205Z"
     },
-    "last_checked": "2026-10-25T11:29:28.052215Z"
+    "last_checked": "2026-10-25T16:19:31.201205Z"
   }
 }
