@@ -9,7 +9,7 @@
         "owner": "Terry",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-23T11:42:45Z",
@@ -1111,7 +1111,7 @@
       "227922": "2026-10-24T11:00:33.667313Z",
       "227931": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "history-high-score": {
     "entries": [
@@ -1217,7 +1217,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1543,7 +1543,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "law-high-score": {
     "entries": [
@@ -2540,7 +2540,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "math-high-score": {
     "entries": [
@@ -3174,7 +3174,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3185,8 +3185,8 @@
         "link": "https://mathoverflow.net/a/516338",
         "owner": "Matt F.",
         "question_id": "516336",
-        "question_title": "Has AI made any progress as a mathematical theory-builder, rather than just a problem-solver?",
-        "score": 11
+        "question_title": "Examples of AI introducing new mathematical concepts or structures in research",
+        "score": 12
       },
       {
         "answer_created": "2026-10-23T20:38:06Z",
@@ -3206,7 +3206,7 @@
         "owner": "Michel Hua",
         "question_id": "312660",
         "question_title": "Grothendieck letter to Jun-Ichi Yamashita on tame topology",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-24T20:32:26Z",
@@ -3336,7 +3336,7 @@
         "owner": "Robin Saunders",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups provable without the axiom of choice?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-18T12:42:37Z",
@@ -3376,7 +3376,7 @@
         "owner": "Emil Je\u0159\u00e1bek",
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups provable without the axiom of choice?",
-        "score": 41
+        "score": 42
       },
       {
         "answer_created": "2026-10-14T14:20:41Z",
@@ -4766,7 +4766,7 @@
       "516364": "2026-10-25T22:33:18.209572Z",
       "516391": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4894,10 +4894,40 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-26T08:47:46Z",
+        "answer_id": "877226",
+        "first_seen": "2026-10-26T23:53:24.926682Z",
+        "link": "https://physics.stackexchange.com/a/877226",
+        "owner": "PM 2Ring",
+        "question_id": "877225",
+        "question_title": "Why are 2- and 3-body approximations useful?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-25T21:59:38Z",
+        "answer_id": "877222",
+        "first_seen": "2026-10-26T23:53:24.926682Z",
+        "link": "https://physics.stackexchange.com/a/877222",
+        "owner": "Thomas Fritsch",
+        "question_id": "877220",
+        "question_title": "Does Actinium-225 glow due to Cherenkov radiation?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-24T18:06:25Z",
+        "answer_id": "877190",
+        "first_seen": "2026-10-26T23:53:24.926682Z",
+        "link": "https://physics.stackexchange.com/a/877190",
+        "owner": "David Bailey",
+        "question_id": "877180",
+        "question_title": "Could centrifugal force from a fast-spinning playground merry-go-round crack my watch glass?",
+        "score": 12
+      },
       {
         "answer_created": "2026-10-22T07:25:27Z",
         "answer_id": "877119",
@@ -5867,36 +5897,6 @@
         "question_id": "873741",
         "question_title": "What precisely do we mean when we say that an atom has a certain electron configuration?",
         "score": 21
-      },
-      {
-        "answer_created": "2026-06-25T10:14:47Z",
-        "answer_id": "873718",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873718",
-        "owner": "GiorgioP-DoomsdayClockIsAt-85",
-        "question_id": "873713",
-        "question_title": "Can gamma photons be split into electron-positron pairs by extremely strong magnetic field?",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-06-21T13:40:40Z",
-        "answer_id": "873577",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873577",
-        "owner": "Andrew",
-        "question_id": "873555",
-        "question_title": "How come the Michelson-Morley experiment coudn't be explained with Galilean transformations and no aether?",
-        "score": 16
-      },
-      {
-        "answer_created": "2026-06-21T07:28:04Z",
-        "answer_id": "873566",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873566",
-        "owner": "GiorgioP-DoomsdayClockIsAt-85",
-        "question_id": "873554",
-        "question_title": "Does force have a primitive status within Newtonian mechanics?",
-        "score": 11
       }
     ],
     "known": {
@@ -6009,9 +6009,12 @@
       "877041": "2026-10-20T20:35:20.281762Z",
       "877043": "2026-10-20T00:20:14.225496Z",
       "877106": "2026-10-21T23:19:36.332792Z",
-      "877119": "2026-10-24T20:49:54.990023Z"
+      "877119": "2026-10-24T20:49:54.990023Z",
+      "877190": "2026-10-26T23:53:24.926682Z",
+      "877222": "2026-10-26T23:53:24.926682Z",
+      "877226": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6051,10 +6054,30 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-25T15:35:27Z",
+        "answer_id": "306327",
+        "first_seen": "2026-10-26T23:53:24.926682Z",
+        "link": "https://scifi.stackexchange.com/a/306327",
+        "owner": "FuzzyBoots",
+        "question_id": "306326",
+        "question_title": "A story that involves a rogue exoplanet, very probably by Poul Anderson",
+        "score": 15
+      },
+      {
+        "answer_created": "2026-10-24T19:29:38Z",
+        "answer_id": "306321",
+        "first_seen": "2026-10-26T23:53:24.926682Z",
+        "link": "https://scifi.stackexchange.com/a/306321",
+        "owner": "Valorum",
+        "question_id": "306319",
+        "question_title": "\"Guidebook\" about Heaven/the afterlife",
+        "score": 15
+      },
       {
         "answer_created": "2026-10-24T19:07:08Z",
         "answer_id": "306320",
@@ -6063,7 +6086,7 @@
         "owner": "umopapisdn",
         "question_id": "306317",
         "question_title": "Short story about a young boy who can predict the future \u2026 until the angels/spirits in charge correct the error they\u2019ve made",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-21T17:00:59Z",
@@ -7034,26 +7057,6 @@
         "question_id": "305360",
         "question_title": "Why did Billy Pilgrim keep returning to Dresden?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-07-26T12:07:36Z",
-        "answer_id": "305368",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305368",
-        "owner": "Valorum",
-        "question_id": "305366",
-        "question_title": "Short story: Man disguises himself as a tree",
-        "score": 26
-      },
-      {
-        "answer_created": "2026-07-26T03:00:30Z",
-        "answer_id": "305358",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305358",
-        "owner": "cometaryorbit",
-        "question_id": "304540",
-        "question_title": "Short story about aliens not understanding the scientific method",
-        "score": 19
       }
     ],
     "known": {
@@ -7196,9 +7199,11 @@
       "306273": "2026-10-22T19:15:44.483282Z",
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z",
-      "306320": "2026-10-26T13:08:34.566804Z"
+      "306320": "2026-10-26T13:08:34.566804Z",
+      "306321": "2026-10-26T23:53:24.926682Z",
+      "306327": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "space-high-score": {
     "entries": [
@@ -7623,10 +7628,20 @@
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-25T23:36:33Z",
+        "answer_id": "274845",
+        "first_seen": "2026-10-26T23:53:24.926682Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274845",
+        "owner": "g s",
+        "question_id": "274841",
+        "question_title": "Can I make power armor that is resistant to magnetic fields?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-26T12:55:56Z",
         "answer_id": "274854",
@@ -7635,7 +7650,7 @@
         "owner": "QuestionablePresence",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-10-26T10:05:09Z",
@@ -7645,7 +7660,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 8
+        "score": 10
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -7655,7 +7670,7 @@
         "owner": "JBH",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-25T09:12:22Z",
@@ -7685,7 +7700,7 @@
         "owner": "Thorne",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-10-23T10:38:18Z",
@@ -7705,7 +7720,7 @@
         "owner": "g s",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-23T07:04:32Z",
@@ -8616,16 +8631,6 @@
         "question_id": "274436",
         "question_title": "Why is alien civilization so familiar?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-01T02:06:47Z",
-        "answer_id": "274448",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274448",
-        "owner": "g s",
-        "question_id": "274436",
-        "question_title": "Why is alien civilization so familiar?",
-        "score": 28
       }
     ],
     "known": {
@@ -8873,11 +8878,12 @@
       "274832": "2026-10-26T19:19:29.537291Z",
       "274833": "2026-10-25T19:37:17.089730Z",
       "274838": "2026-10-26T19:19:29.537291Z",
+      "274845": "2026-10-26T23:53:24.926682Z",
       "274846": "2026-10-26T19:19:29.537291Z",
       "274847": "2026-10-26T13:08:34.566804Z",
       "274853": "2026-10-26T19:19:29.537291Z",
       "274854": "2026-10-26T19:19:29.537291Z"
     },
-    "last_checked": "2026-10-26T19:19:29.537291Z"
+    "last_checked": "2026-10-26T23:53:24.926682Z"
   }
 }
