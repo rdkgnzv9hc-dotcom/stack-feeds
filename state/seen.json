@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "227921",
         "question_title": "I love my PhD, but I am tired",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-21T03:25:47Z",
@@ -1110,7 +1110,7 @@
       "227908": "2026-10-23T13:26:56.405697Z",
       "227922": "2026-10-24T11:00:33.667313Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "history-high-score": {
     "entries": [
@@ -1216,7 +1216,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1542,7 +1542,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "law-high-score": {
     "entries": [
@@ -2539,7 +2539,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "math-high-score": {
     "entries": [
@@ -3173,7 +3173,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3185,7 +3185,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "516363",
         "question_title": "Are there infinitely many $x, y \\in \\mathbb{N}$ such that $x^3+y^5$ is a prime?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-21T10:03:27Z",
@@ -3335,7 +3335,7 @@
         "owner": "Ian Agol",
         "question_id": "442444",
         "question_title": "Hyperbolic groups and residual finiteness",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-16T20:28:01Z",
@@ -3455,7 +3455,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 45
+        "score": 46
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -4762,7 +4762,7 @@
       "516320": "2026-10-23T18:21:41.590960Z",
       "516364": "2026-10-25T22:33:18.209572Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4890,7 +4890,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6007,7 +6007,7 @@
       "877106": "2026-10-21T23:19:36.332792Z",
       "877119": "2026-10-24T20:49:54.990023Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6047,7 +6047,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7193,7 +7193,7 @@
       "306276": "2026-10-20T23:52:43.278798Z",
       "306289": "2026-10-24T05:54:12.291202Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "space-high-score": {
     "entries": [
@@ -7607,7 +7607,7 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70761": "2026-10-20T17:10:42.630528Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7619,7 +7619,7 @@
         "owner": "g s",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-23T07:04:32Z",
@@ -7649,7 +7649,7 @@
         "owner": "Mike Scott",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-23T02:27:12Z",
@@ -8855,6 +8855,6 @@
       "274827": "2026-10-25T16:19:31.201205Z",
       "274833": "2026-10-25T19:37:17.089730Z"
     },
-    "last_checked": "2026-10-25T22:33:18.209572Z"
+    "last_checked": "2026-10-26T06:14:04.920099Z"
   }
 }
