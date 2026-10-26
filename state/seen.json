@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-25T09:50:54Z",
+        "answer_id": "227931",
+        "first_seen": "2026-10-26T13:08:34.566804Z",
+        "link": "https://academia.stackexchange.com/a/227931",
+        "owner": "Terry",
+        "question_id": "227930",
+        "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
+        "score": 11
+      },
+      {
         "answer_created": "2026-10-23T11:42:45Z",
         "answer_id": "227922",
         "first_seen": "2026-10-24T11:00:33.667313Z",
@@ -9,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "227921",
         "question_title": "I love my PhD, but I am tired",
-        "score": 19
+        "score": 22
       },
       {
         "answer_created": "2026-10-21T03:25:47Z",
@@ -990,16 +1000,6 @@
         "question_id": "227026",
         "question_title": "What criteria can researchers use to self-check if they publish \"useless noise\"?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-06-18T14:33:04Z",
-        "answer_id": "226998",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/226998",
-        "owner": "Buffy",
-        "question_id": "226997",
-        "question_title": "Is it a concern if I don't get asked to peer-review?",
-        "score": 10
       }
     ],
     "known": {
@@ -1108,9 +1108,10 @@
       "227859": "2026-10-15T22:18:15.867786Z",
       "227875": "2026-10-19T21:02:51.589699Z",
       "227908": "2026-10-23T13:26:56.405697Z",
-      "227922": "2026-10-24T11:00:33.667313Z"
+      "227922": "2026-10-24T11:00:33.667313Z",
+      "227931": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "history-high-score": {
     "entries": [
@@ -1216,7 +1217,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1542,7 +1543,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "law-high-score": {
     "entries": [
@@ -2539,7 +2540,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "math-high-score": {
     "entries": [
@@ -3173,10 +3174,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-25T16:54:43Z",
+        "answer_id": "516391",
+        "first_seen": "2026-10-26T13:08:34.566804Z",
+        "link": "https://mathoverflow.net/a/516391",
+        "owner": "Michel Hua",
+        "question_id": "312660",
+        "question_title": "Grothendieck letter to Jun-Ichi Yamashita on tame topology",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-24T20:32:26Z",
         "answer_id": "516364",
@@ -3185,7 +3196,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "516363",
         "question_title": "Are there infinitely many $x, y \\in \\mathbb{N}$ such that $x^3+y^5$ is a prime?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-21T10:03:27Z",
@@ -3275,7 +3286,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "516223",
         "question_title": "Equivalence of Cisinski's Proposition 4.3.2 (Ast\u00e9risque 308) ? When $A = BG$",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-20T22:56:34Z",
@@ -3335,7 +3346,7 @@
         "owner": "Ian Agol",
         "question_id": "442444",
         "question_title": "Hyperbolic groups and residual finiteness",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-16T20:28:01Z",
@@ -4166,16 +4177,6 @@
         "question_id": "515260",
         "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-09-16T08:58:39Z",
-        "answer_id": "515283",
-        "first_seen": "2026-09-18T18:28:39.612089Z",
-        "link": "https://mathoverflow.net/a/515283",
-        "owner": "Andrei Sipo\u0219",
-        "question_id": "515282",
-        "question_title": "Are mathematicians engaging with AI results?",
-        "score": 10
       }
     ],
     "known": {
@@ -4760,9 +4761,10 @@
       "516296": "2026-10-23T18:21:41.590960Z",
       "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z",
-      "516364": "2026-10-25T22:33:18.209572Z"
+      "516364": "2026-10-25T22:33:18.209572Z",
+      "516391": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4890,7 +4892,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6007,7 +6009,7 @@
       "877106": "2026-10-21T23:19:36.332792Z",
       "877119": "2026-10-24T20:49:54.990023Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6047,10 +6049,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-24T19:07:08Z",
+        "answer_id": "306320",
+        "first_seen": "2026-10-26T13:08:34.566804Z",
+        "link": "https://scifi.stackexchange.com/a/306320",
+        "owner": "umopapisdn",
+        "question_id": "306317",
+        "question_title": "Short story about a young boy who can predict the future \u2026 until the angels/spirits in charge correct the error they\u2019ve made",
+        "score": 16
+      },
       {
         "answer_created": "2026-10-21T17:00:59Z",
         "answer_id": "306289",
@@ -7040,16 +7052,6 @@
         "question_id": "304540",
         "question_title": "Short story about aliens not understanding the scientific method",
         "score": 19
-      },
-      {
-        "answer_created": "2026-07-25T13:15:44Z",
-        "answer_id": "305355",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305355",
-        "owner": "umopapisdn",
-        "question_id": "305354",
-        "question_title": "Lost SF story. Humanity as rats, stowing away on Alien ships",
-        "score": 23
       }
     ],
     "known": {
@@ -7191,12 +7193,23 @@
       "306264": "2026-10-19T15:59:36.462008Z",
       "306273": "2026-10-22T19:15:44.483282Z",
       "306276": "2026-10-20T23:52:43.278798Z",
-      "306289": "2026-10-24T05:54:12.291202Z"
+      "306289": "2026-10-24T05:54:12.291202Z",
+      "306320": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-22T23:08:40Z",
+        "answer_id": "70770",
+        "first_seen": "2026-10-26T13:08:34.566804Z",
+        "link": "https://space.stackexchange.com/a/70770",
+        "owner": "Puffin",
+        "question_id": "51052",
+        "question_title": "Biggest orbital inclination change done in Earth's orbit",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-19T14:52:00Z",
         "answer_id": "70761",
@@ -7235,7 +7248,7 @@
         "owner": "Erin Anne",
         "question_id": "70742",
         "question_title": "How would rockets function in an atmosphere which has 100 % oxygen?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-10-07T22:49:16Z",
@@ -7605,12 +7618,33 @@
       "70744": "2026-10-13T15:59:00.350142Z",
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z",
-      "70761": "2026-10-20T17:10:42.630528Z"
+      "70761": "2026-10-20T17:10:42.630528Z",
+      "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-26T02:42:42Z",
+        "answer_id": "274847",
+        "first_seen": "2026-10-26T13:08:34.566804Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274847",
+        "owner": "Thorne",
+        "question_id": "274840",
+        "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-23T10:38:18Z",
+        "answer_id": "274831",
+        "first_seen": "2026-10-26T13:08:34.566804Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274831",
+        "owner": "xax",
+        "question_id": "274829",
+        "question_title": "Planet with cycle: Day \u2014 Night \u2014 Dusk \u2014 Night",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-23T16:42:45Z",
         "answer_id": "274833",
@@ -7619,7 +7653,7 @@
         "owner": "g s",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-23T07:04:32Z",
@@ -7649,7 +7683,7 @@
         "owner": "Mike Scott",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-23T02:27:12Z",
@@ -8590,26 +8624,6 @@
         "question_id": "274390",
         "question_title": "Possibly New Fighting style involving flowy dresses and skirts?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-08-26T15:06:10Z",
-        "answer_id": "274387",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274387",
-        "owner": "JonSG",
-        "question_id": "274380",
-        "question_title": "I need a reason why military retention is still high despite the abolition of wages, salaries, and professional development",
-        "score": 9
-      },
-      {
-        "answer_created": "2026-08-26T08:57:57Z",
-        "answer_id": "274382",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274382",
-        "owner": "Separatrix",
-        "question_id": "274380",
-        "question_title": "I need a reason why military retention is still high despite the abolition of wages, salaries, and professional development",
-        "score": 14
       }
     ],
     "known": {
@@ -8853,8 +8867,10 @@
       "274823": "2026-10-24T14:33:16.336339Z",
       "274826": "2026-10-24T18:09:36.405360Z",
       "274827": "2026-10-25T16:19:31.201205Z",
-      "274833": "2026-10-25T19:37:17.089730Z"
+      "274831": "2026-10-26T13:08:34.566804Z",
+      "274833": "2026-10-25T19:37:17.089730Z",
+      "274847": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T06:14:04.920099Z"
+    "last_checked": "2026-10-26T13:08:34.566804Z"
   }
 }
