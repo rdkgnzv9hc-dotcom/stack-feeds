@@ -19,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "227921",
         "question_title": "I love my PhD, but I am tired",
-        "score": 22
+        "score": 24
       },
       {
         "answer_created": "2026-10-21T03:25:47Z",
@@ -1111,7 +1111,7 @@
       "227922": "2026-10-24T11:00:33.667313Z",
       "227931": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "history-high-score": {
     "entries": [
@@ -1217,7 +1217,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1543,7 +1543,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "law-high-score": {
     "entries": [
@@ -2540,7 +2540,7 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "math-high-score": {
     "entries": [
@@ -3174,10 +3174,30 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-23T23:30:58Z",
+        "answer_id": "516338",
+        "first_seen": "2026-10-26T19:19:29.537291Z",
+        "link": "https://mathoverflow.net/a/516338",
+        "owner": "Matt F.",
+        "question_id": "516336",
+        "question_title": "Has AI made any progress as a mathematical theory-builder, rather than just a problem-solver?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-10-23T20:38:06Z",
+        "answer_id": "516335",
+        "first_seen": "2026-10-26T19:19:29.537291Z",
+        "link": "https://mathoverflow.net/a/516335",
+        "owner": "Sanchayan Dutta",
+        "question_id": "516212",
+        "question_title": "Applications of the $\\operatorname{li}(x)$ function besides $\\pi(x)$",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-25T16:54:43Z",
         "answer_id": "516391",
@@ -3206,7 +3226,7 @@
         "owner": "Carlo Beenakker",
         "question_id": "516212",
         "question_title": "Applications of the $\\operatorname{li}(x)$ function besides $\\pi(x)$",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-23T10:10:26Z",
@@ -3346,7 +3366,7 @@
         "owner": "Ian Agol",
         "question_id": "442444",
         "question_title": "Hyperbolic groups and residual finiteness",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-10-16T20:28:01Z",
@@ -4157,26 +4177,6 @@
         "question_id": "515377",
         "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-09-17T18:40:51Z",
-        "answer_id": "515318",
-        "first_seen": "2026-09-20T20:25:29.145077Z",
-        "link": "https://mathoverflow.net/a/515318",
-        "owner": "Anurag Sahay",
-        "question_id": "515314",
-        "question_title": "On the length of mollifiers for the Riemann Zeta function",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-09-18T16:30:13Z",
-        "answer_id": "515348",
-        "first_seen": "2026-09-19T02:26:02.169890Z",
-        "link": "https://mathoverflow.net/a/515348",
-        "owner": "Michael",
-        "question_id": "515260",
-        "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 17
       }
     ],
     "known": {
@@ -4761,10 +4761,12 @@
       "516296": "2026-10-23T18:21:41.590960Z",
       "516318": "2026-10-24T11:00:33.667313Z",
       "516320": "2026-10-23T18:21:41.590960Z",
+      "516335": "2026-10-26T19:19:29.537291Z",
+      "516338": "2026-10-26T19:19:29.537291Z",
       "516364": "2026-10-25T22:33:18.209572Z",
       "516391": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4892,7 +4894,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6009,7 +6011,7 @@
       "877106": "2026-10-21T23:19:36.332792Z",
       "877119": "2026-10-24T20:49:54.990023Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6049,7 +6051,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6061,7 +6063,7 @@
         "owner": "umopapisdn",
         "question_id": "306317",
         "question_title": "Short story about a young boy who can predict the future \u2026 until the angels/spirits in charge correct the error they\u2019ve made",
-        "score": 16
+        "score": 19
       },
       {
         "answer_created": "2026-10-21T17:00:59Z",
@@ -7196,7 +7198,7 @@
       "306289": "2026-10-24T05:54:12.291202Z",
       "306320": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "space-high-score": {
     "entries": [
@@ -7388,7 +7390,7 @@
         "owner": "MotoDave",
         "question_id": "70682",
         "question_title": "What do the colors on NASA nametags mean?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-08-17T23:57:03Z",
@@ -7621,10 +7623,60 @@
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-26T12:55:56Z",
+        "answer_id": "274854",
+        "first_seen": "2026-10-26T19:19:29.537291Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274854",
+        "owner": "QuestionablePresence",
+        "question_id": "274840",
+        "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
+        "score": 7
+      },
+      {
+        "answer_created": "2026-10-26T10:05:09Z",
+        "answer_id": "274853",
+        "first_seen": "2026-10-26T19:19:29.537291Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274853",
+        "owner": "Vectornaut",
+        "question_id": "274842",
+        "question_title": "How do the Guestarians know?",
+        "score": 8
+      },
+      {
+        "answer_created": "2026-10-26T00:47:44Z",
+        "answer_id": "274846",
+        "first_seen": "2026-10-26T19:19:29.537291Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274846",
+        "owner": "JBH",
+        "question_id": "274842",
+        "question_title": "How do the Guestarians know?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-10-25T09:12:22Z",
+        "answer_id": "274838",
+        "first_seen": "2026-10-26T19:19:29.537291Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274838",
+        "owner": "James K",
+        "question_id": "274829",
+        "question_title": "Planet with cycle: Day \u2014 Night \u2014 Dusk \u2014 Night",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-23T14:41:40Z",
+        "answer_id": "274832",
+        "first_seen": "2026-10-26T19:19:29.537291Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274832",
+        "owner": "Michael Richardson",
+        "question_id": "274825",
+        "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-26T02:42:42Z",
         "answer_id": "274847",
@@ -7633,7 +7685,7 @@
         "owner": "Thorne",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 5
+        "score": 12
       },
       {
         "answer_created": "2026-10-23T10:38:18Z",
@@ -7653,7 +7705,7 @@
         "owner": "g s",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-10-23T07:04:32Z",
@@ -7683,7 +7735,7 @@
         "owner": "Mike Scott",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-23T02:27:12Z",
@@ -7803,7 +7855,7 @@
         "owner": "Navicula",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-20T19:47:28Z",
@@ -8574,56 +8626,6 @@
         "question_id": "274436",
         "question_title": "Why is alien civilization so familiar?",
         "score": 28
-      },
-      {
-        "answer_created": "2026-08-30T08:11:45Z",
-        "answer_id": "274434",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274434",
-        "owner": "Yastreb",
-        "question_id": "274429",
-        "question_title": "Designing a barren yet \"shirt-sleeve habitable\" exoplanet",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-08-29T11:02:47Z",
-        "answer_id": "274423",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274423",
-        "owner": "Monty Wild",
-        "question_id": "274414",
-        "question_title": "How much energy a laser gun would need to deliver to a human target to deal lethal damage? Including losses?",
-        "score": 9
-      },
-      {
-        "answer_created": "2026-08-27T05:13:45Z",
-        "answer_id": "274398",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274398",
-        "owner": "Escaped dental patient.",
-        "question_id": "274395",
-        "question_title": "How long would it take for parrots to evolve sapience?",
-        "score": 13
-      },
-      {
-        "answer_created": "2026-08-27T01:26:33Z",
-        "answer_id": "274394",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274394",
-        "owner": "Monty Wild",
-        "question_id": "274390",
-        "question_title": "Possibly New Fighting style involving flowy dresses and skirts?",
-        "score": 7
-      },
-      {
-        "answer_created": "2026-08-26T22:16:01Z",
-        "answer_id": "274391",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274391",
-        "owner": "TheDemonLord",
-        "question_id": "274390",
-        "question_title": "Possibly New Fighting style involving flowy dresses and skirts?",
-        "score": 12
       }
     ],
     "known": {
@@ -8868,9 +8870,14 @@
       "274826": "2026-10-24T18:09:36.405360Z",
       "274827": "2026-10-25T16:19:31.201205Z",
       "274831": "2026-10-26T13:08:34.566804Z",
+      "274832": "2026-10-26T19:19:29.537291Z",
       "274833": "2026-10-25T19:37:17.089730Z",
-      "274847": "2026-10-26T13:08:34.566804Z"
+      "274838": "2026-10-26T19:19:29.537291Z",
+      "274846": "2026-10-26T19:19:29.537291Z",
+      "274847": "2026-10-26T13:08:34.566804Z",
+      "274853": "2026-10-26T19:19:29.537291Z",
+      "274854": "2026-10-26T19:19:29.537291Z"
     },
-    "last_checked": "2026-10-26T13:08:34.566804Z"
+    "last_checked": "2026-10-26T19:19:29.537291Z"
   }
 }
