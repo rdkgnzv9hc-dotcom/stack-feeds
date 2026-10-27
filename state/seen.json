@@ -9,7 +9,7 @@
         "owner": "Bryan Krause",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-26T17:01:47Z",
@@ -19,7 +19,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 19
+        "score": 23
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -29,7 +29,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -49,7 +49,7 @@
         "owner": "Terry",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-23T11:42:45Z",
@@ -1115,7 +1115,7 @@
       "227941": "2026-10-27T10:34:31.801982Z",
       "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "history-high-score": {
     "entries": [
@@ -1221,7 +1221,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1547,7 +1547,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "law-high-score": {
     "entries": [
@@ -1559,7 +1559,7 @@
         "owner": "Jen",
         "question_id": "116819",
         "question_title": "Can clothing styles and proportions be copyrighted?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-21T21:53:53Z",
@@ -2555,7 +2555,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "math-high-score": {
     "entries": [
@@ -3189,10 +3189,40 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T14:17:36Z",
+        "answer_id": "516456",
+        "first_seen": "2026-10-27T16:39:11.781044Z",
+        "link": "https://mathoverflow.net/a/516456",
+        "owner": "Bruno Martelli",
+        "question_id": "516445",
+        "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-10-27T12:36:58Z",
+        "answer_id": "516446",
+        "first_seen": "2026-10-27T16:39:11.781044Z",
+        "link": "https://mathoverflow.net/a/516446",
+        "owner": "David White",
+        "question_id": "516445",
+        "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
+        "score": 16
+      },
+      {
+        "answer_created": "2026-10-27T04:30:22Z",
+        "answer_id": "516430",
+        "first_seen": "2026-10-27T16:39:11.781044Z",
+        "link": "https://mathoverflow.net/a/516430",
+        "owner": "Timothy Chow",
+        "question_id": "515849",
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-23T23:30:58Z",
         "answer_id": "516338",
@@ -3201,7 +3231,7 @@
         "owner": "Matt F.",
         "question_id": "516336",
         "question_title": "Examples of AI introducing new mathematical concepts or structures in research",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-23T20:38:06Z",
@@ -3231,7 +3261,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "516363",
         "question_title": "Are there infinitely many $x, y \\in \\mathbb{N}$ such that $x^3+y^5$ is a prime?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-21T10:03:27Z",
@@ -3381,7 +3411,7 @@
         "owner": "Ian Agol",
         "question_id": "442444",
         "question_title": "Hyperbolic groups and residual finiteness",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-16T20:28:01Z",
@@ -3651,7 +3681,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 63
+        "score": 64
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4162,36 +4192,6 @@
         "question_id": "515418",
         "question_title": "Parametrisation for $x^4+y^4=1$",
         "score": 13
-      },
-      {
-        "answer_created": "2026-09-17T22:41:21Z",
-        "answer_id": "515323",
-        "first_seen": "2026-09-21T12:30:08.304335Z",
-        "link": "https://mathoverflow.net/a/515323",
-        "owner": "Gabe K",
-        "question_id": "515260",
-        "question_title": "How do we prevent mathematics from devolving into the Medieval Era of secrecy?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-09-20T17:44:27Z",
-        "answer_id": "515389",
-        "first_seen": "2026-09-21T10:27:01.647407Z",
-        "link": "https://mathoverflow.net/a/515389",
-        "owner": "Jon Bannon",
-        "question_id": "515377",
-        "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 25
-      },
-      {
-        "answer_created": "2026-09-20T10:18:10Z",
-        "answer_id": "515378",
-        "first_seen": "2026-09-21T10:27:01.647407Z",
-        "link": "https://mathoverflow.net/a/515378",
-        "owner": "Nate River",
-        "question_id": "515377",
-        "question_title": "How do mathematicians balance the need to understand things deeply with the need to keep moving?",
-        "score": 14
       }
     ],
     "known": {
@@ -4779,9 +4779,12 @@
       "516335": "2026-10-26T19:19:29.537291Z",
       "516338": "2026-10-26T19:19:29.537291Z",
       "516364": "2026-10-25T22:33:18.209572Z",
-      "516391": "2026-10-26T13:08:34.566804Z"
+      "516391": "2026-10-26T13:08:34.566804Z",
+      "516430": "2026-10-27T16:39:11.781044Z",
+      "516446": "2026-10-27T16:39:11.781044Z",
+      "516456": "2026-10-27T16:39:11.781044Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4909,7 +4912,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4921,7 +4924,7 @@
         "owner": "PM 2Ring",
         "question_id": "877225",
         "question_title": "Why are 2- and 3-body approximations useful?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-25T21:59:38Z",
@@ -6029,7 +6032,7 @@
       "877222": "2026-10-26T23:53:24.926682Z",
       "877226": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6069,7 +6072,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6081,7 +6084,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306326",
         "question_title": "A story that involves a rogue exoplanet, very probably by Poul Anderson",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-24T19:29:38Z",
@@ -6091,7 +6094,7 @@
         "owner": "Valorum",
         "question_id": "306319",
         "question_title": "\"Guidebook\" about Heaven/the afterlife",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-24T19:07:08Z",
@@ -7218,10 +7221,20 @@
       "306321": "2026-10-26T23:53:24.926682Z",
       "306327": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-15T00:19:40Z",
+        "answer_id": "70756",
+        "first_seen": "2026-10-27T16:39:11.781044Z",
+        "link": "https://space.stackexchange.com/a/70756",
+        "owner": "Mark Foskey",
+        "question_id": "70700",
+        "question_title": "Are there stable orbits of point masses around a massive cylindrical object?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-22T23:08:40Z",
         "answer_id": "70770",
@@ -7640,13 +7653,34 @@
       "70744": "2026-10-13T15:59:00.350142Z",
       "70749": "2026-10-14T11:52:28.882570Z",
       "70752": "2026-10-14T17:10:29.633090Z",
+      "70756": "2026-10-27T16:39:11.781044Z",
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-26T20:11:42Z",
+        "answer_id": "274863",
+        "first_seen": "2026-10-27T16:39:11.781044Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274863",
+        "owner": "Igor G",
+        "question_id": "274840",
+        "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-10-26T12:56:58Z",
+        "answer_id": "274855",
+        "first_seen": "2026-10-27T16:39:11.781044Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274855",
+        "owner": "L.Dutch",
+        "question_id": "274842",
+        "question_title": "How do the Guestarians know?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-26T09:53:31Z",
         "answer_id": "274852",
@@ -7655,7 +7689,7 @@
         "owner": "Radovan Garab\u00edk",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-08-01T03:39:40Z",
@@ -7685,7 +7719,7 @@
         "owner": "g s",
         "question_id": "274841",
         "question_title": "Can I make power armor that is resistant to magnetic fields?",
-        "score": 5
+        "score": 8
       },
       {
         "answer_created": "2026-10-26T12:55:56Z",
@@ -7705,7 +7739,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -7745,7 +7779,7 @@
         "owner": "Thorne",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-10-23T10:38:18Z",
@@ -8626,26 +8660,6 @@
         "question_id": "274464",
         "question_title": "What would a mobile or traveling tavern need to be self sustainable?",
         "score": 20
-      },
-      {
-        "answer_created": "2026-09-02T05:29:38Z",
-        "answer_id": "274465",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274465",
-        "owner": "L.Dutch",
-        "question_id": "274464",
-        "question_title": "What would a mobile or traveling tavern need to be self sustainable?",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-09-02T05:07:48Z",
-        "answer_id": "274463",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274463",
-        "owner": "Monty Wild",
-        "question_id": "274460",
-        "question_title": "Could convergent evolution explain humans developing on another planet independently of Earth?",
-        "score": 7
       }
     ],
     "known": {
@@ -8900,8 +8914,10 @@
       "274847": "2026-10-26T13:08:34.566804Z",
       "274852": "2026-10-27T10:34:31.801982Z",
       "274853": "2026-10-26T19:19:29.537291Z",
-      "274854": "2026-10-26T19:19:29.537291Z"
+      "274854": "2026-10-26T19:19:29.537291Z",
+      "274855": "2026-10-27T16:39:11.781044Z",
+      "274863": "2026-10-27T16:39:11.781044Z"
     },
-    "last_checked": "2026-10-27T10:34:31.801982Z"
+    "last_checked": "2026-10-27T16:39:11.781044Z"
   }
 }

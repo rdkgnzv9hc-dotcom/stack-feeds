@@ -5,13 +5,34 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:39:11 +0000</lastBuildDate>
     <item>
-      <title>Examples of AI introducing new mathematical concepts or structures in research — answer reached score 12</title>
+      <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 11</title>
+      <link>https://mathoverflow.net/a/516456</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516456</guid>
+      <pubDate>Tue, 27 Oct 2026 16:39:11 +0000</pubDate>
+      <description>Answer by Bruno Martelli. Score when last checked: 11. Originally posted: 2026-10-27T14:17:36Z.</description>
+    </item>
+    <item>
+      <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 16</title>
+      <link>https://mathoverflow.net/a/516446</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516446</guid>
+      <pubDate>Tue, 27 Oct 2026 16:39:11 +0000</pubDate>
+      <description>Answer by David White. Score when last checked: 16. Originally posted: 2026-10-27T12:36:58Z.</description>
+    </item>
+    <item>
+      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 11</title>
+      <link>https://mathoverflow.net/a/516430</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516430</guid>
+      <pubDate>Tue, 27 Oct 2026 16:39:11 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 11. Originally posted: 2026-10-27T04:30:22Z.</description>
+    </item>
+    <item>
+      <title>Examples of AI introducing new mathematical concepts or structures in research — answer reached score 13</title>
       <link>https://mathoverflow.net/a/516338</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516338</guid>
       <pubDate>Mon, 26 Oct 2026 19:19:29 +0000</pubDate>
-      <description>Answer by Matt F.. Score when last checked: 12. Originally posted: 2026-10-23T23:30:58Z.</description>
+      <description>Answer by Matt F.. Score when last checked: 13. Originally posted: 2026-10-23T23:30:58Z.</description>
     </item>
     <item>
       <title>Applications of the $\operatorname{li}(x)$ function besides $\pi(x)$ — answer reached score 10</title>
@@ -28,11 +49,11 @@
       <description>Answer by Michel Hua. Score when last checked: 11. Originally posted: 2026-10-25T16:54:43Z.</description>
     </item>
     <item>
-      <title>Are there infinitely many $x, y \in \mathbb{N}$ such that $x^3+y^5$ is a prime? — answer reached score 12</title>
+      <title>Are there infinitely many $x, y \in \mathbb{N}$ such that $x^3+y^5$ is a prime? — answer reached score 13</title>
       <link>https://mathoverflow.net/a/516364</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516364</guid>
       <pubDate>Sun, 25 Oct 2026 22:33:18 +0000</pubDate>
-      <description>Answer by Stanley Yao Xiao. Score when last checked: 12. Originally posted: 2026-10-24T20:32:26Z.</description>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 13. Originally posted: 2026-10-24T20:32:26Z.</description>
     </item>
     <item>
       <title>Applications of the $\operatorname{li}(x)$ function besides $\pi(x)$ — answer reached score 15</title>
@@ -133,11 +154,11 @@
       <description>Answer by Bogdan Grechuk. Score when last checked: 13. Originally posted: 2026-10-16T19:25:06Z.</description>
     </item>
     <item>
-      <title>Hyperbolic groups and residual finiteness — answer reached score 15</title>
+      <title>Hyperbolic groups and residual finiteness — answer reached score 16</title>
       <link>https://mathoverflow.net/a/516108</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516108</guid>
       <pubDate>Sat, 17 Oct 2026 17:10:24 +0000</pubDate>
-      <description>Answer by Ian Agol. Score when last checked: 15. Originally posted: 2026-10-16T18:53:33Z.</description>
+      <description>Answer by Ian Agol. Score when last checked: 16. Originally posted: 2026-10-16T18:53:33Z.</description>
     </item>
     <item>
       <title>Is the classification of finite simple groups provable without the axiom of choice? — answer reached score 42</title>
@@ -322,11 +343,11 @@
       <description>Answer by Alex Elzenaar. Score when last checked: 34. Originally posted: 2026-10-08T23:18:05Z.</description>
     </item>
     <item>
-      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 63</title>
+      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 64</title>
       <link>https://mathoverflow.net/a/515855</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515855</guid>
       <pubDate>Thu, 08 Oct 2026 23:29:11 +0000</pubDate>
-      <description>Answer by Philip Weiss. Score when last checked: 63. Originally posted: 2026-10-08T21:30:51Z.</description>
+      <description>Answer by Philip Weiss. Score when last checked: 64. Originally posted: 2026-10-08T21:30:51Z.</description>
     </item>
     <item>
       <title>How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture — answer reached score 20</title>
@@ -684,27 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515422</guid>
       <pubDate>Mon, 21 Sep 2026 20:26:34 +0000</pubDate>
       <description>Answer by Carlo Beenakker. Score when last checked: 13. Originally posted: 2026-09-21T16:19:48Z.</description>
-    </item>
-    <item>
-      <title>How do we prevent mathematics from devolving into the Medieval Era of secrecy? — answer reached score 11</title>
-      <link>https://mathoverflow.net/a/515323</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515323</guid>
-      <pubDate>Mon, 21 Sep 2026 12:30:08 +0000</pubDate>
-      <description>Answer by Gabe K. Score when last checked: 11. Originally posted: 2026-09-17T22:41:21Z.</description>
-    </item>
-    <item>
-      <title>How do mathematicians balance the need to understand things deeply with the need to keep moving? — answer reached score 25</title>
-      <link>https://mathoverflow.net/a/515389</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515389</guid>
-      <pubDate>Mon, 21 Sep 2026 10:27:01 +0000</pubDate>
-      <description>Answer by Jon Bannon. Score when last checked: 25. Originally posted: 2026-09-20T17:44:27Z.</description>
-    </item>
-    <item>
-      <title>How do mathematicians balance the need to understand things deeply with the need to keep moving? — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/515378</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515378</guid>
-      <pubDate>Mon, 21 Sep 2026 10:27:01 +0000</pubDate>
-      <description>Answer by Nate River. Score when last checked: 14. Originally posted: 2026-09-20T10:18:10Z.</description>
     </item>
   </channel>
 </rss>
