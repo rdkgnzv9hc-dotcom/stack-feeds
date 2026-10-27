@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-26T16:50:04Z",
+        "answer_id": "227941",
+        "first_seen": "2026-10-27T10:34:31.801982Z",
+        "link": "https://academia.stackexchange.com/a/227941",
+        "owner": "Bryan Krause",
+        "question_id": "227939",
+        "question_title": "PhD student is unfit for research, what do to?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-26T17:01:47Z",
         "answer_id": "227943",
         "first_seen": "2026-10-27T05:05:17.914693Z",
@@ -9,7 +19,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 13
+        "score": 19
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -19,7 +29,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 11
+        "score": 15
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -990,16 +1000,6 @@
         "question_id": "227060",
         "question_title": "How do researchers stay organized when working on multiple papers at once?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-06-23T12:26:38Z",
-        "answer_id": "227054",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227054",
-        "owner": "Allure",
-        "question_id": "227051",
-        "question_title": "How does one go from studying Physics textbooks as student to being on a research level?",
-        "score": 10
       }
     ],
     "known": {
@@ -1112,9 +1112,10 @@
       "227931": "2026-10-26T13:08:34.566804Z",
       "227938": "2026-10-27T05:05:17.914693Z",
       "227940": "2026-10-27T05:05:17.914693Z",
+      "227941": "2026-10-27T10:34:31.801982Z",
       "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "history-high-score": {
     "entries": [
@@ -1220,7 +1221,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1546,7 +1547,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "law-high-score": {
     "entries": [
@@ -2554,7 +2555,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "math-high-score": {
     "entries": [
@@ -3188,7 +3189,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3469,7 +3470,7 @@
         "link": "https://mathoverflow.net/a/516006",
         "owner": "MaoWao",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 18
       },
       {
@@ -3489,7 +3490,7 @@
         "link": "https://mathoverflow.net/a/515897",
         "owner": "Joshua P. Swanson",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 11
       },
       {
@@ -3539,7 +3540,7 @@
         "link": "https://mathoverflow.net/a/515866",
         "owner": "mathworker21",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 14
       },
       {
@@ -3549,8 +3550,8 @@
         "link": "https://mathoverflow.net/a/515854",
         "owner": "Pace Nielsen",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 15
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 16
       },
       {
         "answer_created": "2026-10-08T12:49:49Z",
@@ -3579,8 +3580,8 @@
         "link": "https://mathoverflow.net/a/515856",
         "owner": "Philip Weiss",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 19
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 20
       },
       {
         "answer_created": "2026-10-08T23:01:16Z",
@@ -3589,8 +3590,8 @@
         "link": "https://mathoverflow.net/a/515860",
         "owner": "Nik Weaver",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 21
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 22
       },
       {
         "answer_created": "2026-09-24T14:47:19Z",
@@ -3629,8 +3630,8 @@
         "link": "https://mathoverflow.net/a/515867",
         "owner": "Will Sawin",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 39
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 41
       },
       {
         "answer_created": "2026-10-08T23:18:05Z",
@@ -3649,8 +3650,8 @@
         "link": "https://mathoverflow.net/a/515855",
         "owner": "Philip Weiss",
         "question_id": "515849",
-        "question_title": "How many of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 62
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 63
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4780,7 +4781,7 @@
       "516364": "2026-10-25T22:33:18.209572Z",
       "516391": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4908,7 +4909,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6028,7 +6029,7 @@
       "877222": "2026-10-26T23:53:24.926682Z",
       "877226": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6068,7 +6069,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7217,7 +7218,7 @@
       "306321": "2026-10-26T23:53:24.926682Z",
       "306327": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "space-high-score": {
     "entries": [
@@ -7239,7 +7240,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70760",
         "question_title": "How hard would it be to locate the Apollo 11 launch abort subsystem?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-13T22:00:36Z",
@@ -7642,10 +7643,20 @@
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-26T09:53:31Z",
+        "answer_id": "274852",
+        "first_seen": "2026-10-27T10:34:31.801982Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274852",
+        "owner": "Radovan Garab\u00edk",
+        "question_id": "274842",
+        "question_title": "How do the Guestarians know?",
+        "score": 5
+      },
       {
         "answer_created": "2026-08-01T03:39:40Z",
         "answer_id": "274200",
@@ -7694,7 +7705,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -7734,7 +7745,7 @@
         "owner": "Thorne",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-23T10:38:18Z",
@@ -8635,16 +8646,6 @@
         "question_id": "274460",
         "question_title": "Could convergent evolution explain humans developing on another planet independently of Earth?",
         "score": 7
-      },
-      {
-        "answer_created": "2026-09-02T01:40:35Z",
-        "answer_id": "274462",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274462",
-        "owner": "AlexP",
-        "question_id": "274460",
-        "question_title": "Could convergent evolution explain humans developing on another planet independently of Earth?",
-        "score": 13
       }
     ],
     "known": {
@@ -8897,9 +8898,10 @@
       "274845": "2026-10-26T23:53:24.926682Z",
       "274846": "2026-10-26T19:19:29.537291Z",
       "274847": "2026-10-26T13:08:34.566804Z",
+      "274852": "2026-10-27T10:34:31.801982Z",
       "274853": "2026-10-26T19:19:29.537291Z",
       "274854": "2026-10-26T19:19:29.537291Z"
     },
-    "last_checked": "2026-10-27T05:05:17.914693Z"
+    "last_checked": "2026-10-27T10:34:31.801982Z"
   }
 }
