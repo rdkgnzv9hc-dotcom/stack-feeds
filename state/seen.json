@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-26T16:59:09Z",
+        "answer_id": "227942",
+        "first_seen": "2026-10-27T21:19:45.735648Z",
+        "link": "https://academia.stackexchange.com/a/227942",
+        "owner": "Allure",
+        "question_id": "227939",
+        "question_title": "PhD student is unfit for research, what do to?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-26T16:50:04Z",
         "answer_id": "227941",
         "first_seen": "2026-10-27T10:34:31.801982Z",
@@ -19,7 +29,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 23
+        "score": 26
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -29,7 +39,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -49,7 +59,7 @@
         "owner": "Terry",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-23T11:42:45Z",
@@ -990,16 +1000,6 @@
         "question_id": "227077",
         "question_title": "How to handle attribution when someone suggested an important approach but does not respond?",
         "score": 25
-      },
-      {
-        "answer_created": "2026-06-24T09:16:09Z",
-        "answer_id": "227066",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227066",
-        "owner": "pyrochlor",
-        "question_id": "227060",
-        "question_title": "How do researchers stay organized when working on multiple papers at once?",
-        "score": 11
       }
     ],
     "known": {
@@ -1113,9 +1113,10 @@
       "227938": "2026-10-27T05:05:17.914693Z",
       "227940": "2026-10-27T05:05:17.914693Z",
       "227941": "2026-10-27T10:34:31.801982Z",
+      "227942": "2026-10-27T21:19:45.735648Z",
       "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "history-high-score": {
     "entries": [
@@ -1221,7 +1222,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1547,7 +1548,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "law-high-score": {
     "entries": [
@@ -2555,7 +2556,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "math-high-score": {
     "entries": [
@@ -3189,10 +3190,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T17:48:05Z",
+        "answer_id": "516464",
+        "first_seen": "2026-10-27T21:19:45.735648Z",
+        "link": "https://mathoverflow.net/a/516464",
+        "owner": "arsmath",
+        "question_id": "209927",
+        "question_title": "Next steps on formal proof of classification of finite simple groups",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-27T14:17:36Z",
         "answer_id": "516456",
@@ -3201,7 +3212,7 @@
         "owner": "Bruno Martelli",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 11
+        "score": 10
       },
       {
         "answer_created": "2026-10-27T12:36:58Z",
@@ -3211,7 +3222,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 16
+        "score": 18
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -3221,7 +3232,7 @@
         "owner": "Timothy Chow",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-23T23:30:58Z",
@@ -3241,7 +3252,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516212",
         "question_title": "Applications of the $\\operatorname{li}(x)$ function besides $\\pi(x)$",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-25T16:54:43Z",
@@ -3261,7 +3272,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "516363",
         "question_title": "Are there infinitely many $x, y \\in \\mathbb{N}$ such that $x^3+y^5$ is a prime?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-21T10:03:27Z",
@@ -3271,7 +3282,7 @@
         "owner": "Carlo Beenakker",
         "question_id": "516212",
         "question_title": "Applications of the $\\operatorname{li}(x)$ function besides $\\pi(x)$",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-23T10:10:26Z",
@@ -4182,16 +4193,6 @@
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
         "score": 70
-      },
-      {
-        "answer_created": "2026-09-21T16:19:48Z",
-        "answer_id": "515422",
-        "first_seen": "2026-09-21T20:26:34.651358Z",
-        "link": "https://mathoverflow.net/a/515422",
-        "owner": "Carlo Beenakker",
-        "question_id": "515418",
-        "question_title": "Parametrisation for $x^4+y^4=1$",
-        "score": 13
       }
     ],
     "known": {
@@ -4782,9 +4783,10 @@
       "516391": "2026-10-26T13:08:34.566804Z",
       "516430": "2026-10-27T16:39:11.781044Z",
       "516446": "2026-10-27T16:39:11.781044Z",
-      "516456": "2026-10-27T16:39:11.781044Z"
+      "516456": "2026-10-27T16:39:11.781044Z",
+      "516464": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4912,10 +4914,40 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T11:25:05Z",
+        "answer_id": "877253",
+        "first_seen": "2026-10-27T21:19:45.735648Z",
+        "link": "https://physics.stackexchange.com/a/877253",
+        "owner": "Marco Mantovanelli",
+        "question_id": "877252",
+        "question_title": "In absence of lowest potential energy law, will a water droplet still form a spherical shape?",
+        "score": 12
+      },
+      {
+        "answer_created": "2026-10-26T18:25:04Z",
+        "answer_id": "877245",
+        "first_seen": "2026-10-27T21:19:45.735648Z",
+        "link": "https://physics.stackexchange.com/a/877245",
+        "owner": "Vincent Thacker",
+        "question_id": "877241",
+        "question_title": "How to find the generators of the group of spacetime translations?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-25T04:24:10Z",
+        "answer_id": "877200",
+        "first_seen": "2026-10-27T21:19:45.735648Z",
+        "link": "https://physics.stackexchange.com/a/877200",
+        "owner": "BowlOfRed",
+        "question_id": "877191",
+        "question_title": "High school physics question on rotational equilibrium",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-26T08:47:46Z",
         "answer_id": "877226",
@@ -4934,7 +4966,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "877220",
         "question_title": "Does Actinium-225 glow due to Cherenkov radiation?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-24T18:06:25Z",
@@ -5885,36 +5917,6 @@
         "question_id": "873820",
         "question_title": "Is the Sun highest in the sky when it crosses the local meridian?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-06-27T11:37:43Z",
-        "answer_id": "873778",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873778",
-        "owner": "Dale",
-        "question_id": "873774",
-        "question_title": "Time dilation in a rotating disc",
-        "score": 12
-      },
-      {
-        "answer_created": "2026-06-26T19:43:25Z",
-        "answer_id": "873766",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873766",
-        "owner": "Michael Seifert",
-        "question_id": "873761",
-        "question_title": "Is air density or air pressure the important quantity for breathing?",
-        "score": 18
-      },
-      {
-        "answer_created": "2026-06-26T06:16:47Z",
-        "answer_id": "873743",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873743",
-        "owner": "naturallyInconsistent",
-        "question_id": "873741",
-        "question_title": "What precisely do we mean when we say that an atom has a certain electron configuration?",
-        "score": 21
       }
     ],
     "known": {
@@ -6029,10 +6031,13 @@
       "877106": "2026-10-21T23:19:36.332792Z",
       "877119": "2026-10-24T20:49:54.990023Z",
       "877190": "2026-10-26T23:53:24.926682Z",
+      "877200": "2026-10-27T21:19:45.735648Z",
       "877222": "2026-10-26T23:53:24.926682Z",
-      "877226": "2026-10-26T23:53:24.926682Z"
+      "877226": "2026-10-26T23:53:24.926682Z",
+      "877245": "2026-10-27T21:19:45.735648Z",
+      "877253": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6072,7 +6077,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7221,7 +7226,7 @@
       "306321": "2026-10-26T23:53:24.926682Z",
       "306327": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "space-high-score": {
     "entries": [
@@ -7657,7 +7662,7 @@
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7669,7 +7674,7 @@
         "owner": "Igor G",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-26T12:56:58Z",
@@ -7679,7 +7684,7 @@
         "owner": "L.Dutch",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-26T09:53:31Z",
@@ -7719,7 +7724,7 @@
         "owner": "g s",
         "question_id": "274841",
         "question_title": "Can I make power armor that is resistant to magnetic fields?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-26T12:55:56Z",
@@ -7729,7 +7734,7 @@
         "owner": "QuestionablePresence",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-26T10:05:09Z",
@@ -7779,7 +7784,7 @@
         "owner": "Thorne",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-23T10:38:18Z",
@@ -7829,7 +7834,7 @@
         "owner": "Mike Scott",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-23T02:27:12Z",
@@ -8918,6 +8923,6 @@
       "274855": "2026-10-27T16:39:11.781044Z",
       "274863": "2026-10-27T16:39:11.781044Z"
     },
-    "last_checked": "2026-10-27T16:39:11.781044Z"
+    "last_checked": "2026-10-27T21:19:45.735648Z"
   }
 }
