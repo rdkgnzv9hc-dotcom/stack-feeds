@@ -2,6 +2,36 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-26T17:01:47Z",
+        "answer_id": "227943",
+        "first_seen": "2026-10-27T05:05:17.914693Z",
+        "link": "https://academia.stackexchange.com/a/227943",
+        "owner": "cag51",
+        "question_id": "227939",
+        "question_title": "PhD student is unfit for research, what do to?",
+        "score": 13
+      },
+      {
+        "answer_created": "2026-10-26T16:23:53Z",
+        "answer_id": "227940",
+        "first_seen": "2026-10-27T05:05:17.914693Z",
+        "link": "https://academia.stackexchange.com/a/227940",
+        "owner": "pyrochlor",
+        "question_id": "227939",
+        "question_title": "PhD student is unfit for research, what do to?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-10-26T12:04:18Z",
+        "answer_id": "227938",
+        "first_seen": "2026-10-27T05:05:17.914693Z",
+        "link": "https://academia.stackexchange.com/a/227938",
+        "owner": "WoJ",
+        "question_id": "227930",
+        "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-25T09:50:54Z",
         "answer_id": "227931",
         "first_seen": "2026-10-26T13:08:34.566804Z",
@@ -9,7 +39,7 @@
         "owner": "Terry",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-23T11:42:45Z",
@@ -970,36 +1000,6 @@
         "question_id": "227051",
         "question_title": "How does one go from studying Physics textbooks as student to being on a research level?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-06-22T13:28:05Z",
-        "answer_id": "227048",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227048",
-        "owner": "Bryan Krause",
-        "question_id": "227047",
-        "question_title": "Is this kind of editorial sequence normal?",
-        "score": 13
-      },
-      {
-        "answer_created": "2026-06-21T13:06:14Z",
-        "answer_id": "227029",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227029",
-        "owner": "David White",
-        "question_id": "227026",
-        "question_title": "What criteria can researchers use to self-check if they publish \"useless noise\"?",
-        "score": 33
-      },
-      {
-        "answer_created": "2026-06-21T12:24:45Z",
-        "answer_id": "227028",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227028",
-        "owner": "Captain Emacs",
-        "question_id": "227026",
-        "question_title": "What criteria can researchers use to self-check if they publish \"useless noise\"?",
-        "score": 13
       }
     ],
     "known": {
@@ -1109,9 +1109,12 @@
       "227875": "2026-10-19T21:02:51.589699Z",
       "227908": "2026-10-23T13:26:56.405697Z",
       "227922": "2026-10-24T11:00:33.667313Z",
-      "227931": "2026-10-26T13:08:34.566804Z"
+      "227931": "2026-10-26T13:08:34.566804Z",
+      "227938": "2026-10-27T05:05:17.914693Z",
+      "227940": "2026-10-27T05:05:17.914693Z",
+      "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "history-high-score": {
     "entries": [
@@ -1217,7 +1220,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1543,10 +1546,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-23T20:09:46Z",
+        "answer_id": "116820",
+        "first_seen": "2026-10-27T05:05:17.914693Z",
+        "link": "https://law.stackexchange.com/a/116820",
+        "owner": "Jen",
+        "question_id": "116819",
+        "question_title": "Can clothing styles and proportions be copyrighted?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-21T21:53:53Z",
         "answer_id": "116806",
@@ -2538,9 +2551,10 @@
       "116779": "2026-10-19T21:02:51.589699Z",
       "116784": "2026-10-19T15:59:36.462008Z",
       "116803": "2026-10-22T15:16:54.381000Z",
-      "116806": "2026-10-22T15:16:54.381000Z"
+      "116806": "2026-10-22T15:16:54.381000Z",
+      "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "math-high-score": {
     "entries": [
@@ -3174,7 +3188,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3286,7 +3300,7 @@
         "owner": "Piotr Hajlasz",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-20T21:54:24Z",
@@ -4766,7 +4780,7 @@
       "516364": "2026-10-25T22:33:18.209572Z",
       "516391": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4894,7 +4908,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4906,7 +4920,7 @@
         "owner": "PM 2Ring",
         "question_id": "877225",
         "question_title": "Why are 2- and 3-body approximations useful?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-25T21:59:38Z",
@@ -4916,7 +4930,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "877220",
         "question_title": "Does Actinium-225 glow due to Cherenkov radiation?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-24T18:06:25Z",
@@ -6014,7 +6028,7 @@
       "877222": "2026-10-26T23:53:24.926682Z",
       "877226": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6054,7 +6068,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6066,7 +6080,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306326",
         "question_title": "A story that involves a rogue exoplanet, very probably by Poul Anderson",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-24T19:29:38Z",
@@ -6086,7 +6100,7 @@
         "owner": "umopapisdn",
         "question_id": "306317",
         "question_title": "Short story about a young boy who can predict the future \u2026 until the angels/spirits in charge correct the error they\u2019ve made",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-21T17:00:59Z",
@@ -7203,7 +7217,7 @@
       "306321": "2026-10-26T23:53:24.926682Z",
       "306327": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "space-high-score": {
     "entries": [
@@ -7628,10 +7642,30 @@
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-08-01T03:39:40Z",
+        "answer_id": "274200",
+        "first_seen": "2026-10-27T05:05:17.914693Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274200",
+        "owner": "Escaped dental patient.",
+        "question_id": "274198",
+        "question_title": "What is a way to protect teeth from rock?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-07-30T11:48:05Z",
+        "answer_id": "274190",
+        "first_seen": "2026-10-27T05:05:17.914693Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274190",
+        "owner": "lupe",
+        "question_id": "274182",
+        "question_title": "How to design a biological whip-like tail that doesn't break itself?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-25T23:36:33Z",
         "answer_id": "274845",
@@ -7650,7 +7684,7 @@
         "owner": "QuestionablePresence",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-26T10:05:09Z",
@@ -7700,7 +7734,7 @@
         "owner": "Thorne",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-23T10:38:18Z",
@@ -8611,26 +8645,6 @@
         "question_id": "274460",
         "question_title": "Could convergent evolution explain humans developing on another planet independently of Earth?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-09-01T14:41:16Z",
-        "answer_id": "274455",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274455",
-        "owner": "Mike Scott",
-        "question_id": "274436",
-        "question_title": "Why is alien civilization so familiar?",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-09-01T02:59:25Z",
-        "answer_id": "274449",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274449",
-        "owner": "Malachi",
-        "question_id": "274436",
-        "question_title": "Why is alien civilization so familiar?",
-        "score": 11
       }
     ],
     "known": {
@@ -8741,7 +8755,9 @@
       "274181": "2026-09-11T17:35:15.780317Z",
       "274183": "2026-09-11T17:35:15.780317Z",
       "274189": "2026-09-11T17:35:15.780317Z",
+      "274190": "2026-10-27T05:05:17.914693Z",
       "274199": "2026-09-11T17:35:15.780317Z",
+      "274200": "2026-10-27T05:05:17.914693Z",
       "274203": "2026-09-11T17:35:15.780317Z",
       "274205": "2026-09-11T17:35:15.780317Z",
       "274206": "2026-09-11T17:35:15.780317Z",
@@ -8884,6 +8900,6 @@
       "274853": "2026-10-26T19:19:29.537291Z",
       "274854": "2026-10-26T19:19:29.537291Z"
     },
-    "last_checked": "2026-10-26T23:53:24.926682Z"
+    "last_checked": "2026-10-27T05:05:17.914693Z"
   }
 }
