@@ -39,7 +39,7 @@
         "owner": "Bryan Krause",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-26T17:01:47Z",
@@ -49,7 +49,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 28
+        "score": 32
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -59,7 +59,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 22
+        "score": 24
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -1118,7 +1118,7 @@
       "227942": "2026-10-27T21:19:45.735648Z",
       "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "history-high-score": {
     "entries": [
@@ -1224,7 +1224,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1550,7 +1550,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "law-high-score": {
     "entries": [
@@ -2558,7 +2558,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "math-high-score": {
     "entries": [
@@ -3192,10 +3192,40 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-28T17:45:40Z",
+        "answer_id": "516503",
+        "first_seen": "2026-10-28T21:04:50.567662Z",
+        "link": "https://mathoverflow.net/a/516503",
+        "owner": "Stanley Yao Xiao",
+        "question_id": "516502",
+        "question_title": "Which assumptions underlying mathematical practice are being challenged?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-28T11:34:35Z",
+        "answer_id": "516492",
+        "first_seen": "2026-10-28T21:04:50.567662Z",
+        "link": "https://mathoverflow.net/a/516492",
+        "owner": "Alexandre Eremenko",
+        "question_id": "516445",
+        "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-28T04:44:11Z",
+        "answer_id": "516480",
+        "first_seen": "2026-10-28T21:04:50.567662Z",
+        "link": "https://mathoverflow.net/a/516480",
+        "owner": "Sanchayan Dutta",
+        "question_id": "516470",
+        "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-27T23:25:43Z",
         "answer_id": "516474",
@@ -3204,7 +3234,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-27T22:21:34Z",
@@ -3214,7 +3244,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3234,7 +3264,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 23
+        "score": 27
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -3264,7 +3294,7 @@
         "owner": "Bruno Martelli",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-10-27T12:36:58Z",
@@ -4165,36 +4195,6 @@
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-23T03:04:36Z",
-        "answer_id": "515470",
-        "first_seen": "2026-09-23T07:28:02.174679Z",
-        "link": "https://mathoverflow.net/a/515470",
-        "owner": "Timothy Chow",
-        "question_id": "515435",
-        "question_title": "AI advisory group vs. immediate open access?",
-        "score": 34
-      },
-      {
-        "answer_created": "2026-09-21T23:54:48Z",
-        "answer_id": "515440",
-        "first_seen": "2026-09-23T06:33:07.982785Z",
-        "link": "https://mathoverflow.net/a/515440",
-        "owner": "Thomas Kojar",
-        "question_id": "515435",
-        "question_title": "AI advisory group vs. immediate open access?",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-09-21T12:41:44Z",
-        "answer_id": "515412",
-        "first_seen": "2026-09-22T22:25:32.437530Z",
-        "link": "https://mathoverflow.net/a/515412",
-        "owner": "Alexandre Eremenko",
-        "question_id": "515391",
-        "question_title": "How do you manage notation overload?",
-        "score": 13
       }
     ],
     "known": {
@@ -4791,9 +4791,12 @@
       "516472": "2026-10-28T01:22:05.486905Z",
       "516473": "2026-10-28T16:03:05.267648Z",
       "516474": "2026-10-28T16:03:05.267648Z",
-      "516477": "2026-10-28T08:32:23.417089Z"
+      "516477": "2026-10-28T08:32:23.417089Z",
+      "516480": "2026-10-28T21:04:50.567662Z",
+      "516492": "2026-10-28T21:04:50.567662Z",
+      "516503": "2026-10-28T21:04:50.567662Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4921,7 +4924,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4973,7 +4976,7 @@
         "owner": "PM 2Ring",
         "question_id": "877225",
         "question_title": "Why are 2- and 3-body approximations useful?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-25T21:59:38Z",
@@ -4983,7 +4986,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "877220",
         "question_title": "Does Actinium-225 glow due to Cherenkov radiation?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-24T18:06:25Z",
@@ -6045,7 +6048,7 @@
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6085,7 +6088,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6097,7 +6100,7 @@
         "owner": "Stig Hemmer",
         "question_id": "306332",
         "question_title": "Who would have replaced Spock if Kirk wasn't available?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-26T14:47:57Z",
@@ -6107,7 +6110,7 @@
         "owner": "Valorum",
         "question_id": "306332",
         "question_title": "Who would have replaced Spock if Kirk wasn't available?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-27T02:10:14Z",
@@ -7237,7 +7240,7 @@
       "306342": "2026-10-28T08:32:23.417089Z",
       "306345": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "space-high-score": {
     "entries": [
@@ -7684,7 +7687,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7726,7 +7729,7 @@
         "owner": "Ted Wrigley",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-27T14:17:53Z",
@@ -7836,7 +7839,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -7876,7 +7879,7 @@
         "owner": "Thorne",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-23T10:38:18Z",
@@ -8952,6 +8955,6 @@
       "274880": "2026-10-28T16:03:05.267648Z",
       "274881": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-28T16:03:05.267648Z"
+    "last_checked": "2026-10-28T21:04:50.567662Z"
   }
 }

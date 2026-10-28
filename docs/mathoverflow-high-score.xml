@@ -5,20 +5,41 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:04:50 +0000</lastBuildDate>
     <item>
-      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 14</title>
+      <title>Which assumptions underlying mathematical practice are being challenged? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516503</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516503</guid>
+      <pubDate>Wed, 28 Oct 2026 21:04:50 +0000</pubDate>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 10. Originally posted: 2026-10-28T17:45:40Z.</description>
+    </item>
+    <item>
+      <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516492</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516492</guid>
+      <pubDate>Wed, 28 Oct 2026 21:04:50 +0000</pubDate>
+      <description>Answer by Alexandre Eremenko. Score when last checked: 10. Originally posted: 2026-10-28T11:34:35Z.</description>
+    </item>
+    <item>
+      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516480</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516480</guid>
+      <pubDate>Wed, 28 Oct 2026 21:04:50 +0000</pubDate>
+      <description>Answer by Sanchayan Dutta. Score when last checked: 10. Originally posted: 2026-10-28T04:44:11Z.</description>
+    </item>
+    <item>
+      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 15</title>
       <link>https://mathoverflow.net/a/516474</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516474</guid>
       <pubDate>Wed, 28 Oct 2026 16:03:05 +0000</pubDate>
-      <description>Answer by Sam Hopkins. Score when last checked: 14. Originally posted: 2026-10-27T23:25:43Z.</description>
+      <description>Answer by Sam Hopkins. Score when last checked: 15. Originally posted: 2026-10-27T23:25:43Z.</description>
     </item>
     <item>
-      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 14</title>
+      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 16</title>
       <link>https://mathoverflow.net/a/516473</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516473</guid>
       <pubDate>Wed, 28 Oct 2026 16:03:05 +0000</pubDate>
-      <description>Answer by Philip Weiss. Score when last checked: 14. Originally posted: 2026-10-27T22:21:34Z.</description>
+      <description>Answer by Philip Weiss. Score when last checked: 16. Originally posted: 2026-10-27T22:21:34Z.</description>
     </item>
     <item>
       <title>Incomparable elements in Rudin-Keisler order, is this open problem resolved? — answer reached score 10</title>
@@ -28,11 +49,11 @@
       <description>Answer by Will Brian. Score when last checked: 10. Originally posted: 2026-10-20T14:55:07Z.</description>
     </item>
     <item>
-      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 23</title>
+      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 27</title>
       <link>https://mathoverflow.net/a/516477</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516477</guid>
       <pubDate>Wed, 28 Oct 2026 08:32:23 +0000</pubDate>
-      <description>Answer by Timothy Chow. Score when last checked: 23. Originally posted: 2026-10-28T02:29:28Z.</description>
+      <description>Answer by Timothy Chow. Score when last checked: 27. Originally posted: 2026-10-28T02:29:28Z.</description>
     </item>
     <item>
       <title>Next steps on formal proof of classification of finite simple groups — answer reached score 25</title>
@@ -49,11 +70,11 @@
       <description>Answer by arsmath. Score when last checked: 23. Originally posted: 2026-10-27T17:48:05Z.</description>
     </item>
     <item>
-      <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 17</title>
+      <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 19</title>
       <link>https://mathoverflow.net/a/516456</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516456</guid>
       <pubDate>Tue, 27 Oct 2026 16:39:11 +0000</pubDate>
-      <description>Answer by Bruno Martelli. Score when last checked: 17. Originally posted: 2026-10-27T14:17:36Z.</description>
+      <description>Answer by Bruno Martelli. Score when last checked: 19. Originally posted: 2026-10-27T14:17:36Z.</description>
     </item>
     <item>
       <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 29</title>
@@ -684,27 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515441</guid>
       <pubDate>Wed, 23 Sep 2026 12:32:25 +0000</pubDate>
       <description>Answer by Matt F.. Score when last checked: 11. Originally posted: 2026-09-22T00:06:38Z.</description>
-    </item>
-    <item>
-      <title>AI advisory group vs. immediate open access? — answer reached score 34</title>
-      <link>https://mathoverflow.net/a/515470</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515470</guid>
-      <pubDate>Wed, 23 Sep 2026 07:28:02 +0000</pubDate>
-      <description>Answer by Timothy Chow. Score when last checked: 34. Originally posted: 2026-09-23T03:04:36Z.</description>
-    </item>
-    <item>
-      <title>AI advisory group vs. immediate open access? — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/515440</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515440</guid>
-      <pubDate>Wed, 23 Sep 2026 06:33:07 +0000</pubDate>
-      <description>Answer by Thomas Kojar. Score when last checked: 14. Originally posted: 2026-09-21T23:54:48Z.</description>
-    </item>
-    <item>
-      <title>How do you manage notation overload? — answer reached score 13</title>
-      <link>https://mathoverflow.net/a/515412</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515412</guid>
-      <pubDate>Tue, 22 Sep 2026 22:25:32 +0000</pubDate>
-      <description>Answer by Alexandre Eremenko. Score when last checked: 13. Originally posted: 2026-09-21T12:41:44Z.</description>
     </item>
   </channel>
 </rss>
