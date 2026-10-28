@@ -9,7 +9,7 @@
         "owner": "Adam P\u0159enosil",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-26T09:34:35Z",
@@ -19,7 +19,7 @@
         "owner": "deee",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-26T16:59:09Z",
@@ -39,7 +39,7 @@
         "owner": "Bryan Krause",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-26T17:01:47Z",
@@ -49,7 +49,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -59,7 +59,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 20
+        "score": 22
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -1118,7 +1118,7 @@
       "227942": "2026-10-27T21:19:45.735648Z",
       "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "history-high-score": {
     "entries": [
@@ -1224,7 +1224,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1550,7 +1550,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "law-high-score": {
     "entries": [
@@ -2558,7 +2558,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "math-high-score": {
     "entries": [
@@ -3192,10 +3192,40 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T23:25:43Z",
+        "answer_id": "516474",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://mathoverflow.net/a/516474",
+        "owner": "Sam Hopkins",
+        "question_id": "516470",
+        "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
+        "score": 14
+      },
+      {
+        "answer_created": "2026-10-27T22:21:34Z",
+        "answer_id": "516473",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://mathoverflow.net/a/516473",
+        "owner": "Philip Weiss",
+        "question_id": "516470",
+        "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
+        "score": 14
+      },
+      {
+        "answer_created": "2026-10-20T14:55:07Z",
+        "answer_id": "516205",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://mathoverflow.net/a/516205",
+        "owner": "Will Brian",
+        "question_id": "516201",
+        "question_title": "Incomparable elements in Rudin-Keisler order, is this open problem resolved?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-28T02:29:28Z",
         "answer_id": "516477",
@@ -3204,7 +3234,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 10
+        "score": 23
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -3214,7 +3244,7 @@
         "owner": "Vasily Ilin",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 20
+        "score": 25
       },
       {
         "answer_created": "2026-10-27T17:48:05Z",
@@ -3224,7 +3254,7 @@
         "owner": "arsmath",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 21
+        "score": 23
       },
       {
         "answer_created": "2026-10-27T14:17:36Z",
@@ -3234,7 +3264,7 @@
         "owner": "Bruno Martelli",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 14
+        "score": 17
       },
       {
         "answer_created": "2026-10-27T12:36:58Z",
@@ -3244,7 +3274,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 25
+        "score": 29
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -3263,8 +3293,8 @@
         "link": "https://mathoverflow.net/a/516338",
         "owner": "Matt F.",
         "question_id": "516336",
-        "question_title": "Examples of AI introducing new mathematical concepts or structures in research",
-        "score": 13
+        "question_title": "Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem?",
+        "score": 14
       },
       {
         "answer_created": "2026-10-23T20:38:06Z",
@@ -3434,7 +3464,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-16T18:53:33Z",
@@ -3464,7 +3494,7 @@
         "owner": "GH from MO",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-12T23:26:35Z",
@@ -3474,7 +3504,7 @@
         "owner": "so-called friend Don",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-10T01:33:08Z",
@@ -3524,7 +3554,7 @@
         "owner": "Wojowu",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-13T08:07:26Z",
@@ -3544,7 +3574,7 @@
         "owner": "Thomas Bloom",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-10T03:10:06Z",
@@ -3574,7 +3604,7 @@
         "owner": "GH from MO",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-12T14:49:49Z",
@@ -3584,7 +3614,7 @@
         "owner": "Benjamin Durkan",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-10-10T11:04:08Z",
@@ -4165,36 +4195,6 @@
         "question_id": "515391",
         "question_title": "How do you manage notation overload?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-09-21T21:26:48Z",
-        "answer_id": "515436",
-        "first_seen": "2026-09-22T21:24:54.419860Z",
-        "link": "https://mathoverflow.net/a/515436",
-        "owner": "Gabe K",
-        "question_id": "515428",
-        "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
-        "score": 15
-      },
-      {
-        "answer_created": "2026-09-22T11:43:53Z",
-        "answer_id": "515449",
-        "first_seen": "2026-09-22T20:26:04.451505Z",
-        "link": "https://mathoverflow.net/a/515449",
-        "owner": "Will Sawin",
-        "question_id": "515443",
-        "question_title": "Are there serious objections to Hilbert's Thesis?",
-        "score": 28
-      },
-      {
-        "answer_created": "2026-09-21T20:50:36Z",
-        "answer_id": "515433",
-        "first_seen": "2026-09-22T13:28:26.553436Z",
-        "link": "https://mathoverflow.net/a/515433",
-        "owner": "Carlo Beenakker",
-        "question_id": "515428",
-        "question_title": "Recovering Laplacians on manifolds from their eigenvalues",
-        "score": 18
       }
     ],
     "known": {
@@ -4769,6 +4769,7 @@
       "516156": "2026-10-18T14:34:47.044490Z",
       "516171": "2026-10-19T21:02:51.589699Z",
       "516183": "2026-10-20T11:36:46.445700Z",
+      "516205": "2026-10-28T16:03:05.267648Z",
       "516217": "2026-10-22T04:45:50.517856Z",
       "516219": "2026-10-21T04:47:21.770643Z",
       "516224": "2026-10-21T15:14:36.781826Z",
@@ -4788,9 +4789,11 @@
       "516456": "2026-10-27T16:39:11.781044Z",
       "516464": "2026-10-27T21:19:45.735648Z",
       "516472": "2026-10-28T01:22:05.486905Z",
+      "516473": "2026-10-28T16:03:05.267648Z",
+      "516474": "2026-10-28T16:03:05.267648Z",
       "516477": "2026-10-28T08:32:23.417089Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4918,10 +4921,20 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-26T11:43:59Z",
+        "answer_id": "877233",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://physics.stackexchange.com/a/877233",
+        "owner": "Andrew Steane",
+        "question_id": "877225",
+        "question_title": "Why are 2- and 3-body approximations useful?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-27T11:25:05Z",
         "answer_id": "877253",
@@ -4930,7 +4943,7 @@
         "owner": "Marco Mantovanelli",
         "question_id": "877252",
         "question_title": "In absence of lowest potential energy law, will a water droplet still form a spherical shape?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-26T18:25:04Z",
@@ -4960,7 +4973,7 @@
         "owner": "PM 2Ring",
         "question_id": "877225",
         "question_title": "Why are 2- and 3-body approximations useful?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-25T21:59:38Z",
@@ -5911,16 +5924,6 @@
         "question_id": "873844",
         "question_title": "Is it a coincidence that the heaviest element (so far) oganesson is a \"noble gas\"?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-06-28T22:42:09Z",
-        "answer_id": "873826",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873826",
-        "owner": "PM 2Ring",
-        "question_id": "873820",
-        "question_title": "Is the Sun highest in the sky when it crosses the local meridian?",
-        "score": 12
       }
     ],
     "known": {
@@ -6038,10 +6041,11 @@
       "877200": "2026-10-27T21:19:45.735648Z",
       "877222": "2026-10-26T23:53:24.926682Z",
       "877226": "2026-10-26T23:53:24.926682Z",
+      "877233": "2026-10-28T16:03:05.267648Z",
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6081,10 +6085,30 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T11:39:07Z",
+        "answer_id": "306345",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://scifi.stackexchange.com/a/306345",
+        "owner": "Stig Hemmer",
+        "question_id": "306332",
+        "question_title": "Who would have replaced Spock if Kirk wasn't available?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-10-26T14:47:57Z",
+        "answer_id": "306333",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://scifi.stackexchange.com/a/306333",
+        "owner": "Valorum",
+        "question_id": "306332",
+        "question_title": "Who would have replaced Spock if Kirk wasn't available?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-27T02:10:14Z",
         "answer_id": "306342",
@@ -6093,7 +6117,7 @@
         "owner": "Danny Mc G",
         "question_id": "306334",
         "question_title": "Story identification: a teacher/researcher is executed, their knowledge transferred to their students",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-25T15:35:27Z",
@@ -7064,26 +7088,6 @@
         "question_id": "305398",
         "question_title": "Astronaut left alone aboard the ISS after NASA effectively abandons it",
         "score": 24
-      },
-      {
-        "answer_created": "2026-07-26T21:50:07Z",
-        "answer_id": "305376",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305376",
-        "owner": "Blaze",
-        "question_id": "305365",
-        "question_title": "Has Superman explicitly stated a belief in God?",
-        "score": 17
-      },
-      {
-        "answer_created": "2026-07-26T17:06:00Z",
-        "answer_id": "305375",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305375",
-        "owner": "Andrew",
-        "question_id": "305374",
-        "question_title": "Comic book story. Human astronaut encounters alien creature which \"spits\" out bricks to construct a series of pyramids in which it lives and grows",
-        "score": 30
       }
     ],
     "known": {
@@ -7229,12 +7233,24 @@
       "306320": "2026-10-26T13:08:34.566804Z",
       "306321": "2026-10-26T23:53:24.926682Z",
       "306327": "2026-10-26T23:53:24.926682Z",
-      "306342": "2026-10-28T08:32:23.417089Z"
+      "306333": "2026-10-28T16:03:05.267648Z",
+      "306342": "2026-10-28T08:32:23.417089Z",
+      "306345": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T13:41:19Z",
+        "answer_id": "70775",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://space.stackexchange.com/a/70775",
+        "owner": "Sanyukta Deb",
+        "question_id": "66141",
+        "question_title": "Has the continued monitoring of the Voyagers probes been in danger of being discontinued, and if so, how many times?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-15T00:19:40Z",
         "answer_id": "70756",
@@ -7665,12 +7681,43 @@
       "70752": "2026-10-14T17:10:29.633090Z",
       "70756": "2026-10-27T16:39:11.781044Z",
       "70761": "2026-10-20T17:10:42.630528Z",
-      "70770": "2026-10-26T13:08:34.566804Z"
+      "70770": "2026-10-26T13:08:34.566804Z",
+      "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-28T08:10:50Z",
+        "answer_id": "274881",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274881",
+        "owner": "Trioxidane",
+        "question_id": "274879",
+        "question_title": "Sustainability of eating an intelligent race",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-10-28T05:47:18Z",
+        "answer_id": "274880",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274880",
+        "owner": "ccprog",
+        "question_id": "274877",
+        "question_title": "The legendary crossing of the strait: could it have actually happened?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-28T02:13:40Z",
+        "answer_id": "274878",
+        "first_seen": "2026-10-28T16:03:05.267648Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274878",
+        "owner": "JBH",
+        "question_id": "274877",
+        "question_title": "The legendary crossing of the strait: could it have actually happened?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-27T14:20:23Z",
         "answer_id": "274874",
@@ -7689,7 +7736,7 @@
         "owner": "HAEM",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-27T13:23:38Z",
@@ -7709,7 +7756,7 @@
         "owner": "Trioxidane",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-26T20:11:42Z",
@@ -7719,7 +7766,7 @@
         "owner": "Igor G",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-26T12:56:58Z",
@@ -7779,7 +7826,7 @@
         "owner": "QuestionablePresence",
         "question_id": "274840",
         "question_title": "I need food spoilage to be a consistent problem in a setting where techniques like; vacuum packing, canning and flash freezing all exist",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-26T10:05:09Z",
@@ -7789,7 +7836,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 16
+        "score": 18
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -8640,36 +8687,6 @@
         "question_id": "274495",
         "question_title": "How quickly can a unique language develop?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-09-05T09:44:43Z",
-        "answer_id": "274496",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274496",
-        "owner": "Daniel B",
-        "question_id": "274495",
-        "question_title": "How quickly can a unique language develop?",
-        "score": 24
-      },
-      {
-        "answer_created": "2026-09-02T18:13:36Z",
-        "answer_id": "274474",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274474",
-        "owner": "Sarah Messer",
-        "question_id": "274464",
-        "question_title": "What would a mobile or traveling tavern need to be self sustainable?",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-09-02T16:15:07Z",
-        "answer_id": "274473",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274473",
-        "owner": "Nosajimiki",
-        "question_id": "274436",
-        "question_title": "Why is alien civilization so familiar?",
-        "score": 6
       }
     ],
     "known": {
@@ -8930,8 +8947,11 @@
       "274869": "2026-10-28T08:32:23.417089Z",
       "274872": "2026-10-28T08:32:23.417089Z",
       "274873": "2026-10-28T08:32:23.417089Z",
-      "274874": "2026-10-28T08:32:23.417089Z"
+      "274874": "2026-10-28T08:32:23.417089Z",
+      "274878": "2026-10-28T16:03:05.267648Z",
+      "274880": "2026-10-28T16:03:05.267648Z",
+      "274881": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-28T08:32:23.417089Z"
+    "last_checked": "2026-10-28T16:03:05.267648Z"
   }
 }
