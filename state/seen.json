@@ -19,7 +19,7 @@
         "owner": "Bryan Krause",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-26T17:01:47Z",
@@ -39,7 +39,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -59,7 +59,7 @@
         "owner": "Terry",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-23T11:42:45Z",
@@ -1116,7 +1116,7 @@
       "227942": "2026-10-27T21:19:45.735648Z",
       "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "history-high-score": {
     "entries": [
@@ -1222,7 +1222,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1548,7 +1548,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "law-high-score": {
     "entries": [
@@ -2556,7 +2556,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "math-high-score": {
     "entries": [
@@ -3190,10 +3190,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T22:11:22Z",
+        "answer_id": "516472",
+        "first_seen": "2026-10-28T01:22:05.486905Z",
+        "link": "https://mathoverflow.net/a/516472",
+        "owner": "Vasily Ilin",
+        "question_id": "209927",
+        "question_title": "Next steps on formal proof of classification of finite simple groups",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-27T17:48:05Z",
         "answer_id": "516464",
@@ -3202,7 +3212,7 @@
         "owner": "arsmath",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 10
+        "score": 17
       },
       {
         "answer_created": "2026-10-27T14:17:36Z",
@@ -3212,7 +3222,7 @@
         "owner": "Bruno Martelli",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-27T12:36:58Z",
@@ -3222,7 +3232,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 18
+        "score": 21
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -3692,7 +3702,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 64
+        "score": 65
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4183,16 +4193,6 @@
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
         "score": 44
-      },
-      {
-        "answer_created": "2026-09-22T00:17:49Z",
-        "answer_id": "515442",
-        "first_seen": "2026-09-22T03:27:11.340844Z",
-        "link": "https://mathoverflow.net/a/515442",
-        "owner": "mathworker21",
-        "question_id": "515435",
-        "question_title": "AI advisory group vs. immediate open access?",
-        "score": 70
       }
     ],
     "known": {
@@ -4784,9 +4784,10 @@
       "516430": "2026-10-27T16:39:11.781044Z",
       "516446": "2026-10-27T16:39:11.781044Z",
       "516456": "2026-10-27T16:39:11.781044Z",
-      "516464": "2026-10-27T21:19:45.735648Z"
+      "516464": "2026-10-27T21:19:45.735648Z",
+      "516472": "2026-10-28T01:22:05.486905Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4914,7 +4915,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4936,7 +4937,7 @@
         "owner": "Vincent Thacker",
         "question_id": "877241",
         "question_title": "How to find the generators of the group of spacetime translations?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-25T04:24:10Z",
@@ -4956,7 +4957,7 @@
         "owner": "PM 2Ring",
         "question_id": "877225",
         "question_title": "Why are 2- and 3-body approximations useful?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-25T21:59:38Z",
@@ -4995,8 +4996,8 @@
         "link": "https://physics.stackexchange.com/a/876080",
         "owner": "Markus Klyver",
         "question_id": "876009",
-        "question_title": "Why is GPS confirmation of Special Relativity?",
-        "score": 10
+        "question_title": "Why is the success of satellite navigation (satnav) confirmation of the special relativity?",
+        "score": 11
       },
       {
         "answer_created": "2026-10-21T17:59:18Z",
@@ -5375,7 +5376,7 @@
         "link": "https://physics.stackexchange.com/a/876014",
         "owner": "rob",
         "question_id": "876009",
-        "question_title": "Why is GPS confirmation of Special Relativity?",
+        "question_title": "Why is the success of satellite navigation (satnav) confirmation of the special relativity?",
         "score": 44
       },
       {
@@ -6037,7 +6038,7 @@
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6077,7 +6078,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6089,7 +6090,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306326",
         "question_title": "A story that involves a rogue exoplanet, very probably by Poul Anderson",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-24T19:29:38Z",
@@ -7226,7 +7227,7 @@
       "306321": "2026-10-26T23:53:24.926682Z",
       "306327": "2026-10-26T23:53:24.926682Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "space-high-score": {
     "entries": [
@@ -7662,7 +7663,7 @@
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7724,7 +7725,7 @@
         "owner": "g s",
         "question_id": "274841",
         "question_title": "Can I make power armor that is resistant to magnetic fields?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-26T12:55:56Z",
@@ -7744,7 +7745,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 13
+        "score": 16
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -8923,6 +8924,6 @@
       "274855": "2026-10-27T16:39:11.781044Z",
       "274863": "2026-10-27T16:39:11.781044Z"
     },
-    "last_checked": "2026-10-27T21:19:45.735648Z"
+    "last_checked": "2026-10-28T01:22:05.486905Z"
   }
 }
