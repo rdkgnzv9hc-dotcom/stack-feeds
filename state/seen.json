@@ -39,7 +39,7 @@
         "owner": "Bryan Krause",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what do to?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-26T17:01:47Z",
@@ -1118,7 +1118,7 @@
       "227942": "2026-10-27T21:19:45.735648Z",
       "227943": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "history-high-score": {
     "entries": [
@@ -1224,7 +1224,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1550,7 +1550,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "law-high-score": {
     "entries": [
@@ -2558,7 +2558,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "math-high-score": {
     "entries": [
@@ -3192,7 +3192,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3204,7 +3204,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "516502",
         "question_title": "Which assumptions underlying mathematical practice are being challenged?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-28T11:34:35Z",
@@ -3214,7 +3214,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-28T04:44:11Z",
@@ -3304,7 +3304,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -3624,7 +3624,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 46
+        "score": 47
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -4796,7 +4796,7 @@
       "516492": "2026-10-28T21:04:50.567662Z",
       "516503": "2026-10-28T21:04:50.567662Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4924,7 +4924,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4976,7 +4976,7 @@
         "owner": "PM 2Ring",
         "question_id": "877225",
         "question_title": "Why are 2- and 3-body approximations useful?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-25T21:59:38Z",
@@ -4986,7 +4986,7 @@
         "owner": "Thomas Fritsch",
         "question_id": "877220",
         "question_title": "Does Actinium-225 glow due to Cherenkov radiation?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-24T18:06:25Z",
@@ -6048,7 +6048,7 @@
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6088,7 +6088,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6120,7 +6120,7 @@
         "owner": "Danny Mc G",
         "question_id": "306334",
         "question_title": "Story identification: a teacher/researcher is executed, their knowledge transferred to their students",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-25T15:35:27Z",
@@ -7240,7 +7240,7 @@
       "306342": "2026-10-28T08:32:23.417089Z",
       "306345": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "space-high-score": {
     "entries": [
@@ -7252,7 +7252,7 @@
         "owner": "Sanyukta Deb",
         "question_id": "66141",
         "question_title": "Has the continued monitoring of the Voyagers probes been in danger of being discontinued, and if so, how many times?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-15T00:19:40Z",
@@ -7687,7 +7687,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7839,7 +7839,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -8955,6 +8955,6 @@
       "274880": "2026-10-28T16:03:05.267648Z",
       "274881": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-29T00:57:07.320768Z"
+    "last_checked": "2026-10-29T07:05:31.272792Z"
   }
 }
