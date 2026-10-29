@@ -9,7 +9,7 @@
         "owner": "Azor Ahai -him-",
         "question_id": "227965",
         "question_title": "How do professors feel about using AI for email drafting in PhD applications lately?",
-        "score": 11
+        "score": 17
       },
       {
         "answer_created": "2026-10-28T12:15:56Z",
@@ -19,7 +19,7 @@
         "owner": "deee",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-28T06:40:26Z",
@@ -29,7 +29,7 @@
         "owner": "kamilazdybal",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-26T11:51:05Z",
@@ -79,7 +79,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what to do?",
-        "score": 35
+        "score": 38
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -89,7 +89,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what to do?",
-        "score": 29
+        "score": 32
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -1121,7 +1121,7 @@
       "227961": "2026-10-29T14:19:54.996051Z",
       "227968": "2026-10-29T14:19:54.996051Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "history-high-score": {
     "entries": [
@@ -1227,7 +1227,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1553,7 +1553,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "law-high-score": {
     "entries": [
@@ -2561,7 +2561,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "math-high-score": {
     "entries": [
@@ -3195,7 +3195,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3207,7 +3207,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "516502",
         "question_title": "Which assumptions underlying mathematical practice are being challenged?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-28T11:34:35Z",
@@ -3227,7 +3227,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-27T23:25:43Z",
@@ -3247,7 +3247,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 22
+        "score": 24
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3267,7 +3267,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 37
+        "score": 39
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -3277,7 +3277,7 @@
         "owner": "Vasily Ilin",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-10-27T17:48:05Z",
@@ -3627,7 +3627,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 47
+        "score": 48
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -3677,7 +3677,7 @@
         "owner": "Pace Nielsen",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-08T12:49:49Z",
@@ -3777,7 +3777,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 65
+        "score": 66
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4799,7 +4799,7 @@
       "516492": "2026-10-28T21:04:50.567662Z",
       "516503": "2026-10-28T21:04:50.567662Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4927,7 +4927,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6051,7 +6051,7 @@
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6091,7 +6091,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6123,7 +6123,7 @@
         "owner": "Danny Mc G",
         "question_id": "306334",
         "question_title": "Story identification: a teacher/researcher is executed, their knowledge transferred to their students",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-25T15:35:27Z",
@@ -6503,7 +6503,7 @@
         "owner": "Andrew",
         "question_id": "306007",
         "question_title": "Detective/spy novel set in an alternate present with magic",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-09-19T12:48:07Z",
@@ -7243,7 +7243,7 @@
       "306342": "2026-10-28T08:32:23.417089Z",
       "306345": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "space-high-score": {
     "entries": [
@@ -7690,7 +7690,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7722,7 +7722,7 @@
         "owner": "JBH",
         "question_id": "274877",
         "question_title": "The legendary crossing of the strait: could it have actually happened?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-27T14:20:23Z",
@@ -8958,6 +8958,6 @@
       "274880": "2026-10-28T16:03:05.267648Z",
       "274881": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-29T14:19:54.996051Z"
+    "last_checked": "2026-10-29T20:17:53.490634Z"
   }
 }
