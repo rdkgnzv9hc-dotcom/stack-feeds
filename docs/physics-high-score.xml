@@ -5,7 +5,14 @@
     <link>https://physics.stackexchange.com</link>
     <description>Answers from physics that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:22:12 +0000</lastBuildDate>
+    <item>
+      <title>Why do physics textbooks treat work &amp; energy as a scalar? (+alternative vector formalisation) — answer reached score 15</title>
+      <link>https://physics.stackexchange.com/a/877329</link>
+      <guid isPermaLink="false">stackexchange:physics:answer:877329</guid>
+      <pubDate>Fri, 30 Oct 2026 19:22:12 +0000</pubDate>
+      <description>Answer by Michael Seifert. Score when last checked: 15. Originally posted: 2026-10-30T11:36:11Z.</description>
+    </item>
     <item>
       <title>Why are 2- and 3-body approximations useful? — answer reached score 12</title>
       <link>https://physics.stackexchange.com/a/877233</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:physics:answer:873847</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by rob. Score when last checked: 22. Originally posted: 2026-06-29T22:21:19Z.</description>
-    </item>
-    <item>
-      <title>Is it a coincidence that the heaviest element (so far) oganesson is a "noble gas"? — answer reached score 10</title>
-      <link>https://physics.stackexchange.com/a/873846</link>
-      <guid isPermaLink="false">stackexchange:physics:answer:873846</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by naturallyInconsistent. Score when last checked: 10. Originally posted: 2026-06-29T21:43:08Z.</description>
     </item>
   </channel>
 </rss>

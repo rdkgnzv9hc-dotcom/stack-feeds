@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-30T09:13:05Z",
+        "answer_id": "227984",
+        "first_seen": "2026-10-30T19:22:12.009342Z",
+        "link": "https://academia.stackexchange.com/a/227984",
+        "owner": "Allure",
+        "question_id": "227982",
+        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
+        "score": 13
+      },
+      {
         "answer_created": "2026-10-28T20:52:57Z",
         "answer_id": "227968",
         "first_seen": "2026-10-29T14:19:54.996051Z",
@@ -9,7 +19,7 @@
         "owner": "Azor Ahai -him-",
         "question_id": "227965",
         "question_title": "How do professors feel about using AI for email drafting in PhD applications lately?",
-        "score": 19
+        "score": 23
       },
       {
         "answer_created": "2026-10-28T12:15:56Z",
@@ -19,7 +29,7 @@
         "owner": "deee",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-28T06:40:26Z",
@@ -29,7 +39,7 @@
         "owner": "kamilazdybal",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-26T11:51:05Z",
@@ -990,16 +1000,6 @@
         "question_id": "227161",
         "question_title": "Thesis requiring proprietary fonts",
         "score": 14
-      },
-      {
-        "answer_created": "2026-07-08T19:48:52Z",
-        "answer_id": "227163",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227163",
-        "owner": "Scott Seidman",
-        "question_id": "227161",
-        "question_title": "Thesis requiring proprietary fonts",
-        "score": 20
       }
     ],
     "known": {
@@ -1119,9 +1119,10 @@
       "227943": "2026-10-27T05:05:17.914693Z",
       "227960": "2026-10-29T14:19:54.996051Z",
       "227961": "2026-10-29T14:19:54.996051Z",
-      "227968": "2026-10-29T14:19:54.996051Z"
+      "227968": "2026-10-29T14:19:54.996051Z",
+      "227984": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "history-high-score": {
     "entries": [
@@ -1227,7 +1228,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1553,7 +1554,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "law-high-score": {
     "entries": [
@@ -2561,7 +2562,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "math-high-score": {
     "entries": [
@@ -3195,7 +3196,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3207,7 +3208,7 @@
         "owner": "Peter LeFanu Lumsdaine",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-29T09:33:48Z",
@@ -3247,7 +3248,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-28T04:44:11Z",
@@ -3257,7 +3258,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-27T23:25:43Z",
@@ -3267,7 +3268,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-27T22:21:34Z",
@@ -3277,7 +3278,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3297,7 +3298,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 40
+        "score": 42
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4802,7 +4803,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4930,10 +4931,20 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-30T11:36:11Z",
+        "answer_id": "877329",
+        "first_seen": "2026-10-30T19:22:12.009342Z",
+        "link": "https://physics.stackexchange.com/a/877329",
+        "owner": "Michael Seifert",
+        "question_id": "877327",
+        "question_title": "Why do physics textbooks treat work & energy as a scalar? (+alternative vector formalisation)",
+        "score": 15
+      },
       {
         "answer_created": "2026-10-26T11:43:59Z",
         "answer_id": "877233",
@@ -5923,16 +5934,6 @@
         "question_id": "873844",
         "question_title": "Is it a coincidence that the heaviest element (so far) oganesson is a \"noble gas\"?",
         "score": 22
-      },
-      {
-        "answer_created": "2026-06-29T21:43:08Z",
-        "answer_id": "873846",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873846",
-        "owner": "naturallyInconsistent",
-        "question_id": "873844",
-        "question_title": "Is it a coincidence that the heaviest element (so far) oganesson is a \"noble gas\"?",
-        "score": 10
       }
     ],
     "known": {
@@ -6052,9 +6053,10 @@
       "877226": "2026-10-26T23:53:24.926682Z",
       "877233": "2026-10-28T16:03:05.267648Z",
       "877245": "2026-10-27T21:19:45.735648Z",
-      "877253": "2026-10-27T21:19:45.735648Z"
+      "877253": "2026-10-27T21:19:45.735648Z",
+      "877329": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6094,7 +6096,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7247,7 +7249,7 @@
       "306342": "2026-10-28T08:32:23.417089Z",
       "306345": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "space-high-score": {
     "entries": [
@@ -7694,10 +7696,20 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-29T07:45:35Z",
+        "answer_id": "274888",
+        "first_seen": "2026-10-30T19:22:12.009342Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274888",
+        "owner": "jcaron",
+        "question_id": "274877",
+        "question_title": "The legendary crossing of the strait: could it have actually happened?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-28T10:17:44Z",
         "answer_id": "274882",
@@ -7726,7 +7738,7 @@
         "owner": "ccprog",
         "question_id": "274877",
         "question_title": "The legendary crossing of the strait: could it have actually happened?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-28T02:13:40Z",
@@ -7736,7 +7748,7 @@
         "owner": "JBH",
         "question_id": "274877",
         "question_title": "The legendary crossing of the strait: could it have actually happened?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-27T14:20:23Z",
@@ -8687,16 +8699,6 @@
         "question_id": "274514",
         "question_title": "Hypothetically, how could someone be immediately killed by a radio tower?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-06T16:03:04Z",
-        "answer_id": "274504",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274504",
-        "owner": "NibiruMul",
-        "question_id": "274495",
-        "question_title": "How quickly can a unique language develop?",
-        "score": 5
       }
     ],
     "known": {
@@ -8961,8 +8963,9 @@
       "274878": "2026-10-28T16:03:05.267648Z",
       "274880": "2026-10-28T16:03:05.267648Z",
       "274881": "2026-10-28T16:03:05.267648Z",
-      "274882": "2026-10-30T14:08:29.767299Z"
+      "274882": "2026-10-30T14:08:29.767299Z",
+      "274888": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-30T14:08:29.767299Z"
+    "last_checked": "2026-10-30T19:22:12.009342Z"
   }
 }
