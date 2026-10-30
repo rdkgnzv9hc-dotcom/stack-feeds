@@ -5,7 +5,21 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:59:36 +0000</lastBuildDate>
+    <item>
+      <title>Ramifications of Exponential Time Hypothesis disproof and ECDLP — answer reached score 14</title>
+      <link>https://mathoverflow.net/a/516527</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516527</guid>
+      <pubDate>Fri, 30 Oct 2026 00:59:36 +0000</pubDate>
+      <description>Answer by Oisin Robinson. Score when last checked: 14. Originally posted: 2026-10-29T09:33:48Z.</description>
+    </item>
+    <item>
+      <title>Explicit (efficient/short) finite axiomatisation of Bounded Zermelo set theory — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516194</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516194</guid>
+      <pubDate>Fri, 30 Oct 2026 00:59:36 +0000</pubDate>
+      <description>Answer by Ali Enayat. Score when last checked: 10. Originally posted: 2026-10-20T09:11:41Z.</description>
+    </item>
     <item>
       <title>Which assumptions underlying mathematical practice are being challenged? — answer reached score 17</title>
       <link>https://mathoverflow.net/a/516503</link>
@@ -56,18 +70,18 @@
       <description>Answer by Timothy Chow. Score when last checked: 39. Originally posted: 2026-10-28T02:29:28Z.</description>
     </item>
     <item>
-      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 30</title>
+      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 31</title>
       <link>https://mathoverflow.net/a/516472</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516472</guid>
       <pubDate>Wed, 28 Oct 2026 01:22:05 +0000</pubDate>
-      <description>Answer by Vasily Ilin. Score when last checked: 30. Originally posted: 2026-10-27T22:11:22Z.</description>
+      <description>Answer by Vasily Ilin. Score when last checked: 31. Originally posted: 2026-10-27T22:11:22Z.</description>
     </item>
     <item>
-      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 23</title>
+      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 24</title>
       <link>https://mathoverflow.net/a/516464</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516464</guid>
       <pubDate>Tue, 27 Oct 2026 21:19:45 +0000</pubDate>
-      <description>Answer by arsmath. Score when last checked: 23. Originally posted: 2026-10-27T17:48:05Z.</description>
+      <description>Answer by arsmath. Score when last checked: 24. Originally posted: 2026-10-27T17:48:05Z.</description>
     </item>
     <item>
       <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 19</title>
@@ -91,11 +105,11 @@
       <description>Answer by Timothy Chow. Score when last checked: 13. Originally posted: 2026-10-27T04:30:22Z.</description>
     </item>
     <item>
-      <title>Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem? — answer reached score 14</title>
+      <title>Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem? — answer reached score 15</title>
       <link>https://mathoverflow.net/a/516338</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516338</guid>
       <pubDate>Mon, 26 Oct 2026 19:19:29 +0000</pubDate>
-      <description>Answer by Matt F.. Score when last checked: 14. Originally posted: 2026-10-23T23:30:58Z.</description>
+      <description>Answer by Matt F.. Score when last checked: 15. Originally posted: 2026-10-23T23:30:58Z.</description>
     </item>
     <item>
       <title>Applications of the $\operatorname{li}(x)$ function besides $\pi(x)$ — answer reached score 11</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515476</guid>
       <pubDate>Wed, 23 Sep 2026 15:27:56 +0000</pubDate>
       <description>Answer by Jochen Glueck. Score when last checked: 26. Originally posted: 2026-09-23T06:06:27Z.</description>
-    </item>
-    <item>
-      <title>Realizability of maps between classifying spaces of topological categories by functors — answer reached score 14</title>
-      <link>https://mathoverflow.net/a/515461</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515461</guid>
-      <pubDate>Wed, 23 Sep 2026 12:32:25 +0000</pubDate>
-      <description>Answer by Nicholas Kuhn. Score when last checked: 14. Originally posted: 2026-09-22T17:34:04Z.</description>
-    </item>
-    <item>
-      <title>AI advisory group vs. immediate open access? — answer reached score 11</title>
-      <link>https://mathoverflow.net/a/515441</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515441</guid>
-      <pubDate>Wed, 23 Sep 2026 12:32:25 +0000</pubDate>
-      <description>Answer by Matt F.. Score when last checked: 11. Originally posted: 2026-09-22T00:06:38Z.</description>
     </item>
   </channel>
 </rss>
