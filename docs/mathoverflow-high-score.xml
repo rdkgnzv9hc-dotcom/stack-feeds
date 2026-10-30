@@ -5,13 +5,20 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:08:29 +0000</lastBuildDate>
     <item>
-      <title>Ramifications of Exponential Time Hypothesis disproof and ECDLP — answer reached score 17</title>
+      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516511</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516511</guid>
+      <pubDate>Fri, 30 Oct 2026 14:08:29 +0000</pubDate>
+      <description>Answer by Peter LeFanu Lumsdaine. Score when last checked: 10. Originally posted: 2026-10-28T21:45:36Z.</description>
+    </item>
+    <item>
+      <title>Ramifications of Exponential Time Hypothesis disproof and ECDLP — answer reached score 18</title>
       <link>https://mathoverflow.net/a/516527</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516527</guid>
       <pubDate>Fri, 30 Oct 2026 00:59:36 +0000</pubDate>
-      <description>Answer by Oisin Robinson. Score when last checked: 17. Originally posted: 2026-10-29T09:33:48Z.</description>
+      <description>Answer by Oisin Robinson. Score when last checked: 18. Originally posted: 2026-10-29T09:33:48Z.</description>
     </item>
     <item>
       <title>Explicit (efficient/short) finite axiomatisation of Bounded Zermelo set theory — answer reached score 10</title>
@@ -49,11 +56,11 @@
       <description>Answer by Sam Hopkins. Score when last checked: 20. Originally posted: 2026-10-27T23:25:43Z.</description>
     </item>
     <item>
-      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 24</title>
+      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 25</title>
       <link>https://mathoverflow.net/a/516473</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516473</guid>
       <pubDate>Wed, 28 Oct 2026 16:03:05 +0000</pubDate>
-      <description>Answer by Philip Weiss. Score when last checked: 24. Originally posted: 2026-10-27T22:21:34Z.</description>
+      <description>Answer by Philip Weiss. Score when last checked: 25. Originally posted: 2026-10-27T22:21:34Z.</description>
     </item>
     <item>
       <title>Incomparable elements in Rudin-Keisler order, is this open problem resolved? — answer reached score 10</title>
@@ -63,25 +70,25 @@
       <description>Answer by Will Brian. Score when last checked: 10. Originally posted: 2026-10-20T14:55:07Z.</description>
     </item>
     <item>
-      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 39</title>
+      <title>Are the main libraries of proof assistants becoming unnecessary? — answer reached score 40</title>
       <link>https://mathoverflow.net/a/516477</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516477</guid>
       <pubDate>Wed, 28 Oct 2026 08:32:23 +0000</pubDate>
-      <description>Answer by Timothy Chow. Score when last checked: 39. Originally posted: 2026-10-28T02:29:28Z.</description>
+      <description>Answer by Timothy Chow. Score when last checked: 40. Originally posted: 2026-10-28T02:29:28Z.</description>
     </item>
     <item>
-      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 33</title>
+      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 36</title>
       <link>https://mathoverflow.net/a/516472</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516472</guid>
       <pubDate>Wed, 28 Oct 2026 01:22:05 +0000</pubDate>
-      <description>Answer by Vasily Ilin. Score when last checked: 33. Originally posted: 2026-10-27T22:11:22Z.</description>
+      <description>Answer by Vasily Ilin. Score when last checked: 36. Originally posted: 2026-10-27T22:11:22Z.</description>
     </item>
     <item>
-      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 24</title>
+      <title>Next steps on formal proof of classification of finite simple groups — answer reached score 25</title>
       <link>https://mathoverflow.net/a/516464</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516464</guid>
       <pubDate>Tue, 27 Oct 2026 21:19:45 +0000</pubDate>
-      <description>Answer by arsmath. Score when last checked: 24. Originally posted: 2026-10-27T17:48:05Z.</description>
+      <description>Answer by arsmath. Score when last checked: 25. Originally posted: 2026-10-27T17:48:05Z.</description>
     </item>
     <item>
       <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 19</title>
@@ -637,11 +644,11 @@
       <description>Answer by GH from MO. Score when last checked: 10. Originally posted: 2026-05-27T08:59:04Z.</description>
     </item>
     <item>
-      <title>Soft question: an era in my research terminated by AI (which is, in a way, not so bad) — answer reached score 37</title>
+      <title>Soft question: an era in my research terminated by AI (which is, in a way, not so bad) — answer reached score 38</title>
       <link>https://mathoverflow.net/a/515516</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515516</guid>
       <pubDate>Thu, 24 Sep 2026 18:30:41 +0000</pubDate>
-      <description>Answer by David White. Score when last checked: 37. Originally posted: 2026-09-24T17:20:42Z.</description>
+      <description>Answer by David White. Score when last checked: 38. Originally posted: 2026-09-24T17:20:42Z.</description>
     </item>
     <item>
       <title>Soft question: an era in my research terminated by AI (which is, in a way, not so bad) — answer reached score 50</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515481</guid>
       <pubDate>Wed, 23 Sep 2026 15:27:56 +0000</pubDate>
       <description>Answer by Francois Ziegler. Score when last checked: 18. Originally posted: 2026-09-23T11:06:27Z.</description>
-    </item>
-    <item>
-      <title>AI advisory group vs. immediate open access? — answer reached score 26</title>
-      <link>https://mathoverflow.net/a/515476</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515476</guid>
-      <pubDate>Wed, 23 Sep 2026 15:27:56 +0000</pubDate>
-      <description>Answer by Jochen Glueck. Score when last checked: 26. Originally posted: 2026-09-23T06:06:27Z.</description>
     </item>
   </channel>
 </rss>

@@ -109,7 +109,7 @@
         "owner": "Terry",
         "question_id": "227930",
         "question_title": "Is it unethical to tell my Master's supervisor that I wish to do my PhD elsewhere? Originally I had said that I wanted to do my PhD with her",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-23T11:42:45Z",
@@ -1121,7 +1121,7 @@
       "227961": "2026-10-29T14:19:54.996051Z",
       "227968": "2026-10-29T14:19:54.996051Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "history-high-score": {
     "entries": [
@@ -1227,7 +1227,7 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1553,7 +1553,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "law-high-score": {
     "entries": [
@@ -2561,7 +2561,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "math-high-score": {
     "entries": [
@@ -3195,10 +3195,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-28T21:45:36Z",
+        "answer_id": "516511",
+        "first_seen": "2026-10-30T14:08:29.767299Z",
+        "link": "https://mathoverflow.net/a/516511",
+        "owner": "Peter LeFanu Lumsdaine",
+        "question_id": "516470",
+        "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-29T09:33:48Z",
         "answer_id": "516527",
@@ -3207,7 +3217,7 @@
         "owner": "Oisin Robinson",
         "question_id": "516443",
         "question_title": "Ramifications of Exponential Time Hypothesis disproof and ECDLP",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-20T09:11:41Z",
@@ -3267,7 +3277,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3287,7 +3297,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -3297,7 +3307,7 @@
         "owner": "Vasily Ilin",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 33
+        "score": 36
       },
       {
         "answer_created": "2026-10-27T17:48:05Z",
@@ -3307,7 +3317,7 @@
         "owner": "arsmath",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-10-27T14:17:36Z",
@@ -4107,7 +4117,7 @@
         "owner": "David White",
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 37
+        "score": 38
       },
       {
         "answer_created": "2026-09-24T15:46:54Z",
@@ -4188,16 +4198,6 @@
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
         "score": 18
-      },
-      {
-        "answer_created": "2026-09-23T06:06:27Z",
-        "answer_id": "515476",
-        "first_seen": "2026-09-23T15:27:56.734857Z",
-        "link": "https://mathoverflow.net/a/515476",
-        "owner": "Jochen Glueck",
-        "question_id": "515435",
-        "question_title": "AI advisory group vs. immediate open access?",
-        "score": 26
       }
     ],
     "known": {
@@ -4799,9 +4799,10 @@
       "516480": "2026-10-28T21:04:50.567662Z",
       "516492": "2026-10-28T21:04:50.567662Z",
       "516503": "2026-10-28T21:04:50.567662Z",
+      "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4929,7 +4930,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6053,7 +6054,7 @@
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6093,7 +6094,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7246,7 +7247,7 @@
       "306342": "2026-10-28T08:32:23.417089Z",
       "306345": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "space-high-score": {
     "entries": [
@@ -7693,10 +7694,20 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-28T10:17:44Z",
+        "answer_id": "274882",
+        "first_seen": "2026-10-30T14:08:29.767299Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274882",
+        "owner": "John Dallman",
+        "question_id": "274879",
+        "question_title": "Sustainability of eating an intelligent race",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-28T08:10:50Z",
         "answer_id": "274881",
@@ -7715,7 +7726,7 @@
         "owner": "ccprog",
         "question_id": "274877",
         "question_title": "The legendary crossing of the strait: could it have actually happened?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-28T02:13:40Z",
@@ -7725,7 +7736,7 @@
         "owner": "JBH",
         "question_id": "274877",
         "question_title": "The legendary crossing of the strait: could it have actually happened?",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-10-27T14:20:23Z",
@@ -7735,7 +7746,7 @@
         "owner": "Ted Wrigley",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-27T14:17:53Z",
@@ -7845,7 +7856,7 @@
         "owner": "Vectornaut",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-26T00:47:44Z",
@@ -8686,16 +8697,6 @@
         "question_id": "274495",
         "question_title": "How quickly can a unique language develop?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-09-05T15:33:38Z",
-        "answer_id": "274498",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274498",
-        "owner": "Vesper",
-        "question_id": "274495",
-        "question_title": "How quickly can a unique language develop?",
-        "score": 5
       }
     ],
     "known": {
@@ -8959,8 +8960,9 @@
       "274874": "2026-10-28T08:32:23.417089Z",
       "274878": "2026-10-28T16:03:05.267648Z",
       "274880": "2026-10-28T16:03:05.267648Z",
-      "274881": "2026-10-28T16:03:05.267648Z"
+      "274881": "2026-10-28T16:03:05.267648Z",
+      "274882": "2026-10-30T14:08:29.767299Z"
     },
-    "last_checked": "2026-10-30T07:06:32.729224Z"
+    "last_checked": "2026-10-30T14:08:29.767299Z"
   }
 }
