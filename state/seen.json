@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-28T19:55:50Z",
+        "answer_id": "227967",
+        "first_seen": "2026-10-30T23:46:46.068082Z",
+        "link": "https://academia.stackexchange.com/a/227967",
+        "owner": "Buffy",
+        "question_id": "227964",
+        "question_title": "What should be a sample syllabus for an academic position?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-30T09:13:05Z",
         "answer_id": "227984",
         "first_seen": "2026-10-30T19:22:12.009342Z",
@@ -9,7 +19,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 13
+        "score": 19
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -19,7 +29,7 @@
         "owner": "Azor Ahai -him-",
         "question_id": "227965",
         "question_title": "How do professors feel about using AI for email drafting in PhD applications lately?",
-        "score": 23
+        "score": 28
       },
       {
         "answer_created": "2026-10-28T12:15:56Z",
@@ -29,7 +39,7 @@
         "owner": "deee",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-10-28T06:40:26Z",
@@ -39,7 +49,7 @@
         "owner": "kamilazdybal",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-26T11:51:05Z",
@@ -509,7 +519,7 @@
         "owner": "Buffy",
         "question_id": "227587",
         "question_title": "Is it moral to use an LLM to assist proofs in a math/stats PhD dissertation?",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-08-29T06:21:45Z",
@@ -519,7 +529,7 @@
         "owner": "Joey Eremondi",
         "question_id": "227587",
         "question_title": "Is it moral to use an LLM to assist proofs in a math/stats PhD dissertation?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-08-23T15:42:46Z",
@@ -990,16 +1000,6 @@
         "question_id": "227177",
         "question_title": "Ethics of authors not acknowledging referee at previous journal explicitly",
         "score": 22
-      },
-      {
-        "answer_created": "2026-07-09T00:29:09Z",
-        "answer_id": "227165",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227165",
-        "owner": "Wolfgang Bangerth",
-        "question_id": "227161",
-        "question_title": "Thesis requiring proprietary fonts",
-        "score": 14
       }
     ],
     "known": {
@@ -1119,13 +1119,24 @@
       "227943": "2026-10-27T05:05:17.914693Z",
       "227960": "2026-10-29T14:19:54.996051Z",
       "227961": "2026-10-29T14:19:54.996051Z",
+      "227967": "2026-10-30T23:46:46.068082Z",
       "227968": "2026-10-29T14:19:54.996051Z",
       "227984": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "history-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-24T18:29:02Z",
+        "answer_id": "80398",
+        "first_seen": "2026-10-30T23:46:46.068082Z",
+        "link": "https://history.stackexchange.com/a/80398",
+        "owner": "Brian Z",
+        "question_id": "80397",
+        "question_title": "Until when were the lost texts of the Epic Cycle available in their full form?",
+        "score": 15
+      },
       {
         "answer_created": "2026-09-30T23:40:16Z",
         "answer_id": "80363",
@@ -1226,9 +1237,10 @@
       "80310": "2026-09-17T05:26:41.845016Z",
       "80314": "2026-09-16T15:27:16.600368Z",
       "80316": "2026-09-18T13:26:21.823374Z",
-      "80363": "2026-10-02T13:32:05.793291Z"
+      "80363": "2026-10-02T13:32:05.793291Z",
+      "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1554,7 +1566,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "law-high-score": {
     "entries": [
@@ -2562,7 +2574,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "math-high-score": {
     "entries": [
@@ -3196,7 +3208,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3208,7 +3220,7 @@
         "owner": "Peter LeFanu Lumsdaine",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-29T09:33:48Z",
@@ -3298,7 +3310,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 42
+        "score": 43
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4803,7 +4815,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4931,7 +4943,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4943,7 +4955,7 @@
         "owner": "Michael Seifert",
         "question_id": "877327",
         "question_title": "Why do physics textbooks treat work & energy as a scalar? (+alternative vector formalisation)",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-26T11:43:59Z",
@@ -6056,7 +6068,7 @@
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6096,10 +6108,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-30T11:24:37Z",
+        "answer_id": "306376",
+        "first_seen": "2026-10-30T23:46:46.068082Z",
+        "link": "https://scifi.stackexchange.com/a/306376",
+        "owner": "Valorum",
+        "question_id": "306375",
+        "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
+        "score": 13
+      },
       {
         "answer_created": "2026-10-26T17:48:09Z",
         "answer_id": "306336",
@@ -6718,7 +6740,7 @@
         "owner": "Captain James T. Kirk",
         "question_id": "305815",
         "question_title": "After dying, in what form does a koloss spend time in the Cognitive Realm?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-01T02:31:42Z",
@@ -7089,16 +7111,6 @@
         "question_id": "305417",
         "question_title": "Washingon Post humor article with erroneous descriptions of science fiction novels",
         "score": 19
-      },
-      {
-        "answer_created": "2026-07-31T15:25:04Z",
-        "answer_id": "305409",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305409",
-        "owner": "30Keydet",
-        "question_id": "305406",
-        "question_title": "in TNG: Pegasus, Why does Pressman state that Captain Picard remains in command of the Enterprise?",
-        "score": 12
       }
     ],
     "known": {
@@ -7247,9 +7259,10 @@
       "306333": "2026-10-28T16:03:05.267648Z",
       "306336": "2026-10-30T00:59:36.600201Z",
       "306342": "2026-10-28T08:32:23.417089Z",
-      "306345": "2026-10-28T16:03:05.267648Z"
+      "306345": "2026-10-28T16:03:05.267648Z",
+      "306376": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "space-high-score": {
     "entries": [
@@ -7696,7 +7709,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7708,7 +7721,7 @@
         "owner": "jcaron",
         "question_id": "274877",
         "question_title": "The legendary crossing of the strait: could it have actually happened?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-28T10:17:44Z",
@@ -7718,7 +7731,7 @@
         "owner": "John Dallman",
         "question_id": "274879",
         "question_title": "Sustainability of eating an intelligent race",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-28T08:10:50Z",
@@ -7728,7 +7741,7 @@
         "owner": "Trioxidane",
         "question_id": "274879",
         "question_title": "Sustainability of eating an intelligent race",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-28T05:47:18Z",
@@ -8966,6 +8979,6 @@
       "274882": "2026-10-30T14:08:29.767299Z",
       "274888": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-30T19:22:12.009342Z"
+    "last_checked": "2026-10-30T23:46:46.068082Z"
   }
 }
