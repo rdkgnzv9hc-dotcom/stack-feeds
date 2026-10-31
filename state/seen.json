@@ -2,14 +2,34 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-30T23:37:29Z",
+        "answer_id": "227988",
+        "first_seen": "2026-10-31T21:34:36.297799Z",
+        "link": "https://academia.stackexchange.com/a/227988",
+        "owner": "Roddy",
+        "question_id": "227982",
+        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-30T12:04:26Z",
+        "answer_id": "227985",
+        "first_seen": "2026-10-31T21:34:36.297799Z",
+        "link": "https://academia.stackexchange.com/a/227985",
+        "owner": "pyrochlor",
+        "question_id": "227982",
+        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-30T19:27:06Z",
         "answer_id": "227986",
         "first_seen": "2026-10-31T17:43:42.790843Z",
         "link": "https://academia.stackexchange.com/a/227986",
         "owner": "David White",
         "question_id": "227982",
-        "question_title": "Has anyone paid $45 to download an article?",
-        "score": 11
+        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
+        "score": 14
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -38,8 +58,8 @@
         "link": "https://academia.stackexchange.com/a/227984",
         "owner": "Allure",
         "question_id": "227982",
-        "question_title": "Has anyone paid $45 to download an article?",
-        "score": 26
+        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
+        "score": 28
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -980,26 +1000,6 @@
         "question_id": "227202",
         "question_title": "If \"No one knows everything, and you don't have to\", then how do you know where to start research?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-07-12T23:36:37Z",
-        "answer_id": "227189",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227189",
-        "owner": "StephenG - Help Ukraine",
-        "question_id": "227174",
-        "question_title": "I'm concerned about my student as a person",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-07-11T23:31:34Z",
-        "answer_id": "227185",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227185",
-        "owner": "user67527",
-        "question_id": "227174",
-        "question_title": "I'm concerned about my student as a person",
-        "score": 20
       }
     ],
     "known": {
@@ -1123,9 +1123,11 @@
       "227967": "2026-10-30T23:46:46.068082Z",
       "227968": "2026-10-29T14:19:54.996051Z",
       "227984": "2026-10-30T19:22:12.009342Z",
-      "227986": "2026-10-31T17:43:42.790843Z"
+      "227985": "2026-10-31T21:34:36.297799Z",
+      "227986": "2026-10-31T17:43:42.790843Z",
+      "227988": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "history-high-score": {
     "entries": [
@@ -1242,7 +1244,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1568,7 +1570,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "law-high-score": {
     "entries": [
@@ -2576,7 +2578,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "math-high-score": {
     "entries": [
@@ -3210,10 +3212,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-22T10:29:37Z",
+        "answer_id": "516272",
+        "first_seen": "2026-10-31T21:34:36.297799Z",
+        "link": "https://mathoverflow.net/a/516272",
+        "owner": "bof",
+        "question_id": "516191",
+        "question_title": "Infinite almost rigid vertex-transitive graph",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-27T12:49:59Z",
         "answer_id": "516449",
@@ -4203,16 +4215,6 @@
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
         "score": 21
-      },
-      {
-        "answer_created": "2026-09-07T13:43:39Z",
-        "answer_id": "515000",
-        "first_seen": "2026-09-23T16:29:05.285893Z",
-        "link": "https://mathoverflow.net/a/515000",
-        "owner": "Kimball",
-        "question_id": "514973",
-        "question_title": "Effect of AI on publication rates",
-        "score": 11
       }
     ],
     "known": {
@@ -4795,6 +4797,7 @@
       "516226": "2026-10-24T20:49:54.990023Z",
       "516234": "2026-10-23T07:32:43.796099Z",
       "516250": "2026-10-22T22:24:12.632029Z",
+      "516272": "2026-10-31T21:34:36.297799Z",
       "516295": "2026-10-23T18:21:41.590960Z",
       "516296": "2026-10-23T18:21:41.590960Z",
       "516318": "2026-10-24T11:00:33.667313Z",
@@ -4818,7 +4821,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4946,7 +4949,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6071,7 +6074,7 @@
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6111,10 +6114,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-30T20:17:35Z",
+        "answer_id": "306385",
+        "first_seen": "2026-10-31T21:34:36.297799Z",
+        "link": "https://scifi.stackexchange.com/a/306385",
+        "owner": "Valorum",
+        "question_id": "306377",
+        "question_title": "What was Tom Riddle\u2019s pet at Hogwarts?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-30T11:24:37Z",
         "answer_id": "306376",
@@ -6123,7 +6136,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7104,16 +7117,6 @@
         "question_id": "305435",
         "question_title": "In \"Batman: The Dark Knight\" did the gas grenades kill everyone?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-01T16:25:11Z",
-        "answer_id": "305423",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305423",
-        "owner": "Andrew",
-        "question_id": "305417",
-        "question_title": "Washingon Post humor article with erroneous descriptions of science fiction novels",
-        "score": 19
       }
     ],
     "known": {
@@ -7263,9 +7266,10 @@
       "306336": "2026-10-30T00:59:36.600201Z",
       "306342": "2026-10-28T08:32:23.417089Z",
       "306345": "2026-10-28T16:03:05.267648Z",
-      "306376": "2026-10-30T23:46:46.068082Z"
+      "306376": "2026-10-30T23:46:46.068082Z",
+      "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "space-high-score": {
     "entries": [
@@ -7712,7 +7716,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8982,6 +8986,6 @@
       "274882": "2026-10-30T14:08:29.767299Z",
       "274888": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T17:43:42.790843Z"
+    "last_checked": "2026-10-31T21:34:36.297799Z"
   }
 }
