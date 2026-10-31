@@ -19,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "227964",
         "question_title": "What should be a sample syllabus for an academic position?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-30T09:13:05Z",
@@ -29,7 +29,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Has anyone paid $45 to download an article?",
-        "score": 22
+        "score": 24
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -49,7 +49,7 @@
         "owner": "deee",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-10-28T06:40:26Z",
@@ -59,7 +59,7 @@
         "owner": "kamilazdybal",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-26T11:51:05Z",
@@ -1124,7 +1124,7 @@
       "227968": "2026-10-29T14:19:54.996051Z",
       "227984": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "history-high-score": {
     "entries": [
@@ -1241,7 +1241,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1567,7 +1567,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "law-high-score": {
     "entries": [
@@ -2575,7 +2575,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "math-high-score": {
     "entries": [
@@ -3209,7 +3209,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3351,7 +3351,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -3391,7 +3391,7 @@
         "owner": "Michel Hua",
         "question_id": "312660",
         "question_title": "Grothendieck letter to Jun-Ichi Yamashita on tame topology",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-24T20:32:26Z",
@@ -4041,7 +4041,7 @@
         "owner": "Timothy Chow",
         "question_id": "515632",
         "question_title": "Formalization advice for mathematicians",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-29T23:12:43Z",
@@ -4816,7 +4816,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4944,7 +4944,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6069,7 +6069,7 @@
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6109,7 +6109,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6121,7 +6121,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 14
+        "score": 18
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7263,7 +7263,7 @@
       "306345": "2026-10-28T16:03:05.267648Z",
       "306376": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "space-high-score": {
     "entries": [
@@ -7515,7 +7515,7 @@
         "owner": "Nuclear Hoagie",
         "question_id": "70667",
         "question_title": "What's the meaning of the tethered/strangulated Snoopy on the SMEAT/Skylab preparation mission patch?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-08-13T00:39:08Z",
@@ -7525,7 +7525,7 @@
         "owner": "Organic Marble",
         "question_id": "70663",
         "question_title": "Did the Saturn V\u2019s stage 2 (S-II) use helium for filling space in its tanks? Why or why not?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-08-11T03:59:52Z",
@@ -7710,7 +7710,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7742,7 +7742,7 @@
         "owner": "Trioxidane",
         "question_id": "274879",
         "question_title": "Sustainability of eating an intelligent race",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-28T05:47:18Z",
@@ -8980,6 +8980,6 @@
       "274882": "2026-10-30T14:08:29.767299Z",
       "274888": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T05:41:17.220125Z"
+    "last_checked": "2026-10-31T12:29:27.678445Z"
   }
 }
