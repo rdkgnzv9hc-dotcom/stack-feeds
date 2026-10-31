@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-30T19:27:06Z",
+        "answer_id": "227986",
+        "first_seen": "2026-10-31T17:43:42.790843Z",
+        "link": "https://academia.stackexchange.com/a/227986",
+        "owner": "David White",
+        "question_id": "227982",
+        "question_title": "Has anyone paid $45 to download an article?",
+        "score": 11
+      },
+      {
         "answer_created": "2026-10-27T20:11:54Z",
         "answer_id": "227957",
         "first_seen": "2026-10-31T05:41:17.220125Z",
@@ -19,7 +29,7 @@
         "owner": "Buffy",
         "question_id": "227964",
         "question_title": "What should be a sample syllabus for an academic position?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-30T09:13:05Z",
@@ -29,7 +39,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Has anyone paid $45 to download an article?",
-        "score": 24
+        "score": 26
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -39,7 +49,7 @@
         "owner": "Azor Ahai -him-",
         "question_id": "227965",
         "question_title": "How do professors feel about using AI for email drafting in PhD applications lately?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-10-28T12:15:56Z",
@@ -49,7 +59,7 @@
         "owner": "deee",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-28T06:40:26Z",
@@ -990,16 +1000,6 @@
         "question_id": "227174",
         "question_title": "I'm concerned about my student as a person",
         "score": 20
-      },
-      {
-        "answer_created": "2026-07-11T16:38:37Z",
-        "answer_id": "227181",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227181",
-        "owner": "Ted Wrigley",
-        "question_id": "227177",
-        "question_title": "Ethics of authors not acknowledging referee at previous journal explicitly",
-        "score": 11
       }
     ],
     "known": {
@@ -1122,9 +1122,10 @@
       "227961": "2026-10-29T14:19:54.996051Z",
       "227967": "2026-10-30T23:46:46.068082Z",
       "227968": "2026-10-29T14:19:54.996051Z",
-      "227984": "2026-10-30T19:22:12.009342Z"
+      "227984": "2026-10-30T19:22:12.009342Z",
+      "227986": "2026-10-31T17:43:42.790843Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "history-high-score": {
     "entries": [
@@ -1241,7 +1242,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1567,7 +1568,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "law-high-score": {
     "entries": [
@@ -2575,7 +2576,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "math-high-score": {
     "entries": [
@@ -3209,10 +3210,20 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-27T12:49:59Z",
+        "answer_id": "516449",
+        "first_seen": "2026-10-31T17:43:42.790843Z",
+        "link": "https://mathoverflow.net/a/516449",
+        "owner": "Nate River",
+        "question_id": "516445",
+        "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-28T21:45:36Z",
         "answer_id": "516511",
@@ -3231,7 +3242,7 @@
         "owner": "Oisin Robinson",
         "question_id": "516443",
         "question_title": "Ramifications of Exponential Time Hypothesis disproof and ECDLP",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-10-20T09:11:41Z",
@@ -3241,7 +3252,7 @@
         "owner": "Ali Enayat",
         "question_id": "516115",
         "question_title": "Explicit (efficient/short) finite axiomatisation of Bounded Zermelo set theory",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-28T17:45:40Z",
@@ -3261,7 +3272,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 15
+        "score": 22
       },
       {
         "answer_created": "2026-10-28T04:44:11Z",
@@ -3341,7 +3352,7 @@
         "owner": "Bruno Martelli",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-27T12:36:58Z",
@@ -3351,7 +3362,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 32
+        "score": 34
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -3391,7 +3402,7 @@
         "owner": "Michel Hua",
         "question_id": "312660",
         "question_title": "Grothendieck letter to Jun-Ichi Yamashita on tame topology",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-24T20:32:26Z",
@@ -3431,7 +3442,7 @@
         "owner": "Ali Enayat",
         "question_id": "516305",
         "question_title": "Resplendency vs recursive saturation in models of PA",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-22T23:31:26Z",
@@ -4202,16 +4213,6 @@
         "question_id": "514973",
         "question_title": "Effect of AI on publication rates",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-23T11:06:27Z",
-        "answer_id": "515481",
-        "first_seen": "2026-09-23T15:27:56.734857Z",
-        "link": "https://mathoverflow.net/a/515481",
-        "owner": "Francois Ziegler",
-        "question_id": "515435",
-        "question_title": "AI advisory group vs. immediate open access?",
-        "score": 18
       }
     ],
     "known": {
@@ -4804,6 +4805,7 @@
       "516391": "2026-10-26T13:08:34.566804Z",
       "516430": "2026-10-27T16:39:11.781044Z",
       "516446": "2026-10-27T16:39:11.781044Z",
+      "516449": "2026-10-31T17:43:42.790843Z",
       "516456": "2026-10-27T16:39:11.781044Z",
       "516464": "2026-10-27T21:19:45.735648Z",
       "516472": "2026-10-28T01:22:05.486905Z",
@@ -4816,7 +4818,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4944,7 +4946,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6069,7 +6071,7 @@
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6109,7 +6111,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6121,7 +6123,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 18
+        "score": 21
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7263,7 +7265,7 @@
       "306345": "2026-10-28T16:03:05.267648Z",
       "306376": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "space-high-score": {
     "entries": [
@@ -7275,7 +7277,7 @@
         "owner": "Sanyukta Deb",
         "question_id": "66141",
         "question_title": "Has the continued monitoring of the Voyagers probes been in danger of being discontinued, and if so, how many times?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-15T00:19:40Z",
@@ -7710,7 +7712,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7942,7 +7944,7 @@
         "owner": "g s",
         "question_id": "274825",
         "question_title": "The government has just injected massive amounts of cash into the economy via infrastructure spending. Why is the economy not inflating?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-23T07:04:32Z",
@@ -8980,6 +8982,6 @@
       "274882": "2026-10-30T14:08:29.767299Z",
       "274888": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T12:29:27.678445Z"
+    "last_checked": "2026-10-31T17:43:42.790843Z"
   }
 }
