@@ -9,7 +9,7 @@
         "owner": "Captain Emacs",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-30T23:37:29Z",
@@ -18,8 +18,8 @@
         "link": "https://academia.stackexchange.com/a/227988",
         "owner": "Roddy",
         "question_id": "227982",
-        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 12
+        "question_title": "Has anyone purchased individual research articles instead of pirating?",
+        "score": 15
       },
       {
         "answer_created": "2026-10-30T12:04:26Z",
@@ -28,7 +28,7 @@
         "link": "https://academia.stackexchange.com/a/227985",
         "owner": "pyrochlor",
         "question_id": "227982",
-        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
+        "question_title": "Has anyone purchased individual research articles instead of pirating?",
         "score": 10
       },
       {
@@ -38,8 +38,8 @@
         "link": "https://academia.stackexchange.com/a/227986",
         "owner": "David White",
         "question_id": "227982",
-        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 20
+        "question_title": "Has anyone purchased individual research articles instead of pirating?",
+        "score": 24
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -68,8 +68,8 @@
         "link": "https://academia.stackexchange.com/a/227984",
         "owner": "Allure",
         "question_id": "227982",
-        "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 31
+        "question_title": "Has anyone purchased individual research articles instead of pirating?",
+        "score": 33
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -1128,7 +1128,7 @@
       "227988": "2026-10-31T21:34:36.297799Z",
       "227992": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "history-high-score": {
     "entries": [
@@ -1245,7 +1245,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1571,7 +1571,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "law-high-score": {
     "entries": [
@@ -2579,10 +2579,20 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "math-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-29T07:33:49Z",
+        "answer_id": "5153098",
+        "first_seen": "2026-11-01T15:09:12.745405Z",
+        "link": "https://math.stackexchange.com/a/5153098",
+        "owner": "Martin Brandenburg",
+        "question_id": "5153091",
+        "question_title": "When reading a textbook, how do I approach \"learning\" mathematical definitions?",
+        "score": 25
+      },
       {
         "answer_created": "2026-09-22T11:58:31Z",
         "answer_id": "5150058",
@@ -3211,12 +3221,33 @@
       "5148447": "2026-09-11T15:46:44.077292Z",
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z",
-      "5150058": "2026-09-24T18:30:41.045206Z"
+      "5150058": "2026-09-24T18:30:41.045206Z",
+      "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-29T11:24:42Z",
+        "answer_id": "516530",
+        "first_seen": "2026-11-01T15:09:12.745405Z",
+        "link": "https://mathoverflow.net/a/516530",
+        "owner": "Wojowu",
+        "question_id": "516528",
+        "question_title": "Continuous surjection that is \"as injective as possible\"",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-10-27T13:03:31Z",
+        "answer_id": "516451",
+        "first_seen": "2026-11-01T15:09:12.745405Z",
+        "link": "https://mathoverflow.net/a/516451",
+        "owner": "Sam Hopkins",
+        "question_id": "516445",
+        "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-22T10:29:37Z",
         "answer_id": "516272",
@@ -3245,7 +3276,7 @@
         "owner": "Peter LeFanu Lumsdaine",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-10-29T09:33:48Z",
@@ -3285,7 +3316,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-28T04:44:11Z",
@@ -3305,7 +3336,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-27T22:21:34Z",
@@ -3315,7 +3346,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3335,7 +3366,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 43
+        "score": 45
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4196,26 +4227,6 @@
         "question_id": "515233",
         "question_title": "Distribution of prime ideals on number fields",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-23T15:18:23Z",
-        "answer_id": "515491",
-        "first_seen": "2026-09-24T00:34:19.734526Z",
-        "link": "https://mathoverflow.net/a/515491",
-        "owner": "tgkolda",
-        "question_id": "514973",
-        "question_title": "Effect of AI on publication rates",
-        "score": 19
-      },
-      {
-        "answer_created": "2026-09-23T13:48:52Z",
-        "answer_id": "515487",
-        "first_seen": "2026-09-23T23:22:38.000528Z",
-        "link": "https://mathoverflow.net/a/515487",
-        "owner": "Sam Hopkins",
-        "question_id": "515435",
-        "question_title": "AI advisory group vs. immediate open access?",
-        "score": 21
       }
     ],
     "known": {
@@ -4810,6 +4821,7 @@
       "516430": "2026-10-27T16:39:11.781044Z",
       "516446": "2026-10-27T16:39:11.781044Z",
       "516449": "2026-10-31T17:43:42.790843Z",
+      "516451": "2026-11-01T15:09:12.745405Z",
       "516456": "2026-10-27T16:39:11.781044Z",
       "516464": "2026-10-27T21:19:45.735648Z",
       "516472": "2026-10-28T01:22:05.486905Z",
@@ -4820,9 +4832,10 @@
       "516492": "2026-10-28T21:04:50.567662Z",
       "516503": "2026-10-28T21:04:50.567662Z",
       "516511": "2026-10-30T14:08:29.767299Z",
-      "516527": "2026-10-30T00:59:36.600201Z"
+      "516527": "2026-10-30T00:59:36.600201Z",
+      "516530": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4950,10 +4963,20 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-31T12:08:03Z",
+        "answer_id": "877358",
+        "first_seen": "2026-11-01T15:09:12.745405Z",
+        "link": "https://physics.stackexchange.com/a/877358",
+        "owner": "rob",
+        "question_id": "877343",
+        "question_title": "Why can horsehair worms untie themselves?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-30T11:36:11Z",
         "answer_id": "877329",
@@ -5943,16 +5966,6 @@
         "question_id": "873873",
         "question_title": "What is the average acceleration of this graph? (high school)",
         "score": 14
-      },
-      {
-        "answer_created": "2026-06-29T22:21:19Z",
-        "answer_id": "873847",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873847",
-        "owner": "rob",
-        "question_id": "873844",
-        "question_title": "Is it a coincidence that the heaviest element (so far) oganesson is a \"noble gas\"?",
-        "score": 22
       }
     ],
     "known": {
@@ -6073,9 +6086,10 @@
       "877233": "2026-10-28T16:03:05.267648Z",
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z",
-      "877329": "2026-10-30T19:22:12.009342Z"
+      "877329": "2026-10-30T19:22:12.009342Z",
+      "877358": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6115,7 +6129,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6127,7 +6141,7 @@
         "owner": "Valorum",
         "question_id": "306377",
         "question_title": "What was Tom Riddle\u2019s pet at Hogwarts?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-30T11:24:37Z",
@@ -6137,7 +6151,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7270,7 +7284,7 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "space-high-score": {
     "entries": [
@@ -7717,7 +7731,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8988,6 +9002,6 @@
       "274888": "2026-10-30T19:22:12.009342Z",
       "274901": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T07:32:09.109882Z"
+    "last_checked": "2026-11-01T15:09:12.745405Z"
   }
 }
