@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-10-31T11:32:03Z",
+        "answer_id": "227992",
+        "first_seen": "2026-11-01T01:09:49.329920Z",
+        "link": "https://academia.stackexchange.com/a/227992",
+        "owner": "Captain Emacs",
+        "question_id": "227990",
+        "question_title": "Has loyalty to an institution become more highly valued than mobility?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-30T23:37:29Z",
         "answer_id": "227988",
         "first_seen": "2026-10-31T21:34:36.297799Z",
@@ -29,7 +39,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 14
+        "score": 17
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -59,7 +69,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -990,16 +1000,6 @@
         "question_id": "227208",
         "question_title": "How far to go after getting scooped by a friend who used my work to solve the project I started?",
         "score": 29
-      },
-      {
-        "answer_created": "2026-07-14T17:48:49Z",
-        "answer_id": "227207",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227207",
-        "owner": "Anyon",
-        "question_id": "227202",
-        "question_title": "If \"No one knows everything, and you don't have to\", then how do you know where to start research?",
-        "score": 17
       }
     ],
     "known": {
@@ -1125,9 +1125,10 @@
       "227984": "2026-10-30T19:22:12.009342Z",
       "227985": "2026-10-31T21:34:36.297799Z",
       "227986": "2026-10-31T17:43:42.790843Z",
-      "227988": "2026-10-31T21:34:36.297799Z"
+      "227988": "2026-10-31T21:34:36.297799Z",
+      "227992": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "history-high-score": {
     "entries": [
@@ -1244,7 +1245,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1570,7 +1571,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "law-high-score": {
     "entries": [
@@ -2578,7 +2579,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "math-high-score": {
     "entries": [
@@ -3212,7 +3213,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4821,7 +4822,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4949,7 +4950,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6074,7 +6075,7 @@
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6114,7 +6115,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7269,7 +7270,7 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "space-high-score": {
     "entries": [
@@ -7716,10 +7717,20 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-30T12:27:52Z",
+        "answer_id": "274901",
+        "first_seen": "2026-11-01T01:09:49.329920Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274901",
+        "owner": "30Keydet",
+        "question_id": "274896",
+        "question_title": "How to fake torture/ mistreatment",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-29T07:45:35Z",
         "answer_id": "274888",
@@ -8709,16 +8720,6 @@
         "question_id": "274514",
         "question_title": "Hypothetically, how could someone be immediately killed by a radio tower?",
         "score": 7
-      },
-      {
-        "answer_created": "2026-09-08T23:04:13Z",
-        "answer_id": "274515",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274515",
-        "owner": "jdunlop",
-        "question_id": "274514",
-        "question_title": "Hypothetically, how could someone be immediately killed by a radio tower?",
-        "score": 11
       }
     ],
     "known": {
@@ -8984,8 +8985,9 @@
       "274880": "2026-10-28T16:03:05.267648Z",
       "274881": "2026-10-28T16:03:05.267648Z",
       "274882": "2026-10-30T14:08:29.767299Z",
-      "274888": "2026-10-30T19:22:12.009342Z"
+      "274888": "2026-10-30T19:22:12.009342Z",
+      "274901": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-10-31T21:34:36.297799Z"
+    "last_checked": "2026-11-01T01:09:49.329920Z"
   }
 }
