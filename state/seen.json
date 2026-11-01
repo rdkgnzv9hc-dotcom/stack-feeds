@@ -9,7 +9,7 @@
         "owner": "Captain Emacs",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-30T23:37:29Z",
@@ -19,7 +19,7 @@
         "owner": "Roddy",
         "question_id": "227982",
         "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-10-30T12:04:26Z",
@@ -39,7 +39,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 17
+        "score": 20
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -69,7 +69,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Has there been anybody who seriously paid $45 to download an article?",
-        "score": 29
+        "score": 31
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -1128,7 +1128,7 @@
       "227988": "2026-10-31T21:34:36.297799Z",
       "227992": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "history-high-score": {
     "entries": [
@@ -1245,7 +1245,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1571,7 +1571,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "law-high-score": {
     "entries": [
@@ -2579,7 +2579,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "math-high-score": {
     "entries": [
@@ -3213,7 +3213,7 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3375,7 +3375,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 34
+        "score": 35
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -4822,7 +4822,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4950,7 +4950,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6075,7 +6075,7 @@
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6115,7 +6115,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6137,7 +6137,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7270,7 +7270,7 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "space-high-score": {
     "entries": [
@@ -7717,7 +7717,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8209,7 +8209,7 @@
         "owner": "L.Dutch",
         "question_id": "274776",
         "question_title": "How Would Rings Affect Trade Winds?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-12T14:31:00Z",
@@ -8988,6 +8988,6 @@
       "274888": "2026-10-30T19:22:12.009342Z",
       "274901": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T01:09:49.329920Z"
+    "last_checked": "2026-11-01T07:32:09.109882Z"
   }
 }
