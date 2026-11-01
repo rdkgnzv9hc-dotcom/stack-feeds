@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 19:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:35:30 +0000</lastBuildDate>
+    <item>
+      <title>Was there any prior 'strong evidence' for ETH? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516615</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516615</guid>
+      <pubDate>Sun, 01 Nov 2026 23:35:30 +0000</pubDate>
+      <description>Answer by Sanchayan Dutta. Score when last checked: 10. Originally posted: 2026-11-01T19:51:00Z.</description>
+    </item>
     <item>
       <title>Continuous surjection that is "as injective as possible" — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516530</link>
@@ -133,11 +140,11 @@
       <description>Answer by David White. Score when last checked: 35. Originally posted: 2026-10-27T12:36:58Z.</description>
     </item>
     <item>
-      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 13</title>
+      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 14</title>
       <link>https://mathoverflow.net/a/516430</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516430</guid>
       <pubDate>Tue, 27 Oct 2026 16:39:11 +0000</pubDate>
-      <description>Answer by Timothy Chow. Score when last checked: 13. Originally posted: 2026-10-27T04:30:22Z.</description>
+      <description>Answer by Timothy Chow. Score when last checked: 14. Originally posted: 2026-10-27T04:30:22Z.</description>
     </item>
     <item>
       <title>Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem? — answer reached score 15</title>
@@ -210,11 +217,11 @@
       <description>Answer by GH from MO. Score when last checked: 15. Originally posted: 2026-10-21T12:55:29Z.</description>
     </item>
     <item>
-      <title>Reliability of Anthropic's Lean verifications — answer reached score 14</title>
+      <title>Reliability of Anthropic's Lean verifications — answer reached score 15</title>
       <link>https://mathoverflow.net/a/516250</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516250</guid>
       <pubDate>Thu, 22 Oct 2026 22:24:12 +0000</pubDate>
-      <description>Answer by Piotr Hajlasz. Score when last checked: 14. Originally posted: 2026-10-22T01:16:30Z.</description>
+      <description>Answer by Piotr Hajlasz. Score when last checked: 15. Originally posted: 2026-10-22T01:16:30Z.</description>
     </item>
     <item>
       <title>Self-study path and prerequisites: From fundamental group theory to Clausen–Scholze condensed mathematics — answer reached score 11</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515508</guid>
       <pubDate>Thu, 24 Sep 2026 13:29:16 +0000</pubDate>
       <description>Answer by James E Hanson. Score when last checked: 55. Originally posted: 2026-09-24T12:37:52Z.</description>
-    </item>
-    <item>
-      <title>Distribution of prime ideals on number fields — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/515239</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515239</guid>
-      <pubDate>Thu, 24 Sep 2026 10:27:53 +0000</pubDate>
-      <description>Answer by Alison Miller. Score when last checked: 10. Originally posted: 2026-09-15T03:16:48Z.</description>
     </item>
   </channel>
 </rss>

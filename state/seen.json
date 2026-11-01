@@ -29,7 +29,7 @@
         "owner": "pyrochlor",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-30T19:27:06Z",
@@ -1128,7 +1128,7 @@
       "227988": "2026-10-31T21:34:36.297799Z",
       "227992": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "history-high-score": {
     "entries": [
@@ -1245,7 +1245,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1571,7 +1571,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "law-high-score": {
     "entries": [
@@ -2579,7 +2579,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "math-high-score": {
     "entries": [
@@ -2591,7 +2591,7 @@
         "owner": "Martin Brandenburg",
         "question_id": "5153091",
         "question_title": "When reading a textbook, how do I approach \"learning\" mathematical definitions?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-09-22T11:58:31Z",
@@ -3224,10 +3224,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-01T19:51:00Z",
+        "answer_id": "516615",
+        "first_seen": "2026-11-01T23:35:30.280480Z",
+        "link": "https://mathoverflow.net/a/516615",
+        "owner": "Sanchayan Dutta",
+        "question_id": "516603",
+        "question_title": "Was there any prior 'strong evidence' for ETH?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-29T11:24:42Z",
         "answer_id": "516530",
@@ -3416,7 +3426,7 @@
         "owner": "Timothy Chow",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-23T23:30:58Z",
@@ -3526,7 +3536,7 @@
         "owner": "Piotr Hajlasz",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-20T21:54:24Z",
@@ -4217,16 +4227,6 @@
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
         "score": 55
-      },
-      {
-        "answer_created": "2026-09-15T03:16:48Z",
-        "answer_id": "515239",
-        "first_seen": "2026-09-24T10:27:53.756584Z",
-        "link": "https://mathoverflow.net/a/515239",
-        "owner": "Alison Miller",
-        "question_id": "515233",
-        "question_title": "Distribution of prime ideals on number fields",
-        "score": 10
       }
     ],
     "known": {
@@ -4833,9 +4833,10 @@
       "516503": "2026-10-28T21:04:50.567662Z",
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z",
-      "516530": "2026-11-01T15:09:12.745405Z"
+      "516530": "2026-11-01T15:09:12.745405Z",
+      "516615": "2026-11-01T23:35:30.280480Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4963,7 +4964,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6089,7 +6090,7 @@
       "877329": "2026-10-30T19:22:12.009342Z",
       "877358": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6129,7 +6130,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6151,7 +6152,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7284,7 +7285,7 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "space-high-score": {
     "entries": [
@@ -7742,7 +7743,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9013,6 +9014,6 @@
       "274888": "2026-10-30T19:22:12.009342Z",
       "274901": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T19:40:28.313078Z"
+    "last_checked": "2026-11-01T23:35:30.280480Z"
   }
 }
