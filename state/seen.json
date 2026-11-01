@@ -18,8 +18,8 @@
         "link": "https://academia.stackexchange.com/a/227988",
         "owner": "Roddy",
         "question_id": "227982",
-        "question_title": "Has anyone purchased individual research articles instead of pirating?",
-        "score": 15
+        "question_title": "Do people seriously pay $45 to download an article?",
+        "score": 16
       },
       {
         "answer_created": "2026-10-30T12:04:26Z",
@@ -28,7 +28,7 @@
         "link": "https://academia.stackexchange.com/a/227985",
         "owner": "pyrochlor",
         "question_id": "227982",
-        "question_title": "Has anyone purchased individual research articles instead of pirating?",
+        "question_title": "Do people seriously pay $45 to download an article?",
         "score": 10
       },
       {
@@ -38,8 +38,8 @@
         "link": "https://academia.stackexchange.com/a/227986",
         "owner": "David White",
         "question_id": "227982",
-        "question_title": "Has anyone purchased individual research articles instead of pirating?",
-        "score": 24
+        "question_title": "Do people seriously pay $45 to download an article?",
+        "score": 27
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -68,8 +68,8 @@
         "link": "https://academia.stackexchange.com/a/227984",
         "owner": "Allure",
         "question_id": "227982",
-        "question_title": "Has anyone purchased individual research articles instead of pirating?",
-        "score": 33
+        "question_title": "Do people seriously pay $45 to download an article?",
+        "score": 35
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -1128,7 +1128,7 @@
       "227988": "2026-10-31T21:34:36.297799Z",
       "227992": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "history-high-score": {
     "entries": [
@@ -1245,7 +1245,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1571,7 +1571,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "law-high-score": {
     "entries": [
@@ -2579,7 +2579,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "math-high-score": {
     "entries": [
@@ -3224,7 +3224,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3286,7 +3286,7 @@
         "owner": "Oisin Robinson",
         "question_id": "516443",
         "question_title": "Ramifications of Exponential Time Hypothesis disproof and ECDLP",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-20T09:11:41Z",
@@ -3346,7 +3346,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3366,7 +3366,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 45
+        "score": 47
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4835,7 +4835,7 @@
       "516527": "2026-10-30T00:59:36.600201Z",
       "516530": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4963,7 +4963,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6089,7 +6089,7 @@
       "877329": "2026-10-30T19:22:12.009342Z",
       "877358": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6129,7 +6129,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6141,7 +6141,7 @@
         "owner": "Valorum",
         "question_id": "306377",
         "question_title": "What was Tom Riddle\u2019s pet at Hogwarts?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-30T11:24:37Z",
@@ -7284,10 +7284,20 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-20T02:15:12Z",
+        "answer_id": "70716",
+        "first_seen": "2026-11-01T19:40:28.313078Z",
+        "link": "https://space.stackexchange.com/a/70716",
+        "owner": "GremlinWranger",
+        "question_id": "70710",
+        "question_title": "High-altitude blimp on Venus: shortsleeves weather?",
+        "score": 5
+      },
       {
         "answer_created": "2026-10-27T13:41:19Z",
         "answer_id": "70775",
@@ -7717,6 +7727,7 @@
       "70697": "2026-09-11T17:35:15.780317Z",
       "70707": "2026-09-18T13:26:21.823374Z",
       "70715": "2026-09-20T00:34:11.817599Z",
+      "70716": "2026-11-01T19:40:28.313078Z",
       "70719": "2026-09-26T19:24:57.012170Z",
       "70723": "2026-09-30T13:31:18.492431Z",
       "70725": "2026-10-02T18:33:16.116144Z",
@@ -7731,7 +7742,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7803,7 +7814,7 @@
         "owner": "Ted Wrigley",
         "question_id": "274842",
         "question_title": "How do the Guestarians know?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-10-27T14:17:53Z",
@@ -9002,6 +9013,6 @@
       "274888": "2026-10-30T19:22:12.009342Z",
       "274901": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T15:09:12.745405Z"
+    "last_checked": "2026-11-01T19:40:28.313078Z"
   }
 }
