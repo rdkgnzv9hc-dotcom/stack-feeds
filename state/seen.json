@@ -9,7 +9,7 @@
         "owner": "Captain Emacs",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-10-30T23:37:29Z",
@@ -19,7 +19,7 @@
         "owner": "Roddy",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-30T12:04:26Z",
@@ -29,7 +29,7 @@
         "owner": "pyrochlor",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-10-30T19:27:06Z",
@@ -39,7 +39,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 28
+        "score": 33
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -69,7 +69,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 35
+        "score": 39
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -1128,7 +1128,7 @@
       "227988": "2026-10-31T21:34:36.297799Z",
       "227992": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "history-high-score": {
     "entries": [
@@ -1245,7 +1245,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1571,10 +1571,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-30T15:50:09Z",
+        "answer_id": "116868",
+        "first_seen": "2026-11-02T15:52:40.196607Z",
+        "link": "https://law.stackexchange.com/a/116868",
+        "owner": "Joe W",
+        "question_id": "116867",
+        "question_title": "Could congress pass a law to prevent the President from abusing his pardon power?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-23T20:09:46Z",
         "answer_id": "116820",
@@ -1813,7 +1823,7 @@
         "owner": "Dale M",
         "question_id": "115631",
         "question_title": "Can the US President ban US diesel exports via executive action?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-21T04:01:13Z",
@@ -2577,9 +2587,10 @@
       "116784": "2026-10-19T15:59:36.462008Z",
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z",
-      "116820": "2026-10-27T05:05:17.914693Z"
+      "116820": "2026-10-27T05:05:17.914693Z",
+      "116868": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "math-high-score": {
     "entries": [
@@ -3224,10 +3235,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-01T12:56:29Z",
+        "answer_id": "516605",
+        "first_seen": "2026-11-02T15:52:40.196607Z",
+        "link": "https://mathoverflow.net/a/516605",
+        "owner": "Timothy Chow",
+        "question_id": "516603",
+        "question_title": "Was there any prior 'strong evidence' for ETH?",
+        "score": 12
+      },
       {
         "answer_created": "2026-11-01T19:51:00Z",
         "answer_id": "516615",
@@ -3236,7 +3257,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 10
+        "score": 15
       },
       {
         "answer_created": "2026-10-29T11:24:42Z",
@@ -3286,7 +3307,7 @@
         "owner": "Peter LeFanu Lumsdaine",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-10-29T09:33:48Z",
@@ -3326,7 +3347,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 23
+        "score": 25
       },
       {
         "answer_created": "2026-10-28T04:44:11Z",
@@ -3336,7 +3357,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-27T23:25:43Z",
@@ -3356,7 +3377,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3566,7 +3587,7 @@
         "owner": "Timothy Chow",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-10-19T20:25:12Z",
@@ -4217,16 +4238,6 @@
         "question_id": "515497",
         "question_title": "Minimal kernels",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-24T12:37:52Z",
-        "answer_id": "515508",
-        "first_seen": "2026-09-24T13:29:16.708196Z",
-        "link": "https://mathoverflow.net/a/515508",
-        "owner": "James E Hanson",
-        "question_id": "515435",
-        "question_title": "AI advisory group vs. immediate open access?",
-        "score": 55
       }
     ],
     "known": {
@@ -4834,9 +4845,10 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z",
       "516530": "2026-11-01T15:09:12.745405Z",
+      "516605": "2026-11-02T15:52:40.196607Z",
       "516615": "2026-11-01T23:35:30.280480Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4964,10 +4976,20 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-31T20:57:32Z",
+        "answer_id": "877368",
+        "first_seen": "2026-11-02T15:52:40.196607Z",
+        "link": "https://physics.stackexchange.com/a/877368",
+        "owner": "David Bailey",
+        "question_id": "877343",
+        "question_title": "Why can horsehair worms untie themselves?",
+        "score": 13
+      },
       {
         "answer_created": "2026-10-31T12:08:03Z",
         "answer_id": "877358",
@@ -4976,7 +4998,7 @@
         "owner": "rob",
         "question_id": "877343",
         "question_title": "Why can horsehair worms untie themselves?",
-        "score": 11
+        "score": 14
       },
       {
         "answer_created": "2026-10-30T11:36:11Z",
@@ -5957,16 +5979,6 @@
         "question_id": "873873",
         "question_title": "What is the average acceleration of this graph? (high school)",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-01T08:30:24Z",
-        "answer_id": "873882",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873882",
-        "owner": "Agnius Vasiliauskas",
-        "question_id": "873873",
-        "question_title": "What is the average acceleration of this graph? (high school)",
-        "score": 14
       }
     ],
     "known": {
@@ -6088,9 +6100,10 @@
       "877245": "2026-10-27T21:19:45.735648Z",
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z",
-      "877358": "2026-11-01T15:09:12.745405Z"
+      "877358": "2026-11-01T15:09:12.745405Z",
+      "877368": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6130,7 +6143,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6142,7 +6155,7 @@
         "owner": "Valorum",
         "question_id": "306377",
         "question_title": "What was Tom Riddle\u2019s pet at Hogwarts?",
-        "score": 14
+        "score": 18
       },
       {
         "answer_created": "2026-10-30T11:24:37Z",
@@ -6152,7 +6165,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 26
+        "score": 30
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -6202,7 +6215,7 @@
         "owner": "FuzzyBoots",
         "question_id": "306326",
         "question_title": "A story that involves a rogue exoplanet, very probably by Poul Anderson",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-24T19:29:38Z",
@@ -7285,7 +7298,7 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "space-high-score": {
     "entries": [
@@ -7743,10 +7756,40 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-02T00:52:58Z",
+        "answer_id": "274916",
+        "first_seen": "2026-11-02T15:52:40.196607Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274916",
+        "owner": "bob1",
+        "question_id": "274911",
+        "question_title": "How to stop a bacteriophage naturally evolving",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-01T20:12:03Z",
+        "answer_id": "274914",
+        "first_seen": "2026-11-02T15:52:40.196607Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274914",
+        "owner": "Robert Rapplean",
+        "question_id": "274909",
+        "question_title": "How does water temperature vary with depth on a water world?",
+        "score": 7
+      },
+      {
+        "answer_created": "2026-11-01T10:42:45Z",
+        "answer_id": "274912",
+        "first_seen": "2026-11-02T15:52:40.196607Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274912",
+        "owner": "pndc",
+        "question_id": "274911",
+        "question_title": "How to stop a bacteriophage naturally evolving",
+        "score": 6
+      },
       {
         "answer_created": "2026-10-30T12:27:52Z",
         "answer_id": "274901",
@@ -7755,7 +7798,7 @@
         "owner": "30Keydet",
         "question_id": "274896",
         "question_title": "How to fake torture/ mistreatment",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-29T07:45:35Z",
@@ -8716,36 +8759,6 @@
         "question_id": "274529",
         "question_title": "Could a Underwater Civilization develop into a 1970\u2019s \u2018surface\u2019 race",
         "score": 8
-      },
-      {
-        "answer_created": "2026-09-09T12:08:01Z",
-        "answer_id": "274522",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274522",
-        "owner": "Trantlemore",
-        "question_id": "274517",
-        "question_title": "Why would a living organism larger than earth need to biologically create cement?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-09-09T11:42:56Z",
-        "answer_id": "274521",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274521",
-        "owner": "Toph",
-        "question_id": "274520",
-        "question_title": "Are simpler, utilitarian designs like hardhats and jerrycans generally universal?",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-09-09T00:43:33Z",
-        "answer_id": "274516",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274516",
-        "owner": "JBH",
-        "question_id": "274514",
-        "question_title": "Hypothetically, how could someone be immediately killed by a radio tower?",
-        "score": 7
       }
     ],
     "known": {
@@ -9012,8 +9025,11 @@
       "274881": "2026-10-28T16:03:05.267648Z",
       "274882": "2026-10-30T14:08:29.767299Z",
       "274888": "2026-10-30T19:22:12.009342Z",
-      "274901": "2026-11-01T01:09:49.329920Z"
+      "274901": "2026-11-01T01:09:49.329920Z",
+      "274912": "2026-11-02T15:52:40.196607Z",
+      "274914": "2026-11-02T15:52:40.196607Z",
+      "274916": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T06:02:20.925789Z"
+    "last_checked": "2026-11-02T15:52:40.196607Z"
   }
 }
