@@ -29,7 +29,7 @@
         "owner": "pyrochlor",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-30T19:27:06Z",
@@ -39,7 +39,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -1128,7 +1128,7 @@
       "227988": "2026-10-31T21:34:36.297799Z",
       "227992": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "history-high-score": {
     "entries": [
@@ -1245,7 +1245,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1571,7 +1571,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "law-high-score": {
     "entries": [
@@ -2579,7 +2579,7 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "math-high-score": {
     "entries": [
@@ -3224,7 +3224,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3336,7 +3336,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-27T23:25:43Z",
@@ -3376,7 +3376,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 47
+        "score": 50
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4836,7 +4836,7 @@
       "516530": "2026-11-01T15:09:12.745405Z",
       "516615": "2026-11-01T23:35:30.280480Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4964,7 +4964,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4976,7 +4976,7 @@
         "owner": "rob",
         "question_id": "877343",
         "question_title": "Why can horsehair worms untie themselves?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-30T11:36:11Z",
@@ -6090,7 +6090,7 @@
       "877329": "2026-10-30T19:22:12.009342Z",
       "877358": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6130,7 +6130,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6142,7 +6142,7 @@
         "owner": "Valorum",
         "question_id": "306377",
         "question_title": "What was Tom Riddle\u2019s pet at Hogwarts?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-30T11:24:37Z",
@@ -6152,7 +6152,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7285,7 +7285,7 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "space-high-score": {
     "entries": [
@@ -7743,7 +7743,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9014,6 +9014,6 @@
       "274888": "2026-10-30T19:22:12.009342Z",
       "274901": "2026-11-01T01:09:49.329920Z"
     },
-    "last_checked": "2026-11-01T23:35:30.280480Z"
+    "last_checked": "2026-11-02T06:02:20.925789Z"
   }
 }
