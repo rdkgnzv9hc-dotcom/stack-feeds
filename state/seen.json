@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-01T06:13:36Z",
+        "answer_id": "227997",
+        "first_seen": "2026-11-02T23:30:24.514677Z",
+        "link": "https://academia.stackexchange.com/a/227997",
+        "owner": "cag51",
+        "question_id": "227995",
+        "question_title": "How can researchers demonstrate an original contribution when AI assists with most of the coding?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-10-31T11:32:03Z",
         "answer_id": "227992",
         "first_seen": "2026-11-01T01:09:49.329920Z",
@@ -9,7 +19,7 @@
         "owner": "Captain Emacs",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-30T23:37:29Z",
@@ -59,7 +69,7 @@
         "owner": "Buffy",
         "question_id": "227964",
         "question_title": "What should be a sample syllabus for an academic position?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-30T09:13:05Z",
@@ -149,7 +159,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what to do?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -159,7 +169,7 @@
         "owner": "pyrochlor",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what to do?",
-        "score": 32
+        "score": 33
       },
       {
         "answer_created": "2026-10-26T12:04:18Z",
@@ -990,16 +1000,6 @@
         "question_id": "227208",
         "question_title": "How far to go after getting scooped by a friend who used my work to solve the project I started?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-14T19:22:35Z",
-        "answer_id": "227210",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227210",
-        "owner": "user1149748",
-        "question_id": "227208",
-        "question_title": "How far to go after getting scooped by a friend who used my work to solve the project I started?",
-        "score": 29
       }
     ],
     "known": {
@@ -1126,9 +1126,10 @@
       "227985": "2026-10-31T21:34:36.297799Z",
       "227986": "2026-10-31T17:43:42.790843Z",
       "227988": "2026-10-31T21:34:36.297799Z",
-      "227992": "2026-11-01T01:09:49.329920Z"
+      "227992": "2026-11-01T01:09:49.329920Z",
+      "227997": "2026-11-02T23:30:24.514677Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "history-high-score": {
     "entries": [
@@ -1245,7 +1246,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1571,7 +1572,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "law-high-score": {
     "entries": [
@@ -2590,7 +2591,7 @@
       "116820": "2026-10-27T05:05:17.914693Z",
       "116868": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "math-high-score": {
     "entries": [
@@ -3235,7 +3236,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3247,7 +3248,7 @@
         "owner": "Timothy Chow",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-01T19:51:00Z",
@@ -3317,7 +3318,7 @@
         "owner": "Oisin Robinson",
         "question_id": "516443",
         "question_title": "Ramifications of Exponential Time Hypothesis disproof and ECDLP",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-20T09:11:41Z",
@@ -3367,7 +3368,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-27T22:21:34Z",
@@ -3397,7 +3398,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 50
+        "score": 51
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -3447,7 +3448,7 @@
         "owner": "Timothy Chow",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-23T23:30:58Z",
@@ -4848,7 +4849,7 @@
       "516605": "2026-11-02T15:52:40.196607Z",
       "516615": "2026-11-01T23:35:30.280480Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4976,7 +4977,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4988,7 +4989,7 @@
         "owner": "David Bailey",
         "question_id": "877343",
         "question_title": "Why can horsehair worms untie themselves?",
-        "score": 13
+        "score": 17
       },
       {
         "answer_created": "2026-10-31T12:08:03Z",
@@ -6103,7 +6104,7 @@
       "877358": "2026-11-01T15:09:12.745405Z",
       "877368": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6143,7 +6144,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6165,7 +6166,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7298,7 +7299,7 @@
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "space-high-score": {
     "entries": [
@@ -7756,7 +7757,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7768,7 +7769,7 @@
         "owner": "bob1",
         "question_id": "274911",
         "question_title": "How to stop a bacteriophage naturally evolving",
-        "score": 6
+        "score": 8
       },
       {
         "answer_created": "2026-11-01T20:12:03Z",
@@ -7778,7 +7779,7 @@
         "owner": "Robert Rapplean",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 7
+        "score": 11
       },
       {
         "answer_created": "2026-11-01T10:42:45Z",
@@ -7788,7 +7789,7 @@
         "owner": "pndc",
         "question_id": "274911",
         "question_title": "How to stop a bacteriophage naturally evolving",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-30T12:27:52Z",
@@ -9030,6 +9031,6 @@
       "274914": "2026-11-02T15:52:40.196607Z",
       "274916": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T15:52:40.196607Z"
+    "last_checked": "2026-11-02T23:30:24.514677Z"
   }
 }
