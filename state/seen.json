@@ -19,7 +19,7 @@
         "owner": "Captain Emacs",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-30T23:37:29Z",
@@ -49,7 +49,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 33
+        "score": 35
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -79,7 +79,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 39
+        "score": 41
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -1129,7 +1129,7 @@
       "227992": "2026-11-01T01:09:49.329920Z",
       "227997": "2026-11-02T23:30:24.514677Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "history-high-score": {
     "entries": [
@@ -1246,7 +1246,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1572,7 +1572,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "law-high-score": {
     "entries": [
@@ -2602,7 +2602,7 @@
       "116868": "2026-11-02T15:52:40.196607Z",
       "116903": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "math-high-score": {
     "entries": [
@@ -3247,10 +3247,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-01T23:00:00Z",
+        "answer_id": "516617",
+        "first_seen": "2026-11-03T20:58:49.087007Z",
+        "link": "https://mathoverflow.net/a/516617",
+        "owner": "Kenta Suzuki",
+        "question_id": "516613",
+        "question_title": "Grassmannians over non-Archimedean local fields",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-02T22:46:53Z",
         "answer_id": "516638",
@@ -3259,7 +3269,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516637",
         "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
-        "score": 15
+        "score": 20
       },
       {
         "answer_created": "2026-11-01T12:56:29Z",
@@ -3509,7 +3519,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "516363",
         "question_title": "Are there infinitely many $x, y \\in \\mathbb{N}$ such that $x^3+y^5$ is a prime?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-21T10:03:27Z",
@@ -4240,16 +4250,6 @@
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
         "score": 38
-      },
-      {
-        "answer_created": "2026-09-24T15:46:54Z",
-        "answer_id": "515515",
-        "first_seen": "2026-09-24T16:29:14.203680Z",
-        "link": "https://mathoverflow.net/a/515515",
-        "owner": "Alexandre Eremenko",
-        "question_id": "515514",
-        "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 50
       }
     ],
     "known": {
@@ -4859,9 +4859,10 @@
       "516530": "2026-11-01T15:09:12.745405Z",
       "516605": "2026-11-02T15:52:40.196607Z",
       "516615": "2026-11-01T23:35:30.280480Z",
+      "516617": "2026-11-03T20:58:49.087007Z",
       "516638": "2026-11-03T06:47:03.471385Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4989,7 +4990,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6116,7 +6117,7 @@
       "877358": "2026-11-01T15:09:12.745405Z",
       "877368": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6156,7 +6157,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7313,7 +7314,7 @@
       "306394": "2026-11-03T06:47:03.471385Z",
       "306400": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "space-high-score": {
     "entries": [
@@ -7771,10 +7772,30 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-03T09:38:54Z",
+        "answer_id": "274925",
+        "first_seen": "2026-11-03T20:58:49.087007Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274925",
+        "owner": "AlexP",
+        "question_id": "274919",
+        "question_title": "How could a poison cause patches of black hair on someone's scalp?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-02T12:47:23Z",
+        "answer_id": "274917",
+        "first_seen": "2026-11-03T20:58:49.087007Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274917",
+        "owner": "Nightrider",
+        "question_id": "274909",
+        "question_title": "How does water temperature vary with depth on a water world?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-03T02:08:11Z",
         "answer_id": "274922",
@@ -7783,7 +7804,7 @@
         "owner": "g s",
         "question_id": "274920",
         "question_title": "Can you hide a dwarf planet/planet in the Solar System?",
-        "score": 6
+        "score": 11
       },
       {
         "answer_created": "2026-11-02T00:52:58Z",
@@ -7793,7 +7814,7 @@
         "owner": "bob1",
         "question_id": "274911",
         "question_title": "How to stop a bacteriophage naturally evolving",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-01T20:12:03Z",
@@ -8754,26 +8775,6 @@
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-14T13:58:08Z",
-        "answer_id": "274550",
-        "first_seen": "2026-09-14T17:26:05.528585Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274550",
-        "owner": "Nosajimiki",
-        "question_id": "274547",
-        "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 9
-      },
-      {
-        "answer_created": "2026-09-09T21:32:42Z",
-        "answer_id": "274527",
-        "first_seen": "2026-09-12T22:25:22.172190Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274527",
-        "owner": "Pica",
-        "question_id": "274520",
-        "question_title": "Are simpler, utilitarian designs like hardhats and jerrycans generally universal?",
-        "score": 5
       }
     ],
     "known": {
@@ -9044,8 +9045,10 @@
       "274912": "2026-11-02T15:52:40.196607Z",
       "274914": "2026-11-02T15:52:40.196607Z",
       "274916": "2026-11-02T15:52:40.196607Z",
-      "274922": "2026-11-03T15:07:53.160808Z"
+      "274917": "2026-11-03T20:58:49.087007Z",
+      "274922": "2026-11-03T15:07:53.160808Z",
+      "274925": "2026-11-03T20:58:49.087007Z"
     },
-    "last_checked": "2026-11-03T15:07:53.160808Z"
+    "last_checked": "2026-11-03T20:58:49.087007Z"
   }
 }

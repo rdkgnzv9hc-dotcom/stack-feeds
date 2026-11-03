@@ -5,13 +5,20 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:58:49 +0000</lastBuildDate>
     <item>
-      <title>Are there academic situations in which artificial mathematical motivation has merit? — answer reached score 15</title>
+      <title>Grassmannians over non-Archimedean local fields — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516617</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516617</guid>
+      <pubDate>Tue, 03 Nov 2026 20:58:49 +0000</pubDate>
+      <description>Answer by Kenta Suzuki. Score when last checked: 10. Originally posted: 2026-11-01T23:00:00Z.</description>
+    </item>
+    <item>
+      <title>Are there academic situations in which artificial mathematical motivation has merit? — answer reached score 20</title>
       <link>https://mathoverflow.net/a/516638</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516638</guid>
       <pubDate>Tue, 03 Nov 2026 06:47:03 +0000</pubDate>
-      <description>Answer by Sam Hopkins. Score when last checked: 15. Originally posted: 2026-11-02T22:46:53Z.</description>
+      <description>Answer by Sam Hopkins. Score when last checked: 20. Originally posted: 2026-11-02T22:46:53Z.</description>
     </item>
     <item>
       <title>Was there any prior 'strong evidence' for ETH? — answer reached score 13</title>
@@ -182,11 +189,11 @@
       <description>Answer by Michel Hua. Score when last checked: 14. Originally posted: 2026-10-25T16:54:43Z.</description>
     </item>
     <item>
-      <title>Are there infinitely many $x, y \in \mathbb{N}$ such that $x^3+y^5$ is a prime? — answer reached score 14</title>
+      <title>Are there infinitely many $x, y \in \mathbb{N}$ such that $x^3+y^5$ is a prime? — answer reached score 15</title>
       <link>https://mathoverflow.net/a/516364</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516364</guid>
       <pubDate>Sun, 25 Oct 2026 22:33:18 +0000</pubDate>
-      <description>Answer by Stanley Yao Xiao. Score when last checked: 14. Originally posted: 2026-10-24T20:32:26Z.</description>
+      <description>Answer by Stanley Yao Xiao. Score when last checked: 15. Originally posted: 2026-10-24T20:32:26Z.</description>
     </item>
     <item>
       <title>Applications of the $\operatorname{li}(x)$ function besides $\pi(x)$ — answer reached score 17</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515516</guid>
       <pubDate>Thu, 24 Sep 2026 18:30:41 +0000</pubDate>
       <description>Answer by David White. Score when last checked: 38. Originally posted: 2026-09-24T17:20:42Z.</description>
-    </item>
-    <item>
-      <title>Soft question: an era in my research terminated by AI (which is, in a way, not so bad) — answer reached score 50</title>
-      <link>https://mathoverflow.net/a/515515</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515515</guid>
-      <pubDate>Thu, 24 Sep 2026 16:29:14 +0000</pubDate>
-      <description>Answer by Alexandre Eremenko. Score when last checked: 50. Originally posted: 2026-09-24T15:46:54Z.</description>
     </item>
   </channel>
 </rss>
