@@ -9,7 +9,7 @@
         "owner": "cag51",
         "question_id": "227995",
         "question_title": "How can researchers demonstrate an original contribution when AI assists with most of the coding?",
-        "score": 10
+        "score": 13
       },
       {
         "answer_created": "2026-10-31T11:32:03Z",
@@ -19,7 +19,7 @@
         "owner": "Captain Emacs",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-30T23:37:29Z",
@@ -159,7 +159,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what to do?",
-        "score": 41
+        "score": 42
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -1129,7 +1129,7 @@
       "227992": "2026-11-01T01:09:49.329920Z",
       "227997": "2026-11-02T23:30:24.514677Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "history-high-score": {
     "entries": [
@@ -1246,7 +1246,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1572,10 +1572,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-02T16:08:44Z",
+        "answer_id": "116903",
+        "first_seen": "2026-11-03T15:07:53.160808Z",
+        "link": "https://law.stackexchange.com/a/116903",
+        "owner": "user130211",
+        "question_id": "116902",
+        "question_title": "Will you be asked to go to the police station if you are declared missing and police stop you at a routine traffic stop?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-30T15:50:09Z",
         "answer_id": "116868",
@@ -2589,9 +2599,10 @@
       "116803": "2026-10-22T15:16:54.381000Z",
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z",
-      "116868": "2026-11-02T15:52:40.196607Z"
+      "116868": "2026-11-02T15:52:40.196607Z",
+      "116903": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "math-high-score": {
     "entries": [
@@ -2603,7 +2614,7 @@
         "owner": "Martin Brandenburg",
         "question_id": "5153091",
         "question_title": "When reading a textbook, how do I approach \"learning\" mathematical definitions?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-22T11:58:31Z",
@@ -3236,7 +3247,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3248,7 +3259,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516637",
         "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
-        "score": 10
+        "score": 15
       },
       {
         "answer_created": "2026-11-01T12:56:29Z",
@@ -3268,7 +3279,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-10-29T11:24:42Z",
@@ -3958,7 +3969,7 @@
         "owner": "Jos\u00e9 Hdz. Stgo.",
         "question_id": "24579",
         "question_title": "Convergence of $\\sum(n^3\\sin^2n)^{-1}$",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-06T15:18:21Z",
@@ -4058,7 +4069,7 @@
         "owner": "Vepir",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-09-25T23:47:32Z",
@@ -4850,7 +4861,7 @@
       "516615": "2026-11-01T23:35:30.280480Z",
       "516638": "2026-11-03T06:47:03.471385Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4978,7 +4989,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "physics-high-score": {
     "entries": [
@@ -4990,7 +5001,7 @@
         "owner": "David Bailey",
         "question_id": "877343",
         "question_title": "Why can horsehair worms untie themselves?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-10-31T12:08:03Z",
@@ -5000,7 +5011,7 @@
         "owner": "rob",
         "question_id": "877343",
         "question_title": "Why can horsehair worms untie themselves?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-30T11:36:11Z",
@@ -5350,7 +5361,7 @@
         "owner": "GiorgioP-DoomsdayClockIsAt-85",
         "question_id": "876387",
         "question_title": "Can Single Particles have Entropy?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-25T11:46:50Z",
@@ -6105,7 +6116,7 @@
       "877358": "2026-11-01T15:09:12.745405Z",
       "877368": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6145,10 +6156,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-02T18:53:50Z",
+        "answer_id": "306400",
+        "first_seen": "2026-11-03T15:07:53.160808Z",
+        "link": "https://scifi.stackexchange.com/a/306400",
+        "owner": "Valorum",
+        "question_id": "281100",
+        "question_title": "What animated film or TV show is this guy from?",
+        "score": 16
+      },
       {
         "answer_created": "2026-11-02T05:15:39Z",
         "answer_id": "306394",
@@ -6157,7 +6178,7 @@
         "owner": "Martheen",
         "question_id": "306393",
         "question_title": "Are There \"IT\" or \"Computer Specialists\" On Board Starfleet Vessels?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-30T20:17:35Z",
@@ -6177,7 +6198,7 @@
         "owner": "Valorum",
         "question_id": "306375",
         "question_title": "In the Project Hail Mary novel, why is the shape of the beds important to Grace?",
-        "score": 31
+        "score": 33
       },
       {
         "answer_created": "2026-10-26T17:48:09Z",
@@ -7138,16 +7159,6 @@
         "question_id": "305455",
         "question_title": "Did the Joker show the world his face at the start of The Dark Knight?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-08-03T08:31:25Z",
-        "answer_id": "305450",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305450",
-        "owner": "Klaus \u00c6. Mogensen",
-        "question_id": "305446",
-        "question_title": "First voluntary female backwards time traveler protagonist?",
-        "score": 14
       }
     ],
     "known": {
@@ -7299,9 +7310,10 @@
       "306345": "2026-10-28T16:03:05.267648Z",
       "306376": "2026-10-30T23:46:46.068082Z",
       "306385": "2026-10-31T21:34:36.297799Z",
-      "306394": "2026-11-03T06:47:03.471385Z"
+      "306394": "2026-11-03T06:47:03.471385Z",
+      "306400": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "space-high-score": {
     "entries": [
@@ -7759,10 +7771,20 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-03T02:08:11Z",
+        "answer_id": "274922",
+        "first_seen": "2026-11-03T15:07:53.160808Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274922",
+        "owner": "g s",
+        "question_id": "274920",
+        "question_title": "Can you hide a dwarf planet/planet in the Solar System?",
+        "score": 6
+      },
       {
         "answer_created": "2026-11-02T00:52:58Z",
         "answer_id": "274916",
@@ -7781,7 +7803,7 @@
         "owner": "Robert Rapplean",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-01T10:42:45Z",
@@ -8752,16 +8774,6 @@
         "question_id": "274520",
         "question_title": "Are simpler, utilitarian designs like hardhats and jerrycans generally universal?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-09-10T21:02:30Z",
-        "answer_id": "274532",
-        "first_seen": "2026-09-12T19:23:48.014355Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274532",
-        "owner": "JBH",
-        "question_id": "274529",
-        "question_title": "Could a Underwater Civilization develop into a 1970\u2019s \u2018surface\u2019 race",
-        "score": 8
       }
     ],
     "known": {
@@ -9031,8 +9043,9 @@
       "274901": "2026-11-01T01:09:49.329920Z",
       "274912": "2026-11-02T15:52:40.196607Z",
       "274914": "2026-11-02T15:52:40.196607Z",
-      "274916": "2026-11-02T15:52:40.196607Z"
+      "274916": "2026-11-02T15:52:40.196607Z",
+      "274922": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-03T06:47:03.471385Z"
+    "last_checked": "2026-11-03T15:07:53.160808Z"
   }
 }
