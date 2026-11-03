@@ -159,7 +159,7 @@
         "owner": "cag51",
         "question_id": "227939",
         "question_title": "PhD student is unfit for research, what to do?",
-        "score": 40
+        "score": 41
       },
       {
         "answer_created": "2026-10-26T16:23:53Z",
@@ -1129,7 +1129,7 @@
       "227992": "2026-11-01T01:09:49.329920Z",
       "227997": "2026-11-02T23:30:24.514677Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "history-high-score": {
     "entries": [
@@ -1246,7 +1246,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1572,7 +1572,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "law-high-score": {
     "entries": [
@@ -2591,7 +2591,7 @@
       "116820": "2026-10-27T05:05:17.914693Z",
       "116868": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "math-high-score": {
     "entries": [
@@ -3236,10 +3236,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-02T22:46:53Z",
+        "answer_id": "516638",
+        "first_seen": "2026-11-03T06:47:03.471385Z",
+        "link": "https://mathoverflow.net/a/516638",
+        "owner": "Sam Hopkins",
+        "question_id": "516637",
+        "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-01T12:56:29Z",
         "answer_id": "516605",
@@ -3308,7 +3318,7 @@
         "owner": "Peter LeFanu Lumsdaine",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-29T09:33:48Z",
@@ -3358,7 +3368,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-27T23:25:43Z",
@@ -3378,7 +3388,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3398,7 +3408,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 51
+        "score": 52
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -3998,7 +4008,7 @@
         "owner": "JF Meier",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-10-05T11:27:13Z",
@@ -4008,7 +4018,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-10-03T08:47:58Z",
@@ -4028,7 +4038,7 @@
         "owner": "Wolfgang Allred",
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 56
+        "score": 57
       },
       {
         "answer_created": "2026-05-12T03:09:59Z",
@@ -4048,7 +4058,7 @@
         "owner": "Vepir",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-25T23:47:32Z",
@@ -4229,16 +4239,6 @@
         "question_id": "515514",
         "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
         "score": 50
-      },
-      {
-        "answer_created": "2026-09-24T06:20:00Z",
-        "answer_id": "515500",
-        "first_seen": "2026-09-24T14:28:48.425272Z",
-        "link": "https://mathoverflow.net/a/515500",
-        "owner": "Achim Krause",
-        "question_id": "515497",
-        "question_title": "Minimal kernels",
-        "score": 11
       }
     ],
     "known": {
@@ -4847,9 +4847,10 @@
       "516527": "2026-10-30T00:59:36.600201Z",
       "516530": "2026-11-01T15:09:12.745405Z",
       "516605": "2026-11-02T15:52:40.196607Z",
-      "516615": "2026-11-01T23:35:30.280480Z"
+      "516615": "2026-11-01T23:35:30.280480Z",
+      "516638": "2026-11-03T06:47:03.471385Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4977,7 +4978,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5349,7 +5350,7 @@
         "owner": "GiorgioP-DoomsdayClockIsAt-85",
         "question_id": "876387",
         "question_title": "Can Single Particles have Entropy?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-25T11:46:50Z",
@@ -6104,7 +6105,7 @@
       "877358": "2026-11-01T15:09:12.745405Z",
       "877368": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6144,10 +6145,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-02T05:15:39Z",
+        "answer_id": "306394",
+        "first_seen": "2026-11-03T06:47:03.471385Z",
+        "link": "https://scifi.stackexchange.com/a/306394",
+        "owner": "Martheen",
+        "question_id": "306393",
+        "question_title": "Are There \"IT\" or \"Computer Specialists\" On Board Starfleet Vessels?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-30T20:17:35Z",
         "answer_id": "306385",
@@ -7137,16 +7148,6 @@
         "question_id": "305446",
         "question_title": "First voluntary female backwards time traveler protagonist?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-02T20:35:18Z",
-        "answer_id": "305438",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305438",
-        "owner": "Paulie_D",
-        "question_id": "305435",
-        "question_title": "In \"Batman: The Dark Knight\" did the gas grenades kill everyone?",
-        "score": 14
       }
     ],
     "known": {
@@ -7297,9 +7298,10 @@
       "306342": "2026-10-28T08:32:23.417089Z",
       "306345": "2026-10-28T16:03:05.267648Z",
       "306376": "2026-10-30T23:46:46.068082Z",
-      "306385": "2026-10-31T21:34:36.297799Z"
+      "306385": "2026-10-31T21:34:36.297799Z",
+      "306394": "2026-11-03T06:47:03.471385Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "space-high-score": {
     "entries": [
@@ -7757,7 +7759,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7779,7 +7781,7 @@
         "owner": "Robert Rapplean",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-01T10:42:45Z",
@@ -8169,7 +8171,7 @@
         "owner": "JBH",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-10-21T23:50:13Z",
@@ -8179,7 +8181,7 @@
         "owner": "Navicula",
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-20T19:47:28Z",
@@ -9031,6 +9033,6 @@
       "274914": "2026-11-02T15:52:40.196607Z",
       "274916": "2026-11-02T15:52:40.196607Z"
     },
-    "last_checked": "2026-11-02T23:30:24.514677Z"
+    "last_checked": "2026-11-03T06:47:03.471385Z"
   }
 }
