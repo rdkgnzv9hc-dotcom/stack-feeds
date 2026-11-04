@@ -2,6 +2,36 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-03T13:54:40Z",
+        "answer_id": "228016",
+        "first_seen": "2026-11-04T17:15:13.405297Z",
+        "link": "https://academia.stackexchange.com/a/228016",
+        "owner": "JF Meier",
+        "question_id": "228015",
+        "question_title": "How to know what you don't know?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-11-02T18:39:38Z",
+        "answer_id": "228009",
+        "first_seen": "2026-11-04T17:15:13.405297Z",
+        "link": "https://academia.stackexchange.com/a/228009",
+        "owner": "Bryan Krause",
+        "question_id": "228007",
+        "question_title": "How to handle changing recommendation as peer reviewer (minor to major revisions)?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-11-02T14:41:27Z",
+        "answer_id": "228006",
+        "first_seen": "2026-11-04T17:15:13.405297Z",
+        "link": "https://academia.stackexchange.com/a/228006",
+        "owner": "user111388",
+        "question_id": "227990",
+        "question_title": "Has loyalty to an institution become more highly valued than mobility?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-02T14:35:48Z",
         "answer_id": "228005",
         "first_seen": "2026-11-04T09:12:34.984352Z",
@@ -19,7 +49,7 @@
         "owner": "cag51",
         "question_id": "227995",
         "question_title": "How can researchers demonstrate an original contribution when AI assists with most of the coding?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-31T11:32:03Z",
@@ -29,7 +59,7 @@
         "owner": "Captain Emacs",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-30T23:37:29Z",
@@ -59,7 +89,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 35
+        "score": 36
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -89,7 +119,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 41
+        "score": 42
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -970,36 +1000,6 @@
         "question_id": "227263",
         "question_title": "How to overcome the disadvantages of a 3-year PhD program",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-20T14:26:30Z",
-        "answer_id": "227259",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227259",
-        "owner": "Arno",
-        "question_id": "227258",
-        "question_title": "How do I find a co-author with complementary expertise for my paper?",
-        "score": 20
-      },
-      {
-        "answer_created": "2026-07-19T13:14:36Z",
-        "answer_id": "227251",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227251",
-        "owner": "Buffy",
-        "question_id": "227246",
-        "question_title": "Should I be open about my opinion of academia with an advisee?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-07-15T11:39:42Z",
-        "answer_id": "227219",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227219",
-        "owner": "user3653831",
-        "question_id": "227202",
-        "question_title": "If \"No one knows everything, and you don't have to\", then how do you know where to start research?",
-        "score": 10
       }
     ],
     "known": {
@@ -1128,9 +1128,12 @@
       "227988": "2026-10-31T21:34:36.297799Z",
       "227992": "2026-11-01T01:09:49.329920Z",
       "227997": "2026-11-02T23:30:24.514677Z",
-      "228005": "2026-11-04T09:12:34.984352Z"
+      "228005": "2026-11-04T09:12:34.984352Z",
+      "228006": "2026-11-04T17:15:13.405297Z",
+      "228009": "2026-11-04T17:15:13.405297Z",
+      "228016": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "history-high-score": {
     "entries": [
@@ -1247,7 +1250,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1573,7 +1576,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "law-high-score": {
     "entries": [
@@ -1585,7 +1588,7 @@
         "owner": "user130211",
         "question_id": "116902",
         "question_title": "Will you be asked to go to the police station if you are declared missing and police stop you at a routine traffic stop?",
-        "score": 12
+        "score": 16
       },
       {
         "answer_created": "2026-10-30T15:50:09Z",
@@ -2603,7 +2606,7 @@
       "116868": "2026-11-02T15:52:40.196607Z",
       "116903": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "math-high-score": {
     "entries": [
@@ -3248,7 +3251,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3260,7 +3263,7 @@
         "owner": "Kenta Suzuki",
         "question_id": "516613",
         "question_title": "Grassmannians over non-Archimedean local fields",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-02T22:46:53Z",
@@ -3280,7 +3283,7 @@
         "owner": "Timothy Chow",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-01T19:51:00Z",
@@ -3290,7 +3293,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-29T11:24:42Z",
@@ -3480,7 +3483,7 @@
         "owner": "Timothy Chow",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 15
+        "score": 14
       },
       {
         "answer_created": "2026-10-23T23:30:58Z",
@@ -3840,7 +3843,7 @@
         "owner": "Pace Nielsen",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 17
+        "score": 16
       },
       {
         "answer_created": "2026-10-08T12:49:49Z",
@@ -3940,7 +3943,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 66
+        "score": 65
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4080,7 +4083,7 @@
         "owner": "Vepir",
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-09-25T23:47:32Z",
@@ -4863,7 +4866,7 @@
       "516617": "2026-11-03T20:58:49.087007Z",
       "516638": "2026-11-03T06:47:03.471385Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4991,10 +4994,20 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-03T18:06:43Z",
+        "answer_id": "877435",
+        "first_seen": "2026-11-04T17:15:13.405297Z",
+        "link": "https://physics.stackexchange.com/a/877435",
+        "owner": "CR Drost",
+        "question_id": "877431",
+        "question_title": "If you shatter a pane of glass, will it result in a unique set of shards?",
+        "score": 11
+      },
       {
         "answer_created": "2026-10-31T20:57:32Z",
         "answer_id": "877368",
@@ -5984,16 +5997,6 @@
         "question_id": "873969",
         "question_title": "What does a \"measurement\" actually mean in quantum physics? (Double-Slit Experiment)",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-01T14:07:19Z",
-        "answer_id": "873886",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873886",
-        "owner": "Ilmari Karonen",
-        "question_id": "873873",
-        "question_title": "What is the average acceleration of this graph? (high school)",
-        "score": 10
       }
     ],
     "known": {
@@ -6116,9 +6119,10 @@
       "877253": "2026-10-27T21:19:45.735648Z",
       "877329": "2026-10-30T19:22:12.009342Z",
       "877358": "2026-11-01T15:09:12.745405Z",
-      "877368": "2026-11-02T15:52:40.196607Z"
+      "877368": "2026-11-02T15:52:40.196607Z",
+      "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6158,7 +6162,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6170,7 +6174,7 @@
         "owner": "Valorum",
         "question_id": "281100",
         "question_title": "What animated film or TV show is this guy from?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-02T05:15:39Z",
@@ -6180,7 +6184,7 @@
         "owner": "Martheen",
         "question_id": "306393",
         "question_title": "Are There \"IT\" or \"Computer Specialists\" On Board Starfleet Vessels?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-10-30T20:17:35Z",
@@ -7315,7 +7319,7 @@
       "306394": "2026-11-03T06:47:03.471385Z",
       "306400": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "space-high-score": {
     "entries": [
@@ -7773,7 +7777,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7785,7 +7789,7 @@
         "owner": "AlexP",
         "question_id": "274919",
         "question_title": "How could a poison cause patches of black hair on someone's scalp?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-02T12:47:23Z",
@@ -7795,7 +7799,7 @@
         "owner": "Nightrider",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-11-03T02:08:11Z",
@@ -7805,7 +7809,7 @@
         "owner": "g s",
         "question_id": "274920",
         "question_title": "Can you hide a dwarf planet/planet in the Solar System?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-02T00:52:58Z",
@@ -7815,7 +7819,7 @@
         "owner": "bob1",
         "question_id": "274911",
         "question_title": "How to stop a bacteriophage naturally evolving",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-01T20:12:03Z",
@@ -7825,7 +7829,7 @@
         "owner": "Robert Rapplean",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-11-01T10:42:45Z",
@@ -9050,6 +9054,6 @@
       "274922": "2026-11-03T15:07:53.160808Z",
       "274925": "2026-11-03T20:58:49.087007Z"
     },
-    "last_checked": "2026-11-04T09:12:34.984352Z"
+    "last_checked": "2026-11-04T17:15:13.405297Z"
   }
 }
