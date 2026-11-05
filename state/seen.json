@@ -9,7 +9,7 @@
         "owner": "JF Meier",
         "question_id": "228015",
         "question_title": "How to know what you don't know?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-02T18:39:38Z",
@@ -29,7 +29,7 @@
         "owner": "user111388",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-02T14:35:48Z",
@@ -1133,7 +1133,7 @@
       "228009": "2026-11-04T17:15:13.405297Z",
       "228016": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "history-high-score": {
     "entries": [
@@ -1250,7 +1250,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1332,7 +1332,7 @@
         "owner": "Anyon",
         "question_id": "19654",
         "question_title": "Times when a scientist named something after him- or herself and it stuck",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-08-25T20:18:46Z",
@@ -1576,7 +1576,7 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "law-high-score": {
     "entries": [
@@ -2606,7 +2606,7 @@
       "116868": "2026-11-02T15:52:40.196607Z",
       "116903": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "math-high-score": {
     "entries": [
@@ -2618,7 +2618,7 @@
         "owner": "Martin Brandenburg",
         "question_id": "5153091",
         "question_title": "When reading a textbook, how do I approach \"learning\" mathematical definitions?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-09-22T11:58:31Z",
@@ -3251,10 +3251,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-04T14:08:30Z",
+        "answer_id": "516678",
+        "first_seen": "2026-11-05T03:29:40.368034Z",
+        "link": "https://mathoverflow.net/a/516678",
+        "owner": "GH from MO",
+        "question_id": "516677",
+        "question_title": "Possible sign discrepancy in the proof of the quadratic large sieve",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-01T23:00:00Z",
         "answer_id": "516617",
@@ -3433,7 +3443,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 53
+        "score": 54
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -3793,7 +3803,7 @@
         "owner": "Will Sawin",
         "question_id": "515985",
         "question_title": "Why cubic Gauss sums?",
-        "score": 50
+        "score": 51
       },
       {
         "answer_created": "2026-10-12T15:33:49Z",
@@ -4244,16 +4254,6 @@
         "question_id": "511729",
         "question_title": "Selberg normality conjecture associated to Maass cusp form",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-24T17:20:42Z",
-        "answer_id": "515516",
-        "first_seen": "2026-09-24T18:30:41.045206Z",
-        "link": "https://mathoverflow.net/a/515516",
-        "owner": "David White",
-        "question_id": "515514",
-        "question_title": "Soft question: an era in my research terminated by AI (which is, in a way, not so bad)",
-        "score": 38
       }
     ],
     "known": {
@@ -4864,9 +4864,10 @@
       "516605": "2026-11-02T15:52:40.196607Z",
       "516615": "2026-11-01T23:35:30.280480Z",
       "516617": "2026-11-03T20:58:49.087007Z",
-      "516638": "2026-11-03T06:47:03.471385Z"
+      "516638": "2026-11-03T06:47:03.471385Z",
+      "516678": "2026-11-05T03:29:40.368034Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4994,7 +4995,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6122,7 +6123,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6162,7 +6163,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7319,7 +7320,7 @@
       "306394": "2026-11-03T06:47:03.471385Z",
       "306400": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "space-high-score": {
     "entries": [
@@ -7777,7 +7778,7 @@
       "70770": "2026-10-26T13:08:34.566804Z",
       "70775": "2026-10-28T16:03:05.267648Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7819,7 +7820,7 @@
         "owner": "g s",
         "question_id": "274920",
         "question_title": "Can you hide a dwarf planet/planet in the Solar System?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-02T00:52:58Z",
@@ -9055,6 +9056,6 @@
       "274925": "2026-11-03T20:58:49.087007Z",
       "274935": "2026-11-04T22:39:16.353041Z"
     },
-    "last_checked": "2026-11-04T22:39:16.353041Z"
+    "last_checked": "2026-11-05T03:29:40.368034Z"
   }
 }
