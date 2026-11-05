@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-04T17:58:15Z",
+        "answer_id": "228027",
+        "first_seen": "2026-11-05T12:20:59.315035Z",
+        "link": "https://academia.stackexchange.com/a/228027",
+        "owner": "cag51",
+        "question_id": "228025",
+        "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs\".\u201d",
+        "score": 17
+      },
+      {
         "answer_created": "2026-11-03T13:54:40Z",
         "answer_id": "228016",
         "first_seen": "2026-11-04T17:15:13.405297Z",
@@ -9,7 +19,7 @@
         "owner": "JF Meier",
         "question_id": "228015",
         "question_title": "How to know what you don't know?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-02T18:39:38Z",
@@ -19,7 +29,7 @@
         "owner": "Bryan Krause",
         "question_id": "228007",
         "question_title": "How to handle changing recommendation as peer reviewer (minor to major revisions)?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-02T14:41:27Z",
@@ -990,16 +1000,6 @@
         "question_id": "227278",
         "question_title": "Should results found using large language model technology be written into a preprint?",
         "score": 39
-      },
-      {
-        "answer_created": "2026-07-21T21:58:42Z",
-        "answer_id": "227265",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227265",
-        "owner": "TimRias",
-        "question_id": "227263",
-        "question_title": "How to overcome the disadvantages of a 3-year PhD program",
-        "score": 11
       }
     ],
     "known": {
@@ -1131,9 +1131,10 @@
       "228005": "2026-11-04T09:12:34.984352Z",
       "228006": "2026-11-04T17:15:13.405297Z",
       "228009": "2026-11-04T17:15:13.405297Z",
-      "228016": "2026-11-04T17:15:13.405297Z"
+      "228016": "2026-11-04T17:15:13.405297Z",
+      "228027": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "history-high-score": {
     "entries": [
@@ -1250,7 +1251,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1576,10 +1577,20 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-01T15:45:33Z",
+        "answer_id": "116893",
+        "first_seen": "2026-11-05T12:20:59.315035Z",
+        "link": "https://law.stackexchange.com/a/116893",
+        "owner": "Jen",
+        "question_id": "116892",
+        "question_title": "Who (if anyone) has argued that the disqualification in Article I, Section 3, Clause 7 of the US Constitution does not extend to the presidency?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-02T16:08:44Z",
         "answer_id": "116903",
@@ -1588,7 +1599,7 @@
         "owner": "user130211",
         "question_id": "116902",
         "question_title": "Will you be asked to go to the police station if you are declared missing and police stop you at a routine traffic stop?",
-        "score": 18
+        "score": 21
       },
       {
         "answer_created": "2026-10-30T15:50:09Z",
@@ -2604,9 +2615,10 @@
       "116806": "2026-10-22T15:16:54.381000Z",
       "116820": "2026-10-27T05:05:17.914693Z",
       "116868": "2026-11-02T15:52:40.196607Z",
+      "116893": "2026-11-05T12:20:59.315035Z",
       "116903": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "math-high-score": {
     "entries": [
@@ -3251,10 +3263,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-03T15:16:15Z",
+        "answer_id": "516656",
+        "first_seen": "2026-11-05T12:20:59.315035Z",
+        "link": "https://mathoverflow.net/a/516656",
+        "owner": "Timothy Chow",
+        "question_id": "516637",
+        "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-04T14:08:30Z",
         "answer_id": "516678",
@@ -3283,7 +3305,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516637",
         "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
-        "score": 22
+        "score": 25
       },
       {
         "answer_created": "2026-11-01T12:56:29Z",
@@ -3303,7 +3325,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-10-29T11:24:42Z",
@@ -3363,7 +3385,7 @@
         "owner": "Oisin Robinson",
         "question_id": "516443",
         "question_title": "Ramifications of Exponential Time Hypothesis disproof and ECDLP",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-20T09:11:41Z",
@@ -4244,16 +4266,6 @@
         "question_id": "466947",
         "question_title": "Who was the first to prove that the automorphism group of a finite field is cyclic and is generated by the Frobenius automorphism?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-05-27T08:59:04Z",
-        "answer_id": "511730",
-        "first_seen": "2026-09-24T20:28:25.630304Z",
-        "link": "https://mathoverflow.net/a/511730",
-        "owner": "GH from MO",
-        "question_id": "511729",
-        "question_title": "Selberg normality conjecture associated to Maass cusp form",
-        "score": 10
       }
     ],
     "known": {
@@ -4865,9 +4877,10 @@
       "516615": "2026-11-01T23:35:30.280480Z",
       "516617": "2026-11-03T20:58:49.087007Z",
       "516638": "2026-11-03T06:47:03.471385Z",
+      "516656": "2026-11-05T12:20:59.315035Z",
       "516678": "2026-11-05T03:29:40.368034Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -4995,7 +5008,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6123,7 +6136,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6163,7 +6176,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7320,10 +7333,20 @@
       "306394": "2026-11-03T06:47:03.471385Z",
       "306400": "2026-11-03T15:07:53.160808Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "space-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-04T15:47:38Z",
+        "answer_id": "70788",
+        "first_seen": "2026-11-05T12:20:59.315035Z",
+        "link": "https://space.stackexchange.com/a/70788",
+        "owner": "Darth Pseudonym",
+        "question_id": "70787",
+        "question_title": "How is the Apoapsis and Periapsis calculated for a gaseous planet?",
+        "score": 6
+      },
       {
         "answer_created": "2026-09-20T02:15:12Z",
         "answer_id": "70716",
@@ -7776,12 +7799,23 @@
       "70756": "2026-10-27T16:39:11.781044Z",
       "70761": "2026-10-20T17:10:42.630528Z",
       "70770": "2026-10-26T13:08:34.566804Z",
-      "70775": "2026-10-28T16:03:05.267648Z"
+      "70775": "2026-10-28T16:03:05.267648Z",
+      "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-03T03:31:48Z",
+        "answer_id": "274923",
+        "first_seen": "2026-11-05T12:20:59.315035Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274923",
+        "owner": "Escaped dental patient.",
+        "question_id": "274920",
+        "question_title": "Can you hide a dwarf planet/planet in the Solar System?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-04T16:37:29Z",
         "answer_id": "274935",
@@ -7790,7 +7824,7 @@
         "owner": "JBH",
         "question_id": "274932",
         "question_title": "How much food do humanoids need to power their forehead radio for daily use?",
-        "score": 7
+        "score": 10
       },
       {
         "answer_created": "2026-11-03T09:38:54Z",
@@ -7820,7 +7854,7 @@
         "owner": "g s",
         "question_id": "274920",
         "question_title": "Can you hide a dwarf planet/planet in the Solar System?",
-        "score": 18
+        "score": 21
       },
       {
         "answer_created": "2026-11-02T00:52:58Z",
@@ -7830,7 +7864,7 @@
         "owner": "bob1",
         "question_id": "274911",
         "question_title": "How to stop a bacteriophage naturally evolving",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-01T20:12:03Z",
@@ -8670,7 +8704,7 @@
         "owner": "L.Dutch",
         "question_id": "274662",
         "question_title": "Would a planet with a rocky shell and a subsurface ocean explode if it were moved closer to its Sun due to the internal water 'boiling' off?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-28T14:14:00Z",
@@ -8768,16 +8802,6 @@
         "first_seen": "2026-09-16T10:28:12.892929Z",
         "link": "https://worldbuilding.stackexchange.com/a/274548",
         "owner": "bukwyrm",
-        "question_id": "274547",
-        "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 8
-      },
-      {
-        "answer_created": "2026-09-14T15:46:24Z",
-        "answer_id": "274552",
-        "first_seen": "2026-09-15T17:24:52.402901Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274552",
-        "owner": "Navicula",
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
         "score": 8
@@ -9053,9 +9077,10 @@
       "274916": "2026-11-02T15:52:40.196607Z",
       "274917": "2026-11-03T20:58:49.087007Z",
       "274922": "2026-11-03T15:07:53.160808Z",
+      "274923": "2026-11-05T12:20:59.315035Z",
       "274925": "2026-11-03T20:58:49.087007Z",
       "274935": "2026-11-04T22:39:16.353041Z"
     },
-    "last_checked": "2026-11-05T03:29:40.368034Z"
+    "last_checked": "2026-11-05T12:20:59.315035Z"
   }
 }
