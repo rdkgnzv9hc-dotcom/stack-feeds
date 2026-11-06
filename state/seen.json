@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-06T11:56:55Z",
+        "answer_id": "228045",
+        "first_seen": "2026-11-06T23:08:17.208597Z",
+        "link": "https://academia.stackexchange.com/a/228045",
+        "owner": "Bob Brown",
+        "question_id": "228043",
+        "question_title": "Another student answers questions for me at group meetings",
+        "score": 11
+      },
+      {
         "answer_created": "2026-11-04T22:05:20Z",
         "answer_id": "228031",
         "first_seen": "2026-11-06T17:29:36.054589Z",
@@ -9,7 +19,7 @@
         "owner": "Polytropos",
         "question_id": "228025",
         "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-04T17:58:15Z",
@@ -19,7 +29,7 @@
         "owner": "cag51",
         "question_id": "228025",
         "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
-        "score": 29
+        "score": 33
       },
       {
         "answer_created": "2026-11-03T13:54:40Z",
@@ -89,7 +99,7 @@
         "owner": "Roddy",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-30T12:04:26Z",
@@ -990,16 +1000,6 @@
         "question_id": "227278",
         "question_title": "Should results found using large language model technology be written into a preprint?",
         "score": 22
-      },
-      {
-        "answer_created": "2026-07-23T08:49:05Z",
-        "answer_id": "227280",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227280",
-        "owner": "Maarten Buis",
-        "question_id": "227278",
-        "question_title": "Should results found using large language model technology be written into a preprint?",
-        "score": 29
       }
     ],
     "known": {
@@ -1133,9 +1133,10 @@
       "228009": "2026-11-04T17:15:13.405297Z",
       "228016": "2026-11-04T17:15:13.405297Z",
       "228027": "2026-11-05T12:20:59.315035Z",
-      "228031": "2026-11-06T17:29:36.054589Z"
+      "228031": "2026-11-06T17:29:36.054589Z",
+      "228045": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "history-high-score": {
     "entries": [
@@ -1252,7 +1253,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1600,7 +1601,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "law-high-score": {
     "entries": [
@@ -1612,7 +1613,7 @@
         "owner": "Weather Vane",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-03T20:43:35Z",
@@ -2674,7 +2675,7 @@
       "116919": "2026-11-05T20:40:06.100743Z",
       "116933": "2026-11-06T17:29:36.054589Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "math-high-score": {
     "entries": [
@@ -3319,10 +3320,30 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-06T12:39:45Z",
+        "answer_id": "516724",
+        "first_seen": "2026-11-06T23:08:17.208597Z",
+        "link": "https://mathoverflow.net/a/516724",
+        "owner": "Andreas Lietz",
+        "question_id": "516717",
+        "question_title": "Consistent continuous surjection $c:[0,1]\\to[0,1]$",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-11-03T08:56:11Z",
+        "answer_id": "516646",
+        "first_seen": "2026-11-06T23:08:17.208597Z",
+        "link": "https://mathoverflow.net/a/516646",
+        "owner": "Liviu Nicolaescu",
+        "question_id": "516637",
+        "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-05T18:30:19Z",
         "answer_id": "516690",
@@ -3351,7 +3372,7 @@
         "owner": "Timothy Chow",
         "question_id": "516637",
         "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-04T14:08:30Z",
@@ -3361,7 +3382,7 @@
         "owner": "GH from MO",
         "question_id": "516677",
         "question_title": "Possible sign discrepancy in the proof of the quadratic large sieve",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-01T23:00:00Z",
@@ -3381,7 +3402,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516637",
         "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-11-01T12:56:29Z",
@@ -3401,7 +3422,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-29T11:24:42Z",
@@ -4302,26 +4323,6 @@
         "question_id": "347178",
         "question_title": "An intriguing calculus question",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-26T12:17:02Z",
-        "answer_id": "515565",
-        "first_seen": "2026-09-26T19:24:57.012170Z",
-        "link": "https://mathoverflow.net/a/515565",
-        "owner": "David White",
-        "question_id": "515564",
-        "question_title": "How will we be able to assess quality of applicants for jobs in math?",
-        "score": 13
-      },
-      {
-        "answer_created": "2026-09-26T06:55:43Z",
-        "answer_id": "515561",
-        "first_seen": "2026-09-26T15:26:31.710895Z",
-        "link": "https://mathoverflow.net/a/515561",
-        "owner": "Andrei Sipo\u0219",
-        "question_id": "515551",
-        "question_title": "Extracting a first order proof from a non first order proof",
-        "score": 21
       }
     ],
     "known": {
@@ -4933,12 +4934,14 @@
       "516615": "2026-11-01T23:35:30.280480Z",
       "516617": "2026-11-03T20:58:49.087007Z",
       "516638": "2026-11-03T06:47:03.471385Z",
+      "516646": "2026-11-06T23:08:17.208597Z",
       "516656": "2026-11-05T12:20:59.315035Z",
       "516678": "2026-11-05T03:29:40.368034Z",
       "516690": "2026-11-06T17:29:36.054589Z",
-      "516691": "2026-11-06T09:24:42.998985Z"
+      "516691": "2026-11-06T09:24:42.998985Z",
+      "516724": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5066,7 +5069,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6194,7 +6197,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6234,10 +6237,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-04T10:31:40Z",
+        "answer_id": "306409",
+        "first_seen": "2026-11-06T23:08:17.208597Z",
+        "link": "https://scifi.stackexchange.com/a/306409",
+        "owner": "Paulie_D",
+        "question_id": "306408",
+        "question_title": "What is written on the Wakandan Trunk/Box in VisionQuest?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-05T06:46:42Z",
         "answer_id": "306418",
@@ -7227,16 +7240,6 @@
         "question_id": "305470",
         "question_title": "Identify a pre-1980 science fiction short story about a solar research station whose last message was something like \u201cThe Sun is going over\u201d",
         "score": 25
-      },
-      {
-        "answer_created": "2026-08-04T05:06:23Z",
-        "answer_id": "305463",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305463",
-        "owner": "user14111",
-        "question_id": "305446",
-        "question_title": "First voluntary female backwards time traveler protagonist?",
-        "score": 16
       }
     ],
     "known": {
@@ -7390,9 +7393,10 @@
       "306385": "2026-10-31T21:34:36.297799Z",
       "306394": "2026-11-03T06:47:03.471385Z",
       "306400": "2026-11-03T15:07:53.160808Z",
+      "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "space-high-score": {
     "entries": [
@@ -7404,7 +7408,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70787",
         "question_title": "How are the Apoapsis and Periapsis calculated for a gaseous planet?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-20T02:15:12Z",
@@ -7861,10 +7865,20 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-05T18:57:46Z",
+        "answer_id": "274944",
+        "first_seen": "2026-11-06T23:08:17.208597Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274944",
+        "owner": "JBH",
+        "question_id": "274941",
+        "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
+        "score": 6
+      },
       {
         "answer_created": "2026-11-05T19:16:48Z",
         "answer_id": "274945",
@@ -7883,7 +7897,7 @@
         "owner": "Christopher James Huff",
         "question_id": "274931",
         "question_title": "Would life that used sulfuric acid in place of water also have to be silicon based?",
-        "score": 6
+        "score": 5
       },
       {
         "answer_created": "2026-11-03T03:31:48Z",
@@ -7903,7 +7917,7 @@
         "owner": "JBH",
         "question_id": "274932",
         "question_title": "How much food do humanoids need to power their forehead radio for daily use?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-11-03T09:38:54Z",
@@ -8854,16 +8868,6 @@
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
         "score": 6
-      },
-      {
-        "answer_created": "2026-09-16T12:46:10Z",
-        "answer_id": "274570",
-        "first_seen": "2026-09-16T16:27:25.249371Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274570",
-        "owner": "Gary Walker",
-        "question_id": "274569",
-        "question_title": "Merging Planets",
-        "score": 30
       }
     ],
     "known": {
@@ -9140,8 +9144,9 @@
       "274925": "2026-11-03T20:58:49.087007Z",
       "274933": "2026-11-05T20:40:06.100743Z",
       "274935": "2026-11-04T22:39:16.353041Z",
+      "274944": "2026-11-06T23:08:17.208597Z",
       "274945": "2026-11-06T17:29:36.054589Z"
     },
-    "last_checked": "2026-11-06T17:29:36.054589Z"
+    "last_checked": "2026-11-06T23:08:17.208597Z"
   }
 }
