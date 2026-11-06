@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-04T22:05:20Z",
+        "answer_id": "228031",
+        "first_seen": "2026-11-06T17:29:36.054589Z",
+        "link": "https://academia.stackexchange.com/a/228031",
+        "owner": "Polytropos",
+        "question_id": "228025",
+        "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
+        "score": 11
+      },
+      {
         "answer_created": "2026-11-04T17:58:15Z",
         "answer_id": "228027",
         "first_seen": "2026-11-05T12:20:59.315035Z",
@@ -9,7 +19,7 @@
         "owner": "cag51",
         "question_id": "228025",
         "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
-        "score": 27
+        "score": 29
       },
       {
         "answer_created": "2026-11-03T13:54:40Z",
@@ -19,7 +29,7 @@
         "owner": "JF Meier",
         "question_id": "228015",
         "question_title": "How to know what you don't know?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-02T18:39:38Z",
@@ -990,16 +1000,6 @@
         "question_id": "227278",
         "question_title": "Should results found using large language model technology be written into a preprint?",
         "score": 29
-      },
-      {
-        "answer_created": "2026-07-23T08:42:46Z",
-        "answer_id": "227279",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227279",
-        "owner": "Allure",
-        "question_id": "227278",
-        "question_title": "Should results found using large language model technology be written into a preprint?",
-        "score": 39
       }
     ],
     "known": {
@@ -1132,9 +1132,10 @@
       "228006": "2026-11-04T17:15:13.405297Z",
       "228009": "2026-11-04T17:15:13.405297Z",
       "228016": "2026-11-04T17:15:13.405297Z",
-      "228027": "2026-11-05T12:20:59.315035Z"
+      "228027": "2026-11-05T12:20:59.315035Z",
+      "228031": "2026-11-06T17:29:36.054589Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "history-high-score": {
     "entries": [
@@ -1251,7 +1252,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1599,10 +1600,20 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-05T11:46:40Z",
+        "answer_id": "116933",
+        "first_seen": "2026-11-06T17:29:36.054589Z",
+        "link": "https://law.stackexchange.com/a/116933",
+        "owner": "Weather Vane",
+        "question_id": "116932",
+        "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
+        "score": 12
+      },
       {
         "answer_created": "2026-11-03T20:43:35Z",
         "answer_id": "116919",
@@ -1611,7 +1622,7 @@
         "owner": "Barmar",
         "question_id": "116918",
         "question_title": "Why do modern depictions of gorgons not infringe on the copyright of a 1981 film?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-10-31T22:38:12Z",
@@ -1621,7 +1632,7 @@
         "owner": "Jen",
         "question_id": "116882",
         "question_title": "How a felon can direct the department of justice",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-01T15:45:33Z",
@@ -2660,9 +2671,10 @@
       "116883": "2026-11-05T20:40:06.100743Z",
       "116893": "2026-11-05T12:20:59.315035Z",
       "116903": "2026-11-03T15:07:53.160808Z",
-      "116919": "2026-11-05T20:40:06.100743Z"
+      "116919": "2026-11-05T20:40:06.100743Z",
+      "116933": "2026-11-06T17:29:36.054589Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "math-high-score": {
     "entries": [
@@ -3307,10 +3319,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-05T18:30:19Z",
+        "answer_id": "516690",
+        "first_seen": "2026-11-06T17:29:36.054589Z",
+        "link": "https://mathoverflow.net/a/516690",
+        "owner": "Ian Agol",
+        "question_id": "515968",
+        "question_title": "Consequences of quasi-RH",
+        "score": 12
+      },
       {
         "answer_created": "2026-11-05T18:49:22Z",
         "answer_id": "516691",
@@ -3319,7 +3341,7 @@
         "owner": "Denis T",
         "question_id": "516689",
         "question_title": "Question about group rings",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-03T15:16:15Z",
@@ -4300,16 +4322,6 @@
         "question_id": "515551",
         "question_title": "Extracting a first order proof from a non first order proof",
         "score": 21
-      },
-      {
-        "answer_created": "2026-08-03T23:08:02Z",
-        "answer_id": "513901",
-        "first_seen": "2026-09-26T10:25:55.025534Z",
-        "link": "https://mathoverflow.net/a/513901",
-        "owner": "TimH",
-        "question_id": "513894",
-        "question_title": "Dossiers on LLMs in mathematical research",
-        "score": 10
       }
     ],
     "known": {
@@ -4923,9 +4935,10 @@
       "516638": "2026-11-03T06:47:03.471385Z",
       "516656": "2026-11-05T12:20:59.315035Z",
       "516678": "2026-11-05T03:29:40.368034Z",
+      "516690": "2026-11-06T17:29:36.054589Z",
       "516691": "2026-11-06T09:24:42.998985Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5053,7 +5066,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6181,7 +6194,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6221,7 +6234,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6233,7 +6246,7 @@
         "owner": "Martheen",
         "question_id": "306414",
         "question_title": "What were the red Laser gates on Naboo made of?",
-        "score": 11
+        "score": 14
       },
       {
         "answer_created": "2026-11-02T18:53:50Z",
@@ -7379,7 +7392,7 @@
       "306400": "2026-11-03T15:07:53.160808Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "space-high-score": {
     "entries": [
@@ -7391,7 +7404,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70787",
         "question_title": "How are the Apoapsis and Periapsis calculated for a gaseous planet?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-20T02:15:12Z",
@@ -7848,10 +7861,20 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-05T19:16:48Z",
+        "answer_id": "274945",
+        "first_seen": "2026-11-06T17:29:36.054589Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274945",
+        "owner": "Pica",
+        "question_id": "274942",
+        "question_title": "How would power-hungry implants be powered long term?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-04T15:36:03Z",
         "answer_id": "274933",
@@ -7880,7 +7903,7 @@
         "owner": "JBH",
         "question_id": "274932",
         "question_title": "How much food do humanoids need to power their forehead radio for daily use?",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-11-03T09:38:54Z",
@@ -7930,7 +7953,7 @@
         "owner": "Robert Rapplean",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-01T10:42:45Z",
@@ -8000,7 +8023,7 @@
         "owner": "JBH",
         "question_id": "274877",
         "question_title": "The legendary crossing of the strait: could it have actually happened?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-27T14:20:23Z",
@@ -8841,16 +8864,6 @@
         "question_id": "274569",
         "question_title": "Merging Planets",
         "score": 30
-      },
-      {
-        "answer_created": "2026-09-15T21:02:25Z",
-        "answer_id": "274566",
-        "first_seen": "2026-09-16T13:29:04.392403Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274566",
-        "owner": "jdunlop",
-        "question_id": "274564",
-        "question_title": "Would it be plausible for a gas and ice belt to shield a planet from radiation?",
-        "score": 10
       }
     ],
     "known": {
@@ -9126,8 +9139,9 @@
       "274923": "2026-11-05T12:20:59.315035Z",
       "274925": "2026-11-03T20:58:49.087007Z",
       "274933": "2026-11-05T20:40:06.100743Z",
-      "274935": "2026-11-04T22:39:16.353041Z"
+      "274935": "2026-11-04T22:39:16.353041Z",
+      "274945": "2026-11-06T17:29:36.054589Z"
     },
-    "last_checked": "2026-11-06T09:24:42.998985Z"
+    "last_checked": "2026-11-06T17:29:36.054589Z"
   }
 }
