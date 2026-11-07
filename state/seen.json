@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-06T12:51:11Z",
+        "answer_id": "228046",
+        "first_seen": "2026-11-07T10:09:19.123296Z",
+        "link": "https://academia.stackexchange.com/a/228046",
+        "owner": "pyrochlor",
+        "question_id": "228043",
+        "question_title": "Another student answers questions for me at group meetings",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-06T11:56:55Z",
         "answer_id": "228045",
         "first_seen": "2026-11-06T23:08:17.208597Z",
@@ -9,7 +19,7 @@
         "owner": "Bob Brown",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-04T22:05:20Z",
@@ -990,16 +1000,6 @@
         "question_id": "227282",
         "question_title": "Disagreement between supervisors regarding interdisciplinary program design",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-23T11:13:58Z",
-        "answer_id": "227281",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227281",
-        "owner": "Dave L Renfro",
-        "question_id": "227278",
-        "question_title": "Should results found using large language model technology be written into a preprint?",
-        "score": 22
       }
     ],
     "known": {
@@ -1134,9 +1134,10 @@
       "228016": "2026-11-04T17:15:13.405297Z",
       "228027": "2026-11-05T12:20:59.315035Z",
       "228031": "2026-11-06T17:29:36.054589Z",
-      "228045": "2026-11-06T23:08:17.208597Z"
+      "228045": "2026-11-06T23:08:17.208597Z",
+      "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "history-high-score": {
     "entries": [
@@ -1253,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1601,7 +1602,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "law-high-score": {
     "entries": [
@@ -1613,7 +1614,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-05T11:46:40Z",
@@ -1623,7 +1624,7 @@
         "owner": "Weather Vane",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-03T20:43:35Z",
@@ -1633,7 +1634,7 @@
         "owner": "Barmar",
         "question_id": "116918",
         "question_title": "Why do modern depictions of gorgons not infringe on the copyright of a 1981 film?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-31T22:38:12Z",
@@ -2686,7 +2687,7 @@
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "math-high-score": {
     "entries": [
@@ -3331,7 +3332,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3383,7 +3384,7 @@
         "owner": "Timothy Chow",
         "question_id": "516637",
         "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-04T14:08:30Z",
@@ -3393,7 +3394,7 @@
         "owner": "GH from MO",
         "question_id": "516677",
         "question_title": "Possible sign discrepancy in the proof of the quadratic large sieve",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-01T23:00:00Z",
@@ -3413,7 +3414,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516637",
         "question_title": "Are there academic situations in which artificial mathematical motivation has merit?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-11-01T12:56:29Z",
@@ -4952,7 +4953,7 @@
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5080,7 +5081,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6208,7 +6209,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6248,7 +6249,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7407,7 +7408,7 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "space-high-score": {
     "entries": [
@@ -7876,10 +7877,20 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-07T01:26:44Z",
+        "answer_id": "274955",
+        "first_seen": "2026-11-07T10:09:19.123296Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274955",
+        "owner": "L.Dutch",
+        "question_id": "274953",
+        "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-05T18:57:46Z",
         "answer_id": "274944",
@@ -7888,7 +7899,7 @@
         "owner": "JBH",
         "question_id": "274941",
         "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-05T19:16:48Z",
@@ -8869,16 +8880,6 @@
         "question_id": "274569",
         "question_title": "Merging Planets",
         "score": 6
-      },
-      {
-        "answer_created": "2026-09-14T14:24:43Z",
-        "answer_id": "274551",
-        "first_seen": "2026-09-17T01:26:51.022201Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274551",
-        "owner": "Monty Wild",
-        "question_id": "274547",
-        "question_title": "How can a pre-industrial society fight underwater enemies?",
-        "score": 6
       }
     ],
     "known": {
@@ -9156,8 +9157,9 @@
       "274933": "2026-11-05T20:40:06.100743Z",
       "274935": "2026-11-04T22:39:16.353041Z",
       "274944": "2026-11-06T23:08:17.208597Z",
-      "274945": "2026-11-06T17:29:36.054589Z"
+      "274945": "2026-11-06T17:29:36.054589Z",
+      "274955": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-07T02:48:20.170253Z"
+    "last_checked": "2026-11-07T10:09:19.123296Z"
   }
 }

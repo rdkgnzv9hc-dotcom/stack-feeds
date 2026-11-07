@@ -5,13 +5,20 @@
     <link>https://academia.stackexchange.com</link>
     <description>Answers from academia that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:48:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:09:19 +0000</lastBuildDate>
     <item>
-      <title>Another student answers questions for me at group meetings — answer reached score 11</title>
+      <title>Another student answers questions for me at group meetings — answer reached score 10</title>
+      <link>https://academia.stackexchange.com/a/228046</link>
+      <guid isPermaLink="false">stackexchange:academia:answer:228046</guid>
+      <pubDate>Sat, 07 Nov 2026 10:09:19 +0000</pubDate>
+      <description>Answer by pyrochlor. Score when last checked: 10. Originally posted: 2026-11-06T12:51:11Z.</description>
+    </item>
+    <item>
+      <title>Another student answers questions for me at group meetings — answer reached score 12</title>
       <link>https://academia.stackexchange.com/a/228045</link>
       <guid isPermaLink="false">stackexchange:academia:answer:228045</guid>
       <pubDate>Fri, 06 Nov 2026 23:08:17 +0000</pubDate>
-      <description>Answer by Bob Brown. Score when last checked: 11. Originally posted: 2026-11-06T11:56:55Z.</description>
+      <description>Answer by Bob Brown. Score when last checked: 12. Originally posted: 2026-11-06T11:56:55Z.</description>
     </item>
     <item>
       <title>“Your paper will be rejected if a reviewer can generate a better paper by using LLMs.” — answer reached score 12</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:academia:answer:227283</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by Bryan Krause. Score when last checked: 12. Originally posted: 2026-07-23T15:49:32Z.</description>
-    </item>
-    <item>
-      <title>Should results found using large language model technology be written into a preprint? — answer reached score 22</title>
-      <link>https://academia.stackexchange.com/a/227281</link>
-      <guid isPermaLink="false">stackexchange:academia:answer:227281</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by Dave L Renfro. Score when last checked: 22. Originally posted: 2026-07-23T11:13:58Z.</description>
     </item>
   </channel>
 </rss>
