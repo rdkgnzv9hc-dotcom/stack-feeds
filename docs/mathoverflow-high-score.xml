@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:52:51 +0000</lastBuildDate>
+    <item>
+      <title>Can $\mathbb N_{\ge 3}$ be partitioned into Pythagorean triples? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516625</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516625</guid>
+      <pubDate>Sat, 07 Nov 2026 20:52:51 +0000</pubDate>
+      <description>Answer by Sharky Kesa. Score when last checked: 10. Originally posted: 2026-11-02T07:20:12Z.</description>
+    </item>
     <item>
       <title>Is cardinal assignment impossible in ZC? — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516579</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515634</guid>
       <pubDate>Wed, 30 Sep 2026 04:30:11 +0000</pubDate>
       <description>Answer by Sam Hopkins. Score when last checked: 25. Originally posted: 2026-09-29T23:12:43Z.</description>
-    </item>
-    <item>
-      <title>How common are the bee numbers? — answer reached score 16</title>
-      <link>https://mathoverflow.net/a/515602</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515602</guid>
-      <pubDate>Tue, 29 Sep 2026 06:35:12 +0000</pubDate>
-      <description>Answer by Timothy Budd. Score when last checked: 16. Originally posted: 2026-09-28T12:25:25Z.</description>
     </item>
   </channel>
 </rss>

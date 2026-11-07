@@ -9,7 +9,7 @@
         "owner": "pyrochlor",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-06T11:56:55Z",
@@ -39,7 +39,7 @@
         "owner": "cag51",
         "question_id": "228025",
         "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
-        "score": 35
+        "score": 38
       },
       {
         "answer_created": "2026-11-03T13:54:40Z",
@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,7 +1602,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "law-high-score": {
     "entries": [
@@ -1614,7 +1614,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-05T11:46:40Z",
@@ -2687,7 +2687,7 @@
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "math-high-score": {
     "entries": [
@@ -3332,10 +3332,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-02T07:20:12Z",
+        "answer_id": "516625",
+        "first_seen": "2026-11-07T20:52:51.010174Z",
+        "link": "https://mathoverflow.net/a/516625",
+        "owner": "Sharky Kesa",
+        "question_id": "516514",
+        "question_title": "Can $\\mathbb N_{\\ge 3}$ be partitioned into Pythagorean triples?",
+        "score": 10
+      },
       {
         "answer_created": "2026-10-30T23:38:32Z",
         "answer_id": "516579",
@@ -4325,16 +4335,6 @@
         "question_id": "515435",
         "question_title": "AI advisory group vs. immediate open access?",
         "score": 25
-      },
-      {
-        "answer_created": "2026-09-28T12:25:25Z",
-        "answer_id": "515602",
-        "first_seen": "2026-09-29T06:35:12.219005Z",
-        "link": "https://mathoverflow.net/a/515602",
-        "owner": "Timothy Budd",
-        "question_id": "515588",
-        "question_title": "How common are the bee numbers?",
-        "score": 16
       }
     ],
     "known": {
@@ -4946,6 +4946,7 @@
       "516605": "2026-11-02T15:52:40.196607Z",
       "516615": "2026-11-01T23:35:30.280480Z",
       "516617": "2026-11-03T20:58:49.087007Z",
+      "516625": "2026-11-07T20:52:51.010174Z",
       "516638": "2026-11-03T06:47:03.471385Z",
       "516646": "2026-11-06T23:08:17.208597Z",
       "516656": "2026-11-05T12:20:59.315035Z",
@@ -4954,7 +4955,7 @@
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5082,7 +5083,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6210,7 +6211,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6250,7 +6251,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7409,7 +7410,7 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "space-high-score": {
     "entries": [
@@ -7878,7 +7879,7 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7890,7 +7891,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -7900,7 +7901,7 @@
         "owner": "JBH",
         "question_id": "274941",
         "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-05T19:16:48Z",
@@ -9161,6 +9162,6 @@
       "274945": "2026-11-06T17:29:36.054589Z",
       "274955": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-07T16:26:19.243802Z"
+    "last_checked": "2026-11-07T20:52:51.010174Z"
   }
 }
