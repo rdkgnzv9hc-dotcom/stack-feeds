@@ -9,7 +9,7 @@
         "owner": "pyrochlor",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-06T11:56:55Z",
@@ -19,7 +19,7 @@
         "owner": "Bob Brown",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-11-04T22:05:20Z",
@@ -39,7 +39,7 @@
         "owner": "cag51",
         "question_id": "228025",
         "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
-        "score": 34
+        "score": 35
       },
       {
         "answer_created": "2026-11-03T13:54:40Z",
@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,7 +1602,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "law-high-score": {
     "entries": [
@@ -1624,7 +1624,7 @@
         "owner": "Weather Vane",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-03T20:43:35Z",
@@ -2687,7 +2687,7 @@
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "math-high-score": {
     "entries": [
@@ -3332,10 +3332,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-30T23:38:32Z",
+        "answer_id": "516579",
+        "first_seen": "2026-11-07T16:26:19.243802Z",
+        "link": "https://mathoverflow.net/a/516579",
+        "owner": "Elliot Glazer",
+        "question_id": "516537",
+        "question_title": "Is cardinal assignment impossible in ZC?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-06T12:39:45Z",
         "answer_id": "516724",
@@ -4325,16 +4335,6 @@
         "question_id": "515588",
         "question_title": "How common are the bee numbers?",
         "score": 16
-      },
-      {
-        "answer_created": "2026-07-13T13:45:11Z",
-        "answer_id": "513200",
-        "first_seen": "2026-09-29T00:35:45.722070Z",
-        "link": "https://mathoverflow.net/a/513200",
-        "owner": "Tomas Ortega",
-        "question_id": "347178",
-        "question_title": "An intriguing calculus question",
-        "score": 10
       }
     ],
     "known": {
@@ -4942,6 +4942,7 @@
       "516511": "2026-10-30T14:08:29.767299Z",
       "516527": "2026-10-30T00:59:36.600201Z",
       "516530": "2026-11-01T15:09:12.745405Z",
+      "516579": "2026-11-07T16:26:19.243802Z",
       "516605": "2026-11-02T15:52:40.196607Z",
       "516615": "2026-11-01T23:35:30.280480Z",
       "516617": "2026-11-03T20:58:49.087007Z",
@@ -4953,7 +4954,7 @@
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5081,7 +5082,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6209,7 +6210,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6249,7 +6250,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6281,7 +6282,7 @@
         "owner": "Valorum",
         "question_id": "281100",
         "question_title": "What animated film or TV show is this guy from?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-02T05:15:39Z",
@@ -6291,7 +6292,7 @@
         "owner": "Martheen",
         "question_id": "306393",
         "question_title": "Are There \"IT\" or \"Computer Specialists\" On Board Starfleet Vessels?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-30T20:17:35Z",
@@ -7408,7 +7409,7 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "space-high-score": {
     "entries": [
@@ -7420,7 +7421,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70787",
         "question_title": "How are the Apoapsis and Periapsis calculated for a gaseous planet?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-09-20T02:15:12Z",
@@ -7877,7 +7878,7 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7889,7 +7890,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 5
+        "score": 7
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -8819,7 +8820,7 @@
         "owner": "L.Dutch",
         "question_id": "274662",
         "question_title": "Would a planet with a rocky shell and a subsurface ocean explode if it were moved closer to its Sun due to the internal water 'boiling' off?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-09-28T14:14:00Z",
@@ -9160,6 +9161,6 @@
       "274945": "2026-11-06T17:29:36.054589Z",
       "274955": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-07T10:09:19.123296Z"
+    "last_checked": "2026-11-07T16:26:19.243802Z"
   }
 }

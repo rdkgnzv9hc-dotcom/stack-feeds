@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 10:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:26:19 +0000</lastBuildDate>
+    <item>
+      <title>Is cardinal assignment impossible in ZC? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516579</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516579</guid>
+      <pubDate>Sat, 07 Nov 2026 16:26:19 +0000</pubDate>
+      <description>Answer by Elliot Glazer. Score when last checked: 10. Originally posted: 2026-10-30T23:38:32Z.</description>
+    </item>
     <item>
       <title>Consistent continuous surjection $c:[0,1]\to[0,1]$ — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516724</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515602</guid>
       <pubDate>Tue, 29 Sep 2026 06:35:12 +0000</pubDate>
       <description>Answer by Timothy Budd. Score when last checked: 16. Originally posted: 2026-09-28T12:25:25Z.</description>
-    </item>
-    <item>
-      <title>An intriguing calculus question — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/513200</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:513200</guid>
-      <pubDate>Tue, 29 Sep 2026 00:35:45 +0000</pubDate>
-      <description>Answer by Tomas Ortega. Score when last checked: 10. Originally posted: 2026-07-13T13:45:11Z.</description>
     </item>
   </channel>
 </rss>
