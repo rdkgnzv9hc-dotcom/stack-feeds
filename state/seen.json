@@ -29,7 +29,7 @@
         "owner": "cag51",
         "question_id": "228025",
         "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-11-03T13:54:40Z",
@@ -1136,7 +1136,7 @@
       "228031": "2026-11-06T17:29:36.054589Z",
       "228045": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "history-high-score": {
     "entries": [
@@ -1253,7 +1253,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1601,10 +1601,20 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-06T09:52:52Z",
+        "answer_id": "116946",
+        "first_seen": "2026-11-07T02:48:20.170253Z",
+        "link": "https://law.stackexchange.com/a/116946",
+        "owner": "Stephan Kolassa",
+        "question_id": "116932",
+        "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-05T11:46:40Z",
         "answer_id": "116933",
@@ -1613,7 +1623,7 @@
         "owner": "Weather Vane",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-03T20:43:35Z",
@@ -1623,7 +1633,7 @@
         "owner": "Barmar",
         "question_id": "116918",
         "question_title": "Why do modern depictions of gorgons not infringe on the copyright of a 1981 film?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-10-31T22:38:12Z",
@@ -2673,9 +2683,10 @@
       "116893": "2026-11-05T12:20:59.315035Z",
       "116903": "2026-11-03T15:07:53.160808Z",
       "116919": "2026-11-05T20:40:06.100743Z",
-      "116933": "2026-11-06T17:29:36.054589Z"
+      "116933": "2026-11-06T17:29:36.054589Z",
+      "116946": "2026-11-07T02:48:20.170253Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "math-high-score": {
     "entries": [
@@ -3320,7 +3331,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3362,7 +3373,7 @@
         "owner": "Denis T",
         "question_id": "516689",
         "question_title": "Question about group rings",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-03T15:16:15Z",
@@ -3382,7 +3393,7 @@
         "owner": "GH from MO",
         "question_id": "516677",
         "question_title": "Possible sign discrepancy in the proof of the quadratic large sieve",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-01T23:00:00Z",
@@ -4941,7 +4952,7 @@
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5069,7 +5080,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5091,7 +5102,7 @@
         "owner": "David Bailey",
         "question_id": "877343",
         "question_title": "Why can horsehair worms untie themselves?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-31T12:08:03Z",
@@ -6197,7 +6208,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6237,7 +6248,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7396,7 +7407,7 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "space-high-score": {
     "entries": [
@@ -7408,7 +7419,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70787",
         "question_title": "How are the Apoapsis and Periapsis calculated for a gaseous planet?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-20T02:15:12Z",
@@ -7468,7 +7479,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-13T15:50:26Z",
@@ -7478,7 +7489,7 @@
         "owner": "TJM",
         "question_id": "70748",
         "question_title": "What spacecraft are using the 2026 Mars launch window?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-12T21:01:43Z",
@@ -7488,7 +7499,7 @@
         "owner": "Erin Anne",
         "question_id": "70742",
         "question_title": "How would rockets function in an atmosphere which has 100 % oxygen?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-10-07T22:49:16Z",
@@ -7865,7 +7876,7 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9147,6 +9158,6 @@
       "274944": "2026-11-06T23:08:17.208597Z",
       "274945": "2026-11-06T17:29:36.054589Z"
     },
-    "last_checked": "2026-11-06T23:08:17.208597Z"
+    "last_checked": "2026-11-07T02:48:20.170253Z"
   }
 }
