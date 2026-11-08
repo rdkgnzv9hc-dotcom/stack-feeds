@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,10 +1602,20 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-04T18:22:33Z",
+        "answer_id": "116929",
+        "first_seen": "2026-11-08T00:36:09.657722Z",
+        "link": "https://law.stackexchange.com/a/116929",
+        "owner": "user130211",
+        "question_id": "116928",
+        "question_title": "Do members of the UK's Armed Forces (NCOs, WOs, and COs) ever possess elevated powers of arrest, versus non-police civilians?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-06T09:52:52Z",
         "answer_id": "116946",
@@ -2684,10 +2694,11 @@
       "116893": "2026-11-05T12:20:59.315035Z",
       "116903": "2026-11-03T15:07:53.160808Z",
       "116919": "2026-11-05T20:40:06.100743Z",
+      "116929": "2026-11-08T00:36:09.657722Z",
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "math-high-score": {
     "entries": [
@@ -3332,7 +3343,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4955,7 +4966,7 @@
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5083,7 +5094,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6211,7 +6222,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6251,7 +6262,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7410,7 +7421,7 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "space-high-score": {
     "entries": [
@@ -7879,10 +7890,30 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-07T10:29:51Z",
+        "answer_id": "274960",
+        "first_seen": "2026-11-08T00:36:09.657722Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274960",
+        "owner": "L.Dutch",
+        "question_id": "274959",
+        "question_title": "Mechanism for innate and consciously-controllable reproduction for self-reproducing women",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-07T02:13:12Z",
+        "answer_id": "274956",
+        "first_seen": "2026-11-08T00:36:09.657722Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274956",
+        "owner": "Tesseract16",
+        "question_id": "274951",
+        "question_title": "How would a planet have an off-balance center of gravity?",
+        "score": 6
+      },
       {
         "answer_created": "2026-11-07T01:26:44Z",
         "answer_id": "274955",
@@ -7891,7 +7922,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 8
+        "score": 10
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -7901,7 +7932,7 @@
         "owner": "JBH",
         "question_id": "274941",
         "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-05T19:16:48Z",
@@ -8862,26 +8893,6 @@
         "question_id": "274547",
         "question_title": "How can a pre-industrial society fight underwater enemies?",
         "score": 6
-      },
-      {
-        "answer_created": "2026-09-18T05:13:47Z",
-        "answer_id": "274589",
-        "first_seen": "2026-09-20T23:24:18.817304Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274589",
-        "owner": "Thucydides",
-        "question_id": "274583",
-        "question_title": "Communication between two ships while one of them is fully deactivated",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-09-16T20:43:00Z",
-        "answer_id": "274576",
-        "first_seen": "2026-09-17T20:27:27.685506Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274576",
-        "owner": "Trish",
-        "question_id": "274569",
-        "question_title": "Merging Planets",
-        "score": 6
       }
     ],
     "known": {
@@ -9160,8 +9171,10 @@
       "274935": "2026-11-04T22:39:16.353041Z",
       "274944": "2026-11-06T23:08:17.208597Z",
       "274945": "2026-11-06T17:29:36.054589Z",
-      "274955": "2026-11-07T10:09:19.123296Z"
+      "274955": "2026-11-07T10:09:19.123296Z",
+      "274956": "2026-11-08T00:36:09.657722Z",
+      "274960": "2026-11-08T00:36:09.657722Z"
     },
-    "last_checked": "2026-11-07T20:52:51.010174Z"
+    "last_checked": "2026-11-08T00:36:09.657722Z"
   }
 }
