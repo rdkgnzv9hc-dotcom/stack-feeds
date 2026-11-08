@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,7 +1602,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "law-high-score": {
     "entries": [
@@ -1634,7 +1634,7 @@
         "owner": "Weather Vane",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-03T20:43:35Z",
@@ -1644,7 +1644,7 @@
         "owner": "Barmar",
         "question_id": "116918",
         "question_title": "Why do modern depictions of gorgons not infringe on the copyright of a 1981 film?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-31T22:38:12Z",
@@ -2698,7 +2698,7 @@
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "math-high-score": {
     "entries": [
@@ -3343,10 +3343,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-07T08:31:08Z",
+        "answer_id": "516745",
+        "first_seen": "2026-11-08T15:12:42.653881Z",
+        "link": "https://mathoverflow.net/a/516745",
+        "owner": "varkor",
+        "question_id": "436335",
+        "question_title": "Online encyclopedia of categories?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-07T21:33:47Z",
         "answer_id": "516753",
@@ -3355,7 +3365,7 @@
         "owner": "Pace Nielsen",
         "question_id": "19840",
         "question_title": "How do we recognize an integer inside the rationals?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-02T07:20:12Z",
@@ -4336,16 +4346,6 @@
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-09-30T01:19:25Z",
-        "answer_id": "515640",
-        "first_seen": "2026-09-30T06:35:11.167763Z",
-        "link": "https://mathoverflow.net/a/515640",
-        "owner": "Timothy Chow",
-        "question_id": "515632",
-        "question_title": "Formalization advice for mathematicians",
-        "score": 29
       }
     ],
     "known": {
@@ -4965,9 +4965,10 @@
       "516690": "2026-11-06T17:29:36.054589Z",
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z",
+      "516745": "2026-11-08T15:12:42.653881Z",
       "516753": "2026-11-08T07:20:39.147844Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5095,7 +5096,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6223,7 +6224,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6263,7 +6264,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7422,7 +7423,7 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "space-high-score": {
     "entries": [
@@ -7891,10 +7892,20 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-07T05:03:36Z",
+        "answer_id": "274957",
+        "first_seen": "2026-11-08T15:12:42.653881Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274957",
+        "owner": "g s",
+        "question_id": "274951",
+        "question_title": "How would a planet have an off-balance center of gravity?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-07T00:11:55Z",
         "answer_id": "274952",
@@ -7923,7 +7934,7 @@
         "owner": "Tesseract16",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-07T01:26:44Z",
@@ -7933,7 +7944,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -8884,16 +8895,6 @@
         "question_id": "274627",
         "question_title": "What adaptations could allow alien bacteria to survive in space",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-23T00:37:44Z",
-        "answer_id": "274615",
-        "first_seen": "2026-09-23T07:28:02.174679Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274615",
-        "owner": "Navicula",
-        "question_id": "274614",
-        "question_title": "What is the effect of a world's births being dependent on our world's deaths? Would the population be sustainable?",
-        "score": 10
       }
     ],
     "known": {
@@ -9175,8 +9176,9 @@
       "274952": "2026-11-08T07:20:39.147844Z",
       "274955": "2026-11-07T10:09:19.123296Z",
       "274956": "2026-11-08T00:36:09.657722Z",
+      "274957": "2026-11-08T15:12:42.653881Z",
       "274960": "2026-11-08T00:36:09.657722Z"
     },
-    "last_checked": "2026-11-08T07:20:39.147844Z"
+    "last_checked": "2026-11-08T15:12:42.653881Z"
   }
 }
