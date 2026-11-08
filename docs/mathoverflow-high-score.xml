@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:20:39 +0000</lastBuildDate>
+    <item>
+      <title>How do we recognize an integer inside the rationals? — answer reached score 11</title>
+      <link>https://mathoverflow.net/a/516753</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516753</guid>
+      <pubDate>Sun, 08 Nov 2026 07:20:39 +0000</pubDate>
+      <description>Answer by Pace Nielsen. Score when last checked: 11. Originally posted: 2026-11-07T21:33:47Z.</description>
+    </item>
     <item>
       <title>Can $\mathbb N_{\ge 3}$ be partitioned into Pythagorean triples? — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516625</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515640</guid>
       <pubDate>Wed, 30 Sep 2026 06:35:11 +0000</pubDate>
       <description>Answer by Timothy Chow. Score when last checked: 29. Originally posted: 2026-09-30T01:19:25Z.</description>
-    </item>
-    <item>
-      <title>AI advisory group vs. immediate open access? — answer reached score 25</title>
-      <link>https://mathoverflow.net/a/515634</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515634</guid>
-      <pubDate>Wed, 30 Sep 2026 04:30:11 +0000</pubDate>
-      <description>Answer by Sam Hopkins. Score when last checked: 25. Originally posted: 2026-09-29T23:12:43Z.</description>
     </item>
   </channel>
 </rss>
