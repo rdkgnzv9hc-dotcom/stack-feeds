@@ -9,7 +9,7 @@
         "owner": "pyrochlor",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 13
+        "score": 16
       },
       {
         "answer_created": "2026-11-06T11:56:55Z",
@@ -19,7 +19,7 @@
         "owner": "Bob Brown",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-04T22:05:20Z",
@@ -49,7 +49,7 @@
         "owner": "JF Meier",
         "question_id": "228015",
         "question_title": "How to know what you don't know?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-02T18:39:38Z",
@@ -69,7 +69,7 @@
         "owner": "user111388",
         "question_id": "227990",
         "question_title": "Has loyalty to an institution become more highly valued than mobility?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-02T14:35:48Z",
@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,10 +1602,20 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-06T17:03:52Z",
+        "answer_id": "116953",
+        "first_seen": "2026-11-09T17:29:14.133890Z",
+        "link": "https://law.stackexchange.com/a/116953",
+        "owner": "ohwilleke",
+        "question_id": "116952",
+        "question_title": "Can corporations and other organizations with legal personhood vote in U.S. elections?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-04T18:22:33Z",
         "answer_id": "116929",
@@ -2696,9 +2706,10 @@
       "116919": "2026-11-05T20:40:06.100743Z",
       "116929": "2026-11-08T00:36:09.657722Z",
       "116933": "2026-11-06T17:29:36.054589Z",
-      "116946": "2026-11-07T02:48:20.170253Z"
+      "116946": "2026-11-07T02:48:20.170253Z",
+      "116953": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "math-high-score": {
     "entries": [
@@ -3343,7 +3354,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3445,7 +3456,7 @@
         "owner": "GH from MO",
         "question_id": "516677",
         "question_title": "Possible sign discrepancy in the proof of the quadratic large sieve",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-01T23:00:00Z",
@@ -3805,7 +3816,7 @@
         "owner": "D.-C. Cisinski",
         "question_id": "516223",
         "question_title": "Equivalence of Cisinski's Proposition 4.3.2 (Ast\u00e9risque 308) ? When $A = BG$",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-10-20T22:56:34Z",
@@ -4968,10 +4979,20 @@
       "516745": "2026-11-08T15:12:42.653881Z",
       "516753": "2026-11-08T07:20:39.147844Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "philosophy-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-07T08:05:23Z",
+        "answer_id": "143156",
+        "first_seen": "2026-11-09T17:29:14.133890Z",
+        "link": "https://philosophy.stackexchange.com/a/143156",
+        "owner": "Jo Wehler",
+        "question_id": "143154",
+        "question_title": "What is the epistemological and ontological basis of left/liberal and right/conservative?",
+        "score": 15
+      },
       {
         "answer_created": "2026-10-21T06:46:50Z",
         "answer_id": "142773",
@@ -5094,9 +5115,10 @@
       "140633": "2026-09-11T17:35:15.780317Z",
       "140674": "2026-09-11T17:35:15.780317Z",
       "142664": "2026-10-21T23:19:36.332792Z",
-      "142773": "2026-10-23T18:21:41.590960Z"
+      "142773": "2026-10-23T18:21:41.590960Z",
+      "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5108,7 +5130,7 @@
         "owner": "CR Drost",
         "question_id": "877431",
         "question_title": "If you shatter a pane of glass, will it result in a unique set of shards?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-31T20:57:32Z",
@@ -6224,7 +6246,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6264,10 +6286,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-08T07:23:14Z",
+        "answer_id": "306447",
+        "first_seen": "2026-11-09T17:29:14.133890Z",
+        "link": "https://scifi.stackexchange.com/a/306447",
+        "owner": "James K",
+        "question_id": "306445",
+        "question_title": "2001 space odyssey - where are Discovery's fuel tanks?",
+        "score": 11
+      },
       {
         "answer_created": "2026-11-04T10:31:40Z",
         "answer_id": "306409",
@@ -7257,16 +7289,6 @@
         "question_id": "305474",
         "question_title": "Short story about a boy with telepathic abilities that terrify his parents who then drown him",
         "score": 16
-      },
-      {
-        "answer_created": "2026-08-04T18:01:26Z",
-        "answer_id": "305471",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305471",
-        "owner": "DavidW",
-        "question_id": "305470",
-        "question_title": "Identify a pre-1980 science fiction short story about a solar research station whose last message was something like \u201cThe Sun is going over\u201d",
-        "score": 25
       }
     ],
     "known": {
@@ -7421,9 +7443,10 @@
       "306394": "2026-11-03T06:47:03.471385Z",
       "306400": "2026-11-03T15:07:53.160808Z",
       "306409": "2026-11-06T23:08:17.208597Z",
-      "306418": "2026-11-06T01:33:08.370371Z"
+      "306418": "2026-11-06T01:33:08.370371Z",
+      "306447": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "space-high-score": {
     "entries": [
@@ -7892,10 +7915,30 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-09T03:02:18Z",
+        "answer_id": "274980",
+        "first_seen": "2026-11-09T17:29:14.133890Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274980",
+        "owner": "KerrAvon2055",
+        "question_id": "274979",
+        "question_title": "How would an off-center of gravity affect geographical formation?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-08T20:37:13Z",
+        "answer_id": "274976",
+        "first_seen": "2026-11-09T17:29:14.133890Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274976",
+        "owner": "Martheen",
+        "question_id": "274972",
+        "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
+        "score": 9
+      },
       {
         "answer_created": "2026-11-08T17:59:34Z",
         "answer_id": "274973",
@@ -7904,7 +7947,7 @@
         "owner": "AlexP",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 5
+        "score": 12
       },
       {
         "answer_created": "2026-11-06T08:51:25Z",
@@ -7914,7 +7957,7 @@
         "owner": "Stef",
         "question_id": "274942",
         "question_title": "How would power-hungry implants be powered long term?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-11-07T05:03:36Z",
@@ -7934,7 +7977,7 @@
         "owner": "bta",
         "question_id": "274941",
         "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
-        "score": 5
+        "score": 7
       },
       {
         "answer_created": "2026-11-07T10:29:51Z",
@@ -7944,7 +7987,7 @@
         "owner": "L.Dutch",
         "question_id": "274959",
         "question_title": "Mechanism for innate and consciously-controllable reproduction for self-reproducing women",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-07T02:13:12Z",
@@ -7954,7 +7997,7 @@
         "owner": "Tesseract16",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-11-07T01:26:44Z",
@@ -7964,7 +8007,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 13
+        "score": 18
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -7974,7 +8017,7 @@
         "owner": "JBH",
         "question_id": "274941",
         "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-05T19:16:48Z",
@@ -7984,7 +8027,7 @@
         "owner": "Pica",
         "question_id": "274942",
         "question_title": "How would power-hungry implants be powered long term?",
-        "score": 5
+        "score": 7
       },
       {
         "answer_created": "2026-11-04T15:36:03Z",
@@ -8875,26 +8918,6 @@
         "question_id": "274642",
         "question_title": "Could an Entire People Bathe in Pomegranate Juice?",
         "score": 6
-      },
-      {
-        "answer_created": "2026-09-25T05:13:55Z",
-        "answer_id": "274630",
-        "first_seen": "2026-09-29T14:30:50.451402Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274630",
-        "owner": "Monty Wild",
-        "question_id": "274623",
-        "question_title": "How would the human body change after 500 years in a confined area with artificial light?",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-09-28T16:18:28Z",
-        "answer_id": "274664",
-        "first_seen": "2026-09-29T06:35:12.219005Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274664",
-        "owner": "L.Dutch",
-        "question_id": "274662",
-        "question_title": "Would a planet with a rocky shell and a subsurface ocean explode if it were moved closer to its Sun due to the internal water 'boiling' off?",
-        "score": 16
       }
     ],
     "known": {
@@ -9179,8 +9202,10 @@
       "274956": "2026-11-08T00:36:09.657722Z",
       "274957": "2026-11-08T15:12:42.653881Z",
       "274960": "2026-11-08T00:36:09.657722Z",
-      "274973": "2026-11-09T06:28:47.163974Z"
+      "274973": "2026-11-09T06:28:47.163974Z",
+      "274976": "2026-11-09T17:29:14.133890Z",
+      "274980": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-09T06:28:47.163974Z"
+    "last_checked": "2026-11-09T17:29:14.133890Z"
   }
 }
