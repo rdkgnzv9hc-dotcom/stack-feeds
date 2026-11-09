@@ -19,7 +19,7 @@
         "owner": "Bob Brown",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-04T22:05:20Z",
@@ -129,7 +129,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 36
+        "score": 37
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -159,7 +159,7 @@
         "owner": "Allure",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 42
+        "score": 43
       },
       {
         "answer_created": "2026-10-28T20:52:57Z",
@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,7 +1602,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "law-high-score": {
     "entries": [
@@ -1624,7 +1624,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "116932",
         "question_title": "Would this post be \"grounds for imprisonment\" in other democratic countries?",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-11-05T11:46:40Z",
@@ -1774,7 +1774,7 @@
         "owner": "user541686",
         "question_id": "115743",
         "question_title": "Under California law, can using an external AI tool to debug confidential Python code breach an NDA?",
-        "score": 22
+        "score": 21
       },
       {
         "answer_created": "2026-10-14T13:53:31Z",
@@ -2698,7 +2698,7 @@
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "math-high-score": {
     "entries": [
@@ -3343,7 +3343,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3415,7 +3415,7 @@
         "owner": "Ian Agol",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-05T18:49:22Z",
@@ -4968,7 +4968,7 @@
       "516745": "2026-11-08T15:12:42.653881Z",
       "516753": "2026-11-08T07:20:39.147844Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5096,7 +5096,7 @@
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6224,7 +6224,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6264,7 +6264,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6756,7 +6756,7 @@
         "owner": "FuzzyBoots",
         "question_id": "305997",
         "question_title": "Engineer's Report on the Death Star",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-09-19T04:56:40Z",
@@ -7423,7 +7423,7 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "space-high-score": {
     "entries": [
@@ -7892,10 +7892,30 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-08T17:59:34Z",
+        "answer_id": "274973",
+        "first_seen": "2026-11-09T06:28:47.163974Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274973",
+        "owner": "AlexP",
+        "question_id": "274972",
+        "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-06T08:51:25Z",
+        "answer_id": "274947",
+        "first_seen": "2026-11-09T06:28:47.163974Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274947",
+        "owner": "Stef",
+        "question_id": "274942",
+        "question_title": "How would power-hungry implants be powered long term?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-07T05:03:36Z",
         "answer_id": "274957",
@@ -7924,7 +7944,7 @@
         "owner": "L.Dutch",
         "question_id": "274959",
         "question_title": "Mechanism for innate and consciously-controllable reproduction for self-reproducing women",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-07T02:13:12Z",
@@ -8875,26 +8895,6 @@
         "question_id": "274662",
         "question_title": "Would a planet with a rocky shell and a subsurface ocean explode if it were moved closer to its Sun due to the internal water 'boiling' off?",
         "score": 16
-      },
-      {
-        "answer_created": "2026-09-28T14:14:00Z",
-        "answer_id": "274660",
-        "first_seen": "2026-09-28T19:27:50.329531Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274660",
-        "owner": "Ted Wrigley",
-        "question_id": "274655",
-        "question_title": "Would a perfectly logical being seek religion?",
-        "score": 7
-      },
-      {
-        "answer_created": "2026-09-25T04:45:46Z",
-        "answer_id": "274628",
-        "first_seen": "2026-09-25T14:28:57.579961Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274628",
-        "owner": "Monty Wild",
-        "question_id": "274627",
-        "question_title": "What adaptations could allow alien bacteria to survive in space",
-        "score": 10
       }
     ],
     "known": {
@@ -9173,12 +9173,14 @@
       "274935": "2026-11-04T22:39:16.353041Z",
       "274944": "2026-11-06T23:08:17.208597Z",
       "274945": "2026-11-06T17:29:36.054589Z",
+      "274947": "2026-11-09T06:28:47.163974Z",
       "274952": "2026-11-08T07:20:39.147844Z",
       "274955": "2026-11-07T10:09:19.123296Z",
       "274956": "2026-11-08T00:36:09.657722Z",
       "274957": "2026-11-08T15:12:42.653881Z",
-      "274960": "2026-11-08T00:36:09.657722Z"
+      "274960": "2026-11-08T00:36:09.657722Z",
+      "274973": "2026-11-09T06:28:47.163974Z"
     },
-    "last_checked": "2026-11-08T23:43:11.189725Z"
+    "last_checked": "2026-11-09T06:28:47.163974Z"
   }
 }
