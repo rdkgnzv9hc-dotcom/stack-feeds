@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,7 +1602,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "law-high-score": {
     "entries": [
@@ -2709,7 +2709,7 @@
       "116946": "2026-11-07T02:48:20.170253Z",
       "116953": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "math-high-score": {
     "entries": [
@@ -3354,7 +3354,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -4980,7 +4980,7 @@
       "516753": "2026-11-08T07:20:39.147844Z",
       "516777": "2026-11-10T01:31:25.687392Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5119,7 +5119,7 @@
       "142773": "2026-10-23T18:21:41.590960Z",
       "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6247,7 +6247,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6287,10 +6287,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-08T21:20:47Z",
+        "answer_id": "306454",
+        "first_seen": "2026-11-10T09:50:18.935067Z",
+        "link": "https://scifi.stackexchange.com/a/306454",
+        "owner": "Sotto Voce",
+        "question_id": "306446",
+        "question_title": "Why is the Aries 1B Space Station to Moon shuttle's landing gear in 2001: A Space Odyssey retractable if it only operates in a vacuum?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-08T07:23:14Z",
         "answer_id": "306447",
@@ -7280,16 +7290,6 @@
         "question_id": "305479",
         "question_title": "How widespread was literacy among commoners in Middle-earth during the Third Age?",
         "score": 23
-      },
-      {
-        "answer_created": "2026-08-05T01:43:27Z",
-        "answer_id": "305476",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305476",
-        "owner": "user14111",
-        "question_id": "305474",
-        "question_title": "Short story about a boy with telepathic abilities that terrify his parents who then drown him",
-        "score": 16
       }
     ],
     "known": {
@@ -7445,9 +7445,10 @@
       "306400": "2026-11-03T15:07:53.160808Z",
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z",
-      "306447": "2026-11-09T17:29:14.133890Z"
+      "306447": "2026-11-09T17:29:14.133890Z",
+      "306454": "2026-11-10T09:50:18.935067Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "space-high-score": {
     "entries": [
@@ -7916,10 +7917,20 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-08T23:53:11Z",
+        "answer_id": "274978",
+        "first_seen": "2026-11-10T09:50:18.935067Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274978",
+        "owner": "flox",
+        "question_id": "274972",
+        "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-09T13:14:08Z",
         "answer_id": "274984",
@@ -7928,7 +7939,7 @@
         "owner": "L.Dutch",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-08T01:18:17Z",
@@ -7968,7 +7979,7 @@
         "owner": "Martheen",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-08T17:59:34Z",
@@ -7978,7 +7989,7 @@
         "owner": "AlexP",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-06T08:51:25Z",
@@ -8909,16 +8920,6 @@
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-09-29T12:57:00Z",
-        "answer_id": "274681",
-        "first_seen": "2026-09-30T00:37:23.913618Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274681",
-        "owner": "AlexP",
-        "question_id": "274675",
-        "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 10
       }
     ],
     "known": {
@@ -9207,9 +9208,10 @@
       "274969": "2026-11-10T01:31:25.687392Z",
       "274973": "2026-11-09T06:28:47.163974Z",
       "274976": "2026-11-09T17:29:14.133890Z",
+      "274978": "2026-11-10T09:50:18.935067Z",
       "274980": "2026-11-09T17:29:14.133890Z",
       "274984": "2026-11-10T01:31:25.687392Z"
     },
-    "last_checked": "2026-11-10T01:31:25.687392Z"
+    "last_checked": "2026-11-10T09:50:18.935067Z"
   }
 }
