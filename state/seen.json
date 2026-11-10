@@ -179,7 +179,7 @@
         "owner": "deee",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-28T06:40:26Z",
@@ -189,7 +189,7 @@
         "owner": "kamilazdybal",
         "question_id": "227959",
         "question_title": "Is it practical to ask for a letter of reference from someone when I think I did not perform very well?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-26T11:51:05Z",
@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,10 +1254,20 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "hsm-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-06T00:24:28Z",
+        "answer_id": "19763",
+        "first_seen": "2026-11-10T17:50:58.550845Z",
+        "link": "https://hsm.stackexchange.com/a/19763",
+        "owner": "njuffa",
+        "question_id": "19762",
+        "question_title": "Sources about dubbing Boltzmann as an \"algebraic terrorist\"",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-02T19:46:09Z",
         "answer_id": "19761",
@@ -1600,12 +1610,23 @@
       "19686": "2026-09-27T02:27:38.893029Z",
       "19691": "2026-09-30T21:29:42.384969Z",
       "19759": "2026-11-05T20:40:06.100743Z",
-      "19761": "2026-11-05T20:40:06.100743Z"
+      "19761": "2026-11-05T20:40:06.100743Z",
+      "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-08T17:16:07Z",
+        "answer_id": "116967",
+        "first_seen": "2026-11-10T17:50:58.550845Z",
+        "link": "https://law.stackexchange.com/a/116967",
+        "owner": "Jen",
+        "question_id": "116966",
+        "question_title": "What are the specific rights of \"personhood\" that are granted to a \"non-natural legal person\"?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-06T17:03:52Z",
         "answer_id": "116953",
@@ -1614,7 +1635,7 @@
         "owner": "ohwilleke",
         "question_id": "116952",
         "question_title": "Can corporations and other organizations with legal personhood vote in U.S. elections?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-04T18:22:33Z",
@@ -2595,16 +2616,6 @@
         "question_id": "115001",
         "question_title": "How is Ancestry.com able to put School Yearbooks Online?",
         "score": 16
-      },
-      {
-        "answer_created": "2026-06-23T03:57:07Z",
-        "answer_id": "115004",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115004",
-        "owner": "littleadv",
-        "question_id": "115003",
-        "question_title": "How much can a trader charge for a service if the price wasn't agreed in advance?",
-        "score": 17
       }
     ],
     "known": {
@@ -2707,9 +2718,10 @@
       "116929": "2026-11-08T00:36:09.657722Z",
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z",
-      "116953": "2026-11-09T17:29:14.133890Z"
+      "116953": "2026-11-09T17:29:14.133890Z",
+      "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "math-high-score": {
     "entries": [
@@ -3354,7 +3366,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3436,7 +3448,7 @@
         "owner": "Ian Agol",
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-05T18:49:22Z",
@@ -3596,7 +3608,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 25
+        "score": 24
       },
       {
         "answer_created": "2026-10-28T04:44:11Z",
@@ -4980,7 +4992,7 @@
       "516753": "2026-11-08T07:20:39.147844Z",
       "516777": "2026-11-10T01:31:25.687392Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5119,7 +5131,7 @@
       "142773": "2026-10-23T18:21:41.590960Z",
       "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6247,7 +6259,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6287,7 +6299,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6299,7 +6311,7 @@
         "owner": "Sotto Voce",
         "question_id": "306446",
         "question_title": "Why is the Aries 1B Space Station to Moon shuttle's landing gear in 2001: A Space Odyssey retractable if it only operates in a vacuum?",
-        "score": 10
+        "score": 13
       },
       {
         "answer_created": "2026-11-08T07:23:14Z",
@@ -6309,7 +6321,7 @@
         "owner": "James K",
         "question_id": "306445",
         "question_title": "2001 space odyssey - where are Discovery's fuel tanks?",
-        "score": 11
+        "score": 16
       },
       {
         "answer_created": "2026-11-04T10:31:40Z",
@@ -7448,7 +7460,7 @@
       "306447": "2026-11-09T17:29:14.133890Z",
       "306454": "2026-11-10T09:50:18.935067Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "space-high-score": {
     "entries": [
@@ -7917,7 +7929,7 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7939,7 +7951,7 @@
         "owner": "L.Dutch",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 8
+        "score": 11
       },
       {
         "answer_created": "2026-11-08T01:18:17Z",
@@ -7949,7 +7961,7 @@
         "owner": "Escaped dental patient.",
         "question_id": "274959",
         "question_title": "Mechanism for innate and consciously-controllable reproduction for self-reproducing women",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-11-07T13:37:00Z",
@@ -7959,7 +7971,7 @@
         "owner": "Richard Kirk",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-11-09T03:02:18Z",
@@ -7969,7 +7981,7 @@
         "owner": "KerrAvon2055",
         "question_id": "274979",
         "question_title": "How would an off-center of gravity affect geographical formation?",
-        "score": 6
+        "score": 9
       },
       {
         "answer_created": "2026-11-08T20:37:13Z",
@@ -7979,7 +7991,7 @@
         "owner": "Martheen",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-08T17:59:34Z",
@@ -7989,7 +8001,7 @@
         "owner": "AlexP",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-06T08:51:25Z",
@@ -9212,6 +9224,6 @@
       "274980": "2026-11-09T17:29:14.133890Z",
       "274984": "2026-11-10T01:31:25.687392Z"
     },
-    "last_checked": "2026-11-10T09:50:18.935067Z"
+    "last_checked": "2026-11-10T17:50:58.550845Z"
   }
 }
