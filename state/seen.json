@@ -9,7 +9,7 @@
         "owner": "pyrochlor",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-06T11:56:55Z",
@@ -19,7 +19,7 @@
         "owner": "Bob Brown",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-04T22:05:20Z",
@@ -39,7 +39,7 @@
         "owner": "cag51",
         "question_id": "228025",
         "question_title": "\u201cYour paper will be rejected if a reviewer can generate a better paper by using LLMs.\u201d",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-11-03T13:54:40Z",
@@ -1137,7 +1137,7 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "history-high-score": {
     "entries": [
@@ -1254,7 +1254,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1602,7 +1602,7 @@
       "19759": "2026-11-05T20:40:06.100743Z",
       "19761": "2026-11-05T20:40:06.100743Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "law-high-score": {
     "entries": [
@@ -2709,7 +2709,7 @@
       "116946": "2026-11-07T02:48:20.170253Z",
       "116953": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "math-high-score": {
     "entries": [
@@ -3354,10 +3354,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-08T17:23:59Z",
+        "answer_id": "516777",
+        "first_seen": "2026-11-10T01:31:25.687392Z",
+        "link": "https://mathoverflow.net/a/516777",
+        "owner": "Shahrooz Janbaz",
+        "question_id": "516769",
+        "question_title": "The Erd\u0151s\u2013S\u00f3s Theorem",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-07T08:31:08Z",
         "answer_id": "516745",
@@ -4347,16 +4357,6 @@
         "question_id": "514753",
         "question_title": "Integer solutions to $2x^3+2y^3+2z^3 = xyz + 1$",
         "score": 12
-      },
-      {
-        "answer_created": "2026-09-29T11:12:50Z",
-        "answer_id": "515616",
-        "first_seen": "2026-09-30T14:33:17.919844Z",
-        "link": "https://mathoverflow.net/a/515616",
-        "owner": "Will Sawin",
-        "question_id": "515611",
-        "question_title": "Do Ferris wheel numbers exist?",
-        "score": 17
       }
     ],
     "known": {
@@ -4977,9 +4977,10 @@
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z",
       "516745": "2026-11-08T15:12:42.653881Z",
-      "516753": "2026-11-08T07:20:39.147844Z"
+      "516753": "2026-11-08T07:20:39.147844Z",
+      "516777": "2026-11-10T01:31:25.687392Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5118,7 +5119,7 @@
       "142773": "2026-10-23T18:21:41.590960Z",
       "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6246,7 +6247,7 @@
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6286,7 +6287,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7446,7 +7447,7 @@
       "306418": "2026-11-06T01:33:08.370371Z",
       "306447": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "space-high-score": {
     "entries": [
@@ -7915,10 +7916,40 @@
       "70775": "2026-10-28T16:03:05.267648Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-09T13:14:08Z",
+        "answer_id": "274984",
+        "first_seen": "2026-11-10T01:31:25.687392Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274984",
+        "owner": "L.Dutch",
+        "question_id": "274983",
+        "question_title": "Armor for a species that never stops growing",
+        "score": 7
+      },
+      {
+        "answer_created": "2026-11-08T01:18:17Z",
+        "answer_id": "274969",
+        "first_seen": "2026-11-10T01:31:25.687392Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274969",
+        "owner": "Escaped dental patient.",
+        "question_id": "274959",
+        "question_title": "Mechanism for innate and consciously-controllable reproduction for self-reproducing women",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-07T13:37:00Z",
+        "answer_id": "274961",
+        "first_seen": "2026-11-10T01:31:25.687392Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274961",
+        "owner": "Richard Kirk",
+        "question_id": "274951",
+        "question_title": "How would a planet have an off-balance center of gravity?",
+        "score": 7
+      },
       {
         "answer_created": "2026-11-09T03:02:18Z",
         "answer_id": "274980",
@@ -7927,7 +7958,7 @@
         "owner": "KerrAvon2055",
         "question_id": "274979",
         "question_title": "How would an off-center of gravity affect geographical formation?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-11-08T20:37:13Z",
@@ -7937,7 +7968,7 @@
         "owner": "Martheen",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-11-08T17:59:34Z",
@@ -7947,7 +7978,7 @@
         "owner": "AlexP",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-11-06T08:51:25Z",
@@ -7967,7 +7998,7 @@
         "owner": "g s",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-07T00:11:55Z",
@@ -7997,7 +8028,7 @@
         "owner": "Tesseract16",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-11-07T01:26:44Z",
@@ -8007,7 +8038,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -8057,7 +8088,7 @@
         "owner": "JBH",
         "question_id": "274932",
         "question_title": "How much food do humanoids need to power their forehead radio for daily use?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-03T09:38:54Z",
@@ -8888,36 +8919,6 @@
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-29T10:54:42Z",
-        "answer_id": "274676",
-        "first_seen": "2026-09-30T00:37:23.913618Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274676",
-        "owner": "indeedy",
-        "question_id": "274675",
-        "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 16
-      },
-      {
-        "answer_created": "2026-09-29T04:16:03Z",
-        "answer_id": "274673",
-        "first_seen": "2026-09-29T15:32:08.285451Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274673",
-        "owner": "Thucydides",
-        "question_id": "274670",
-        "question_title": "What bunker materials are needed to protect against a microscopic neutron star explosion?",
-        "score": 16
-      },
-      {
-        "answer_created": "2026-09-27T23:04:35Z",
-        "answer_id": "274652",
-        "first_seen": "2026-09-29T15:32:08.285451Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274652",
-        "owner": "Penguino",
-        "question_id": "274642",
-        "question_title": "Could an Entire People Bathe in Pomegranate Juice?",
-        "score": 6
       }
     ],
     "known": {
@@ -9202,10 +9203,13 @@
       "274956": "2026-11-08T00:36:09.657722Z",
       "274957": "2026-11-08T15:12:42.653881Z",
       "274960": "2026-11-08T00:36:09.657722Z",
+      "274961": "2026-11-10T01:31:25.687392Z",
+      "274969": "2026-11-10T01:31:25.687392Z",
       "274973": "2026-11-09T06:28:47.163974Z",
       "274976": "2026-11-09T17:29:14.133890Z",
-      "274980": "2026-11-09T17:29:14.133890Z"
+      "274980": "2026-11-09T17:29:14.133890Z",
+      "274984": "2026-11-10T01:31:25.687392Z"
     },
-    "last_checked": "2026-11-09T17:29:14.133890Z"
+    "last_checked": "2026-11-10T01:31:25.687392Z"
   }
 }
