@@ -5,13 +5,20 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:12:08 +0000</lastBuildDate>
     <item>
-      <title>The Erdős–Sós Theorem — answer reached score 10</title>
+      <title>A generically absolute variant of HOD? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516618</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516618</guid>
+      <pubDate>Wed, 11 Nov 2026 15:12:08 +0000</pubDate>
+      <description>Answer by Sean Cody. Score when last checked: 10. Originally posted: 2026-11-01T23:54:44Z.</description>
+    </item>
+    <item>
+      <title>The Erdős–Sós Theorem — answer reached score 11</title>
       <link>https://mathoverflow.net/a/516777</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516777</guid>
       <pubDate>Tue, 10 Nov 2026 01:31:25 +0000</pubDate>
-      <description>Answer by Shahrooz Janbaz. Score when last checked: 10. Originally posted: 2026-11-08T17:23:59Z.</description>
+      <description>Answer by Shahrooz Janbaz. Score when last checked: 11. Originally posted: 2026-11-08T17:23:59Z.</description>
     </item>
     <item>
       <title>Online encyclopedia of categories? — answer reached score 10</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515633</guid>
       <pubDate>Thu, 01 Oct 2026 13:33:17 +0000</pubDate>
       <description>Answer by mark goresky. Score when last checked: 10. Originally posted: 2026-09-29T22:02:18Z.</description>
-    </item>
-    <item>
-      <title>Integer solutions to $2x^3+2y^3+2z^3 = xyz + 1$ — answer reached score 12</title>
-      <link>https://mathoverflow.net/a/515637</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515637</guid>
-      <pubDate>Thu, 01 Oct 2026 00:38:59 +0000</pubDate>
-      <description>Answer by ike. Score when last checked: 12. Originally posted: 2026-09-29T23:50:33Z.</description>
     </item>
   </channel>
 </rss>
