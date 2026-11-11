@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "228061",
         "question_title": "Does it make sense to contribute a chapter in book to an unknown publisher?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-06T12:51:11Z",
@@ -1138,7 +1138,7 @@
       "228046": "2026-11-07T10:09:19.123296Z",
       "228062": "2026-11-10T23:22:23.684523Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "history-high-score": {
     "entries": [
@@ -1255,7 +1255,7 @@
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1614,7 +1614,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "law-high-score": {
     "entries": [
@@ -2722,7 +2722,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "math-high-score": {
     "entries": [
@@ -3367,10 +3367,40 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-11T13:00:19Z",
+        "answer_id": "516843",
+        "first_seen": "2026-11-11T21:57:47.409518Z",
+        "link": "https://mathoverflow.net/a/516843",
+        "owner": "Wojowu",
+        "question_id": "516841",
+        "question_title": "Squeezing Lagarias' version of the Riemann Hypothesis",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-11-10T16:14:40Z",
+        "answer_id": "516827",
+        "first_seen": "2026-11-11T21:57:47.409518Z",
+        "link": "https://mathoverflow.net/a/516827",
+        "owner": "GH from MO",
+        "question_id": "516825",
+        "question_title": "Primes modulo a fixed prime",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-10-09T16:04:44Z",
+        "answer_id": "515887",
+        "first_seen": "2026-11-11T21:57:47.409518Z",
+        "link": "https://mathoverflow.net/a/515887",
+        "owner": "Francois Ziegler",
+        "question_id": "433120",
+        "question_title": "Origin of $L$ in $L^1$ and $L^2$ norms",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-01T23:54:44Z",
         "answer_id": "516618",
@@ -3709,7 +3739,7 @@
         "owner": "David White",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 35
+        "score": 36
       },
       {
         "answer_created": "2026-10-27T04:30:22Z",
@@ -4340,36 +4370,6 @@
         "question_id": "515443",
         "question_title": "Are there serious objections to Hilbert's Thesis?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-10-02T13:56:37Z",
-        "answer_id": "515686",
-        "first_seen": "2026-10-02T23:25:21.382493Z",
-        "link": "https://mathoverflow.net/a/515686",
-        "owner": "Wojowu",
-        "question_id": "515683",
-        "question_title": "Monoids and univariate polynomials",
-        "score": 16
-      },
-      {
-        "answer_created": "2026-09-22T20:19:09Z",
-        "answer_id": "515465",
-        "first_seen": "2026-10-02T22:28:05.832617Z",
-        "link": "https://mathoverflow.net/a/515465",
-        "owner": "Joshua Stucky",
-        "question_id": "515464",
-        "question_title": "Dirichlet $L$-functions at $s=1/2$",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-09-29T22:02:18Z",
-        "answer_id": "515633",
-        "first_seen": "2026-10-01T13:33:17.301956Z",
-        "link": "https://mathoverflow.net/a/515633",
-        "owner": "mark goresky",
-        "question_id": "56082",
-        "question_title": "Vanishing cycles in a nutshell?",
-        "score": 10
       }
     ],
     "known": {
@@ -4924,6 +4924,7 @@
       "515866": "2026-10-10T19:27:40.439433Z",
       "515867": "2026-10-09T08:33:16.251020Z",
       "515868": "2026-10-09T08:33:16.251020Z",
+      "515887": "2026-11-11T21:57:47.409518Z",
       "515891": "2026-10-10T01:31:14.820303Z",
       "515895": "2026-10-15T09:54:47.023013Z",
       "515897": "2026-10-13T15:59:00.350142Z",
@@ -4992,9 +4993,11 @@
       "516724": "2026-11-06T23:08:17.208597Z",
       "516745": "2026-11-08T15:12:42.653881Z",
       "516753": "2026-11-08T07:20:39.147844Z",
-      "516777": "2026-11-10T01:31:25.687392Z"
+      "516777": "2026-11-10T01:31:25.687392Z",
+      "516827": "2026-11-11T21:57:47.409518Z",
+      "516843": "2026-11-11T21:57:47.409518Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5133,7 +5136,7 @@
       "142773": "2026-10-23T18:21:41.590960Z",
       "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6262,7 +6265,7 @@
       "877435": "2026-11-04T17:15:13.405297Z",
       "877617": "2026-11-11T15:12:08.898184Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6302,7 +6305,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6314,7 +6317,7 @@
         "owner": "Sotto Voce",
         "question_id": "306446",
         "question_title": "Why is the Aries 1B Space Station to Moon shuttle's landing gear in 2001: A Space Odyssey retractable if it only operates in a vacuum?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-08T07:23:14Z",
@@ -7463,7 +7466,7 @@
       "306447": "2026-11-09T17:29:14.133890Z",
       "306454": "2026-11-10T09:50:18.935067Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "space-high-score": {
     "entries": [
@@ -7943,10 +7946,30 @@
       "70786": "2026-11-10T23:22:23.684523Z",
       "70788": "2026-11-05T12:20:59.315035Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-09T16:59:10Z",
+        "answer_id": "274990",
+        "first_seen": "2026-11-11T21:57:47.409518Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274990",
+        "owner": "Navicula",
+        "question_id": "274983",
+        "question_title": "Armor for a species that never stops growing",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-09T14:50:11Z",
+        "answer_id": "274988",
+        "first_seen": "2026-11-11T21:57:47.409518Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274988",
+        "owner": "Trish",
+        "question_id": "274983",
+        "question_title": "Armor for a species that never stops growing",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-09T14:21:24Z",
         "answer_id": "274987",
@@ -7955,7 +7978,7 @@
         "owner": "KerrAvon2055",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 5
+        "score": 8
       },
       {
         "answer_created": "2026-11-08T23:53:11Z",
@@ -7975,7 +7998,7 @@
         "owner": "L.Dutch",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 14
+        "score": 20
       },
       {
         "answer_created": "2026-11-08T01:18:17Z",
@@ -8005,7 +8028,7 @@
         "owner": "KerrAvon2055",
         "question_id": "274979",
         "question_title": "How would an off-center of gravity affect geographical formation?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-08T20:37:13Z",
@@ -8015,7 +8038,7 @@
         "owner": "Martheen",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-08T17:59:34Z",
@@ -8025,7 +8048,7 @@
         "owner": "AlexP",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-11-06T08:51:25Z",
@@ -8075,7 +8098,7 @@
         "owner": "Tesseract16",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-07T01:26:44Z",
@@ -8926,26 +8949,6 @@
         "question_id": "274697",
         "question_title": "Practicality of sail-powered airships in a fantasy setting?",
         "score": 8
-      },
-      {
-        "answer_created": "2026-10-01T12:41:22Z",
-        "answer_id": "274701",
-        "first_seen": "2026-10-01T17:30:02.244322Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274701",
-        "owner": "QuestionablePresence",
-        "question_id": "274694",
-        "question_title": "How to build a medieval fantasy bunker?",
-        "score": 9
-      },
-      {
-        "answer_created": "2026-09-29T12:45:14Z",
-        "answer_id": "274680",
-        "first_seen": "2026-10-01T15:31:37.578181Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274680",
-        "owner": "30Keydet",
-        "question_id": "274675",
-        "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 6
       }
     ],
     "known": {
@@ -9237,8 +9240,10 @@
       "274978": "2026-11-10T09:50:18.935067Z",
       "274980": "2026-11-09T17:29:14.133890Z",
       "274984": "2026-11-10T01:31:25.687392Z",
-      "274987": "2026-11-11T15:12:08.898184Z"
+      "274987": "2026-11-11T15:12:08.898184Z",
+      "274988": "2026-11-11T21:57:47.409518Z",
+      "274990": "2026-11-11T21:57:47.409518Z"
     },
-    "last_checked": "2026-11-11T15:12:08.898184Z"
+    "last_checked": "2026-11-11T21:57:47.409518Z"
   }
 }

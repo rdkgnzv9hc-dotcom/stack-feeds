@@ -5,7 +5,28 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:57:47 +0000</lastBuildDate>
+    <item>
+      <title>Squeezing Lagarias' version of the Riemann Hypothesis — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516843</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516843</guid>
+      <pubDate>Wed, 11 Nov 2026 21:57:47 +0000</pubDate>
+      <description>Answer by Wojowu. Score when last checked: 10. Originally posted: 2026-11-11T13:00:19Z.</description>
+    </item>
+    <item>
+      <title>Primes modulo a fixed prime — answer reached score 11</title>
+      <link>https://mathoverflow.net/a/516827</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516827</guid>
+      <pubDate>Wed, 11 Nov 2026 21:57:47 +0000</pubDate>
+      <description>Answer by GH from MO. Score when last checked: 11. Originally posted: 2026-11-10T16:14:40Z.</description>
+    </item>
+    <item>
+      <title>Origin of $L$ in $L^1$ and $L^2$ norms — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515887</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515887</guid>
+      <pubDate>Wed, 11 Nov 2026 21:57:47 +0000</pubDate>
+      <description>Answer by Francois Ziegler. Score when last checked: 10. Originally posted: 2026-10-09T16:04:44Z.</description>
+    </item>
     <item>
       <title>A generically absolute variant of HOD? — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516618</link>
@@ -238,11 +259,11 @@
       <description>Answer by Bruno Martelli. Score when last checked: 20. Originally posted: 2026-10-27T14:17:36Z.</description>
     </item>
     <item>
-      <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 35</title>
+      <title>What is the purpose of publishing mathematical research in the age of AI? — answer reached score 36</title>
       <link>https://mathoverflow.net/a/516446</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516446</guid>
       <pubDate>Tue, 27 Oct 2026 16:39:11 +0000</pubDate>
-      <description>Answer by David White. Score when last checked: 35. Originally posted: 2026-10-27T12:36:58Z.</description>
+      <description>Answer by David White. Score when last checked: 36. Originally posted: 2026-10-27T12:36:58Z.</description>
     </item>
     <item>
       <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 14</title>
@@ -684,27 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515466</guid>
       <pubDate>Sat, 03 Oct 2026 14:37:25 +0000</pubDate>
       <description>Answer by Timothy Chow. Score when last checked: 10. Originally posted: 2026-09-22T21:50:32Z.</description>
-    </item>
-    <item>
-      <title>Monoids and univariate polynomials — answer reached score 16</title>
-      <link>https://mathoverflow.net/a/515686</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515686</guid>
-      <pubDate>Fri, 02 Oct 2026 23:25:21 +0000</pubDate>
-      <description>Answer by Wojowu. Score when last checked: 16. Originally posted: 2026-10-02T13:56:37Z.</description>
-    </item>
-    <item>
-      <title>Dirichlet $L$-functions at $s=1/2$ — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/515465</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515465</guid>
-      <pubDate>Fri, 02 Oct 2026 22:28:05 +0000</pubDate>
-      <description>Answer by Joshua Stucky. Score when last checked: 10. Originally posted: 2026-09-22T20:19:09Z.</description>
-    </item>
-    <item>
-      <title>Vanishing cycles in a nutshell? — answer reached score 10</title>
-      <link>https://mathoverflow.net/a/515633</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515633</guid>
-      <pubDate>Thu, 01 Oct 2026 13:33:17 +0000</pubDate>
-      <description>Answer by mark goresky. Score when last checked: 10. Originally posted: 2026-09-29T22:02:18Z.</description>
     </item>
   </channel>
 </rss>
