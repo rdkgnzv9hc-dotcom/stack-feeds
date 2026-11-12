@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-11T14:01:08Z",
+        "answer_id": "228074",
+        "first_seen": "2026-11-12T18:56:10.238325Z",
+        "link": "https://academia.stackexchange.com/a/228074",
+        "owner": "Buffy",
+        "question_id": "228073",
+        "question_title": "How can I cite a mathematical model and its terms?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-09T13:10:49Z",
         "answer_id": "228062",
         "first_seen": "2026-11-10T23:22:23.684523Z",
@@ -9,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "228061",
         "question_title": "Does it make sense to contribute a chapter in book to an unknown publisher?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-06T12:51:11Z",
@@ -990,16 +1000,6 @@
         "question_id": "227290",
         "question_title": "Why do papers often have a dedicated literature review section?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-24T03:46:05Z",
-        "answer_id": "227284",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227284",
-        "owner": "CrimsonDark",
-        "question_id": "227275",
-        "question_title": "Regarding first authorship of my PhD study",
-        "score": 21
       }
     ],
     "known": {
@@ -1136,9 +1136,10 @@
       "228031": "2026-11-06T17:29:36.054589Z",
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z",
-      "228062": "2026-11-10T23:22:23.684523Z"
+      "228062": "2026-11-10T23:22:23.684523Z",
+      "228074": "2026-11-12T18:56:10.238325Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "history-high-score": {
     "entries": [
@@ -1150,7 +1151,7 @@
         "owner": "Jos",
         "question_id": "80438",
         "question_title": "What were the ethnicities of the members of particular Roman legions?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-24T18:29:02Z",
@@ -1266,7 +1267,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1625,7 +1626,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "law-high-score": {
     "entries": [
@@ -2733,7 +2734,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "math-high-score": {
     "entries": [
@@ -3378,10 +3379,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-12T09:12:28Z",
+        "answer_id": "516852",
+        "first_seen": "2026-11-12T18:56:10.238325Z",
+        "link": "https://mathoverflow.net/a/516852",
+        "owner": "Alex Nolte",
+        "question_id": "466387",
+        "question_title": "Reliable literature with the list of centers of all simply connected simple real Lie groups",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-11T13:00:19Z",
         "answer_id": "516843",
@@ -3510,7 +3521,7 @@
         "owner": "Denis T",
         "question_id": "516689",
         "question_title": "Question about group rings",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-03T15:16:15Z",
@@ -4371,16 +4382,6 @@
         "question_id": "515551",
         "question_title": "Extracting a first order proof from a non first order proof",
         "score": 10
-      },
-      {
-        "answer_created": "2026-09-22T21:50:32Z",
-        "answer_id": "515466",
-        "first_seen": "2026-10-03T14:37:25.651553Z",
-        "link": "https://mathoverflow.net/a/515466",
-        "owner": "Timothy Chow",
-        "question_id": "515443",
-        "question_title": "Are there serious objections to Hilbert's Thesis?",
-        "score": 10
       }
     ],
     "known": {
@@ -5006,9 +5007,10 @@
       "516753": "2026-11-08T07:20:39.147844Z",
       "516777": "2026-11-10T01:31:25.687392Z",
       "516827": "2026-11-11T21:57:47.409518Z",
-      "516843": "2026-11-11T21:57:47.409518Z"
+      "516843": "2026-11-11T21:57:47.409518Z",
+      "516852": "2026-11-12T18:56:10.238325Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5147,7 +5149,7 @@
       "142773": "2026-10-23T18:21:41.590960Z",
       "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5159,7 +5161,7 @@
         "owner": "Agnius Vasiliauskas",
         "question_id": "877611",
         "question_title": "Are we still looking for magnetic monopoles in 2026?",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-11-03T18:06:43Z",
@@ -5339,7 +5341,7 @@
         "owner": "Vincent Thacker",
         "question_id": "877039",
         "question_title": "How is there no time lag between light reaching the metal surface and the ejection of electrons in photoelectric effect?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-17T15:08:01Z",
@@ -6276,7 +6278,7 @@
       "877435": "2026-11-04T17:15:13.405297Z",
       "877617": "2026-11-11T15:12:08.898184Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6316,7 +6318,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7477,7 +7479,7 @@
       "306447": "2026-11-09T17:29:14.133890Z",
       "306454": "2026-11-10T09:50:18.935067Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "space-high-score": {
     "entries": [
@@ -7489,7 +7491,7 @@
         "owner": "GdD",
         "question_id": "70797",
         "question_title": "What was the \u201clarge fabric ball\u201d used in STS astronaut-candidate testing",
-        "score": 6
+        "score": 12
       },
       {
         "answer_created": "2026-11-04T14:26:08Z",
@@ -7968,10 +7970,50 @@
       "70788": "2026-11-05T12:20:59.315035Z",
       "70798": "2026-11-12T02:59:03.196685Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-12T00:52:45Z",
+        "answer_id": "275014",
+        "first_seen": "2026-11-12T18:56:10.238325Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275014",
+        "owner": "g s",
+        "question_id": "275008",
+        "question_title": "Where would be the best place to set up a high-capacity computer?",
+        "score": 7
+      },
+      {
+        "answer_created": "2026-11-11T23:29:13Z",
+        "answer_id": "275013",
+        "first_seen": "2026-11-12T18:56:10.238325Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275013",
+        "owner": "Escaped dental patient.",
+        "question_id": "275008",
+        "question_title": "Where would be the best place to set up a high-capacity computer?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-11T22:49:34Z",
+        "answer_id": "275012",
+        "first_seen": "2026-11-12T18:56:10.238325Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275012",
+        "owner": "rotten",
+        "question_id": "275009",
+        "question_title": "How could I make sucrose dangerous to other aliens?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-11T15:25:20Z",
+        "answer_id": "275007",
+        "first_seen": "2026-11-12T18:56:10.238325Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275007",
+        "owner": "IMP9024",
+        "question_id": "275005",
+        "question_title": "Would meteoric iron be practical to use as armor, assuming enough of it is collected?",
+        "score": 7
+      },
       {
         "answer_created": "2026-11-11T22:33:10Z",
         "answer_id": "275010",
@@ -7980,7 +8022,7 @@
         "owner": "realityChemist",
         "question_id": "275009",
         "question_title": "How could I make sucrose dangerous to other aliens?",
-        "score": 7
+        "score": 17
       },
       {
         "answer_created": "2026-11-09T16:59:10Z",
@@ -8010,7 +8052,7 @@
         "owner": "KerrAvon2055",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-08T23:53:11Z",
@@ -8030,7 +8072,7 @@
         "owner": "L.Dutch",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 20
+        "score": 25
       },
       {
         "answer_created": "2026-11-08T01:18:17Z",
@@ -8070,7 +8112,7 @@
         "owner": "Martheen",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-08T17:59:34Z",
@@ -8080,7 +8122,7 @@
         "owner": "AlexP",
         "question_id": "274972",
         "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-11-06T08:51:25Z",
@@ -8120,7 +8162,7 @@
         "owner": "L.Dutch",
         "question_id": "274959",
         "question_title": "Mechanism for innate and consciously-controllable reproduction for self-reproducing women",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-07T02:13:12Z",
@@ -8220,7 +8262,7 @@
         "owner": "g s",
         "question_id": "274920",
         "question_title": "Can you hide a dwarf planet/planet in the Solar System?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-11-02T00:52:58Z",
@@ -8931,46 +8973,6 @@
         "question_id": "274722",
         "question_title": "Alternative energy sources for carbon-based life in the Degenerate Era?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-10-01T18:51:59Z",
-        "answer_id": "274707",
-        "first_seen": "2026-10-06T10:31:07.446916Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274707",
-        "owner": "Robert Rapplean",
-        "question_id": "274697",
-        "question_title": "Practicality of sail-powered airships in a fantasy setting?",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-10-03T19:44:55Z",
-        "answer_id": "274714",
-        "first_seen": "2026-10-05T12:37:51.967961Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274714",
-        "owner": "g s",
-        "question_id": "274710",
-        "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-10-03T02:19:26Z",
-        "answer_id": "274711",
-        "first_seen": "2026-10-03T14:37:25.651553Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274711",
-        "owner": "Mark",
-        "question_id": "274710",
-        "question_title": "Is it believable that bodies and debris ejected into space during transit between planets would remain in orbit around the sun?",
-        "score": 18
-      },
-      {
-        "answer_created": "2026-10-01T13:38:12Z",
-        "answer_id": "274703",
-        "first_seen": "2026-10-02T23:25:21.382493Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274703",
-        "owner": "automaton",
-        "question_id": "274694",
-        "question_title": "How to build a medieval fantasy bunker?",
-        "score": 7
       }
     ],
     "known": {
@@ -9265,8 +9267,12 @@
       "274987": "2026-11-11T15:12:08.898184Z",
       "274988": "2026-11-11T21:57:47.409518Z",
       "274990": "2026-11-11T21:57:47.409518Z",
-      "275010": "2026-11-12T11:10:04.506282Z"
+      "275007": "2026-11-12T18:56:10.238325Z",
+      "275010": "2026-11-12T11:10:04.506282Z",
+      "275012": "2026-11-12T18:56:10.238325Z",
+      "275013": "2026-11-12T18:56:10.238325Z",
+      "275014": "2026-11-12T18:56:10.238325Z"
     },
-    "last_checked": "2026-11-12T11:10:04.506282Z"
+    "last_checked": "2026-11-12T18:56:10.238325Z"
   }
 }
