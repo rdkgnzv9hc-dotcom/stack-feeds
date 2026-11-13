@@ -9,7 +9,7 @@
         "owner": "A_S00",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 14
+        "score": 18
       },
       {
         "answer_created": "2026-11-12T15:17:14Z",
@@ -19,7 +19,7 @@
         "owner": "David White",
         "question_id": "228080",
         "question_title": "Strategies for obtaining actionable feedback on a paper manuscript",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-11-12T09:44:28Z",
@@ -29,7 +29,7 @@
         "owner": "Arno",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 17
+        "score": 21
       },
       {
         "answer_created": "2026-11-11T14:01:08Z",
@@ -39,7 +39,7 @@
         "owner": "Buffy",
         "question_id": "228073",
         "question_title": "How can I cite a mathematical model and its terms?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-09T13:10:49Z",
@@ -1142,7 +1142,7 @@
       "228081": "2026-11-13T07:57:48.270449Z",
       "228084": "2026-11-13T07:57:48.270449Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "history-high-score": {
     "entries": [
@@ -1270,7 +1270,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1629,7 +1629,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "law-high-score": {
     "entries": [
@@ -1650,8 +1650,8 @@
         "link": "https://law.stackexchange.com/a/116953",
         "owner": "ohwilleke",
         "question_id": "116952",
-        "question_title": "Can a corporation be granted legal personhood, become a naturalized citizen, and vote in an U.S. election?",
-        "score": 11
+        "question_title": "Can a corporation be granted legal personhood, become a naturalized citizen, and vote in a U.S. election?",
+        "score": 13
       },
       {
         "answer_created": "2026-11-04T18:22:33Z",
@@ -2737,7 +2737,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "math-high-score": {
     "entries": [
@@ -3382,7 +3382,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3394,7 +3394,7 @@
         "owner": "Tyrone",
         "question_id": "516821",
         "question_title": "Is any CW-complex hereditary paracompact?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-11T16:42:15Z",
@@ -3424,7 +3424,7 @@
         "owner": "Wojowu",
         "question_id": "516841",
         "question_title": "Squeezing Lagarias' version of the Riemann Hypothesis",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-10T16:14:40Z",
@@ -3674,7 +3674,7 @@
         "owner": "Ali Enayat",
         "question_id": "516115",
         "question_title": "Explicit (efficient/short) finite axiomatisation of Bounded Zermelo set theory",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-10-28T17:45:40Z",
@@ -5015,7 +5015,7 @@
       "516847": "2026-11-13T00:24:04.594875Z",
       "516852": "2026-11-12T18:56:10.238325Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5154,10 +5154,20 @@
       "142773": "2026-10-23T18:21:41.590960Z",
       "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-11T01:13:40Z",
+        "answer_id": "877623",
+        "first_seen": "2026-11-13T16:23:57.588995Z",
+        "link": "https://physics.stackexchange.com/a/877623",
+        "owner": "Allure",
+        "question_id": "877611",
+        "question_title": "Are we still looking for magnetic monopoles in 2026?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-10T14:45:49Z",
         "answer_id": "877617",
@@ -5166,7 +5176,7 @@
         "owner": "Agnius Vasiliauskas",
         "question_id": "877611",
         "question_title": "Are we still looking for magnetic monopoles in 2026?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-03T18:06:43Z",
@@ -6147,16 +6157,6 @@
         "question_id": "874085",
         "question_title": "The Pusey-Barrett-Rudolph (PBR) theorem and Einstein proof for incompleteness of Quantum Mechanics",
         "score": 10
-      },
-      {
-        "answer_created": "2026-07-06T03:04:19Z",
-        "answer_id": "873989",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/873989",
-        "owner": "mmesser314",
-        "question_id": "873986",
-        "question_title": "Why does gravity produce different structural shapes (spheres, disks, and filaments) depending on the cosmic scale?",
-        "score": 17
       }
     ],
     "known": {
@@ -6281,9 +6281,10 @@
       "877358": "2026-11-01T15:09:12.745405Z",
       "877368": "2026-11-02T15:52:40.196607Z",
       "877435": "2026-11-04T17:15:13.405297Z",
-      "877617": "2026-11-11T15:12:08.898184Z"
+      "877617": "2026-11-11T15:12:08.898184Z",
+      "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6323,7 +6324,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7484,7 +7485,7 @@
       "306447": "2026-11-09T17:29:14.133890Z",
       "306454": "2026-11-10T09:50:18.935067Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "space-high-score": {
     "entries": [
@@ -7496,7 +7497,7 @@
         "owner": "GdD",
         "question_id": "70797",
         "question_title": "What was the \u201clarge fabric ball\u201d used in STS astronaut-candidate testing",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-11-04T14:26:08Z",
@@ -7975,7 +7976,7 @@
       "70788": "2026-11-05T12:20:59.315035Z",
       "70798": "2026-11-12T02:59:03.196685Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -7987,7 +7988,7 @@
         "owner": "Monty Wild",
         "question_id": "275009",
         "question_title": "How could I make sucrose dangerous to other aliens?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-11T15:16:08Z",
@@ -7997,7 +7998,7 @@
         "owner": "Robert Rapplean",
         "question_id": "275005",
         "question_title": "Would meteoric iron be practical to use as armor, assuming enough of it is collected?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-12T00:52:45Z",
@@ -8047,7 +8048,7 @@
         "owner": "realityChemist",
         "question_id": "275009",
         "question_title": "How could I make sucrose dangerous to other aliens?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-11-09T16:59:10Z",
@@ -9280,6 +9281,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-13T07:57:48.270449Z"
+    "last_checked": "2026-11-13T16:23:57.588995Z"
   }
 }
