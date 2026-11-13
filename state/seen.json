@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-12T09:44:28Z",
+        "answer_id": "228078",
+        "first_seen": "2026-11-13T00:24:04.594875Z",
+        "link": "https://academia.stackexchange.com/a/228078",
+        "owner": "Arno",
+        "question_id": "228077",
+        "question_title": "Meaning of \"The author takes full responsibility\"",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-11T14:01:08Z",
         "answer_id": "228074",
         "first_seen": "2026-11-12T18:56:10.238325Z",
@@ -19,7 +29,7 @@
         "owner": "Buffy",
         "question_id": "228061",
         "question_title": "Does it make sense to contribute a chapter in book to an unknown publisher?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-06T12:51:11Z",
@@ -990,16 +1000,6 @@
         "question_id": "227297",
         "question_title": "At minor revision stage, I realized that a similar work exists in a Blog Post but not in a scientific journal",
         "score": 41
-      },
-      {
-        "answer_created": "2026-07-25T11:58:40Z",
-        "answer_id": "227293",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227293",
-        "owner": "Buffy",
-        "question_id": "227290",
-        "question_title": "Why do papers often have a dedicated literature review section?",
-        "score": 10
       }
     ],
     "known": {
@@ -1137,9 +1137,10 @@
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z",
       "228062": "2026-11-10T23:22:23.684523Z",
-      "228074": "2026-11-12T18:56:10.238325Z"
+      "228074": "2026-11-12T18:56:10.238325Z",
+      "228078": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "history-high-score": {
     "entries": [
@@ -1151,7 +1152,7 @@
         "owner": "Jos",
         "question_id": "80438",
         "question_title": "What were the ethnicities of the members of particular Roman legions?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-24T18:29:02Z",
@@ -1267,7 +1268,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1626,7 +1627,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "law-high-score": {
     "entries": [
@@ -1647,7 +1648,7 @@
         "link": "https://law.stackexchange.com/a/116953",
         "owner": "ohwilleke",
         "question_id": "116952",
-        "question_title": "Can corporations and other organizations with legal personhood vote in U.S. elections?",
+        "question_title": "Can a corporation be granted legal personhood, become a naturalized citizen, and vote in an U.S. election?",
         "score": 11
       },
       {
@@ -2734,7 +2735,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "math-high-score": {
     "entries": [
@@ -3379,10 +3380,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-11T16:42:15Z",
+        "answer_id": "516847",
+        "first_seen": "2026-11-13T00:24:04.594875Z",
+        "link": "https://mathoverflow.net/a/516847",
+        "owner": "Will Sawin",
+        "question_id": "516846",
+        "question_title": "All endomorphisms of a vector space as a \"vector bundle\" over the nilpotent ones?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-12T09:12:28Z",
         "answer_id": "516852",
@@ -4372,16 +4383,6 @@
         "question_id": "515611",
         "question_title": "Do Ferris wheel numbers exist?",
         "score": 32
-      },
-      {
-        "answer_created": "2026-09-25T23:47:32Z",
-        "answer_id": "515554",
-        "first_seen": "2026-10-03T14:37:25.651553Z",
-        "link": "https://mathoverflow.net/a/515554",
-        "owner": "Matt F.",
-        "question_id": "515551",
-        "question_title": "Extracting a first order proof from a non first order proof",
-        "score": 10
       }
     ],
     "known": {
@@ -5008,9 +5009,10 @@
       "516777": "2026-11-10T01:31:25.687392Z",
       "516827": "2026-11-11T21:57:47.409518Z",
       "516843": "2026-11-11T21:57:47.409518Z",
+      "516847": "2026-11-13T00:24:04.594875Z",
       "516852": "2026-11-12T18:56:10.238325Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5149,7 +5151,7 @@
       "142773": "2026-10-23T18:21:41.590960Z",
       "143156": "2026-11-09T17:29:14.133890Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6278,7 +6280,7 @@
       "877435": "2026-11-04T17:15:13.405297Z",
       "877617": "2026-11-11T15:12:08.898184Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6318,7 +6320,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7479,7 +7481,7 @@
       "306447": "2026-11-09T17:29:14.133890Z",
       "306454": "2026-11-10T09:50:18.935067Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "space-high-score": {
     "entries": [
@@ -7491,7 +7493,7 @@
         "owner": "GdD",
         "question_id": "70797",
         "question_title": "What was the \u201clarge fabric ball\u201d used in STS astronaut-candidate testing",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-04T14:26:08Z",
@@ -7970,10 +7972,30 @@
       "70788": "2026-11-05T12:20:59.315035Z",
       "70798": "2026-11-12T02:59:03.196685Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-12T14:37:14Z",
+        "answer_id": "275018",
+        "first_seen": "2026-11-13T00:24:04.594875Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275018",
+        "owner": "Monty Wild",
+        "question_id": "275009",
+        "question_title": "How could I make sucrose dangerous to other aliens?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-11T15:16:08Z",
+        "answer_id": "275006",
+        "first_seen": "2026-11-13T00:24:04.594875Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275006",
+        "owner": "Robert Rapplean",
+        "question_id": "275005",
+        "question_title": "Would meteoric iron be practical to use as armor, assuming enough of it is collected?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-12T00:52:45Z",
         "answer_id": "275014",
@@ -7982,7 +8004,7 @@
         "owner": "g s",
         "question_id": "275008",
         "question_title": "Where would be the best place to set up a high-capacity computer?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-11T23:29:13Z",
@@ -8022,7 +8044,7 @@
         "owner": "realityChemist",
         "question_id": "275009",
         "question_title": "How could I make sucrose dangerous to other aliens?",
-        "score": 17
+        "score": 23
       },
       {
         "answer_created": "2026-11-09T16:59:10Z",
@@ -8182,7 +8204,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 19
+        "score": 21
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -8953,26 +8975,6 @@
         "question_id": "274728",
         "question_title": "Does my species work? Sea-bats",
         "score": 11
-      },
-      {
-        "answer_created": "2026-10-01T05:58:27Z",
-        "answer_id": "274696",
-        "first_seen": "2026-10-08T20:33:01.272184Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274696",
-        "owner": "FlyingLemmingSoup",
-        "question_id": "274685",
-        "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-09-21T15:24:32Z",
-        "answer_id": "274723",
-        "first_seen": "2026-10-06T13:31:59.764983Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274723",
-        "owner": "Arcturus",
-        "question_id": "274722",
-        "question_title": "Alternative energy sources for carbon-based life in the Degenerate Era?",
-        "score": 11
       }
     ],
     "known": {
@@ -9267,12 +9269,14 @@
       "274987": "2026-11-11T15:12:08.898184Z",
       "274988": "2026-11-11T21:57:47.409518Z",
       "274990": "2026-11-11T21:57:47.409518Z",
+      "275006": "2026-11-13T00:24:04.594875Z",
       "275007": "2026-11-12T18:56:10.238325Z",
       "275010": "2026-11-12T11:10:04.506282Z",
       "275012": "2026-11-12T18:56:10.238325Z",
       "275013": "2026-11-12T18:56:10.238325Z",
-      "275014": "2026-11-12T18:56:10.238325Z"
+      "275014": "2026-11-12T18:56:10.238325Z",
+      "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-12T18:56:10.238325Z"
+    "last_checked": "2026-11-13T00:24:04.594875Z"
   }
 }
