@@ -9,7 +9,7 @@
         "owner": "A_S00",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 18
+        "score": 20
       },
       {
         "answer_created": "2026-11-12T15:17:14Z",
@@ -19,7 +19,7 @@
         "owner": "David White",
         "question_id": "228080",
         "question_title": "Strategies for obtaining actionable feedback on a paper manuscript",
-        "score": 15
+        "score": 19
       },
       {
         "answer_created": "2026-11-12T09:44:28Z",
@@ -39,7 +39,7 @@
         "owner": "Buffy",
         "question_id": "228073",
         "question_title": "How can I cite a mathematical model and its terms?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-09T13:10:49Z",
@@ -99,7 +99,7 @@
         "owner": "JF Meier",
         "question_id": "228015",
         "question_title": "How to know what you don't know?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-02T18:39:38Z",
@@ -1142,7 +1142,7 @@
       "228081": "2026-11-13T07:57:48.270449Z",
       "228084": "2026-11-13T07:57:48.270449Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "history-high-score": {
     "entries": [
@@ -1270,7 +1270,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1629,7 +1629,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "law-high-score": {
     "entries": [
@@ -2737,7 +2737,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "math-high-score": {
     "entries": [
@@ -3382,10 +3382,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-07-23T11:52:14Z",
+        "answer_id": "513509",
+        "first_seen": "2026-11-13T22:37:49.098737Z",
+        "link": "https://mathoverflow.net/a/513509",
+        "owner": "en-drix",
+        "question_id": "513498",
+        "question_title": "PhD student supervision and AI use statements",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-10T09:55:14Z",
         "answer_id": "516822",
@@ -4375,16 +4385,6 @@
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
         "score": 57
-      },
-      {
-        "answer_created": "2026-05-12T03:09:59Z",
-        "answer_id": "511209",
-        "first_seen": "2026-10-04T20:20:19.753515Z",
-        "link": "https://mathoverflow.net/a/511209",
-        "owner": "Sridhar Ramesh",
-        "question_id": "510304",
-        "question_title": "Are the Chaitin-style incompleteness theorems a consequence of Lawvere's Fixed Point Theorem?",
-        "score": 10
       }
     ],
     "known": {
@@ -4698,6 +4698,7 @@
       "513488": "2026-09-11T17:43:24.207171Z",
       "513493": "2026-09-11T17:43:24.207171Z",
       "513506": "2026-09-11T16:35:49.698347Z",
+      "513509": "2026-11-13T22:37:49.098737Z",
       "513512": "2026-09-11T16:35:49.698347Z",
       "513514": "2026-09-11T16:35:49.698347Z",
       "513522": "2026-09-11T17:43:24.207171Z",
@@ -5015,10 +5016,20 @@
       "516847": "2026-11-13T00:24:04.594875Z",
       "516852": "2026-11-12T18:56:10.238325Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "philosophy-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-09T13:51:55Z",
+        "answer_id": "143198",
+        "first_seen": "2026-11-13T22:37:49.098737Z",
+        "link": "https://philosophy.stackexchange.com/a/143198",
+        "owner": "mudskipper",
+        "question_id": "143196",
+        "question_title": "Which way do you interpret the Turing test, as described by Turing?",
+        "score": 15
+      },
       {
         "answer_created": "2026-11-07T08:05:23Z",
         "answer_id": "143156",
@@ -5152,9 +5163,10 @@
       "140674": "2026-09-11T17:35:15.780317Z",
       "142664": "2026-10-21T23:19:36.332792Z",
       "142773": "2026-10-23T18:21:41.590960Z",
-      "143156": "2026-11-09T17:29:14.133890Z"
+      "143156": "2026-11-09T17:29:14.133890Z",
+      "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6284,7 +6296,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6324,10 +6336,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-13T02:11:58Z",
+        "answer_id": "306481",
+        "first_seen": "2026-11-13T22:37:49.098737Z",
+        "link": "https://scifi.stackexchange.com/a/306481",
+        "owner": "Valorum",
+        "question_id": "153541",
+        "question_title": "Can anyone identify what Sci-Fi movie this pink twirly-headed character was in?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-08T21:20:47Z",
         "answer_id": "306454",
@@ -6336,7 +6358,7 @@
         "owner": "Sotto Voce",
         "question_id": "306446",
         "question_title": "Why is the Aries 1B Space Station to Moon shuttle's landing gear in 2001: A Space Odyssey retractable if it only operates in a vacuum?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-08T07:23:14Z",
@@ -7317,16 +7339,6 @@
         "question_id": "305479",
         "question_title": "How widespread was literacy among commoners in Middle-earth during the Third Age?",
         "score": 28
-      },
-      {
-        "answer_created": "2026-08-05T08:56:22Z",
-        "answer_id": "305480",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305480",
-        "owner": "ibid",
-        "question_id": "305479",
-        "question_title": "How widespread was literacy among commoners in Middle-earth during the Third Age?",
-        "score": 23
       }
     ],
     "known": {
@@ -7483,9 +7495,10 @@
       "306409": "2026-11-06T23:08:17.208597Z",
       "306418": "2026-11-06T01:33:08.370371Z",
       "306447": "2026-11-09T17:29:14.133890Z",
-      "306454": "2026-11-10T09:50:18.935067Z"
+      "306454": "2026-11-10T09:50:18.935067Z",
+      "306481": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "space-high-score": {
     "entries": [
@@ -7497,7 +7510,7 @@
         "owner": "GdD",
         "question_id": "70797",
         "question_title": "What was the \u201clarge fabric ball\u201d used in STS astronaut-candidate testing",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-11-04T14:26:08Z",
@@ -7976,10 +7989,20 @@
       "70788": "2026-11-05T12:20:59.315035Z",
       "70798": "2026-11-12T02:59:03.196685Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-07T19:49:32Z",
+        "answer_id": "274964",
+        "first_seen": "2026-11-13T22:37:49.098737Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274964",
+        "owner": "RonJohn",
+        "question_id": "274953",
+        "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-12T14:37:14Z",
         "answer_id": "275018",
@@ -8038,7 +8061,7 @@
         "owner": "IMP9024",
         "question_id": "275005",
         "question_title": "Would meteoric iron be practical to use as armor, assuming enough of it is collected?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-11T22:33:10Z",
@@ -8048,7 +8071,7 @@
         "owner": "realityChemist",
         "question_id": "275009",
         "question_title": "How could I make sucrose dangerous to other aliens?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-11-09T16:59:10Z",
@@ -8208,7 +8231,7 @@
         "owner": "L.Dutch",
         "question_id": "274953",
         "question_title": "Could you navigate from Earth to Mars with no visible stars or planets?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-11-05T18:57:46Z",
@@ -8969,16 +8992,6 @@
         "question_id": "274675",
         "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
         "score": 6
-      },
-      {
-        "answer_created": "2026-10-08T12:43:57Z",
-        "answer_id": "274730",
-        "first_seen": "2026-10-08T22:30:33.098296Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274730",
-        "owner": "Monty Wild",
-        "question_id": "274728",
-        "question_title": "Does my species work? Sea-bats",
-        "score": 11
       }
     ],
     "known": {
@@ -9264,6 +9277,7 @@
       "274957": "2026-11-08T15:12:42.653881Z",
       "274960": "2026-11-08T00:36:09.657722Z",
       "274961": "2026-11-10T01:31:25.687392Z",
+      "274964": "2026-11-13T22:37:49.098737Z",
       "274969": "2026-11-10T01:31:25.687392Z",
       "274973": "2026-11-09T06:28:47.163974Z",
       "274976": "2026-11-09T17:29:14.133890Z",
@@ -9281,6 +9295,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-13T16:23:57.588995Z"
+    "last_checked": "2026-11-13T22:37:49.098737Z"
   }
 }
