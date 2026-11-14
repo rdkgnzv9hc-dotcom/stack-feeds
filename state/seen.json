@@ -19,7 +19,7 @@
         "owner": "A_S00",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-11-12T15:17:14Z",
@@ -29,7 +29,7 @@
         "owner": "David White",
         "question_id": "228080",
         "question_title": "Strategies for obtaining actionable feedback on a paper manuscript",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-12T09:44:28Z",
@@ -39,7 +39,7 @@
         "owner": "Arno",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 24
+        "score": 26
       },
       {
         "answer_created": "2026-11-11T14:01:08Z",
@@ -1143,7 +1143,7 @@
       "228081": "2026-11-13T07:57:48.270449Z",
       "228084": "2026-11-13T07:57:48.270449Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "history-high-score": {
     "entries": [
@@ -1271,7 +1271,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1630,7 +1630,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "law-high-score": {
     "entries": [
@@ -2738,7 +2738,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "math-high-score": {
     "entries": [
@@ -3383,10 +3383,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-09-07T02:23:36Z",
+        "answer_id": "514983",
+        "first_seen": "2026-11-14T17:08:02.160627Z",
+        "link": "https://mathoverflow.net/a/514983",
+        "owner": "Timothy Chow",
+        "question_id": "514972",
+        "question_title": "How can one tell whether a solution of a long-standing problem in a niche area is strong enough for a top general mathematics journal?",
+        "score": 12
+      },
       {
         "answer_created": "2026-11-13T21:26:05Z",
         "answer_id": "516892",
@@ -3395,7 +3405,7 @@
         "owner": "JoshuaZ",
         "question_id": "516889",
         "question_title": "Online mathematical forums",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-07-23T11:52:14Z",
@@ -3535,7 +3545,7 @@
         "owner": "Andreas Lietz",
         "question_id": "516717",
         "question_title": "Consistent continuous surjection $c:[0,1]\\to[0,1]$",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-03T08:56:11Z",
@@ -4376,16 +4386,6 @@
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
         "score": 34
-      },
-      {
-        "answer_created": "2026-10-03T08:47:58Z",
-        "answer_id": "515704",
-        "first_seen": "2026-10-05T03:32:12.395083Z",
-        "link": "https://mathoverflow.net/a/515704",
-        "owner": "Marco Rip\u00e0",
-        "question_id": "515702",
-        "question_title": "Do $3$ and $5$ generate all odd primes by arithmetic progressions?",
-        "score": 12
       }
     ],
     "known": {
@@ -4840,6 +4840,7 @@
       "514965": "2026-09-11T17:43:24.207171Z",
       "514969": "2026-09-11T17:43:24.207171Z",
       "514970": "2026-09-11T17:43:24.207171Z",
+      "514983": "2026-11-14T17:08:02.160627Z",
       "514991": "2026-09-11T17:43:24.207171Z",
       "514996": "2026-09-11T16:35:49.698347Z",
       "514998": "2026-09-11T16:35:49.698347Z",
@@ -5018,7 +5019,7 @@
       "516852": "2026-11-12T18:56:10.238325Z",
       "516892": "2026-11-14T10:34:22.523048Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5168,7 +5169,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6299,7 +6300,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6339,7 +6340,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7501,7 +7502,7 @@
       "306454": "2026-11-10T09:50:18.935067Z",
       "306481": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "space-high-score": {
     "entries": [
@@ -7513,7 +7514,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70799",
         "question_title": "What is the longest time after liftoff a fully cryogenic and semi cryogenic engine restarted?",
-        "score": 6
+        "score": 8
       },
       {
         "answer_created": "2026-11-10T16:31:08Z",
@@ -7533,7 +7534,7 @@
         "owner": "GdD",
         "question_id": "70797",
         "question_title": "What was the \u201clarge fabric ball\u201d used in STS astronaut-candidate testing",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-11-04T14:26:08Z",
@@ -8014,10 +8015,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-09T08:03:50Z",
+        "answer_id": "274981",
+        "first_seen": "2026-11-14T17:08:02.160627Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274981",
+        "owner": "Ekaros",
+        "question_id": "274972",
+        "question_title": "How could a library be made to be the only place you can use Full Immersion Virtual reality?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-07T19:49:32Z",
         "answer_id": "274964",
@@ -8096,7 +8107,7 @@
         "owner": "realityChemist",
         "question_id": "275009",
         "question_title": "How could I make sucrose dangerous to other aliens?",
-        "score": 26
+        "score": 28
       },
       {
         "answer_created": "2026-11-09T16:59:10Z",
@@ -9007,16 +9018,6 @@
         "question_id": "274739",
         "question_title": "How realistic or efficient is a clockwork powered tank?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-09-29T12:42:04Z",
-        "answer_id": "274679",
-        "first_seen": "2026-10-09T04:32:08.678299Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274679",
-        "owner": "LazyLizard",
-        "question_id": "274675",
-        "question_title": "Could the City of Gold's gold export restrictions justify high gold world prices?",
-        "score": 6
       }
     ],
     "known": {
@@ -9308,6 +9309,7 @@
       "274976": "2026-11-09T17:29:14.133890Z",
       "274978": "2026-11-10T09:50:18.935067Z",
       "274980": "2026-11-09T17:29:14.133890Z",
+      "274981": "2026-11-14T17:08:02.160627Z",
       "274984": "2026-11-10T01:31:25.687392Z",
       "274987": "2026-11-11T15:12:08.898184Z",
       "274988": "2026-11-11T21:57:47.409518Z",
@@ -9320,6 +9322,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-14T10:34:22.523048Z"
+    "last_checked": "2026-11-14T17:08:02.160627Z"
   }
 }
