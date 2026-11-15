@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-15T02:47:05Z",
+        "answer_id": "228098",
+        "first_seen": "2026-11-15T21:49:51.259326Z",
+        "link": "https://academia.stackexchange.com/a/228098",
+        "owner": "Polytropos",
+        "question_id": "228096",
+        "question_title": "PhD advisor using AI to solve research problems",
+        "score": 12
+      },
+      {
         "answer_created": "2026-11-12T15:30:14Z",
         "answer_id": "228082",
         "first_seen": "2026-11-15T09:26:03.248286Z",
@@ -39,7 +49,7 @@
         "owner": "David White",
         "question_id": "228080",
         "question_title": "Strategies for obtaining actionable feedback on a paper manuscript",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-11-12T09:44:28Z",
@@ -49,7 +59,7 @@
         "owner": "Arno",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-11-11T14:01:08Z",
@@ -199,7 +209,7 @@
         "owner": "David White",
         "question_id": "227982",
         "question_title": "Do people seriously pay $45 to download an article?",
-        "score": 37
+        "score": 38
       },
       {
         "answer_created": "2026-10-27T20:11:54Z",
@@ -990,16 +1000,6 @@
         "question_id": "227324",
         "question_title": "Is a paper that derives a physical constant with no theoretical justification publishable?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-07-29T10:16:54Z",
-        "answer_id": "227328",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227328",
-        "owner": "pyrochlor",
-        "question_id": "227325",
-        "question_title": "For a PhD thesis, is it unusual for the main chapters to be shorter than the appendix chapter?",
-        "score": 17
       }
     ],
     "known": {
@@ -1142,9 +1142,10 @@
       "228079": "2026-11-14T10:34:22.523048Z",
       "228081": "2026-11-13T07:57:48.270449Z",
       "228082": "2026-11-15T09:26:03.248286Z",
-      "228084": "2026-11-13T07:57:48.270449Z"
+      "228084": "2026-11-13T07:57:48.270449Z",
+      "228098": "2026-11-15T21:49:51.259326Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "history-high-score": {
     "entries": [
@@ -1272,7 +1273,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1631,7 +1632,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "law-high-score": {
     "entries": [
@@ -2739,7 +2740,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "math-high-score": {
     "entries": [
@@ -3384,7 +3385,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -5020,7 +5021,7 @@
       "516852": "2026-11-12T18:56:10.238325Z",
       "516892": "2026-11-14T10:34:22.523048Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5170,7 +5171,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6301,7 +6302,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6341,7 +6342,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6353,7 +6354,7 @@
         "owner": "Valorum",
         "question_id": "306497",
         "question_title": "Logic flaw in \"The Stars My Destination\"?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-14T09:25:36Z",
@@ -6363,7 +6364,7 @@
         "owner": "Valorum",
         "question_id": "306491",
         "question_title": "What kind of evidence does a transporter leave behind?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-13T02:11:58Z",
@@ -7505,7 +7506,7 @@
       "306492": "2026-11-15T09:26:03.248286Z",
       "306498": "2026-11-15T09:26:03.248286Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "space-high-score": {
     "entries": [
@@ -7517,7 +7518,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70799",
         "question_title": "What is the longest time after liftoff a fully cryogenic and semi cryogenic engine restarted?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-10T16:31:08Z",
@@ -8018,7 +8019,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9325,6 +9326,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-15T17:11:00.925002Z"
+    "last_checked": "2026-11-15T21:49:51.259326Z"
   }
 }
