@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-12T15:30:14Z",
+        "answer_id": "228082",
+        "first_seen": "2026-11-15T09:26:03.248286Z",
+        "link": "https://academia.stackexchange.com/a/228082",
+        "owner": "David White",
+        "question_id": "228076",
+        "question_title": "How to incorporate lateral thinking in my PhD?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-12T13:04:08Z",
         "answer_id": "228079",
         "first_seen": "2026-11-14T10:34:22.523048Z",
@@ -19,7 +29,7 @@
         "owner": "A_S00",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-11-12T15:17:14Z",
@@ -79,7 +89,7 @@
         "owner": "Bob Brown",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 15
+        "score": 14
       },
       {
         "answer_created": "2026-11-04T22:05:20Z",
@@ -389,7 +399,7 @@
         "owner": "Allure",
         "question_id": "227850",
         "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-10-13T06:02:17Z",
@@ -439,7 +449,7 @@
         "owner": "David White",
         "question_id": "227803",
         "question_title": "Is it necessary to include an AI disclosure for a third party communication?",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-10-05T19:45:08Z",
@@ -489,7 +499,7 @@
         "owner": "deee",
         "question_id": "227781",
         "question_title": "Would corrections found after resubmission usually require another major revision?",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-09-30T19:48:13Z",
@@ -529,7 +539,7 @@
         "owner": "Peter Flom",
         "question_id": "227746",
         "question_title": "Are reviews seen as lesser publications than primary research?",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-09-26T02:13:49Z",
@@ -990,16 +1000,6 @@
         "question_id": "227325",
         "question_title": "For a PhD thesis, is it unusual for the main chapters to be shorter than the appendix chapter?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-07-29T09:52:23Z",
-        "answer_id": "227327",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227327",
-        "owner": "Stephan Kolassa",
-        "question_id": "227324",
-        "question_title": "Is a paper that derives a physical constant with no theoretical justification publishable?",
-        "score": 18
       }
     ],
     "known": {
@@ -1141,9 +1141,10 @@
       "228078": "2026-11-13T00:24:04.594875Z",
       "228079": "2026-11-14T10:34:22.523048Z",
       "228081": "2026-11-13T07:57:48.270449Z",
+      "228082": "2026-11-15T09:26:03.248286Z",
       "228084": "2026-11-13T07:57:48.270449Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "history-high-score": {
     "entries": [
@@ -1271,7 +1272,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1630,7 +1631,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "law-high-score": {
     "entries": [
@@ -2738,7 +2739,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "math-high-score": {
     "entries": [
@@ -3383,7 +3384,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3465,7 +3466,7 @@
         "owner": "GH from MO",
         "question_id": "516825",
         "question_title": "Primes modulo a fixed prime",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-10-09T16:04:44Z",
@@ -5019,7 +5020,7 @@
       "516852": "2026-11-12T18:56:10.238325Z",
       "516892": "2026-11-14T10:34:22.523048Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5169,7 +5170,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6300,7 +6301,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6340,10 +6341,30 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-14T16:38:18Z",
+        "answer_id": "306498",
+        "first_seen": "2026-11-15T09:26:03.248286Z",
+        "link": "https://scifi.stackexchange.com/a/306498",
+        "owner": "Valorum",
+        "question_id": "306497",
+        "question_title": "Logic flaw in \"The Stars My Destination\"?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-11-14T09:25:36Z",
+        "answer_id": "306492",
+        "first_seen": "2026-11-15T09:26:03.248286Z",
+        "link": "https://scifi.stackexchange.com/a/306492",
+        "owner": "Valorum",
+        "question_id": "306491",
+        "question_title": "What kind of evidence does a transporter leave behind?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-13T02:11:58Z",
         "answer_id": "306481",
@@ -7323,26 +7344,6 @@
         "question_id": "305479",
         "question_title": "How widespread was literacy among commoners in Middle-earth during the Third Age?",
         "score": 18
-      },
-      {
-        "answer_created": "2026-08-05T14:10:41Z",
-        "answer_id": "305484",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305484",
-        "owner": "30Keydet",
-        "question_id": "305479",
-        "question_title": "How widespread was literacy among commoners in Middle-earth during the Third Age?",
-        "score": 29
-      },
-      {
-        "answer_created": "2026-08-05T09:12:58Z",
-        "answer_id": "305481",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305481",
-        "owner": "Daniel Roseman",
-        "question_id": "305479",
-        "question_title": "How widespread was literacy among commoners in Middle-earth during the Third Age?",
-        "score": 28
       }
     ],
     "known": {
@@ -7500,9 +7501,11 @@
       "306418": "2026-11-06T01:33:08.370371Z",
       "306447": "2026-11-09T17:29:14.133890Z",
       "306454": "2026-11-10T09:50:18.935067Z",
-      "306481": "2026-11-13T22:37:49.098737Z"
+      "306481": "2026-11-13T22:37:49.098737Z",
+      "306492": "2026-11-15T09:26:03.248286Z",
+      "306498": "2026-11-15T09:26:03.248286Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "space-high-score": {
     "entries": [
@@ -8015,7 +8018,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9322,6 +9325,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-15T01:55:42.124241Z"
+    "last_checked": "2026-11-15T09:26:03.248286Z"
   }
 }
