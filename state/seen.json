@@ -29,7 +29,7 @@
         "owner": "A_S00",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-11-12T15:17:14Z",
@@ -49,7 +49,7 @@
         "owner": "Arno",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 27
+        "score": 29
       },
       {
         "answer_created": "2026-11-11T14:01:08Z",
@@ -1144,7 +1144,7 @@
       "228082": "2026-11-15T09:26:03.248286Z",
       "228084": "2026-11-13T07:57:48.270449Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "history-high-score": {
     "entries": [
@@ -1272,7 +1272,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1631,7 +1631,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "law-high-score": {
     "entries": [
@@ -2739,7 +2739,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "math-high-score": {
     "entries": [
@@ -3384,7 +3384,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3406,7 +3406,7 @@
         "owner": "JoshuaZ",
         "question_id": "516889",
         "question_title": "Online mathematical forums",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-07-23T11:52:14Z",
@@ -3496,7 +3496,7 @@
         "owner": "Shahrooz Janbaz",
         "question_id": "516769",
         "question_title": "The Erd\u0151s\u2013S\u00f3s Theorem",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-07T08:31:08Z",
@@ -3756,7 +3756,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3776,7 +3776,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 54
+        "score": 55
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -5020,7 +5020,7 @@
       "516852": "2026-11-12T18:56:10.238325Z",
       "516892": "2026-11-14T10:34:22.523048Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5170,7 +5170,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6301,7 +6301,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6341,7 +6341,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7505,7 +7505,7 @@
       "306492": "2026-11-15T09:26:03.248286Z",
       "306498": "2026-11-15T09:26:03.248286Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "space-high-score": {
     "entries": [
@@ -8018,7 +8018,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9325,6 +9325,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-15T09:26:03.248286Z"
+    "last_checked": "2026-11-15T17:11:00.925002Z"
   }
 }
