@@ -19,7 +19,7 @@
         "owner": "A_S00",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-11-12T15:17:14Z",
@@ -1143,7 +1143,7 @@
       "228081": "2026-11-13T07:57:48.270449Z",
       "228084": "2026-11-13T07:57:48.270449Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "history-high-score": {
     "entries": [
@@ -1271,7 +1271,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1630,7 +1630,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "law-high-score": {
     "entries": [
@@ -2738,7 +2738,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "math-high-score": {
     "entries": [
@@ -3383,7 +3383,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -5019,7 +5019,7 @@
       "516852": "2026-11-12T18:56:10.238325Z",
       "516892": "2026-11-14T10:34:22.523048Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5169,7 +5169,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5201,7 +5201,7 @@
         "owner": "Agnius Vasiliauskas",
         "question_id": "877611",
         "question_title": "Are we still looking for magnetic monopoles in 2026?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-03T18:06:43Z",
@@ -6300,7 +6300,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6340,7 +6340,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7502,7 +7502,7 @@
       "306454": "2026-11-10T09:50:18.935067Z",
       "306481": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "space-high-score": {
     "entries": [
@@ -7514,7 +7514,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70799",
         "question_title": "What is the longest time after liftoff a fully cryogenic and semi cryogenic engine restarted?",
-        "score": 8
+        "score": 10
       },
       {
         "answer_created": "2026-11-10T16:31:08Z",
@@ -8015,7 +8015,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8057,7 +8057,7 @@
         "owner": "Robert Rapplean",
         "question_id": "275005",
         "question_title": "Would meteoric iron be practical to use as armor, assuming enough of it is collected?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-12T00:52:45Z",
@@ -8367,7 +8367,7 @@
         "owner": "Robert Rapplean",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-01T10:42:45Z",
@@ -9322,6 +9322,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-14T21:29:49.112407Z"
+    "last_checked": "2026-11-15T01:55:42.124241Z"
   }
 }
