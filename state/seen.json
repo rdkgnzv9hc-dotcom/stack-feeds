@@ -1145,7 +1145,7 @@
       "228084": "2026-11-13T07:57:48.270449Z",
       "228098": "2026-11-15T21:49:51.259326Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "history-high-score": {
     "entries": [
@@ -1273,7 +1273,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1632,7 +1632,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "law-high-score": {
     "entries": [
@@ -2740,7 +2740,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "math-high-score": {
     "entries": [
@@ -3385,10 +3385,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-15T20:42:07Z",
+        "answer_id": "516926",
+        "first_seen": "2026-11-16T02:08:01.438270Z",
+        "link": "https://mathoverflow.net/a/516926",
+        "owner": "Joel David Hamkins",
+        "question_id": "516922",
+        "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
+        "score": 14
+      },
       {
         "answer_created": "2026-09-07T02:23:36Z",
         "answer_id": "514983",
@@ -3407,7 +3417,7 @@
         "owner": "JoshuaZ",
         "question_id": "516889",
         "question_title": "Online mathematical forums",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-07-23T11:52:14Z",
@@ -4378,16 +4388,6 @@
         "question_id": "515723",
         "question_title": "Are interactions between different fields of mathematics always beneficial?",
         "score": 28
-      },
-      {
-        "answer_created": "2026-10-05T11:27:13Z",
-        "answer_id": "515735",
-        "first_seen": "2026-10-05T15:33:37.039832Z",
-        "link": "https://mathoverflow.net/a/515735",
-        "owner": "Alexandre Eremenko",
-        "question_id": "515723",
-        "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 34
       }
     ],
     "known": {
@@ -5019,9 +5019,10 @@
       "516843": "2026-11-11T21:57:47.409518Z",
       "516847": "2026-11-13T00:24:04.594875Z",
       "516852": "2026-11-12T18:56:10.238325Z",
-      "516892": "2026-11-14T10:34:22.523048Z"
+      "516892": "2026-11-14T10:34:22.523048Z",
+      "516926": "2026-11-16T02:08:01.438270Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5171,7 +5172,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6302,7 +6303,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6342,10 +6343,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-15T14:01:28Z",
+        "answer_id": "306508",
+        "first_seen": "2026-11-16T02:08:01.438270Z",
+        "link": "https://scifi.stackexchange.com/a/306508",
+        "owner": "Valorum",
+        "question_id": "306502",
+        "question_title": "What is Ebenezer Scrooge's nephew Fred's occupation?",
+        "score": 11
+      },
       {
         "answer_created": "2026-11-14T16:38:18Z",
         "answer_id": "306498",
@@ -6364,7 +6375,7 @@
         "owner": "Valorum",
         "question_id": "306491",
         "question_title": "What kind of evidence does a transporter leave behind?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-13T02:11:58Z",
@@ -7335,16 +7346,6 @@
         "question_id": "305494",
         "question_title": "Are there any instances of Gollum using the One Ring to become invisible in any of Tolkien's works?",
         "score": 42
-      },
-      {
-        "answer_created": "2026-08-05T22:01:51Z",
-        "answer_id": "305488",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305488",
-        "owner": "Vilx-",
-        "question_id": "305479",
-        "question_title": "How widespread was literacy among commoners in Middle-earth during the Third Age?",
-        "score": 18
       }
     ],
     "known": {
@@ -7504,9 +7505,10 @@
       "306454": "2026-11-10T09:50:18.935067Z",
       "306481": "2026-11-13T22:37:49.098737Z",
       "306492": "2026-11-15T09:26:03.248286Z",
-      "306498": "2026-11-15T09:26:03.248286Z"
+      "306498": "2026-11-15T09:26:03.248286Z",
+      "306508": "2026-11-16T02:08:01.438270Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "space-high-score": {
     "entries": [
@@ -8019,7 +8021,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9326,6 +9328,6 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z"
     },
-    "last_checked": "2026-11-15T21:49:51.259326Z"
+    "last_checked": "2026-11-16T02:08:01.438270Z"
   }
 }
