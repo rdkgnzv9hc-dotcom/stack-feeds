@@ -2,6 +2,36 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-15T20:25:12Z",
+        "answer_id": "228102",
+        "first_seen": "2026-11-16T20:29:08.184367Z",
+        "link": "https://academia.stackexchange.com/a/228102",
+        "owner": "Buffy",
+        "question_id": "228101",
+        "question_title": "How do \u0399 navigate copyright when it starts affecting my writing?",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-11-15T00:15:39Z",
+        "answer_id": "228097",
+        "first_seen": "2026-11-16T20:29:08.184367Z",
+        "link": "https://academia.stackexchange.com/a/228097",
+        "owner": "Allure",
+        "question_id": "228096",
+        "question_title": "PhD advisor using AI to solve research problems",
+        "score": 11
+      },
+      {
+        "answer_created": "2026-11-14T13:15:36Z",
+        "answer_id": "228094",
+        "first_seen": "2026-11-16T20:29:08.184367Z",
+        "link": "https://academia.stackexchange.com/a/228094",
+        "owner": "Buffy",
+        "question_id": "228092",
+        "question_title": "How to Navigate Academia",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-15T02:47:05Z",
         "answer_id": "228098",
         "first_seen": "2026-11-15T21:49:51.259326Z",
@@ -9,7 +39,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -39,7 +69,7 @@
         "owner": "A_S00",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-11-12T15:17:14Z",
@@ -59,7 +89,7 @@
         "owner": "Arno",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-11-11T14:01:08Z",
@@ -970,36 +1000,6 @@
         "question_id": "227366",
         "question_title": "Discussing AI use in email to potential collaborators",
         "score": 26
-      },
-      {
-        "answer_created": "2026-07-31T17:02:19Z",
-        "answer_id": "227355",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227355",
-        "owner": "Buffy",
-        "question_id": "227353",
-        "question_title": "How to continue my PhD after a traumatic event?",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-07-31T06:35:36Z",
-        "answer_id": "227346",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227346",
-        "owner": "Arno",
-        "question_id": "227345",
-        "question_title": "Should I submit an erratum of an existing arXiv paper as a separate arXiv posting?",
-        "score": 21
-      },
-      {
-        "answer_created": "2026-07-29T20:15:58Z",
-        "answer_id": "227335",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227335",
-        "owner": "Markus Klyver",
-        "question_id": "227324",
-        "question_title": "Is a paper that derives a physical constant with no theoretical justification publishable?",
-        "score": 11
       }
     ],
     "known": {
@@ -1143,9 +1143,12 @@
       "228081": "2026-11-13T07:57:48.270449Z",
       "228082": "2026-11-15T09:26:03.248286Z",
       "228084": "2026-11-13T07:57:48.270449Z",
-      "228098": "2026-11-15T21:49:51.259326Z"
+      "228094": "2026-11-16T20:29:08.184367Z",
+      "228097": "2026-11-16T20:29:08.184367Z",
+      "228098": "2026-11-15T21:49:51.259326Z",
+      "228102": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "history-high-score": {
     "entries": [
@@ -1273,7 +1276,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1632,10 +1635,30 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-15T05:24:18Z",
+        "answer_id": "117001",
+        "first_seen": "2026-11-16T20:29:08.184367Z",
+        "link": "https://law.stackexchange.com/a/117001",
+        "owner": "JBentley",
+        "question_id": "116992",
+        "question_title": "Is a retroactive term limit law constitutional?",
+        "score": 13
+      },
+      {
+        "answer_created": "2026-11-13T01:03:43Z",
+        "answer_id": "116995",
+        "first_seen": "2026-11-16T20:29:08.184367Z",
+        "link": "https://law.stackexchange.com/a/116995",
+        "owner": "littleadv",
+        "question_id": "116992",
+        "question_title": "Is a retroactive term limit law constitutional?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-08T17:16:07Z",
         "answer_id": "116967",
@@ -2615,26 +2638,6 @@
         "question_id": "115020",
         "question_title": "Did Obama violate the emoluments clause by accepting a prize from a foreign king?",
         "score": 46
-      },
-      {
-        "answer_created": "2026-06-23T16:06:08Z",
-        "answer_id": "115011",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115011",
-        "owner": "Nuclear Hoagie",
-        "question_id": "115009",
-        "question_title": "Publication of school yearbooks and personality rights",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-06-23T11:13:39Z",
-        "answer_id": "115005",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115005",
-        "owner": "Graham",
-        "question_id": "115001",
-        "question_title": "How is Ancestry.com able to put School Yearbooks Online?",
-        "score": 16
       }
     ],
     "known": {
@@ -2738,9 +2741,11 @@
       "116933": "2026-11-06T17:29:36.054589Z",
       "116946": "2026-11-07T02:48:20.170253Z",
       "116953": "2026-11-09T17:29:14.133890Z",
-      "116967": "2026-11-10T17:50:58.550845Z"
+      "116967": "2026-11-10T17:50:58.550845Z",
+      "116995": "2026-11-16T20:29:08.184367Z",
+      "117001": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "math-high-score": {
     "entries": [
@@ -3385,10 +3390,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T02:51:49Z",
+        "answer_id": "516930",
+        "first_seen": "2026-11-16T20:29:08.184367Z",
+        "link": "https://mathoverflow.net/a/516930",
+        "owner": "Mark Yasuda",
+        "question_id": "470344",
+        "question_title": "Did G\u00f6del possess a proof of the independence of $\\mathsf{AC}$?",
+        "score": 12
+      },
       {
         "answer_created": "2026-11-16T02:28:22Z",
         "answer_id": "516929",
@@ -3397,7 +3412,7 @@
         "owner": "Timothy Chow",
         "question_id": "516921",
         "question_title": "Where to publish a long, AI-assisted, computer-verified classification paper?",
-        "score": 13
+        "score": 18
       },
       {
         "answer_created": "2026-11-15T20:42:07Z",
@@ -3407,7 +3422,7 @@
         "owner": "Joel David Hamkins",
         "question_id": "516922",
         "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
-        "score": 17
+        "score": 21
       },
       {
         "answer_created": "2026-09-07T02:23:36Z",
@@ -4378,16 +4393,6 @@
         "question_id": "515795",
         "question_title": "Possible suggestions to \"AI advisory group\"?",
         "score": 19
-      },
-      {
-        "answer_created": "2026-10-05T14:15:13Z",
-        "answer_id": "515740",
-        "first_seen": "2026-10-06T19:29:18.695762Z",
-        "link": "https://mathoverflow.net/a/515740",
-        "owner": "Marco Rip\u00e0",
-        "question_id": "515726",
-        "question_title": "Can adding one vertex change every edge of the shortest Hamiltonian cycle?",
-        "score": 13
       }
     ],
     "known": {
@@ -5021,9 +5026,10 @@
       "516852": "2026-11-12T18:56:10.238325Z",
       "516892": "2026-11-14T10:34:22.523048Z",
       "516926": "2026-11-16T02:08:01.438270Z",
-      "516929": "2026-11-16T09:43:47.770369Z"
+      "516929": "2026-11-16T09:43:47.770369Z",
+      "516930": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5173,7 +5179,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6304,7 +6310,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6344,7 +6350,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6356,7 +6362,7 @@
         "owner": "Valorum",
         "question_id": "306502",
         "question_title": "What is Ebenezer Scrooge's nephew Fred's occupation?",
-        "score": 13
+        "score": 21
       },
       {
         "answer_created": "2026-11-14T16:38:18Z",
@@ -6366,7 +6372,7 @@
         "owner": "Valorum",
         "question_id": "306497",
         "question_title": "Logic flaw in \"The Stars My Destination\"?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-14T09:25:36Z",
@@ -6376,7 +6382,7 @@
         "owner": "Valorum",
         "question_id": "306491",
         "question_title": "What kind of evidence does a transporter leave behind?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-13T02:11:58Z",
@@ -7509,7 +7515,7 @@
       "306498": "2026-11-15T09:26:03.248286Z",
       "306508": "2026-11-16T02:08:01.438270Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "space-high-score": {
     "entries": [
@@ -8022,10 +8028,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-15T23:43:49Z",
+        "answer_id": "275040",
+        "first_seen": "2026-11-16T20:29:08.184367Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275040",
+        "owner": "flox",
+        "question_id": "275035",
+        "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
+        "score": 7
+      },
       {
         "answer_created": "2026-11-15T23:32:26Z",
         "answer_id": "275039",
@@ -8034,7 +8050,7 @@
         "owner": "Pneumosisotis",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 9
+        "score": 15
       },
       {
         "answer_created": "2026-11-15T14:47:30Z",
@@ -8044,7 +8060,7 @@
         "owner": "John",
         "question_id": "275032",
         "question_title": "Can my continental waterway system feasibly work?",
-        "score": 8
+        "score": 14
       },
       {
         "answer_created": "2026-11-09T08:03:50Z",
@@ -9015,16 +9031,6 @@
         "question_id": "274739",
         "question_title": "How realistic or efficient is a clockwork powered tank?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-10-06T07:46:30Z",
-        "answer_id": "274721",
-        "first_seen": "2026-10-12T17:54:27.600860Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274721",
-        "owner": "Separatrix",
-        "question_id": "274685",
-        "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
-        "score": 7
       }
     ],
     "known": {
@@ -9329,8 +9335,9 @@
       "275014": "2026-11-12T18:56:10.238325Z",
       "275018": "2026-11-13T00:24:04.594875Z",
       "275034": "2026-11-16T09:43:47.770369Z",
-      "275039": "2026-11-16T09:43:47.770369Z"
+      "275039": "2026-11-16T09:43:47.770369Z",
+      "275040": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-16T09:43:47.770369Z"
+    "last_checked": "2026-11-16T20:29:08.184367Z"
   }
 }
