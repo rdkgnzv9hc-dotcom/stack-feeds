@@ -9,7 +9,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -1145,7 +1145,7 @@
       "228084": "2026-11-13T07:57:48.270449Z",
       "228098": "2026-11-15T21:49:51.259326Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "history-high-score": {
     "entries": [
@@ -1273,7 +1273,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1632,7 +1632,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "law-high-score": {
     "entries": [
@@ -2740,7 +2740,7 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "math-high-score": {
     "entries": [
@@ -3385,10 +3385,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T02:28:22Z",
+        "answer_id": "516929",
+        "first_seen": "2026-11-16T09:43:47.770369Z",
+        "link": "https://mathoverflow.net/a/516929",
+        "owner": "Timothy Chow",
+        "question_id": "516921",
+        "question_title": "Where to publish a long, AI-assisted, computer-verified classification paper?",
+        "score": 13
+      },
       {
         "answer_created": "2026-11-15T20:42:07Z",
         "answer_id": "516926",
@@ -3397,7 +3407,7 @@
         "owner": "Joel David Hamkins",
         "question_id": "516922",
         "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
-        "score": 14
+        "score": 17
       },
       {
         "answer_created": "2026-09-07T02:23:36Z",
@@ -3417,7 +3427,7 @@
         "owner": "JoshuaZ",
         "question_id": "516889",
         "question_title": "Online mathematical forums",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-07-23T11:52:14Z",
@@ -4378,16 +4388,6 @@
         "question_id": "515726",
         "question_title": "Can adding one vertex change every edge of the shortest Hamiltonian cycle?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-10-05T12:45:11Z",
-        "answer_id": "515738",
-        "first_seen": "2026-10-05T17:29:56.474752Z",
-        "link": "https://mathoverflow.net/a/515738",
-        "owner": "JF Meier",
-        "question_id": "515723",
-        "question_title": "Are interactions between different fields of mathematics always beneficial?",
-        "score": 28
       }
     ],
     "known": {
@@ -5020,9 +5020,10 @@
       "516847": "2026-11-13T00:24:04.594875Z",
       "516852": "2026-11-12T18:56:10.238325Z",
       "516892": "2026-11-14T10:34:22.523048Z",
-      "516926": "2026-11-16T02:08:01.438270Z"
+      "516926": "2026-11-16T02:08:01.438270Z",
+      "516929": "2026-11-16T09:43:47.770369Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5172,7 +5173,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6303,7 +6304,7 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6343,7 +6344,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6355,7 +6356,7 @@
         "owner": "Valorum",
         "question_id": "306502",
         "question_title": "What is Ebenezer Scrooge's nephew Fred's occupation?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-14T16:38:18Z",
@@ -6365,7 +6366,7 @@
         "owner": "Valorum",
         "question_id": "306497",
         "question_title": "Logic flaw in \"The Stars My Destination\"?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-14T09:25:36Z",
@@ -6375,7 +6376,7 @@
         "owner": "Valorum",
         "question_id": "306491",
         "question_title": "What kind of evidence does a transporter leave behind?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-13T02:11:58Z",
@@ -7508,7 +7509,7 @@
       "306498": "2026-11-15T09:26:03.248286Z",
       "306508": "2026-11-16T02:08:01.438270Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "space-high-score": {
     "entries": [
@@ -8021,10 +8022,30 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-15T23:32:26Z",
+        "answer_id": "275039",
+        "first_seen": "2026-11-16T09:43:47.770369Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275039",
+        "owner": "Pneumosisotis",
+        "question_id": "275035",
+        "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
+        "score": 9
+      },
+      {
+        "answer_created": "2026-11-15T14:47:30Z",
+        "answer_id": "275034",
+        "first_seen": "2026-11-16T09:43:47.770369Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275034",
+        "owner": "John",
+        "question_id": "275032",
+        "question_title": "Can my continental waterway system feasibly work?",
+        "score": 8
+      },
       {
         "answer_created": "2026-11-09T08:03:50Z",
         "answer_id": "274981",
@@ -9004,26 +9025,6 @@
         "question_id": "274685",
         "question_title": "What is a sustainable population range for a civilization of rat-like creatures living in the walls of a giant's castle?",
         "score": 7
-      },
-      {
-        "answer_created": "2026-10-02T20:21:28Z",
-        "answer_id": "274709",
-        "first_seen": "2026-10-12T17:54:27.600860Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274709",
-        "owner": "Trish",
-        "question_id": "274704",
-        "question_title": "All existing communication infrastructure has vanished. What technology do we use to rebuild it?",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-10-10T00:43:54Z",
-        "answer_id": "274742",
-        "first_seen": "2026-10-10T17:27:25.801572Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274742",
-        "owner": "Monty Wild",
-        "question_id": "274739",
-        "question_title": "How realistic or efficient is a clockwork powered tank?",
-        "score": 12
       }
     ],
     "known": {
@@ -9326,8 +9327,10 @@
       "275012": "2026-11-12T18:56:10.238325Z",
       "275013": "2026-11-12T18:56:10.238325Z",
       "275014": "2026-11-12T18:56:10.238325Z",
-      "275018": "2026-11-13T00:24:04.594875Z"
+      "275018": "2026-11-13T00:24:04.594875Z",
+      "275034": "2026-11-16T09:43:47.770369Z",
+      "275039": "2026-11-16T09:43:47.770369Z"
     },
-    "last_checked": "2026-11-16T02:08:01.438270Z"
+    "last_checked": "2026-11-16T09:43:47.770369Z"
   }
 }
