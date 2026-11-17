@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-17T12:42:55Z",
+        "answer_id": "228115",
+        "first_seen": "2026-11-17T22:24:06.476643Z",
+        "link": "https://academia.stackexchange.com/a/228115",
+        "owner": "Antoine Chambert-Loir",
+        "question_id": "228096",
+        "question_title": "PhD advisor using AI to solve research problems",
+        "score": 14
+      },
+      {
         "answer_created": "2026-11-15T12:44:13Z",
         "answer_id": "228099",
         "first_seen": "2026-11-17T03:53:49.093655Z",
@@ -49,7 +59,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 23
+        "score": 25
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -69,7 +79,7 @@
         "owner": "parkingfunc",
         "question_id": "228077",
         "question_title": "Meaning of \"The author takes full responsibility\"",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-12T20:16:50Z",
@@ -990,16 +1000,6 @@
         "question_id": "227368",
         "question_title": "Does a recognizably Jewish name affect PhD admissions in computer science, or in other academic settings more broadly?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-02T11:06:28Z",
-        "answer_id": "227373",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227373",
-        "owner": "Peter Flom",
-        "question_id": "227368",
-        "question_title": "Does a recognizably Jewish name affect PhD admissions in computer science, or in other academic settings more broadly?",
-        "score": 18
       }
     ],
     "known": {
@@ -1147,9 +1147,10 @@
       "228097": "2026-11-16T20:29:08.184367Z",
       "228098": "2026-11-15T21:49:51.259326Z",
       "228099": "2026-11-17T03:53:49.093655Z",
-      "228102": "2026-11-16T20:29:08.184367Z"
+      "228102": "2026-11-16T20:29:08.184367Z",
+      "228115": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "history-high-score": {
     "entries": [
@@ -1277,7 +1278,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1636,10 +1637,20 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-17T11:45:04Z",
+        "answer_id": "117018",
+        "first_seen": "2026-11-17T22:24:06.476643Z",
+        "link": "https://law.stackexchange.com/a/117018",
+        "owner": "Simon Farnsworth",
+        "question_id": "117015",
+        "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
+        "score": 11
+      },
       {
         "answer_created": "2026-11-14T23:52:12Z",
         "answer_id": "117000",
@@ -1648,7 +1659,7 @@
         "owner": "Jen",
         "question_id": "116999",
         "question_title": "Can a username violate a trademark in certain cases?",
-        "score": 16
+        "score": 18
       },
       {
         "answer_created": "2026-11-15T05:24:18Z",
@@ -1698,7 +1709,7 @@
         "owner": "user130211",
         "question_id": "116928",
         "question_title": "Do members of the UK's Armed Forces (NCOs, WOs, and COs) ever possess elevated powers of arrest, versus non-police civilians?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-06T09:52:52Z",
@@ -2629,16 +2640,6 @@
         "question_id": "115028",
         "question_title": "Full braking before the stop line",
         "score": 14
-      },
-      {
-        "answer_created": "2026-06-28T06:50:37Z",
-        "answer_id": "115022",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115022",
-        "owner": "Jen",
-        "question_id": "115019",
-        "question_title": "Do states in the U.S.A. have long arms (extraterritorial criminal jurisdiction)?",
-        "score": 12
       }
     ],
     "known": {
@@ -2745,9 +2746,10 @@
       "116967": "2026-11-10T17:50:58.550845Z",
       "116995": "2026-11-16T20:29:08.184367Z",
       "117000": "2026-11-17T03:53:49.093655Z",
-      "117001": "2026-11-16T20:29:08.184367Z"
+      "117001": "2026-11-16T20:29:08.184367Z",
+      "117018": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "math-high-score": {
     "entries": [
@@ -3392,7 +3394,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3424,7 +3426,7 @@
         "owner": "Mark Yasuda",
         "question_id": "470344",
         "question_title": "Did G\u00f6del possess a proof of the independence of $\\mathsf{AC}$?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-11-16T02:28:22Z",
@@ -3434,7 +3436,7 @@
         "owner": "Timothy Chow",
         "question_id": "516921",
         "question_title": "Where to publish a long, AI-assisted, computer-verified classification paper?",
-        "score": 26
+        "score": 28
       },
       {
         "answer_created": "2026-11-15T20:42:07Z",
@@ -3884,7 +3886,7 @@
         "owner": "Timothy Chow",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-10-23T23:30:58Z",
@@ -4344,7 +4346,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 67
+        "score": 68
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -5033,7 +5035,7 @@
       "516929": "2026-11-16T09:43:47.770369Z",
       "516930": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5183,7 +5185,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6315,7 +6317,7 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6355,10 +6357,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-15T21:19:14Z",
+        "answer_id": "306513",
+        "first_seen": "2026-11-17T22:24:06.476643Z",
+        "link": "https://scifi.stackexchange.com/a/306513",
+        "owner": "DavidW",
+        "question_id": "306510",
+        "question_title": "A short story about aliens who arrived using only wings on their shoulders (no spacecraft), in exact number, suddenly, get homesick, suddenly leave",
+        "score": 17
+      },
       {
         "answer_created": "2026-11-14T10:17:52Z",
         "answer_id": "306494",
@@ -6367,7 +6379,7 @@
         "owner": "Valorum",
         "question_id": "306493",
         "question_title": "Short story about conversation on a space ship. At the end the man is slipped a card advertising conversation robots",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-15T14:01:28Z",
@@ -6377,7 +6389,7 @@
         "owner": "Valorum",
         "question_id": "306502",
         "question_title": "What is Ebenezer Scrooge's nephew Fred's occupation?",
-        "score": 21
+        "score": 23
       },
       {
         "answer_created": "2026-11-14T16:38:18Z",
@@ -6387,7 +6399,7 @@
         "owner": "Valorum",
         "question_id": "306497",
         "question_title": "Logic flaw in \"The Stars My Destination\"?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-14T09:25:36Z",
@@ -7348,16 +7360,6 @@
         "question_id": "305517",
         "question_title": "Full-length 60s or 70s sci-fi book where a scientist's supercomputer foretells his marriage to a cosmonaut on a spacecraft",
         "score": 22
-      },
-      {
-        "answer_created": "2026-08-07T04:06:25Z",
-        "answer_id": "305506",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305506",
-        "owner": "Valorum",
-        "question_id": "305504",
-        "question_title": "Short story about an imperfect robot that was creative until it was fixed",
-        "score": 31
       }
     ],
     "known": {
@@ -7519,9 +7521,10 @@
       "306492": "2026-11-15T09:26:03.248286Z",
       "306494": "2026-11-17T03:53:49.093655Z",
       "306498": "2026-11-15T09:26:03.248286Z",
-      "306508": "2026-11-16T02:08:01.438270Z"
+      "306508": "2026-11-16T02:08:01.438270Z",
+      "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "space-high-score": {
     "entries": [
@@ -7533,7 +7536,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70799",
         "question_title": "What is the longest time after liftoff a fully cryogenic and semi cryogenic engine restarted?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-10T16:31:08Z",
@@ -8034,10 +8037,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T03:07:24Z",
+        "answer_id": "275042",
+        "first_seen": "2026-11-17T22:24:06.476643Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275042",
+        "owner": "Kilisi",
+        "question_id": "275035",
+        "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-16T09:15:57Z",
         "answer_id": "275043",
@@ -8046,7 +8059,7 @@
         "owner": "user111403",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 5
+        "score": 7
       },
       {
         "answer_created": "2026-11-16T16:41:52Z",
@@ -8056,7 +8069,7 @@
         "owner": "Christopher King",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 10
+        "score": 14
       },
       {
         "answer_created": "2026-11-16T14:27:39Z",
@@ -8066,7 +8079,7 @@
         "owner": "Andr\u00e9 L F S Bacci",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 6
+        "score": 9
       },
       {
         "answer_created": "2026-11-15T23:43:49Z",
@@ -8076,7 +8089,7 @@
         "owner": "flox",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-15T23:32:26Z",
@@ -8086,7 +8099,7 @@
         "owner": "Pneumosisotis",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 23
+        "score": 26
       },
       {
         "answer_created": "2026-11-15T14:47:30Z",
@@ -8096,7 +8109,7 @@
         "owner": "John",
         "question_id": "275032",
         "question_title": "Can my continental waterway system feasibly work?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-09T08:03:50Z",
@@ -8186,7 +8199,7 @@
         "owner": "realityChemist",
         "question_id": "275009",
         "question_title": "How could I make sucrose dangerous to other aliens?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-11-09T16:59:10Z",
@@ -9027,16 +9040,6 @@
         "question_id": "274755",
         "question_title": "Would an organism that travels with rain be possible",
         "score": 8
-      },
-      {
-        "answer_created": "2026-09-23T15:23:28Z",
-        "answer_id": "274618",
-        "first_seen": "2026-10-14T11:52:28.882570Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274618",
-        "owner": "Ted Wrigley",
-        "question_id": "274617",
-        "question_title": "Could liquid sulfur dioxide oceans exist on a carbon based planet?",
-        "score": 5
       }
     ],
     "known": {
@@ -9343,10 +9346,11 @@
       "275034": "2026-11-16T09:43:47.770369Z",
       "275039": "2026-11-16T09:43:47.770369Z",
       "275040": "2026-11-16T20:29:08.184367Z",
+      "275042": "2026-11-17T22:24:06.476643Z",
       "275043": "2026-11-17T13:26:53.642253Z",
       "275047": "2026-11-17T03:53:49.093655Z",
       "275048": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-17T13:26:53.642253Z"
+    "last_checked": "2026-11-17T22:24:06.476643Z"
   }
 }
