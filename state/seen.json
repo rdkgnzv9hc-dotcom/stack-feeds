@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-15T12:44:13Z",
+        "answer_id": "228099",
+        "first_seen": "2026-11-17T03:53:49.093655Z",
+        "link": "https://academia.stackexchange.com/a/228099",
+        "owner": "a3nm",
+        "question_id": "228096",
+        "question_title": "PhD advisor using AI to solve research problems",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-15T20:25:12Z",
         "answer_id": "228102",
         "first_seen": "2026-11-16T20:29:08.184367Z",
@@ -9,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "228101",
         "question_title": "How do \u0399 navigate copyright when it starts affecting my writing?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-15T00:15:39Z",
@@ -39,7 +49,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 17
+        "score": 20
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -990,16 +1000,6 @@
         "question_id": "227368",
         "question_title": "Does a recognizably Jewish name affect PhD admissions in computer science, or in other academic settings more broadly?",
         "score": 18
-      },
-      {
-        "answer_created": "2026-08-01T15:48:02Z",
-        "answer_id": "227367",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227367",
-        "owner": "Buffy",
-        "question_id": "227366",
-        "question_title": "Discussing AI use in email to potential collaborators",
-        "score": 26
       }
     ],
     "known": {
@@ -1146,9 +1146,10 @@
       "228094": "2026-11-16T20:29:08.184367Z",
       "228097": "2026-11-16T20:29:08.184367Z",
       "228098": "2026-11-15T21:49:51.259326Z",
+      "228099": "2026-11-17T03:53:49.093655Z",
       "228102": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "history-high-score": {
     "entries": [
@@ -1276,7 +1277,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1635,10 +1636,20 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-14T23:52:12Z",
+        "answer_id": "117000",
+        "first_seen": "2026-11-17T03:53:49.093655Z",
+        "link": "https://law.stackexchange.com/a/117000",
+        "owner": "Jen",
+        "question_id": "116999",
+        "question_title": "Can a username violate a trademark in certain cases?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-15T05:24:18Z",
         "answer_id": "117001",
@@ -1647,7 +1658,7 @@
         "owner": "JBentley",
         "question_id": "116992",
         "question_title": "Is a retroactive term limit law constitutional?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-13T01:03:43Z",
@@ -2628,16 +2639,6 @@
         "question_id": "115019",
         "question_title": "Do states in the U.S.A. have long arms (extraterritorial criminal jurisdiction)?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-06-28T06:31:10Z",
-        "answer_id": "115021",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115021",
-        "owner": "littleadv",
-        "question_id": "115020",
-        "question_title": "Did Obama violate the emoluments clause by accepting a prize from a foreign king?",
-        "score": 46
       }
     ],
     "known": {
@@ -2743,9 +2744,10 @@
       "116953": "2026-11-09T17:29:14.133890Z",
       "116967": "2026-11-10T17:50:58.550845Z",
       "116995": "2026-11-16T20:29:08.184367Z",
+      "117000": "2026-11-17T03:53:49.093655Z",
       "117001": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "math-high-score": {
     "entries": [
@@ -3390,10 +3392,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-13T03:54:14Z",
+        "answer_id": "516873",
+        "first_seen": "2026-11-17T03:53:49.093655Z",
+        "link": "https://mathoverflow.net/a/516873",
+        "owner": "M.G.",
+        "question_id": "516867",
+        "question_title": "Reference request: Non-commutative harmonic analysis",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-16T02:51:49Z",
         "answer_id": "516930",
@@ -3412,7 +3424,7 @@
         "owner": "Timothy Chow",
         "question_id": "516921",
         "question_title": "Where to publish a long, AI-assisted, computer-verified classification paper?",
-        "score": 18
+        "score": 22
       },
       {
         "answer_created": "2026-11-15T20:42:07Z",
@@ -3422,7 +3434,7 @@
         "owner": "Joel David Hamkins",
         "question_id": "516922",
         "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
-        "score": 21
+        "score": 23
       },
       {
         "answer_created": "2026-09-07T02:23:36Z",
@@ -3442,7 +3454,7 @@
         "owner": "JoshuaZ",
         "question_id": "516889",
         "question_title": "Online mathematical forums",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-07-23T11:52:14Z",
@@ -4383,16 +4395,6 @@
         "question_id": "514923",
         "question_title": "Posting AI proofs",
         "score": 11
-      },
-      {
-        "answer_created": "2026-10-07T11:56:26Z",
-        "answer_id": "515797",
-        "first_seen": "2026-10-07T15:40:44.107584Z",
-        "link": "https://mathoverflow.net/a/515797",
-        "owner": "David White",
-        "question_id": "515795",
-        "question_title": "Possible suggestions to \"AI advisory group\"?",
-        "score": 19
       }
     ],
     "known": {
@@ -5024,12 +5026,13 @@
       "516843": "2026-11-11T21:57:47.409518Z",
       "516847": "2026-11-13T00:24:04.594875Z",
       "516852": "2026-11-12T18:56:10.238325Z",
+      "516873": "2026-11-17T03:53:49.093655Z",
       "516892": "2026-11-14T10:34:22.523048Z",
       "516926": "2026-11-16T02:08:01.438270Z",
       "516929": "2026-11-16T09:43:47.770369Z",
       "516930": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5179,10 +5182,20 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-14T00:28:51Z",
+        "answer_id": "877674",
+        "first_seen": "2026-11-17T03:53:49.093655Z",
+        "link": "https://physics.stackexchange.com/a/877674",
+        "owner": "David Bailey",
+        "question_id": "877673",
+        "question_title": "What is \"nothing\" in cosmology, and how is it different from vacuum?",
+        "score": 11
+      },
       {
         "answer_created": "2026-11-09T10:01:40Z",
         "answer_id": "877589",
@@ -6172,16 +6185,6 @@
         "question_id": "874261",
         "question_title": "Why is \"the amount of heat inside a body\" a meaningless quantity?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-07-12T10:15:39Z",
-        "answer_id": "874147",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/874147",
-        "owner": "Thomas Fritsch",
-        "question_id": "874145",
-        "question_title": "Why / how does the proton have electronic degeneracy?",
-        "score": 15
       }
     ],
     "known": {
@@ -6308,9 +6311,10 @@
       "877435": "2026-11-04T17:15:13.405297Z",
       "877589": "2026-11-14T03:15:22.211193Z",
       "877617": "2026-11-11T15:12:08.898184Z",
-      "877623": "2026-11-13T16:23:57.588995Z"
+      "877623": "2026-11-13T16:23:57.588995Z",
+      "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6350,10 +6354,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-14T10:17:52Z",
+        "answer_id": "306494",
+        "first_seen": "2026-11-17T03:53:49.093655Z",
+        "link": "https://scifi.stackexchange.com/a/306494",
+        "owner": "Valorum",
+        "question_id": "306493",
+        "question_title": "Short story about conversation on a space ship. At the end the man is slipped a card advertising conversation robots",
+        "score": 16
+      },
       {
         "answer_created": "2026-11-15T14:01:28Z",
         "answer_id": "306508",
@@ -6372,7 +6386,7 @@
         "owner": "Valorum",
         "question_id": "306497",
         "question_title": "Logic flaw in \"The Stars My Destination\"?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-11-14T09:25:36Z",
@@ -7343,16 +7357,6 @@
         "question_id": "305504",
         "question_title": "Short story about an imperfect robot that was creative until it was fixed",
         "score": 31
-      },
-      {
-        "answer_created": "2026-08-06T17:41:22Z",
-        "answer_id": "305495",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305495",
-        "owner": "Paulie_D",
-        "question_id": "305494",
-        "question_title": "Are there any instances of Gollum using the One Ring to become invisible in any of Tolkien's works?",
-        "score": 42
       }
     ],
     "known": {
@@ -7512,10 +7516,11 @@
       "306454": "2026-11-10T09:50:18.935067Z",
       "306481": "2026-11-13T22:37:49.098737Z",
       "306492": "2026-11-15T09:26:03.248286Z",
+      "306494": "2026-11-17T03:53:49.093655Z",
       "306498": "2026-11-15T09:26:03.248286Z",
       "306508": "2026-11-16T02:08:01.438270Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "space-high-score": {
     "entries": [
@@ -8028,10 +8033,30 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T16:41:52Z",
+        "answer_id": "275048",
+        "first_seen": "2026-11-17T03:53:49.093655Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275048",
+        "owner": "Christopher King",
+        "question_id": "275035",
+        "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-16T14:27:39Z",
+        "answer_id": "275047",
+        "first_seen": "2026-11-17T03:53:49.093655Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275047",
+        "owner": "Andr\u00e9 L F S Bacci",
+        "question_id": "275035",
+        "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
+        "score": 6
+      },
       {
         "answer_created": "2026-11-15T23:43:49Z",
         "answer_id": "275040",
@@ -8040,7 +8065,7 @@
         "owner": "flox",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 7
+        "score": 10
       },
       {
         "answer_created": "2026-11-15T23:32:26Z",
@@ -8050,7 +8075,7 @@
         "owner": "Pneumosisotis",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 15
+        "score": 18
       },
       {
         "answer_created": "2026-11-15T14:47:30Z",
@@ -8060,7 +8085,7 @@
         "owner": "John",
         "question_id": "275032",
         "question_title": "Can my continental waterway system feasibly work?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-11-09T08:03:50Z",
@@ -9011,26 +9036,6 @@
         "question_id": "274754",
         "question_title": "How To Make a Dark Sky on a Jovian Planet?",
         "score": 10
-      },
-      {
-        "answer_created": "2026-10-12T04:19:02Z",
-        "answer_id": "274752",
-        "first_seen": "2026-10-13T15:59:00.350142Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274752",
-        "owner": "g s",
-        "question_id": "274751",
-        "question_title": "Hexapodal Locomotion",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-10-10T02:55:51Z",
-        "answer_id": "274743",
-        "first_seen": "2026-10-12T17:54:27.600860Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274743",
-        "owner": "JBH",
-        "question_id": "274739",
-        "question_title": "How realistic or efficient is a clockwork powered tank?",
-        "score": 5
       }
     ],
     "known": {
@@ -9336,8 +9341,10 @@
       "275018": "2026-11-13T00:24:04.594875Z",
       "275034": "2026-11-16T09:43:47.770369Z",
       "275039": "2026-11-16T09:43:47.770369Z",
-      "275040": "2026-11-16T20:29:08.184367Z"
+      "275040": "2026-11-16T20:29:08.184367Z",
+      "275047": "2026-11-17T03:53:49.093655Z",
+      "275048": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-16T20:29:08.184367Z"
+    "last_checked": "2026-11-17T03:53:49.093655Z"
   }
 }
