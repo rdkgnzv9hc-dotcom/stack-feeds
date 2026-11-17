@@ -9,7 +9,7 @@
         "owner": "a3nm",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 10
+        "score": 13
       },
       {
         "answer_created": "2026-11-15T20:25:12Z",
@@ -19,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "228101",
         "question_title": "How do \u0399 navigate copyright when it starts affecting my writing?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-15T00:15:39Z",
@@ -49,7 +49,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 20
+        "score": 23
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -1149,7 +1149,7 @@
       "228099": "2026-11-17T03:53:49.093655Z",
       "228102": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "history-high-score": {
     "entries": [
@@ -1277,7 +1277,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1636,7 +1636,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "law-high-score": {
     "entries": [
@@ -1648,7 +1648,7 @@
         "owner": "Jen",
         "question_id": "116999",
         "question_title": "Can a username violate a trademark in certain cases?",
-        "score": 10
+        "score": 16
       },
       {
         "answer_created": "2026-11-15T05:24:18Z",
@@ -1658,7 +1658,7 @@
         "owner": "JBentley",
         "question_id": "116992",
         "question_title": "Is a retroactive term limit law constitutional?",
-        "score": 14
+        "score": 20
       },
       {
         "answer_created": "2026-11-13T01:03:43Z",
@@ -1668,7 +1668,7 @@
         "owner": "littleadv",
         "question_id": "116992",
         "question_title": "Is a retroactive term limit law constitutional?",
-        "score": 10
+        "score": 14
       },
       {
         "answer_created": "2026-11-08T17:16:07Z",
@@ -2747,7 +2747,7 @@
       "117000": "2026-11-17T03:53:49.093655Z",
       "117001": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "math-high-score": {
     "entries": [
@@ -3392,10 +3392,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-04T20:27:17Z",
+        "answer_id": "516681",
+        "first_seen": "2026-11-17T13:26:53.642253Z",
+        "link": "https://mathoverflow.net/a/516681",
+        "owner": "Willie Wong",
+        "question_id": "516680",
+        "question_title": "What is the surjectivity index of $[0,1]$?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-13T03:54:14Z",
         "answer_id": "516873",
@@ -3404,7 +3414,7 @@
         "owner": "M.G.",
         "question_id": "516867",
         "question_title": "Reference request: Non-commutative harmonic analysis",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-16T02:51:49Z",
@@ -3414,7 +3424,7 @@
         "owner": "Mark Yasuda",
         "question_id": "470344",
         "question_title": "Did G\u00f6del possess a proof of the independence of $\\mathsf{AC}$?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-11-16T02:28:22Z",
@@ -3424,7 +3434,7 @@
         "owner": "Timothy Chow",
         "question_id": "516921",
         "question_title": "Where to publish a long, AI-assisted, computer-verified classification paper?",
-        "score": 22
+        "score": 26
       },
       {
         "answer_created": "2026-11-15T20:42:07Z",
@@ -3434,7 +3444,7 @@
         "owner": "Joel David Hamkins",
         "question_id": "516922",
         "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
-        "score": 23
+        "score": 25
       },
       {
         "answer_created": "2026-09-07T02:23:36Z",
@@ -4234,7 +4244,7 @@
         "owner": "Pace Nielsen",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-10-08T12:49:49Z",
@@ -4334,7 +4344,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 65
+        "score": 67
       },
       {
         "answer_created": "2026-10-07T23:02:10Z",
@@ -4384,16 +4394,6 @@
         "owner": "GH from MO",
         "question_id": "515769",
         "question_title": "Large and Larger Sieve- Why Sieve",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-09-05T12:17:02Z",
-        "answer_id": "514933",
-        "first_seen": "2026-10-07T16:33:57.472438Z",
-        "link": "https://mathoverflow.net/a/514933",
-        "owner": "JF Meier",
-        "question_id": "514923",
-        "question_title": "Posting AI proofs",
         "score": 11
       }
     ],
@@ -5015,6 +5015,7 @@
       "516646": "2026-11-06T23:08:17.208597Z",
       "516656": "2026-11-05T12:20:59.315035Z",
       "516678": "2026-11-05T03:29:40.368034Z",
+      "516681": "2026-11-17T13:26:53.642253Z",
       "516690": "2026-11-06T17:29:36.054589Z",
       "516691": "2026-11-06T09:24:42.998985Z",
       "516724": "2026-11-06T23:08:17.208597Z",
@@ -5032,7 +5033,7 @@
       "516929": "2026-11-16T09:43:47.770369Z",
       "516930": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5182,7 +5183,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5194,7 +5195,7 @@
         "owner": "David Bailey",
         "question_id": "877673",
         "question_title": "What is \"nothing\" in cosmology, and how is it different from vacuum?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-09T10:01:40Z",
@@ -6314,7 +6315,7 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6354,7 +6355,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6386,7 +6387,7 @@
         "owner": "Valorum",
         "question_id": "306497",
         "question_title": "Logic flaw in \"The Stars My Destination\"?",
-        "score": 16
+        "score": 19
       },
       {
         "answer_created": "2026-11-14T09:25:36Z",
@@ -7520,7 +7521,7 @@
       "306498": "2026-11-15T09:26:03.248286Z",
       "306508": "2026-11-16T02:08:01.438270Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "space-high-score": {
     "entries": [
@@ -7532,7 +7533,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70799",
         "question_title": "What is the longest time after liftoff a fully cryogenic and semi cryogenic engine restarted?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-10T16:31:08Z",
@@ -8033,10 +8034,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T09:15:57Z",
+        "answer_id": "275043",
+        "first_seen": "2026-11-17T13:26:53.642253Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275043",
+        "owner": "user111403",
+        "question_id": "275035",
+        "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-16T16:41:52Z",
         "answer_id": "275048",
@@ -8045,7 +8056,7 @@
         "owner": "Christopher King",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 6
+        "score": 10
       },
       {
         "answer_created": "2026-11-16T14:27:39Z",
@@ -8065,7 +8076,7 @@
         "owner": "flox",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-15T23:32:26Z",
@@ -8075,7 +8086,7 @@
         "owner": "Pneumosisotis",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 18
+        "score": 23
       },
       {
         "answer_created": "2026-11-15T14:47:30Z",
@@ -8085,7 +8096,7 @@
         "owner": "John",
         "question_id": "275032",
         "question_title": "Can my continental waterway system feasibly work?",
-        "score": 16
+        "score": 19
       },
       {
         "answer_created": "2026-11-09T08:03:50Z",
@@ -9026,16 +9037,6 @@
         "question_id": "274617",
         "question_title": "Could liquid sulfur dioxide oceans exist on a carbon based planet?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-10-12T12:42:42Z",
-        "answer_id": "274757",
-        "first_seen": "2026-10-13T15:59:00.350142Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274757",
-        "owner": "Toph",
-        "question_id": "274754",
-        "question_title": "How To Make a Dark Sky on a Jovian Planet?",
-        "score": 10
       }
     ],
     "known": {
@@ -9342,9 +9343,10 @@
       "275034": "2026-11-16T09:43:47.770369Z",
       "275039": "2026-11-16T09:43:47.770369Z",
       "275040": "2026-11-16T20:29:08.184367Z",
+      "275043": "2026-11-17T13:26:53.642253Z",
       "275047": "2026-11-17T03:53:49.093655Z",
       "275048": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-17T03:53:49.093655Z"
+    "last_checked": "2026-11-17T13:26:53.642253Z"
   }
 }
