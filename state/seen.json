@@ -9,7 +9,7 @@
         "owner": "Antoine Chambert-Loir",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-15T12:44:13Z",
@@ -59,7 +59,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -1150,7 +1150,7 @@
       "228102": "2026-11-16T20:29:08.184367Z",
       "228115": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "history-high-score": {
     "entries": [
@@ -1278,7 +1278,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1637,10 +1637,20 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T05:20:04Z",
+        "answer_id": "117006",
+        "first_seen": "2026-11-18T04:21:13.942134Z",
+        "link": "https://law.stackexchange.com/a/117006",
+        "owner": "Dale M",
+        "question_id": "117005",
+        "question_title": "Does describing a charitable pledge in an SEC registration statement make it legally enforceable",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-17T11:45:04Z",
         "answer_id": "117018",
@@ -1649,7 +1659,7 @@
         "owner": "Simon Farnsworth",
         "question_id": "117015",
         "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-14T23:52:12Z",
@@ -2630,16 +2640,6 @@
         "question_id": "115034",
         "question_title": "What is the earliest moment someone can renounce their US citizenship?",
         "score": 15
-      },
-      {
-        "answer_created": "2026-06-30T06:21:56Z",
-        "answer_id": "115029",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115029",
-        "owner": "littleadv",
-        "question_id": "115028",
-        "question_title": "Full braking before the stop line",
-        "score": 14
       }
     ],
     "known": {
@@ -2747,9 +2747,10 @@
       "116995": "2026-11-16T20:29:08.184367Z",
       "117000": "2026-11-17T03:53:49.093655Z",
       "117001": "2026-11-16T20:29:08.184367Z",
+      "117006": "2026-11-18T04:21:13.942134Z",
       "117018": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "math-high-score": {
     "entries": [
@@ -3394,7 +3395,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -5035,7 +5036,7 @@
       "516929": "2026-11-16T09:43:47.770369Z",
       "516930": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5185,7 +5186,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6317,7 +6318,7 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6357,7 +6358,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6369,7 +6370,7 @@
         "owner": "DavidW",
         "question_id": "306510",
         "question_title": "A short story about aliens who arrived using only wings on their shoulders (no spacecraft), in exact number, suddenly, get homesick, suddenly leave",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-14T10:17:52Z",
@@ -7524,7 +7525,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "space-high-score": {
     "entries": [
@@ -8037,10 +8038,50 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-17T17:07:06Z",
+        "answer_id": "275059",
+        "first_seen": "2026-11-18T04:21:13.942134Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275059",
+        "owner": "g s",
+        "question_id": "275055",
+        "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-17T13:59:30Z",
+        "answer_id": "275057",
+        "first_seen": "2026-11-18T04:21:13.942134Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275057",
+        "owner": "KerrAvon2055",
+        "question_id": "275055",
+        "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-07T16:35:12Z",
+        "answer_id": "274963",
+        "first_seen": "2026-11-18T04:21:13.942134Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274963",
+        "owner": "jcaron",
+        "question_id": "274941",
+        "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-10-27T13:02:37Z",
+        "answer_id": "274871",
+        "first_seen": "2026-11-18T04:21:13.942134Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274871",
+        "owner": "vinzzz001",
+        "question_id": "274824",
+        "question_title": "How would genetics of a species with a rainbow-variety of hair colors work?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-16T03:07:24Z",
         "answer_id": "275042",
@@ -8069,7 +8110,7 @@
         "owner": "Christopher King",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-11-16T14:27:39Z",
@@ -8089,7 +8130,7 @@
         "owner": "flox",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-15T23:32:26Z",
@@ -8099,7 +8140,7 @@
         "owner": "Pneumosisotis",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-11-15T14:47:30Z",
@@ -8369,7 +8410,7 @@
         "owner": "JBH",
         "question_id": "274941",
         "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-05T19:16:48Z",
@@ -9000,46 +9041,6 @@
         "question_id": "274764",
         "question_title": "World Wide Mycelium",
         "score": 9
-      },
-      {
-        "answer_created": "2026-10-14T00:06:50Z",
-        "answer_id": "274769",
-        "first_seen": "2026-10-15T09:54:47.023013Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274769",
-        "owner": "Navicula",
-        "question_id": "274764",
-        "question_title": "World Wide Mycelium",
-        "score": 7
-      },
-      {
-        "answer_created": "2026-10-12T07:22:19Z",
-        "answer_id": "274753",
-        "first_seen": "2026-10-14T20:41:19.345873Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274753",
-        "owner": "Monty Wild",
-        "question_id": "274751",
-        "question_title": "Hexapodal Locomotion",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-10-13T04:59:34Z",
-        "answer_id": "274766",
-        "first_seen": "2026-10-14T11:52:28.882570Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274766",
-        "owner": "Monty Wild",
-        "question_id": "274764",
-        "question_title": "World Wide Mycelium",
-        "score": 12
-      },
-      {
-        "answer_created": "2026-10-12T14:29:35Z",
-        "answer_id": "274758",
-        "first_seen": "2026-10-14T11:52:28.882570Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274758",
-        "owner": "David R",
-        "question_id": "274755",
-        "question_title": "Would an organism that travels with rain be possible",
-        "score": 8
       }
     ],
     "known": {
@@ -9298,6 +9299,7 @@
       "274855": "2026-10-27T16:39:11.781044Z",
       "274863": "2026-10-27T16:39:11.781044Z",
       "274869": "2026-10-28T08:32:23.417089Z",
+      "274871": "2026-11-18T04:21:13.942134Z",
       "274872": "2026-10-28T08:32:23.417089Z",
       "274873": "2026-10-28T08:32:23.417089Z",
       "274874": "2026-10-28T08:32:23.417089Z",
@@ -9325,6 +9327,7 @@
       "274957": "2026-11-08T15:12:42.653881Z",
       "274960": "2026-11-08T00:36:09.657722Z",
       "274961": "2026-11-10T01:31:25.687392Z",
+      "274963": "2026-11-18T04:21:13.942134Z",
       "274964": "2026-11-13T22:37:49.098737Z",
       "274969": "2026-11-10T01:31:25.687392Z",
       "274973": "2026-11-09T06:28:47.163974Z",
@@ -9349,8 +9352,10 @@
       "275042": "2026-11-17T22:24:06.476643Z",
       "275043": "2026-11-17T13:26:53.642253Z",
       "275047": "2026-11-17T03:53:49.093655Z",
-      "275048": "2026-11-17T03:53:49.093655Z"
+      "275048": "2026-11-17T03:53:49.093655Z",
+      "275057": "2026-11-18T04:21:13.942134Z",
+      "275059": "2026-11-18T04:21:13.942134Z"
     },
-    "last_checked": "2026-11-17T22:24:06.476643Z"
+    "last_checked": "2026-11-18T04:21:13.942134Z"
   }
 }
