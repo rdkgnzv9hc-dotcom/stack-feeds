@@ -9,7 +9,7 @@
         "owner": "user67527",
         "question_id": "228101",
         "question_title": "How do \u0399 navigate copyright when it starts affecting my writing?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-17T12:42:55Z",
@@ -19,7 +19,7 @@
         "owner": "Antoine Chambert-Loir",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-15T12:44:13Z",
@@ -29,7 +29,7 @@
         "owner": "a3nm",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-15T20:25:12Z",
@@ -39,7 +39,7 @@
         "owner": "Buffy",
         "question_id": "228101",
         "question_title": "How do \u0399 navigate copyright when it starts affecting my writing?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-11-15T00:15:39Z",
@@ -69,7 +69,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -1151,7 +1151,7 @@
       "228110": "2026-11-18T13:58:15.986529Z",
       "228115": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "history-high-score": {
     "entries": [
@@ -1279,7 +1279,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1638,10 +1638,20 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T09:15:22Z",
+        "answer_id": "117007",
+        "first_seen": "2026-11-18T21:56:46.613001Z",
+        "link": "https://law.stackexchange.com/a/117007",
+        "owner": "phoog",
+        "question_id": "116999",
+        "question_title": "Can a username violate a trademark in certain cases?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-16T05:20:04Z",
         "answer_id": "117006",
@@ -1650,7 +1660,7 @@
         "owner": "Dale M",
         "question_id": "117005",
         "question_title": "Does describing a charitable pledge in an SEC registration statement make it legally enforceable",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-17T11:45:04Z",
@@ -1660,7 +1670,7 @@
         "owner": "Simon Farnsworth",
         "question_id": "117015",
         "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
-        "score": 19
+        "score": 22
       },
       {
         "answer_created": "2026-11-14T23:52:12Z",
@@ -2631,16 +2641,6 @@
         "question_id": "115036",
         "question_title": "What was the real significance of the SCOTUS \"birthright citizenship\" decision?",
         "score": 16
-      },
-      {
-        "answer_created": "2026-06-30T18:00:33Z",
-        "answer_id": "115035",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115035",
-        "owner": "littleadv",
-        "question_id": "115034",
-        "question_title": "What is the earliest moment someone can renounce their US citizenship?",
-        "score": 15
       }
     ],
     "known": {
@@ -2749,9 +2749,10 @@
       "117000": "2026-11-17T03:53:49.093655Z",
       "117001": "2026-11-16T20:29:08.184367Z",
       "117006": "2026-11-18T04:21:13.942134Z",
+      "117007": "2026-11-18T21:56:46.613001Z",
       "117018": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "math-high-score": {
     "entries": [
@@ -3396,10 +3397,20 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-10-10T16:35:51Z",
+        "answer_id": "515911",
+        "first_seen": "2026-11-18T21:56:46.613001Z",
+        "link": "https://mathoverflow.net/a/515911",
+        "owner": "Timothy Chow",
+        "question_id": "515849",
+        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-10T21:47:35Z",
         "answer_id": "516831",
@@ -3448,7 +3459,7 @@
         "owner": "Timothy Chow",
         "question_id": "516921",
         "question_title": "Where to publish a long, AI-assisted, computer-verified classification paper?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-11-15T20:42:07Z",
@@ -4389,16 +4400,6 @@
         "question_id": "515747",
         "question_title": "Kernels in the category of Hopf algebras",
         "score": 10
-      },
-      {
-        "answer_created": "2026-10-07T04:56:12Z",
-        "answer_id": "515791",
-        "first_seen": "2026-10-08T00:40:26.151510Z",
-        "link": "https://mathoverflow.net/a/515791",
-        "owner": "Jos\u00e9 Hdz. Stgo.",
-        "question_id": "24579",
-        "question_title": "Convergence of $\\sum(n^3\\sin^2n)^{-1}$",
-        "score": 13
       }
     ],
     "known": {
@@ -4960,6 +4961,7 @@
       "515895": "2026-10-15T09:54:47.023013Z",
       "515897": "2026-10-13T15:59:00.350142Z",
       "515903": "2026-10-10T21:28:19.397818Z",
+      "515911": "2026-11-18T21:56:46.613001Z",
       "515971": "2026-10-12T17:54:27.600860Z",
       "515975": "2026-10-13T00:39:51.786504Z",
       "515977": "2026-10-14T00:19:41.892670Z",
@@ -5038,7 +5040,7 @@
       "516929": "2026-11-16T09:43:47.770369Z",
       "516930": "2026-11-16T20:29:08.184367Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5188,7 +5190,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6320,7 +6322,7 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6360,7 +6362,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7527,7 +7529,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "space-high-score": {
     "entries": [
@@ -8040,10 +8042,30 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-18T13:40:56Z",
+        "answer_id": "275067",
+        "first_seen": "2026-11-18T21:56:46.613001Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275067",
+        "owner": "30Keydet",
+        "question_id": "275063",
+        "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
+        "score": 15
+      },
+      {
+        "answer_created": "2026-11-18T07:53:33Z",
+        "answer_id": "275065",
+        "first_seen": "2026-11-18T21:56:46.613001Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275065",
+        "owner": "dspeyer",
+        "question_id": "275063",
+        "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-17T18:30:54Z",
         "answer_id": "275061",
@@ -8162,7 +8184,7 @@
         "owner": "Pneumosisotis",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-11-15T14:47:30Z",
@@ -8252,7 +8274,7 @@
         "owner": "IMP9024",
         "question_id": "275005",
         "question_title": "Would meteoric iron be practical to use as armor, assuming enough of it is collected?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-11-11T22:33:10Z",
@@ -9023,26 +9045,6 @@
         "question_id": "274776",
         "question_title": "How Would Rings Affect Trade Winds?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-10-12T14:31:00Z",
-        "answer_id": "274759",
-        "first_seen": "2026-10-17T13:43:16.457499Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274759",
-        "owner": "Ted Wrigley",
-        "question_id": "274751",
-        "question_title": "Hexapodal Locomotion",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-10-14T22:23:37Z",
-        "answer_id": "274772",
-        "first_seen": "2026-10-15T22:18:15.867786Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274772",
-        "owner": "ccprog",
-        "question_id": "274764",
-        "question_title": "World Wide Mycelium",
-        "score": 7
       }
     ],
     "known": {
@@ -9358,8 +9360,10 @@
       "275057": "2026-11-18T04:21:13.942134Z",
       "275059": "2026-11-18T04:21:13.942134Z",
       "275060": "2026-11-18T13:58:15.986529Z",
-      "275061": "2026-11-18T13:58:15.986529Z"
+      "275061": "2026-11-18T13:58:15.986529Z",
+      "275065": "2026-11-18T21:56:46.613001Z",
+      "275067": "2026-11-18T21:56:46.613001Z"
     },
-    "last_checked": "2026-11-18T13:58:15.986529Z"
+    "last_checked": "2026-11-18T21:56:46.613001Z"
   }
 }

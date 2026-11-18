@@ -5,7 +5,14 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:56:46 +0000</lastBuildDate>
+    <item>
+      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/515911</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515911</guid>
+      <pubDate>Wed, 18 Nov 2026 21:56:46 +0000</pubDate>
+      <description>Answer by Timothy Chow. Score when last checked: 10. Originally posted: 2026-10-10T16:35:51Z.</description>
+    </item>
     <item>
       <title>Applications of omitting types — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516831</link>
@@ -35,11 +42,11 @@
       <description>Answer by Mark Yasuda. Score when last checked: 16. Originally posted: 2026-11-16T02:51:49Z.</description>
     </item>
     <item>
-      <title>Where to publish a long, AI-assisted, computer-verified classification paper? — answer reached score 30</title>
+      <title>Where to publish a long, AI-assisted, computer-verified classification paper? — answer reached score 31</title>
       <link>https://mathoverflow.net/a/516929</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516929</guid>
       <pubDate>Mon, 16 Nov 2026 09:43:47 +0000</pubDate>
-      <description>Answer by Timothy Chow. Score when last checked: 30. Originally posted: 2026-11-16T02:28:22Z.</description>
+      <description>Answer by Timothy Chow. Score when last checked: 31. Originally posted: 2026-11-16T02:28:22Z.</description>
     </item>
     <item>
       <title>In plain Zermelo-Fraenkel set theory, can $\omega_1$ be metrisable? — answer reached score 25</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515750</guid>
       <pubDate>Thu, 08 Oct 2026 05:30:50 +0000</pubDate>
       <description>Answer by David White. Score when last checked: 10. Originally posted: 2026-10-05T21:21:03Z.</description>
-    </item>
-    <item>
-      <title>Convergence of $\sum(n^3\sin^2n)^{-1}$ — answer reached score 13</title>
-      <link>https://mathoverflow.net/a/515791</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515791</guid>
-      <pubDate>Thu, 08 Oct 2026 00:40:26 +0000</pubDate>
-      <description>Answer by José Hdz. Stgo.. Score when last checked: 13. Originally posted: 2026-10-07T04:56:12Z.</description>
     </item>
   </channel>
 </rss>
