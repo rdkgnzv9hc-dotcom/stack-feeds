@@ -5,7 +5,21 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:07:04 +0000</lastBuildDate>
+    <item>
+      <title>Is this a counterexample to a theorem on total perfect codes? — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/517003</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:517003</guid>
+      <pubDate>Thu, 19 Nov 2026 13:07:04 +0000</pubDate>
+      <description>Answer by Gordon Royle. Score when last checked: 10. Originally posted: 2026-11-19T05:30:52Z.</description>
+    </item>
+    <item>
+      <title>Subsets of $\mathbb{R}$ with surjectivity index $&gt;3$ — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/516804</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:516804</guid>
+      <pubDate>Thu, 19 Nov 2026 13:07:04 +0000</pubDate>
+      <description>Answer by Andreas Lietz. Score when last checked: 10. Originally posted: 2026-11-09T14:52:27Z.</description>
+    </item>
     <item>
       <title>Digits on a chessboard — answer reached score 10</title>
       <link>https://mathoverflow.net/a/516967</link>
@@ -56,11 +70,11 @@
       <description>Answer by Timothy Chow. Score when last checked: 31. Originally posted: 2026-11-16T02:28:22Z.</description>
     </item>
     <item>
-      <title>In plain Zermelo-Fraenkel set theory, can $\omega_1$ be metrisable? — answer reached score 25</title>
+      <title>In plain Zermelo-Fraenkel set theory, can $\omega_1$ be metrisable? — answer reached score 26</title>
       <link>https://mathoverflow.net/a/516926</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516926</guid>
       <pubDate>Mon, 16 Nov 2026 02:08:01 +0000</pubDate>
-      <description>Answer by Joel David Hamkins. Score when last checked: 25. Originally posted: 2026-11-15T20:42:07Z.</description>
+      <description>Answer by Joel David Hamkins. Score when last checked: 26. Originally posted: 2026-11-15T20:42:07Z.</description>
     </item>
     <item>
       <title>How can one tell whether a solution of a long-standing problem in a niche area is strong enough for a top general mathematics journal? — answer reached score 12</title>
@@ -133,11 +147,11 @@
       <description>Answer by Sean Cody. Score when last checked: 10. Originally posted: 2026-11-01T23:54:44Z.</description>
     </item>
     <item>
-      <title>The Erdős–Sós Theorem — answer reached score 12</title>
+      <title>The Erdős–Sós Theorem — answer reached score 13</title>
       <link>https://mathoverflow.net/a/516777</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516777</guid>
       <pubDate>Tue, 10 Nov 2026 01:31:25 +0000</pubDate>
-      <description>Answer by Shahrooz Janbaz. Score when last checked: 12. Originally posted: 2026-11-08T17:23:59Z.</description>
+      <description>Answer by Shahrooz Janbaz. Score when last checked: 13. Originally posted: 2026-11-08T17:23:59Z.</description>
     </item>
     <item>
       <title>Online encyclopedia of categories? — answer reached score 10</title>
@@ -385,11 +399,11 @@
       <description>Answer by Sanchayan Dutta. Score when last checked: 11. Originally posted: 2026-10-23T20:38:06Z.</description>
     </item>
     <item>
-      <title>Grothendieck letter to Jun-Ichi Yamashita on tame topology — answer reached score 14</title>
+      <title>Grothendieck letter to Jun-Ichi Yamashita on tame topology — answer reached score 13</title>
       <link>https://mathoverflow.net/a/516391</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:516391</guid>
       <pubDate>Mon, 26 Oct 2026 13:08:34 +0000</pubDate>
-      <description>Answer by Michel Hua. Score when last checked: 14. Originally posted: 2026-10-25T16:54:43Z.</description>
+      <description>Answer by Michel Hua. Score when last checked: 13. Originally posted: 2026-10-25T16:54:43Z.</description>
     </item>
     <item>
       <title>Are there infinitely many $x, y \in \mathbb{N}$ such that $x^3+y^5$ is a prime? — answer reached score 15</title>
@@ -637,11 +651,11 @@
       <description>Answer by Dimitri Vulis. Score when last checked: 29. Originally posted: 2026-10-09T21:58:09Z.</description>
     </item>
     <item>
-      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 20</title>
+      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 21</title>
       <link>https://mathoverflow.net/a/515856</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515856</guid>
       <pubDate>Fri, 09 Oct 2026 20:29:34 +0000</pubDate>
-      <description>Answer by Philip Weiss. Score when last checked: 20. Originally posted: 2026-10-08T22:08:10Z.</description>
+      <description>Answer by Philip Weiss. Score when last checked: 21. Originally posted: 2026-10-08T22:08:10Z.</description>
     </item>
     <item>
       <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 22</title>
@@ -691,20 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515855</guid>
       <pubDate>Thu, 08 Oct 2026 23:29:11 +0000</pubDate>
       <description>Answer by Philip Weiss. Score when last checked: 68. Originally posted: 2026-10-08T21:30:51Z.</description>
-    </item>
-    <item>
-      <title>How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture — answer reached score 20</title>
-      <link>https://mathoverflow.net/a/515826</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515826</guid>
-      <pubDate>Thu, 08 Oct 2026 13:34:49 +0000</pubDate>
-      <description>Answer by Alex Elzenaar. Score when last checked: 20. Originally posted: 2026-10-07T23:02:10Z.</description>
-    </item>
-    <item>
-      <title>When does simplification require complication? — answer reached score 22</title>
-      <link>https://mathoverflow.net/a/515832</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515832</guid>
-      <pubDate>Thu, 08 Oct 2026 07:33:52 +0000</pubDate>
-      <description>Answer by Joe Silverman. Score when last checked: 22. Originally posted: 2026-10-08T02:10:02Z.</description>
     </item>
   </channel>
 </rss>

@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-18T14:32:08Z",
+        "answer_id": "228128",
+        "first_seen": "2026-11-19T13:07:04.204405Z",
+        "link": "https://academia.stackexchange.com/a/228128",
+        "owner": "deee",
+        "question_id": "228126",
+        "question_title": "Usage of resp. in academic writing",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-16T18:02:16Z",
         "answer_id": "228110",
         "first_seen": "2026-11-18T13:58:15.986529Z",
@@ -990,16 +1000,6 @@
         "question_id": "227397",
         "question_title": "How do you help students prepare for employment paperwork before graduation?",
         "score": 13
-      },
-      {
-        "answer_created": "2026-08-03T15:52:00Z",
-        "answer_id": "227381",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227381",
-        "owner": "Anyon",
-        "question_id": "227379",
-        "question_title": "Consequences of not deleting comments in .tex file of accepted paper",
-        "score": 14
       }
     ],
     "known": {
@@ -1149,9 +1149,10 @@
       "228099": "2026-11-17T03:53:49.093655Z",
       "228102": "2026-11-16T20:29:08.184367Z",
       "228110": "2026-11-18T13:58:15.986529Z",
-      "228115": "2026-11-17T22:24:06.476643Z"
+      "228115": "2026-11-17T22:24:06.476643Z",
+      "228128": "2026-11-19T13:07:04.204405Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "history-high-score": {
     "entries": [
@@ -1279,7 +1280,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1638,7 +1639,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "law-high-score": {
     "entries": [
@@ -1680,7 +1681,7 @@
         "owner": "Simon Farnsworth",
         "question_id": "117015",
         "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
-        "score": 22
+        "score": 29
       },
       {
         "answer_created": "2026-11-14T23:52:12Z",
@@ -2753,7 +2754,7 @@
       "117010": "2026-11-19T03:27:43.171967Z",
       "117018": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "math-high-score": {
     "entries": [
@@ -3398,10 +3399,30 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-19T05:30:52Z",
+        "answer_id": "517003",
+        "first_seen": "2026-11-19T13:07:04.204405Z",
+        "link": "https://mathoverflow.net/a/517003",
+        "owner": "Gordon Royle",
+        "question_id": "516241",
+        "question_title": "Is this a counterexample to a theorem on total perfect codes?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-11-09T14:52:27Z",
+        "answer_id": "516804",
+        "first_seen": "2026-11-19T13:07:04.204405Z",
+        "link": "https://mathoverflow.net/a/516804",
+        "owner": "Andreas Lietz",
+        "question_id": "516748",
+        "question_title": "Subsets of $\\mathbb{R}$ with surjectivity index $>3$",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-17T21:28:53Z",
         "answer_id": "516967",
@@ -3480,7 +3501,7 @@
         "owner": "Joel David Hamkins",
         "question_id": "516922",
         "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-09-07T02:23:36Z",
@@ -3590,7 +3611,7 @@
         "owner": "Shahrooz Janbaz",
         "question_id": "516769",
         "question_title": "The Erd\u0151s\u2013S\u00f3s Theorem",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-07T08:31:08Z",
@@ -3950,7 +3971,7 @@
         "owner": "Michel Hua",
         "question_id": "312660",
         "question_title": "Grothendieck letter to Jun-Ichi Yamashita on tame topology",
-        "score": 14
+        "score": 13
       },
       {
         "answer_created": "2026-10-24T20:32:26Z",
@@ -4310,7 +4331,7 @@
         "owner": "Philip Weiss",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-08T23:01:16Z",
@@ -4381,26 +4402,6 @@
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 68
-      },
-      {
-        "answer_created": "2026-10-07T23:02:10Z",
-        "answer_id": "515826",
-        "first_seen": "2026-10-08T13:34:49.601083Z",
-        "link": "https://mathoverflow.net/a/515826",
-        "owner": "Alex Elzenaar",
-        "question_id": "515824",
-        "question_title": "How to complete an AI generated verification of an OpenAI proof for the Hilbert-Smith Conjecture",
-        "score": 20
-      },
-      {
-        "answer_created": "2026-10-08T02:10:02Z",
-        "answer_id": "515832",
-        "first_seen": "2026-10-08T07:33:52.773061Z",
-        "link": "https://mathoverflow.net/a/515832",
-        "owner": "Joe Silverman",
-        "question_id": "515822",
-        "question_title": "When does simplification require complication?",
-        "score": 22
       }
     ],
     "known": {
@@ -5029,6 +5030,7 @@
       "516745": "2026-11-08T15:12:42.653881Z",
       "516753": "2026-11-08T07:20:39.147844Z",
       "516777": "2026-11-10T01:31:25.687392Z",
+      "516804": "2026-11-19T13:07:04.204405Z",
       "516822": "2026-11-13T07:57:48.270449Z",
       "516827": "2026-11-11T21:57:47.409518Z",
       "516831": "2026-11-18T13:58:15.986529Z",
@@ -5040,9 +5042,10 @@
       "516926": "2026-11-16T02:08:01.438270Z",
       "516929": "2026-11-16T09:43:47.770369Z",
       "516930": "2026-11-16T20:29:08.184367Z",
-      "516967": "2026-11-19T03:27:43.171967Z"
+      "516967": "2026-11-19T03:27:43.171967Z",
+      "517003": "2026-11-19T13:07:04.204405Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5192,7 +5195,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6324,7 +6327,7 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6364,7 +6367,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7531,7 +7534,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "space-high-score": {
     "entries": [
@@ -8044,10 +8047,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-19T00:34:40Z",
+        "answer_id": "275077",
+        "first_seen": "2026-11-19T13:07:04.204405Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275077",
+        "owner": "Navicula",
+        "question_id": "275075",
+        "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-18T13:40:56Z",
         "answer_id": "275067",
@@ -8056,7 +8069,7 @@
         "owner": "30Keydet",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 19
+        "score": 22
       },
       {
         "answer_created": "2026-11-18T07:53:33Z",
@@ -8076,7 +8089,7 @@
         "owner": "JBH",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-11-17T17:17:50Z",
@@ -8156,7 +8169,7 @@
         "owner": "Christopher King",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-16T14:27:39Z",
@@ -8186,7 +8199,7 @@
         "owner": "Pneumosisotis",
         "question_id": "275035",
         "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
-        "score": 30
+        "score": 31
       },
       {
         "answer_created": "2026-11-15T14:47:30Z",
@@ -9037,16 +9050,6 @@
         "question_id": "274781",
         "question_title": "will i break my bones if i jump from 15 feet on pillows?",
         "score": 6
-      },
-      {
-        "answer_created": "2026-10-17T05:10:59Z",
-        "answer_id": "274779",
-        "first_seen": "2026-10-17T22:19:02.796444Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274779",
-        "owner": "L.Dutch",
-        "question_id": "274776",
-        "question_title": "How Would Rings Affect Trade Winds?",
-        "score": 17
       }
     ],
     "known": {
@@ -9364,8 +9367,9 @@
       "275060": "2026-11-18T13:58:15.986529Z",
       "275061": "2026-11-18T13:58:15.986529Z",
       "275065": "2026-11-18T21:56:46.613001Z",
-      "275067": "2026-11-18T21:56:46.613001Z"
+      "275067": "2026-11-18T21:56:46.613001Z",
+      "275077": "2026-11-19T13:07:04.204405Z"
     },
-    "last_checked": "2026-11-19T03:27:43.171967Z"
+    "last_checked": "2026-11-19T13:07:04.204405Z"
   }
 }
