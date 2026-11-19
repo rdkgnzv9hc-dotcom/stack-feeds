@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-18T16:16:28Z",
+        "answer_id": "228130",
+        "first_seen": "2026-11-19T21:34:08.158133Z",
+        "link": "https://academia.stackexchange.com/a/228130",
+        "owner": "Anyon",
+        "question_id": "228126",
+        "question_title": "Usage of resp. in academic writing",
+        "score": 11
+      },
+      {
         "answer_created": "2026-11-18T14:32:08Z",
         "answer_id": "228128",
         "first_seen": "2026-11-19T13:07:04.204405Z",
@@ -9,7 +19,7 @@
         "owner": "deee",
         "question_id": "228126",
         "question_title": "Usage of resp. in academic writing",
-        "score": 10
+        "score": 13
       },
       {
         "answer_created": "2026-11-16T18:02:16Z",
@@ -79,7 +89,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -990,16 +1000,6 @@
         "question_id": "227427",
         "question_title": "Is here any editor of a math journal who will help me publish my proof of the math problem?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-08-06T06:51:53Z",
-        "answer_id": "227401",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227401",
-        "owner": "pyrochlor",
-        "question_id": "227397",
-        "question_title": "How do you help students prepare for employment paperwork before graduation?",
-        "score": 13
       }
     ],
     "known": {
@@ -1150,9 +1150,10 @@
       "228102": "2026-11-16T20:29:08.184367Z",
       "228110": "2026-11-18T13:58:15.986529Z",
       "228115": "2026-11-17T22:24:06.476643Z",
-      "228128": "2026-11-19T13:07:04.204405Z"
+      "228128": "2026-11-19T13:07:04.204405Z",
+      "228130": "2026-11-19T21:34:08.158133Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "history-high-score": {
     "entries": [
@@ -1280,7 +1281,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1639,7 +1640,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "law-high-score": {
     "entries": [
@@ -1681,7 +1682,7 @@
         "owner": "Simon Farnsworth",
         "question_id": "117015",
         "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
-        "score": 29
+        "score": 32
       },
       {
         "answer_created": "2026-11-14T23:52:12Z",
@@ -2754,7 +2755,7 @@
       "117010": "2026-11-19T03:27:43.171967Z",
       "117018": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "math-high-score": {
     "entries": [
@@ -3399,7 +3400,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3411,7 +3412,7 @@
         "owner": "Gordon Royle",
         "question_id": "516241",
         "question_title": "Is this a counterexample to a theorem on total perfect codes?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-09T14:52:27Z",
@@ -3471,7 +3472,7 @@
         "owner": "M.G.",
         "question_id": "516867",
         "question_title": "Reference request: Non-commutative harmonic analysis",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-16T02:51:49Z",
@@ -5045,7 +5046,7 @@
       "516967": "2026-11-19T03:27:43.171967Z",
       "517003": "2026-11-19T13:07:04.204405Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5195,7 +5196,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6327,7 +6328,7 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6367,7 +6368,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7534,7 +7535,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "space-high-score": {
     "entries": [
@@ -7566,7 +7567,7 @@
         "owner": "GdD",
         "question_id": "70797",
         "question_title": "What was the \u201clarge fabric ball\u201d used in STS astronaut-candidate testing",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-11-04T14:26:08Z",
@@ -8047,10 +8048,50 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-19T16:30:33Z",
+        "answer_id": "275088",
+        "first_seen": "2026-11-19T21:34:08.158133Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275088",
+        "owner": "Nosajimiki",
+        "question_id": "275083",
+        "question_title": "Caseless ammo and costs",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-19T01:33:50Z",
+        "answer_id": "275079",
+        "first_seen": "2026-11-19T21:34:08.158133Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275079",
+        "owner": "Escaped dental patient.",
+        "question_id": "275075",
+        "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
+        "score": 7
+      },
+      {
+        "answer_created": "2026-11-18T15:50:22Z",
+        "answer_id": "275071",
+        "first_seen": "2026-11-19T21:34:08.158133Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275071",
+        "owner": "Anketam",
+        "question_id": "275063",
+        "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-18T08:05:17Z",
+        "answer_id": "275066",
+        "first_seen": "2026-11-19T21:34:08.158133Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275066",
+        "owner": "user111403",
+        "question_id": "275063",
+        "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-19T00:34:40Z",
         "answer_id": "275077",
@@ -8059,7 +8100,7 @@
         "owner": "Navicula",
         "question_id": "275075",
         "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
-        "score": 5
+        "score": 10
       },
       {
         "answer_created": "2026-11-18T13:40:56Z",
@@ -8069,7 +8110,7 @@
         "owner": "30Keydet",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 22
+        "score": 24
       },
       {
         "answer_created": "2026-11-18T07:53:33Z",
@@ -8079,7 +8120,7 @@
         "owner": "dspeyer",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 6
+        "score": 8
       },
       {
         "answer_created": "2026-11-17T18:30:54Z",
@@ -8089,7 +8130,7 @@
         "owner": "JBH",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-11-17T17:17:50Z",
@@ -8099,7 +8140,7 @@
         "owner": "30Keydet",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-11-17T17:07:06Z",
@@ -8109,7 +8150,7 @@
         "owner": "g s",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-17T13:59:30Z",
@@ -8119,7 +8160,7 @@
         "owner": "KerrAvon2055",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-11-07T16:35:12Z",
@@ -9010,46 +9051,6 @@
         "question_id": "274804",
         "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
         "score": 7
-      },
-      {
-        "answer_created": "2026-10-17T16:59:59Z",
-        "answer_id": "274783",
-        "first_seen": "2026-10-20T17:10:42.630528Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274783",
-        "owner": "John",
-        "question_id": "274781",
-        "question_title": "will i break my bones if i jump from 15 feet on pillows?",
-        "score": 5
-      },
-      {
-        "answer_created": "2026-10-19T06:00:10Z",
-        "answer_id": "274791",
-        "first_seen": "2026-10-20T11:36:46.445700Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274791",
-        "owner": "Vesper",
-        "question_id": "274789",
-        "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
-        "score": 6
-      },
-      {
-        "answer_created": "2026-10-18T15:30:43Z",
-        "answer_id": "274790",
-        "first_seen": "2026-10-19T15:59:36.462008Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274790",
-        "owner": "Ted Wrigley",
-        "question_id": "274789",
-        "question_title": "How would airplanes be optimized if people could unleash kilowatts of electricity?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-10-17T13:21:16Z",
-        "answer_id": "274782",
-        "first_seen": "2026-10-19T07:46:19.841906Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274782",
-        "owner": "AlexP",
-        "question_id": "274781",
-        "question_title": "will i break my bones if i jump from 15 feet on pillows?",
-        "score": 6
       }
     ],
     "known": {
@@ -9367,9 +9368,13 @@
       "275060": "2026-11-18T13:58:15.986529Z",
       "275061": "2026-11-18T13:58:15.986529Z",
       "275065": "2026-11-18T21:56:46.613001Z",
+      "275066": "2026-11-19T21:34:08.158133Z",
       "275067": "2026-11-18T21:56:46.613001Z",
-      "275077": "2026-11-19T13:07:04.204405Z"
+      "275071": "2026-11-19T21:34:08.158133Z",
+      "275077": "2026-11-19T13:07:04.204405Z",
+      "275079": "2026-11-19T21:34:08.158133Z",
+      "275088": "2026-11-19T21:34:08.158133Z"
     },
-    "last_checked": "2026-11-19T13:07:04.204405Z"
+    "last_checked": "2026-11-19T21:34:08.158133Z"
   }
 }
