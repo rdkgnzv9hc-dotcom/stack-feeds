@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-19T12:01:57Z",
+        "answer_id": "228135",
+        "first_seen": "2026-11-20T11:47:53.753615Z",
+        "link": "https://academia.stackexchange.com/a/228135",
+        "owner": "Buffy",
+        "question_id": "228134",
+        "question_title": "Should an editor tell authors why they think their papers are AI-generated?",
+        "score": 11
+      },
+      {
         "answer_created": "2026-11-18T16:16:28Z",
         "answer_id": "228130",
         "first_seen": "2026-11-19T21:34:08.158133Z",
@@ -9,7 +19,7 @@
         "owner": "Anyon",
         "question_id": "228126",
         "question_title": "Usage of resp. in academic writing",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-18T14:32:08Z",
@@ -19,7 +29,7 @@
         "owner": "deee",
         "question_id": "228126",
         "question_title": "Usage of resp. in academic writing",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-16T18:02:16Z",
@@ -990,16 +1000,6 @@
         "question_id": "227444",
         "question_title": "Resubmit to a comparable venue if all reviewers fault the rigor, not the result?",
         "score": 53
-      },
-      {
-        "answer_created": "2026-08-10T16:02:51Z",
-        "answer_id": "227428",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227428",
-        "owner": "Buffy",
-        "question_id": "227427",
-        "question_title": "Is here any editor of a math journal who will help me publish my proof of the math problem?",
-        "score": 11
       }
     ],
     "known": {
@@ -1151,9 +1151,10 @@
       "228110": "2026-11-18T13:58:15.986529Z",
       "228115": "2026-11-17T22:24:06.476643Z",
       "228128": "2026-11-19T13:07:04.204405Z",
-      "228130": "2026-11-19T21:34:08.158133Z"
+      "228130": "2026-11-19T21:34:08.158133Z",
+      "228135": "2026-11-20T11:47:53.753615Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "history-high-score": {
     "entries": [
@@ -1165,7 +1166,7 @@
         "owner": "Jos",
         "question_id": "80438",
         "question_title": "What were the ethnicities of the members of particular Roman legions?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-10-24T18:29:02Z",
@@ -1281,7 +1282,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1293,7 +1294,7 @@
         "owner": "njuffa",
         "question_id": "19762",
         "question_title": "Sources about dubbing Boltzmann as an \"algebraic terrorist\"",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-02T19:46:09Z",
@@ -1303,7 +1304,7 @@
         "owner": "sand1",
         "question_id": "19758",
         "question_title": "When did mathematics separate from astronomy and music?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-02T14:00:38Z",
@@ -1313,7 +1314,7 @@
         "owner": "Alexandre Eremenko",
         "question_id": "19758",
         "question_title": "When did mathematics separate from astronomy and music?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-09-01T17:01:36Z",
@@ -1640,7 +1641,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "law-high-score": {
     "entries": [
@@ -1652,7 +1653,7 @@
         "owner": "Ilmari Karonen",
         "question_id": "117025",
         "question_title": "How do open source license notice requirements apply in non-software media?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-16T12:42:40Z",
@@ -2756,7 +2757,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "math-high-score": {
     "entries": [
@@ -3401,7 +3402,7 @@
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -5047,7 +5048,7 @@
       "516967": "2026-11-19T03:27:43.171967Z",
       "517003": "2026-11-19T13:07:04.204405Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5197,7 +5198,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6329,7 +6330,7 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6369,7 +6370,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7536,7 +7537,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "space-high-score": {
     "entries": [
@@ -8049,10 +8050,40 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-19T10:36:12Z",
+        "answer_id": "275082",
+        "first_seen": "2026-11-20T11:47:53.753615Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275082",
+        "owner": "jpa",
+        "question_id": "275075",
+        "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
+        "score": 6
+      },
+      {
+        "answer_created": "2026-11-17T02:12:41Z",
+        "answer_id": "275052",
+        "first_seen": "2026-11-20T11:47:53.753615Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275052",
+        "owner": "MJ713",
+        "question_id": "275035",
+        "question_title": "Without the use of price-fixing, how can a increasingly high demand item with inconsistent production rates stay the same price?",
+        "score": 5
+      },
+      {
+        "answer_created": "2026-11-08T00:39:12Z",
+        "answer_id": "274968",
+        "first_seen": "2026-11-20T11:47:53.753615Z",
+        "link": "https://worldbuilding.stackexchange.com/a/274968",
+        "owner": "Christopher James Huff",
+        "question_id": "274951",
+        "question_title": "How would a planet have an off-balance center of gravity?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-19T07:20:23Z",
         "answer_id": "275081",
@@ -8061,7 +8092,7 @@
         "owner": "user111403",
         "question_id": "275075",
         "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
-        "score": 5
+        "score": 9
       },
       {
         "answer_created": "2026-11-19T16:30:33Z",
@@ -8071,7 +8102,7 @@
         "owner": "Nosajimiki",
         "question_id": "275083",
         "question_title": "Caseless ammo and costs",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-19T01:33:50Z",
@@ -8081,7 +8112,7 @@
         "owner": "Escaped dental patient.",
         "question_id": "275075",
         "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
-        "score": 8
+        "score": 10
       },
       {
         "answer_created": "2026-11-18T15:50:22Z",
@@ -8111,7 +8142,7 @@
         "owner": "Navicula",
         "question_id": "275075",
         "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-11-18T13:40:56Z",
@@ -8121,7 +8152,7 @@
         "owner": "30Keydet",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 24
+        "score": 27
       },
       {
         "answer_created": "2026-11-18T07:53:33Z",
@@ -8141,7 +8172,7 @@
         "owner": "JBH",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-17T17:17:50Z",
@@ -8161,7 +8192,7 @@
         "owner": "g s",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 8
+        "score": 10
       },
       {
         "answer_created": "2026-11-17T13:59:30Z",
@@ -8181,7 +8212,7 @@
         "owner": "jcaron",
         "question_id": "274941",
         "question_title": "Logical way of hospital discovering infant abduction case of a teenager",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-10-27T13:02:37Z",
@@ -8321,7 +8352,7 @@
         "owner": "Escaped dental patient.",
         "question_id": "275008",
         "question_title": "Where would be the best place to set up a high-capacity computer?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-11T22:49:34Z",
@@ -8421,7 +8452,7 @@
         "owner": "Richard Kirk",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 9
+        "score": 11
       },
       {
         "answer_created": "2026-11-09T03:02:18Z",
@@ -8471,7 +8502,7 @@
         "owner": "g s",
         "question_id": "274951",
         "question_title": "How would a planet have an off-balance center of gravity?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-07T00:11:55Z",
@@ -8581,7 +8612,7 @@
         "owner": "Nightrider",
         "question_id": "274909",
         "question_title": "How does water temperature vary with depth on a water world?",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-03T02:08:11Z",
@@ -9022,36 +9053,6 @@
         "question_id": "274804",
         "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-10-21T11:25:26Z",
-        "answer_id": "274812",
-        "first_seen": "2026-10-21T19:19:35.625661Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274812",
-        "owner": "Mindwin Remember Monica",
-        "question_id": "274804",
-        "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
-        "score": 10
-      },
-      {
-        "answer_created": "2026-10-21T11:17:28Z",
-        "answer_id": "274811",
-        "first_seen": "2026-10-21T15:14:36.781826Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274811",
-        "owner": "vsz",
-        "question_id": "274804",
-        "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
-        "score": 12
-      },
-      {
-        "answer_created": "2026-10-02T16:05:43Z",
-        "answer_id": "274708",
-        "first_seen": "2026-10-21T15:14:36.781826Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274708",
-        "owner": "Cort Ammon",
-        "question_id": "274704",
-        "question_title": "All existing communication infrastructure has vanished. What technology do we use to rebuild it?",
-        "score": 7
       }
     ],
     "known": {
@@ -9340,6 +9341,7 @@
       "274961": "2026-11-10T01:31:25.687392Z",
       "274963": "2026-11-18T04:21:13.942134Z",
       "274964": "2026-11-13T22:37:49.098737Z",
+      "274968": "2026-11-20T11:47:53.753615Z",
       "274969": "2026-11-10T01:31:25.687392Z",
       "274973": "2026-11-09T06:28:47.163974Z",
       "274976": "2026-11-09T17:29:14.133890Z",
@@ -9364,6 +9366,7 @@
       "275043": "2026-11-17T13:26:53.642253Z",
       "275047": "2026-11-17T03:53:49.093655Z",
       "275048": "2026-11-17T03:53:49.093655Z",
+      "275052": "2026-11-20T11:47:53.753615Z",
       "275057": "2026-11-18T04:21:13.942134Z",
       "275059": "2026-11-18T04:21:13.942134Z",
       "275060": "2026-11-18T13:58:15.986529Z",
@@ -9375,8 +9378,9 @@
       "275077": "2026-11-19T13:07:04.204405Z",
       "275079": "2026-11-19T21:34:08.158133Z",
       "275081": "2026-11-20T03:15:17.995541Z",
+      "275082": "2026-11-20T11:47:53.753615Z",
       "275088": "2026-11-19T21:34:08.158133Z"
     },
-    "last_checked": "2026-11-20T03:15:17.995541Z"
+    "last_checked": "2026-11-20T11:47:53.753615Z"
   }
 }
