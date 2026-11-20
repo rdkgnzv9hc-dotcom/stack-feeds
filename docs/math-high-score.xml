@@ -5,7 +5,14 @@
     <link>https://math.stackexchange.com</link>
     <description>Answers from math that reached a score of 25 or more.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:47:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:19:24 +0000</lastBuildDate>
+    <item>
+      <title>Prove $\left(1+\frac{1}{1+2}\right)\left(1+\frac{1}{1+2+3}\right) \cdots\left(1+\frac{1}{1+2+\cdots+n}\right)&lt;3 $ — answer reached score 25</title>
+      <link>https://math.stackexchange.com/a/5154598</link>
+      <guid isPermaLink="false">stackexchange:math:answer:5154598</guid>
+      <pubDate>Fri, 20 Nov 2026 20:19:24 +0000</pubDate>
+      <description>Answer by Greg Martin. Score when last checked: 25. Originally posted: 2026-11-18T05:17:17Z.</description>
+    </item>
     <item>
       <title>When reading a textbook, how do I approach "learning" mathematical definitions? — answer reached score 29</title>
       <link>https://math.stackexchange.com/a/5153098</link>

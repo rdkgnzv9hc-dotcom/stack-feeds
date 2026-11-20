@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-17T15:51:51Z",
+        "answer_id": "228118",
+        "first_seen": "2026-11-20T20:19:24.908611Z",
+        "link": "https://academia.stackexchange.com/a/228118",
+        "owner": "Buffy",
+        "question_id": "228114",
+        "question_title": "How is it even possible to declare the ideas contributed by AI while using it as a discussion partner?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-19T12:01:57Z",
         "answer_id": "228135",
         "first_seen": "2026-11-20T11:47:53.753615Z",
@@ -9,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "228134",
         "question_title": "Should an editor tell authors why they think their papers are AI-generated?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-18T16:16:28Z",
@@ -19,7 +29,7 @@
         "owner": "Anyon",
         "question_id": "228126",
         "question_title": "Usage of resp. in academic writing",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-18T14:32:08Z",
@@ -990,16 +1000,6 @@
         "question_id": "227444",
         "question_title": "Resubmit to a comparable venue if all reviewers fault the rigor, not the result?",
         "score": 11
-      },
-      {
-        "answer_created": "2026-08-12T15:49:43Z",
-        "answer_id": "227445",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227445",
-        "owner": "Maarten Buis",
-        "question_id": "227444",
-        "question_title": "Resubmit to a comparable venue if all reviewers fault the rigor, not the result?",
-        "score": 53
       }
     ],
     "known": {
@@ -1150,11 +1150,12 @@
       "228102": "2026-11-16T20:29:08.184367Z",
       "228110": "2026-11-18T13:58:15.986529Z",
       "228115": "2026-11-17T22:24:06.476643Z",
+      "228118": "2026-11-20T20:19:24.908611Z",
       "228128": "2026-11-19T13:07:04.204405Z",
       "228130": "2026-11-19T21:34:08.158133Z",
       "228135": "2026-11-20T11:47:53.753615Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "history-high-score": {
     "entries": [
@@ -1282,7 +1283,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1294,7 +1295,7 @@
         "owner": "njuffa",
         "question_id": "19762",
         "question_title": "Sources about dubbing Boltzmann as an \"algebraic terrorist\"",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-02T19:46:09Z",
@@ -1641,7 +1642,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "law-high-score": {
     "entries": [
@@ -1653,7 +1654,7 @@
         "owner": "Ilmari Karonen",
         "question_id": "117025",
         "question_title": "How do open source license notice requirements apply in non-software media?",
-        "score": 12
+        "score": 15
       },
       {
         "answer_created": "2026-11-16T12:42:40Z",
@@ -1663,7 +1664,7 @@
         "owner": "Jen",
         "question_id": "117009",
         "question_title": "Has the 4th amendment doctrine generally been extended to business premises?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-16T09:15:22Z",
@@ -1693,7 +1694,7 @@
         "owner": "Simon Farnsworth",
         "question_id": "117015",
         "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
-        "score": 33
+        "score": 37
       },
       {
         "answer_created": "2026-11-14T23:52:12Z",
@@ -2757,10 +2758,20 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "math-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-18T05:17:17Z",
+        "answer_id": "5154598",
+        "first_seen": "2026-11-20T20:19:24.908611Z",
+        "link": "https://math.stackexchange.com/a/5154598",
+        "owner": "Greg Martin",
+        "question_id": "5154594",
+        "question_title": "Prove $\\left(1+\\frac{1}{1+2}\\right)\\left(1+\\frac{1}{1+2+3}\\right) \\cdots\\left(1+\\frac{1}{1+2+\\cdots+n}\\right)<3 $",
+        "score": 25
+      },
       {
         "answer_created": "2026-10-29T07:33:49Z",
         "answer_id": "5153098",
@@ -3400,12 +3411,33 @@
       "5148704": "2026-09-11T15:46:44.077292Z",
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z",
-      "5153098": "2026-11-01T15:09:12.745405Z"
+      "5153098": "2026-11-01T15:09:12.745405Z",
+      "5154598": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-20T17:23:36Z",
+        "answer_id": "518037",
+        "first_seen": "2026-11-20T20:19:24.908611Z",
+        "link": "https://mathoverflow.net/a/518037",
+        "owner": "Will Sawin",
+        "question_id": "518033",
+        "question_title": "How to \"human verify\" enormous AI math output?",
+        "score": 20
+      },
+      {
+        "answer_created": "2026-11-20T16:42:38Z",
+        "answer_id": "518036",
+        "first_seen": "2026-11-20T20:19:24.908611Z",
+        "link": "https://mathoverflow.net/a/518036",
+        "owner": "Timothy Chow",
+        "question_id": "518033",
+        "question_title": "How to \"human verify\" enormous AI math output?",
+        "score": 22
+      },
       {
         "answer_created": "2026-11-19T05:30:52Z",
         "answer_id": "517003",
@@ -3854,7 +3886,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-10-27T23:25:43Z",
@@ -3864,7 +3896,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-27T22:21:34Z",
@@ -3874,7 +3906,7 @@
         "owner": "Philip Weiss",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-10-20T14:55:07Z",
@@ -3894,7 +3926,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 55
+        "score": 56
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4385,26 +4417,6 @@
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 41
-      },
-      {
-        "answer_created": "2026-10-08T23:18:05Z",
-        "answer_id": "515863",
-        "first_seen": "2026-10-09T04:32:08.678299Z",
-        "link": "https://mathoverflow.net/a/515863",
-        "owner": "Alex Elzenaar",
-        "question_id": "515861",
-        "question_title": "Current projects and the recent AI news",
-        "score": 34
-      },
-      {
-        "answer_created": "2026-10-08T21:30:51Z",
-        "answer_id": "515855",
-        "first_seen": "2026-10-08T23:29:11.360456Z",
-        "link": "https://mathoverflow.net/a/515855",
-        "owner": "Philip Weiss",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 68
       }
     ],
     "known": {
@@ -5046,9 +5058,11 @@
       "516929": "2026-11-16T09:43:47.770369Z",
       "516930": "2026-11-16T20:29:08.184367Z",
       "516967": "2026-11-19T03:27:43.171967Z",
-      "517003": "2026-11-19T13:07:04.204405Z"
+      "517003": "2026-11-19T13:07:04.204405Z",
+      "518036": "2026-11-20T20:19:24.908611Z",
+      "518037": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5198,10 +5212,20 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-20T06:18:10Z",
+        "answer_id": "877809",
+        "first_seen": "2026-11-20T20:19:24.908611Z",
+        "link": "https://physics.stackexchange.com/a/877809",
+        "owner": "Agnius Vasiliauskas",
+        "question_id": "877808",
+        "question_title": "Why can we feel gravity and electromagnetism in our daily lives, but not the weak and strong nuclear forces?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-14T00:28:51Z",
         "answer_id": "877674",
@@ -6191,16 +6215,6 @@
         "question_id": "874261",
         "question_title": "Why is \"the amount of heat inside a body\" a meaningless quantity?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-07-15T22:21:13Z",
-        "answer_id": "874262",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/874262",
-        "owner": "Anna",
-        "question_id": "874261",
-        "question_title": "Why is \"the amount of heat inside a body\" a meaningless quantity?",
-        "score": 13
       }
     ],
     "known": {
@@ -6328,9 +6342,10 @@
       "877589": "2026-11-14T03:15:22.211193Z",
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z",
-      "877674": "2026-11-17T03:53:49.093655Z"
+      "877674": "2026-11-17T03:53:49.093655Z",
+      "877809": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6370,7 +6385,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7537,7 +7552,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "space-high-score": {
     "entries": [
@@ -8050,10 +8065,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-20T04:01:55Z",
+        "answer_id": "275091",
+        "first_seen": "2026-11-20T20:19:24.908611Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275091",
+        "owner": "JBH",
+        "question_id": "275083",
+        "question_title": "Caseless ammo and costs",
+        "score": 6
+      },
       {
         "answer_created": "2026-11-19T10:36:12Z",
         "answer_id": "275082",
@@ -8092,7 +8117,7 @@
         "owner": "user111403",
         "question_id": "275075",
         "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
-        "score": 9
+        "score": 10
       },
       {
         "answer_created": "2026-11-19T16:30:33Z",
@@ -8102,7 +8127,7 @@
         "owner": "Nosajimiki",
         "question_id": "275083",
         "question_title": "Caseless ammo and costs",
-        "score": 9
+        "score": 13
       },
       {
         "answer_created": "2026-11-19T01:33:50Z",
@@ -8142,7 +8167,7 @@
         "owner": "Navicula",
         "question_id": "275075",
         "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-11-18T13:40:56Z",
@@ -8152,7 +8177,7 @@
         "owner": "30Keydet",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-11-18T07:53:33Z",
@@ -8172,7 +8197,7 @@
         "owner": "JBH",
         "question_id": "275055",
         "question_title": "Do These Sky Mongol Arrows Meant for High Winds Work?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-17T17:17:50Z",
@@ -8402,7 +8427,7 @@
         "owner": "Trish",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-11-09T14:21:24Z",
@@ -8432,7 +8457,7 @@
         "owner": "L.Dutch",
         "question_id": "274983",
         "question_title": "Armor for a species that never stops growing",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-11-08T01:18:17Z",
@@ -9043,16 +9068,6 @@
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
         "score": 25
-      },
-      {
-        "answer_created": "2026-10-20T19:47:28Z",
-        "answer_id": "274805",
-        "first_seen": "2026-10-21T23:19:36.332792Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274805",
-        "owner": "L.Dutch",
-        "question_id": "274804",
-        "question_title": "Can a small dwarf star, roughly 0.075 solar masses, glow pink?",
-        "score": 5
       }
     ],
     "known": {
@@ -9379,8 +9394,9 @@
       "275079": "2026-11-19T21:34:08.158133Z",
       "275081": "2026-11-20T03:15:17.995541Z",
       "275082": "2026-11-20T11:47:53.753615Z",
-      "275088": "2026-11-19T21:34:08.158133Z"
+      "275088": "2026-11-19T21:34:08.158133Z",
+      "275091": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T11:47:53.753615Z"
+    "last_checked": "2026-11-20T20:19:24.908611Z"
   }
 }
