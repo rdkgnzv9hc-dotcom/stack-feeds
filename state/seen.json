@@ -29,7 +29,7 @@
         "owner": "Anyon",
         "question_id": "228126",
         "question_title": "Usage of resp. in academic writing",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-18T14:32:08Z",
@@ -39,7 +39,7 @@
         "owner": "deee",
         "question_id": "228126",
         "question_title": "Usage of resp. in academic writing",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-16T18:02:16Z",
@@ -1155,7 +1155,7 @@
       "228130": "2026-11-19T21:34:08.158133Z",
       "228135": "2026-11-20T11:47:53.753615Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "history-high-score": {
     "entries": [
@@ -1283,7 +1283,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1642,7 +1642,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "law-high-score": {
     "entries": [
@@ -2758,7 +2758,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "math-high-score": {
     "entries": [
@@ -2770,7 +2770,7 @@
         "owner": "Greg Martin",
         "question_id": "5154594",
         "question_title": "Prove $\\left(1+\\frac{1}{1+2}\\right)\\left(1+\\frac{1}{1+2+3}\\right) \\cdots\\left(1+\\frac{1}{1+2+\\cdots+n}\\right)<3 $",
-        "score": 25
+        "score": 26
       },
       {
         "answer_created": "2026-10-29T07:33:49Z",
@@ -3414,10 +3414,20 @@
       "5153098": "2026-11-01T15:09:12.745405Z",
       "5154598": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-20T12:44:47Z",
+        "answer_id": "517030",
+        "first_seen": "2026-11-21T02:14:51.512859Z",
+        "link": "https://mathoverflow.net/a/517030",
+        "owner": "KDQ",
+        "question_id": "128187",
+        "question_title": "Does a nonlinear additive function on R imply a Hamel basis of R?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-20T17:23:36Z",
         "answer_id": "518037",
@@ -3426,7 +3436,7 @@
         "owner": "Will Sawin",
         "question_id": "518033",
         "question_title": "How to \"human verify\" enormous AI math output?",
-        "score": 20
+        "score": 28
       },
       {
         "answer_created": "2026-11-20T16:42:38Z",
@@ -3436,7 +3446,7 @@
         "owner": "Timothy Chow",
         "question_id": "518033",
         "question_title": "How to \"human verify\" enormous AI math output?",
-        "score": 22
+        "score": 29
       },
       {
         "answer_created": "2026-11-19T05:30:52Z",
@@ -4407,16 +4417,6 @@
         "question_id": "515861",
         "question_title": "Current projects and the recent AI news",
         "score": 29
-      },
-      {
-        "answer_created": "2026-10-09T01:16:39Z",
-        "answer_id": "515867",
-        "first_seen": "2026-10-09T08:33:16.251020Z",
-        "link": "https://mathoverflow.net/a/515867",
-        "owner": "Will Sawin",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 41
       }
     ],
     "known": {
@@ -5059,10 +5059,11 @@
       "516930": "2026-11-16T20:29:08.184367Z",
       "516967": "2026-11-19T03:27:43.171967Z",
       "517003": "2026-11-19T13:07:04.204405Z",
+      "517030": "2026-11-21T02:14:51.512859Z",
       "518036": "2026-11-20T20:19:24.908611Z",
       "518037": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5212,7 +5213,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6345,7 +6346,7 @@
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6385,7 +6386,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7552,7 +7553,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "space-high-score": {
     "entries": [
@@ -8065,10 +8066,30 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-19T21:40:24Z",
+        "answer_id": "275090",
+        "first_seen": "2026-11-21T02:14:51.512859Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275090",
+        "owner": "Nosajimiki",
+        "question_id": "275063",
+        "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
+        "score": 7
+      },
+      {
+        "answer_created": "2026-11-18T23:19:59Z",
+        "answer_id": "275074",
+        "first_seen": "2026-11-21T02:14:51.512859Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275074",
+        "owner": "ccprog",
+        "question_id": "275063",
+        "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-20T04:01:55Z",
         "answer_id": "275091",
@@ -8127,7 +8148,7 @@
         "owner": "Nosajimiki",
         "question_id": "275083",
         "question_title": "Caseless ammo and costs",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-11-19T01:33:50Z",
@@ -8167,7 +8188,7 @@
         "owner": "Navicula",
         "question_id": "275075",
         "question_title": "How do Ballooning Sky Mongols with Lower Technology (year 1100-ish) who Can't Afford to Vent Gas and Can't Use Ballast Control Their Altitude?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-18T13:40:56Z",
@@ -8177,7 +8198,7 @@
         "owner": "30Keydet",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 28
+        "score": 30
       },
       {
         "answer_created": "2026-11-18T07:53:33Z",
@@ -9048,26 +9069,6 @@
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-10-22T04:07:55Z",
-        "answer_id": "274818",
-        "first_seen": "2026-10-22T15:16:54.381000Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274818",
-        "owner": "JBH",
-        "question_id": "274815",
-        "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 12
-      },
-      {
-        "answer_created": "2026-10-21T23:50:13Z",
-        "answer_id": "274816",
-        "first_seen": "2026-10-22T10:11:20.364138Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274816",
-        "owner": "Navicula",
-        "question_id": "274815",
-        "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
-        "score": 25
       }
     ],
     "known": {
@@ -9390,13 +9391,15 @@
       "275066": "2026-11-19T21:34:08.158133Z",
       "275067": "2026-11-18T21:56:46.613001Z",
       "275071": "2026-11-19T21:34:08.158133Z",
+      "275074": "2026-11-21T02:14:51.512859Z",
       "275077": "2026-11-19T13:07:04.204405Z",
       "275079": "2026-11-19T21:34:08.158133Z",
       "275081": "2026-11-20T03:15:17.995541Z",
       "275082": "2026-11-20T11:47:53.753615Z",
       "275088": "2026-11-19T21:34:08.158133Z",
+      "275090": "2026-11-21T02:14:51.512859Z",
       "275091": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-20T20:19:24.908611Z"
+    "last_checked": "2026-11-21T02:14:51.512859Z"
   }
 }
