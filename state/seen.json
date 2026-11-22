@@ -1156,7 +1156,7 @@
       "228135": "2026-11-20T11:47:53.753615Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "history-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1643,7 +1643,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "law-high-score": {
     "entries": [
@@ -2759,10 +2759,20 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "math-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-20T00:35:06Z",
+        "answer_id": "5154755",
+        "first_seen": "2026-11-22T11:33:45.492857Z",
+        "link": "https://math.stackexchange.com/a/5154755",
+        "owner": "Robert Shore",
+        "question_id": "5154754",
+        "question_title": "Is it possible to find the center point of a sphere given 3 points on its surface?",
+        "score": 26
+      },
       {
         "answer_created": "2026-11-18T05:17:17Z",
         "answer_id": "5154598",
@@ -3413,12 +3423,23 @@
       "5148804": "2026-09-11T15:46:44.077292Z",
       "5150058": "2026-09-24T18:30:41.045206Z",
       "5153098": "2026-11-01T15:09:12.745405Z",
-      "5154598": "2026-11-20T20:19:24.908611Z"
+      "5154598": "2026-11-20T20:19:24.908611Z",
+      "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-22T03:35:13Z",
+        "answer_id": "518072",
+        "first_seen": "2026-11-22T11:33:45.492857Z",
+        "link": "https://mathoverflow.net/a/518072",
+        "owner": "Lucia",
+        "question_id": "518068",
+        "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-21T21:50:18Z",
         "answer_id": "518062",
@@ -3427,7 +3448,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 14
+        "score": 12
       },
       {
         "answer_created": "2026-11-21T11:04:53Z",
@@ -3437,7 +3458,7 @@
         "owner": "David White",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 28
+        "score": 32
       },
       {
         "answer_created": "2026-11-21T02:17:31Z",
@@ -4408,16 +4429,6 @@
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 21
-      },
-      {
-        "answer_created": "2026-10-08T23:01:16Z",
-        "answer_id": "515860",
-        "first_seen": "2026-10-09T15:31:32.579886Z",
-        "link": "https://mathoverflow.net/a/515860",
-        "owner": "Nik Weaver",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 22
       }
     ],
     "known": {
@@ -5065,9 +5076,10 @@
       "518037": "2026-11-20T20:19:24.908611Z",
       "518044": "2026-11-21T17:32:01.532145Z",
       "518052": "2026-11-21T17:32:01.532145Z",
-      "518062": "2026-11-22T03:15:19.614794Z"
+      "518062": "2026-11-22T03:15:19.614794Z",
+      "518072": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5217,7 +5229,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6350,7 +6362,7 @@
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6390,7 +6402,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7557,7 +7569,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "space-high-score": {
     "entries": [
@@ -8070,7 +8082,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9408,6 +9420,6 @@
       "275105": "2026-11-21T09:53:31.824615Z",
       "275110": "2026-11-21T23:16:11.678802Z"
     },
-    "last_checked": "2026-11-22T03:15:19.614794Z"
+    "last_checked": "2026-11-22T11:33:45.492857Z"
   }
 }

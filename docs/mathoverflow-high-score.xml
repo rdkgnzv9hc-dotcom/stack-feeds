@@ -5,20 +5,27 @@
     <link>https://mathoverflow.net</link>
     <description>Answers from mathoverflow that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 03:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:33:45 +0000</lastBuildDate>
     <item>
-      <title>Should AI-assisted landmark results be awarded and recognized in the traditional way? — answer reached score 14</title>
+      <title>Where to begin understanding the proof of the Riemann Hypothesis — answer reached score 10</title>
+      <link>https://mathoverflow.net/a/518072</link>
+      <guid isPermaLink="false">stackexchange:mathoverflow:answer:518072</guid>
+      <pubDate>Sun, 22 Nov 2026 11:33:45 +0000</pubDate>
+      <description>Answer by Lucia. Score when last checked: 10. Originally posted: 2026-11-22T03:35:13Z.</description>
+    </item>
+    <item>
+      <title>Should AI-assisted landmark results be awarded and recognized in the traditional way? — answer reached score 12</title>
       <link>https://mathoverflow.net/a/518062</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:518062</guid>
       <pubDate>Sun, 22 Nov 2026 03:15:19 +0000</pubDate>
-      <description>Answer by Bogdan Grechuk. Score when last checked: 14. Originally posted: 2026-11-21T21:50:18Z.</description>
+      <description>Answer by Bogdan Grechuk. Score when last checked: 12. Originally posted: 2026-11-21T21:50:18Z.</description>
     </item>
     <item>
-      <title>Should AI-assisted landmark results be awarded and recognized in the traditional way? — answer reached score 28</title>
+      <title>Should AI-assisted landmark results be awarded and recognized in the traditional way? — answer reached score 32</title>
       <link>https://mathoverflow.net/a/518052</link>
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:518052</guid>
       <pubDate>Sat, 21 Nov 2026 17:32:01 +0000</pubDate>
-      <description>Answer by David White. Score when last checked: 28. Originally posted: 2026-11-21T11:04:53Z.</description>
+      <description>Answer by David White. Score when last checked: 32. Originally posted: 2026-11-21T11:04:53Z.</description>
     </item>
     <item>
       <title>How to "human verify" enormous AI math output? — answer reached score 16</title>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:mathoverflow:answer:515856</guid>
       <pubDate>Fri, 09 Oct 2026 20:29:34 +0000</pubDate>
       <description>Answer by Philip Weiss. Score when last checked: 21. Originally posted: 2026-10-08T22:08:10Z.</description>
-    </item>
-    <item>
-      <title>Which of the results released by OpenAI went against the conventional mathematical wisdom? — answer reached score 22</title>
-      <link>https://mathoverflow.net/a/515860</link>
-      <guid isPermaLink="false">stackexchange:mathoverflow:answer:515860</guid>
-      <pubDate>Fri, 09 Oct 2026 15:31:32 +0000</pubDate>
-      <description>Answer by Nik Weaver. Score when last checked: 22. Originally posted: 2026-10-08T23:01:16Z.</description>
     </item>
   </channel>
 </rss>
