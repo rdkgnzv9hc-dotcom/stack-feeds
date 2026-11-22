@@ -39,7 +39,7 @@
         "owner": "Anyon",
         "question_id": "228126",
         "question_title": "Usage of resp. in academic writing",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-18T14:32:08Z",
@@ -1156,7 +1156,7 @@
       "228135": "2026-11-20T11:47:53.753615Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "history-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1643,7 +1643,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "law-high-score": {
     "entries": [
@@ -2759,7 +2759,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "math-high-score": {
     "entries": [
@@ -2771,7 +2771,7 @@
         "owner": "Robert Shore",
         "question_id": "5154754",
         "question_title": "Is it possible to find the center point of a sphere given 3 points on its surface?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-11-18T05:17:17Z",
@@ -3426,10 +3426,40 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-22T09:42:40Z",
+        "answer_id": "518079",
+        "first_seen": "2026-11-22T19:40:04.479727Z",
+        "link": "https://mathoverflow.net/a/518079",
+        "owner": "Jim Belk",
+        "question_id": "518064",
+        "question_title": "Are some fields of math (more) AI-resistant?",
+        "score": 20
+      },
+      {
+        "answer_created": "2026-11-22T03:51:11Z",
+        "answer_id": "518074",
+        "first_seen": "2026-11-22T19:40:04.479727Z",
+        "link": "https://mathoverflow.net/a/518074",
+        "owner": "darij grinberg",
+        "question_id": "518064",
+        "question_title": "Are some fields of math (more) AI-resistant?",
+        "score": 17
+      },
+      {
+        "answer_created": "2026-11-21T08:33:26Z",
+        "answer_id": "518047",
+        "first_seen": "2026-11-22T19:40:04.479727Z",
+        "link": "https://mathoverflow.net/a/518047",
+        "owner": "godelian",
+        "question_id": "518045",
+        "question_title": "Reference request: infinitary languages in the choiceless context",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-22T03:35:13Z",
         "answer_id": "518072",
@@ -3438,7 +3468,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 10
+        "score": 17
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -4399,36 +4429,6 @@
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-10-08T12:49:49Z",
-        "answer_id": "515840",
-        "first_seen": "2026-10-10T07:29:58.906895Z",
-        "link": "https://mathoverflow.net/a/515840",
-        "owner": "Peter LeFanu Lumsdaine",
-        "question_id": "515819",
-        "question_title": "Tools for searching full texts of large collections of mathematical papers",
-        "score": 13
-      },
-      {
-        "answer_created": "2026-10-09T21:58:09Z",
-        "answer_id": "515891",
-        "first_seen": "2026-10-10T01:31:14.820303Z",
-        "link": "https://mathoverflow.net/a/515891",
-        "owner": "Dimitri Vulis",
-        "question_id": "515845",
-        "question_title": "How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references?",
-        "score": 29
-      },
-      {
-        "answer_created": "2026-10-08T22:08:10Z",
-        "answer_id": "515856",
-        "first_seen": "2026-10-09T20:29:34.091430Z",
-        "link": "https://mathoverflow.net/a/515856",
-        "owner": "Philip Weiss",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 21
       }
     ],
     "known": {
@@ -5075,11 +5075,14 @@
       "518036": "2026-11-20T20:19:24.908611Z",
       "518037": "2026-11-20T20:19:24.908611Z",
       "518044": "2026-11-21T17:32:01.532145Z",
+      "518047": "2026-11-22T19:40:04.479727Z",
       "518052": "2026-11-21T17:32:01.532145Z",
       "518062": "2026-11-22T03:15:19.614794Z",
-      "518072": "2026-11-22T11:33:45.492857Z"
+      "518072": "2026-11-22T11:33:45.492857Z",
+      "518074": "2026-11-22T19:40:04.479727Z",
+      "518079": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5229,7 +5232,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6362,7 +6365,7 @@
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6402,7 +6405,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7569,7 +7572,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "space-high-score": {
     "entries": [
@@ -8082,10 +8085,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-21T13:07:50Z",
+        "answer_id": "275111",
+        "first_seen": "2026-11-22T19:40:04.479727Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275111",
+        "owner": "Chronocidal",
+        "question_id": "275102",
+        "question_title": "How does my fictional organization get itself out of this legal pickle?",
+        "score": 7
+      },
       {
         "answer_created": "2026-11-21T03:18:32Z",
         "answer_id": "275110",
@@ -9075,16 +9088,6 @@
         "question_id": "274429",
         "question_title": "Designing a barren yet \"shirt-sleeve habitable\" exoplanet",
         "score": 5
-      },
-      {
-        "answer_created": "2026-08-29T16:33:50Z",
-        "answer_id": "274427",
-        "first_seen": "2026-10-24T14:33:16.336339Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274427",
-        "owner": "Rymyll the Wanderer",
-        "question_id": "274420",
-        "question_title": "How would my exploding bullets work?",
-        "score": 5
       }
     ],
     "known": {
@@ -9418,8 +9421,9 @@
       "275090": "2026-11-21T02:14:51.512859Z",
       "275091": "2026-11-20T20:19:24.908611Z",
       "275105": "2026-11-21T09:53:31.824615Z",
-      "275110": "2026-11-21T23:16:11.678802Z"
+      "275110": "2026-11-21T23:16:11.678802Z",
+      "275111": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-22T11:33:45.492857Z"
+    "last_checked": "2026-11-22T19:40:04.479727Z"
   }
 }
