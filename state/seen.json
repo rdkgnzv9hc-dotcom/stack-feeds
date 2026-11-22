@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-20T16:22:16Z",
+        "answer_id": "229142",
+        "first_seen": "2026-11-22T03:15:19.614794Z",
+        "link": "https://academia.stackexchange.com/a/229142",
+        "owner": "user1149748",
+        "question_id": "229141",
+        "question_title": "Examining a problematic PhD thesis",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-17T15:51:51Z",
         "answer_id": "228118",
         "first_seen": "2026-11-20T20:19:24.908611Z",
@@ -990,16 +1000,6 @@
         "question_id": "227451",
         "question_title": "Would you accept authorship on a largely AI-generated scientific software paper if you only joined at the validation stage?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-08-12T15:59:41Z",
-        "answer_id": "227446",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227446",
-        "owner": "Buffy",
-        "question_id": "227444",
-        "question_title": "Resubmit to a comparable venue if all reviewers fault the rigor, not the result?",
-        "score": 11
       }
     ],
     "known": {
@@ -1153,9 +1153,10 @@
       "228118": "2026-11-20T20:19:24.908611Z",
       "228128": "2026-11-19T13:07:04.204405Z",
       "228130": "2026-11-19T21:34:08.158133Z",
-      "228135": "2026-11-20T11:47:53.753615Z"
+      "228135": "2026-11-20T11:47:53.753615Z",
+      "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "history-high-score": {
     "entries": [
@@ -1283,7 +1284,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1642,7 +1643,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "law-high-score": {
     "entries": [
@@ -2758,7 +2759,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "math-high-score": {
     "entries": [
@@ -3414,10 +3415,20 @@
       "5153098": "2026-11-01T15:09:12.745405Z",
       "5154598": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-21T21:50:18Z",
+        "answer_id": "518062",
+        "first_seen": "2026-11-22T03:15:19.614794Z",
+        "link": "https://mathoverflow.net/a/518062",
+        "owner": "Bogdan Grechuk",
+        "question_id": "518048",
+        "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
+        "score": 14
+      },
       {
         "answer_created": "2026-11-21T11:04:53Z",
         "answer_id": "518052",
@@ -3426,7 +3437,7 @@
         "owner": "David White",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 22
+        "score": 28
       },
       {
         "answer_created": "2026-11-21T02:17:31Z",
@@ -3986,7 +3997,7 @@
         "owner": "Bruno Martelli",
         "question_id": "516445",
         "question_title": "What is the purpose of publishing mathematical research in the age of AI?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-27T12:36:58Z",
@@ -4116,7 +4127,7 @@
         "owner": "Piotr Hajlasz",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-20T21:54:24Z",
@@ -4146,7 +4157,7 @@
         "owner": "Timothy Chow",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-10-19T20:25:12Z",
@@ -4407,16 +4418,6 @@
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
         "score": 22
-      },
-      {
-        "answer_created": "2026-09-24T14:47:19Z",
-        "answer_id": "515513",
-        "first_seen": "2026-10-09T14:35:29.903279Z",
-        "link": "https://mathoverflow.net/a/515513",
-        "owner": "Will Sawin",
-        "question_id": "515510",
-        "question_title": "Is positive upper density preserved along many arithmetic progressions?",
-        "score": 13
       }
     ],
     "known": {
@@ -5063,9 +5064,10 @@
       "518036": "2026-11-20T20:19:24.908611Z",
       "518037": "2026-11-20T20:19:24.908611Z",
       "518044": "2026-11-21T17:32:01.532145Z",
-      "518052": "2026-11-21T17:32:01.532145Z"
+      "518052": "2026-11-21T17:32:01.532145Z",
+      "518062": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5215,7 +5217,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6348,7 +6350,7 @@
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6388,7 +6390,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7555,7 +7557,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "space-high-score": {
     "entries": [
@@ -8068,7 +8070,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9406,6 +9408,6 @@
       "275105": "2026-11-21T09:53:31.824615Z",
       "275110": "2026-11-21T23:16:11.678802Z"
     },
-    "last_checked": "2026-11-21T23:16:11.678802Z"
+    "last_checked": "2026-11-22T03:15:19.614794Z"
   }
 }
