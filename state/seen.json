@@ -1156,7 +1156,7 @@
       "228135": "2026-11-20T11:47:53.753615Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "history-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1643,7 +1643,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "law-high-score": {
     "entries": [
@@ -1785,7 +1785,7 @@
         "owner": "Barmar",
         "question_id": "116918",
         "question_title": "Why do modern depictions of gorgons not infringe on the copyright of a 1981 film?",
-        "score": 22
+        "score": 21
       },
       {
         "answer_created": "2026-10-31T22:38:12Z",
@@ -1875,7 +1875,7 @@
         "owner": "Nate Eldredge",
         "question_id": "116778",
         "question_title": "Are ports of video games to unsupported platforms illegal?",
-        "score": 16
+        "score": 15
       },
       {
         "answer_created": "2026-10-17T10:04:39Z",
@@ -2759,7 +2759,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "math-high-score": {
     "entries": [
@@ -2771,7 +2771,7 @@
         "owner": "Robert Shore",
         "question_id": "5154754",
         "question_title": "Is it possible to find the center point of a sphere given 3 points on its surface?",
-        "score": 28
+        "score": 29
       },
       {
         "answer_created": "2026-11-18T05:17:17Z",
@@ -2781,7 +2781,7 @@
         "owner": "Greg Martin",
         "question_id": "5154594",
         "question_title": "Prove $\\left(1+\\frac{1}{1+2}\\right)\\left(1+\\frac{1}{1+2+3}\\right) \\cdots\\left(1+\\frac{1}{1+2+\\cdots+n}\\right)<3 $",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-10-29T07:33:49Z",
@@ -3426,10 +3426,40 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T01:44:27Z",
+        "answer_id": "518114",
+        "first_seen": "2026-11-23T09:05:37.629012Z",
+        "link": "https://mathoverflow.net/a/518114",
+        "owner": "Chris Bailey",
+        "question_id": "518109",
+        "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
+        "score": 13
+      },
+      {
+        "answer_created": "2026-11-23T01:13:49Z",
+        "answer_id": "518113",
+        "first_seen": "2026-11-23T09:05:37.629012Z",
+        "link": "https://mathoverflow.net/a/518113",
+        "owner": "Miroslav Ol\u0161\u00e1k",
+        "question_id": "518109",
+        "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
+        "score": 14
+      },
+      {
+        "answer_created": "2026-11-22T21:34:26Z",
+        "answer_id": "518110",
+        "first_seen": "2026-11-23T09:05:37.629012Z",
+        "link": "https://mathoverflow.net/a/518110",
+        "owner": "David White",
+        "question_id": "518064",
+        "question_title": "Are some fields of math (more) AI-resistant?",
+        "score": 11
+      },
       {
         "answer_created": "2026-11-22T18:32:03Z",
         "answer_id": "518103",
@@ -3438,7 +3468,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "518095",
         "question_title": "Post-RH analytic number theory",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-22T13:25:21Z",
@@ -3448,7 +3478,7 @@
         "owner": "Yiftach Barnea",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-11-22T11:58:19Z",
@@ -3478,7 +3508,7 @@
         "owner": "Jim Belk",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 24
+        "score": 25
       },
       {
         "answer_created": "2026-11-22T03:51:11Z",
@@ -3488,7 +3518,7 @@
         "owner": "darij grinberg",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-21T08:33:26Z",
@@ -3508,7 +3538,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 18
+        "score": 21
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3518,7 +3548,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-11-21T11:04:53Z",
@@ -3918,7 +3948,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516603",
         "question_title": "Was there any prior 'strong evidence' for ETH?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-10-29T11:24:42Z",
@@ -4399,36 +4429,6 @@
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
         "score": 20
-      },
-      {
-        "answer_created": "2026-10-10T03:10:06Z",
-        "answer_id": "515897",
-        "first_seen": "2026-10-13T15:59:00.350142Z",
-        "link": "https://mathoverflow.net/a/515897",
-        "owner": "Joshua P. Swanson",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-10-12T21:20:06Z",
-        "answer_id": "515992",
-        "first_seen": "2026-10-13T00:39:51.786504Z",
-        "link": "https://mathoverflow.net/a/515992",
-        "owner": "Will Sawin",
-        "question_id": "515985",
-        "question_title": "Why cubic Gauss sums?",
-        "score": 52
-      },
-      {
-        "answer_created": "2026-10-12T15:33:49Z",
-        "answer_id": "515975",
-        "first_seen": "2026-10-13T00:39:51.786504Z",
-        "link": "https://mathoverflow.net/a/515975",
-        "owner": "GH from MO",
-        "question_id": "515968",
-        "question_title": "Consequences of quasi-RH",
-        "score": 17
       }
     ],
     "known": {
@@ -5084,9 +5084,12 @@
       "518079": "2026-11-22T19:40:04.479727Z",
       "518086": "2026-11-23T00:53:16.126047Z",
       "518089": "2026-11-23T00:53:16.126047Z",
-      "518103": "2026-11-23T00:53:16.126047Z"
+      "518103": "2026-11-23T00:53:16.126047Z",
+      "518110": "2026-11-23T09:05:37.629012Z",
+      "518113": "2026-11-23T09:05:37.629012Z",
+      "518114": "2026-11-23T09:05:37.629012Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5236,7 +5239,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6369,7 +6372,7 @@
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6409,7 +6412,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7576,7 +7579,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "space-high-score": {
     "entries": [
@@ -8089,7 +8092,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8101,7 +8104,7 @@
         "owner": "Chronocidal",
         "question_id": "275102",
         "question_title": "How does my fictional organization get itself out of this legal pickle?",
-        "score": 7
+        "score": 9
       },
       {
         "answer_created": "2026-11-21T03:18:32Z",
@@ -9428,6 +9431,6 @@
       "275110": "2026-11-21T23:16:11.678802Z",
       "275111": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-23T00:53:16.126047Z"
+    "last_checked": "2026-11-23T09:05:37.629012Z"
   }
 }
