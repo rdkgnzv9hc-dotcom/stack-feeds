@@ -1156,7 +1156,7 @@
       "228135": "2026-11-20T11:47:53.753615Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "history-high-score": {
     "entries": [
@@ -1284,7 +1284,7 @@
       "80398": "2026-10-30T23:46:46.068082Z",
       "80439": "2026-11-12T11:10:04.506282Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1643,7 +1643,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "law-high-score": {
     "entries": [
@@ -2759,7 +2759,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "math-high-score": {
     "entries": [
@@ -2771,7 +2771,7 @@
         "owner": "Robert Shore",
         "question_id": "5154754",
         "question_title": "Is it possible to find the center point of a sphere given 3 points on its surface?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-11-18T05:17:17Z",
@@ -3426,10 +3426,50 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-22T18:32:03Z",
+        "answer_id": "518103",
+        "first_seen": "2026-11-23T00:53:16.126047Z",
+        "link": "https://mathoverflow.net/a/518103",
+        "owner": "Stanley Yao Xiao",
+        "question_id": "518095",
+        "question_title": "Post-RH analytic number theory",
+        "score": 12
+      },
+      {
+        "answer_created": "2026-11-22T13:25:21Z",
+        "answer_id": "518089",
+        "first_seen": "2026-11-23T00:53:16.126047Z",
+        "link": "https://mathoverflow.net/a/518089",
+        "owner": "Yiftach Barnea",
+        "question_id": "518064",
+        "question_title": "Are some fields of math (more) AI-resistant?",
+        "score": 12
+      },
+      {
+        "answer_created": "2026-11-22T11:58:19Z",
+        "answer_id": "518086",
+        "first_seen": "2026-11-23T00:53:16.126047Z",
+        "link": "https://mathoverflow.net/a/518086",
+        "owner": "Bogdan Grechuk",
+        "question_id": "518077",
+        "question_title": "Advice for third-world mathematicians in the age of AI",
+        "score": 12
+      },
+      {
+        "answer_created": "2026-11-19T22:18:30Z",
+        "answer_id": "517021",
+        "first_seen": "2026-11-23T00:53:16.126047Z",
+        "link": "https://mathoverflow.net/a/517021",
+        "owner": "Carlo Beenakker",
+        "question_id": "517016",
+        "question_title": "Online courses on infinite dimensional Lie algebras",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-22T09:42:40Z",
         "answer_id": "518079",
@@ -3438,7 +3478,7 @@
         "owner": "Jim Belk",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 20
+        "score": 24
       },
       {
         "answer_created": "2026-11-22T03:51:11Z",
@@ -3448,7 +3488,7 @@
         "owner": "darij grinberg",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 17
+        "score": 19
       },
       {
         "answer_created": "2026-11-21T08:33:26Z",
@@ -3468,7 +3508,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3488,7 +3528,7 @@
         "owner": "David White",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 32
+        "score": 33
       },
       {
         "answer_created": "2026-11-21T02:17:31Z",
@@ -3498,7 +3538,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "518033",
         "question_title": "How to \"human verify\" enormous AI math output?",
-        "score": 16
+        "score": 15
       },
       {
         "answer_created": "2026-11-20T12:44:47Z",
@@ -4389,46 +4429,6 @@
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
         "score": 17
-      },
-      {
-        "answer_created": "2026-10-12T14:49:49Z",
-        "answer_id": "515971",
-        "first_seen": "2026-10-12T17:54:27.600860Z",
-        "link": "https://mathoverflow.net/a/515971",
-        "owner": "Benjamin Durkan",
-        "question_id": "515968",
-        "question_title": "Consequences of quasi-RH",
-        "score": 32
-      },
-      {
-        "answer_created": "2026-10-10T11:04:08Z",
-        "answer_id": "515903",
-        "first_seen": "2026-10-10T21:28:19.397818Z",
-        "link": "https://mathoverflow.net/a/515903",
-        "owner": "Bill Lionheart",
-        "question_id": "483057",
-        "question_title": "Derek the Differentiable Dinosaur",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-10-09T01:08:23Z",
-        "answer_id": "515866",
-        "first_seen": "2026-10-10T19:27:40.439433Z",
-        "link": "https://mathoverflow.net/a/515866",
-        "owner": "mathworker21",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-10-08T21:02:25Z",
-        "answer_id": "515854",
-        "first_seen": "2026-10-10T19:27:40.439433Z",
-        "link": "https://mathoverflow.net/a/515854",
-        "owner": "Pace Nielsen",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 17
       }
     ],
     "known": {
@@ -5071,6 +5071,7 @@
       "516930": "2026-11-16T20:29:08.184367Z",
       "516967": "2026-11-19T03:27:43.171967Z",
       "517003": "2026-11-19T13:07:04.204405Z",
+      "517021": "2026-11-23T00:53:16.126047Z",
       "517030": "2026-11-21T02:14:51.512859Z",
       "518036": "2026-11-20T20:19:24.908611Z",
       "518037": "2026-11-20T20:19:24.908611Z",
@@ -5080,9 +5081,12 @@
       "518062": "2026-11-22T03:15:19.614794Z",
       "518072": "2026-11-22T11:33:45.492857Z",
       "518074": "2026-11-22T19:40:04.479727Z",
-      "518079": "2026-11-22T19:40:04.479727Z"
+      "518079": "2026-11-22T19:40:04.479727Z",
+      "518086": "2026-11-23T00:53:16.126047Z",
+      "518089": "2026-11-23T00:53:16.126047Z",
+      "518103": "2026-11-23T00:53:16.126047Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5232,7 +5236,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6365,7 +6369,7 @@
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6405,7 +6409,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7572,7 +7576,7 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "space-high-score": {
     "entries": [
@@ -8085,7 +8089,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8217,7 +8221,7 @@
         "owner": "Nosajimiki",
         "question_id": "275083",
         "question_title": "Caseless ammo and costs",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-19T01:33:50Z",
@@ -9424,6 +9428,6 @@
       "275110": "2026-11-21T23:16:11.678802Z",
       "275111": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-22T19:40:04.479727Z"
+    "last_checked": "2026-11-23T00:53:16.126047Z"
   }
 }
