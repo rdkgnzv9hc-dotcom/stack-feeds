@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-20T11:42:51Z",
+        "answer_id": "228146",
+        "first_seen": "2026-11-23T21:25:08.981891Z",
+        "link": "https://academia.stackexchange.com/a/228146",
+        "owner": "Buffy",
+        "question_id": "228142",
+        "question_title": "Considering quit math PhD and apply for a stat one: research topic is close to stat but I can't find anyone to talk with",
+        "score": 11
+      },
+      {
         "answer_created": "2026-11-20T16:22:16Z",
         "answer_id": "229142",
         "first_seen": "2026-11-22T03:15:19.614794Z",
@@ -9,7 +19,7 @@
         "owner": "user1149748",
         "question_id": "229141",
         "question_title": "Examining a problematic PhD thesis",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-17T15:51:51Z",
@@ -990,16 +1000,6 @@
         "question_id": "227465",
         "question_title": "Should I accept a PhD program offer at a much lower ranked university if it feels like a better fit?",
         "score": 32
-      },
-      {
-        "answer_created": "2026-08-13T16:29:31Z",
-        "answer_id": "227453",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227453",
-        "owner": "Wolfgang Bangerth",
-        "question_id": "227451",
-        "question_title": "Would you accept authorship on a largely AI-generated scientific software paper if you only joined at the validation stage?",
-        "score": 17
       }
     ],
     "known": {
@@ -1154,12 +1154,23 @@
       "228128": "2026-11-19T13:07:04.204405Z",
       "228130": "2026-11-19T21:34:08.158133Z",
       "228135": "2026-11-20T11:47:53.753615Z",
+      "228146": "2026-11-23T21:25:08.981891Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "history-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-21T07:24:56Z",
+        "answer_id": "80460",
+        "first_seen": "2026-11-23T21:25:08.981891Z",
+        "link": "https://history.stackexchange.com/a/80460",
+        "owner": "user182601",
+        "question_id": "80459",
+        "question_title": "What does \"I spill only 70000 beans a week into my interior\" mean?",
+        "score": 19
+      },
       {
         "answer_created": "2026-11-10T01:49:41Z",
         "answer_id": "80439",
@@ -1282,9 +1293,10 @@
       "80316": "2026-09-18T13:26:21.823374Z",
       "80363": "2026-10-02T13:32:05.793291Z",
       "80398": "2026-10-30T23:46:46.068082Z",
-      "80439": "2026-11-12T11:10:04.506282Z"
+      "80439": "2026-11-12T11:10:04.506282Z",
+      "80460": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1643,7 +1655,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "law-high-score": {
     "entries": [
@@ -1655,7 +1667,7 @@
         "owner": "Ilmari Karonen",
         "question_id": "117025",
         "question_title": "How do open source license notice requirements apply in non-software media?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-16T12:42:40Z",
@@ -1695,7 +1707,7 @@
         "owner": "Simon Farnsworth",
         "question_id": "117015",
         "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
-        "score": 37
+        "score": 38
       },
       {
         "answer_created": "2026-11-14T23:52:12Z",
@@ -2759,7 +2771,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "math-high-score": {
     "entries": [
@@ -2771,7 +2783,7 @@
         "owner": "Robert Shore",
         "question_id": "5154754",
         "question_title": "Is it possible to find the center point of a sphere given 3 points on its surface?",
-        "score": 29
+        "score": 31
       },
       {
         "answer_created": "2026-11-18T05:17:17Z",
@@ -3426,10 +3438,30 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T08:39:53Z",
+        "answer_id": "518121",
+        "first_seen": "2026-11-23T21:25:08.981891Z",
+        "link": "https://mathoverflow.net/a/518121",
+        "owner": "GH from MO",
+        "question_id": "518104",
+        "question_title": "Estimated length for reasonable presentation of proof of the Riemann hypothesis",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-11-22T15:57:18Z",
+        "answer_id": "518097",
+        "first_seen": "2026-11-23T21:25:08.981891Z",
+        "link": "https://mathoverflow.net/a/518097",
+        "owner": "Amir",
+        "question_id": "518064",
+        "question_title": "Are some fields of math (more) AI-resistant?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-23T01:44:27Z",
         "answer_id": "518114",
@@ -3438,7 +3470,7 @@
         "owner": "Chris Bailey",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 13
+        "score": 15
       },
       {
         "answer_created": "2026-11-23T01:13:49Z",
@@ -3448,7 +3480,7 @@
         "owner": "Miroslav Ol\u0161\u00e1k",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 14
+        "score": 21
       },
       {
         "answer_created": "2026-11-22T21:34:26Z",
@@ -3458,7 +3490,7 @@
         "owner": "David White",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-22T18:32:03Z",
@@ -3468,7 +3500,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "518095",
         "question_title": "Post-RH analytic number theory",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-22T13:25:21Z",
@@ -3478,7 +3510,7 @@
         "owner": "Yiftach Barnea",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-22T11:58:19Z",
@@ -3488,7 +3520,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518077",
         "question_title": "Advice for third-world mathematicians in the age of AI",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-11-19T22:18:30Z",
@@ -3508,7 +3540,7 @@
         "owner": "Jim Belk",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 25
+        "score": 30
       },
       {
         "answer_created": "2026-11-22T03:51:11Z",
@@ -3518,7 +3550,7 @@
         "owner": "darij grinberg",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 20
+        "score": 22
       },
       {
         "answer_created": "2026-11-21T08:33:26Z",
@@ -3538,7 +3570,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 21
+        "score": 29
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3548,7 +3580,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-21T11:04:53Z",
@@ -3558,7 +3590,7 @@
         "owner": "David White",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 33
+        "score": 34
       },
       {
         "answer_created": "2026-11-21T02:17:31Z",
@@ -4409,26 +4441,6 @@
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
         "score": 17
-      },
-      {
-        "answer_created": "2026-10-13T08:07:26Z",
-        "answer_id": "516006",
-        "first_seen": "2026-10-13T21:14:40.703005Z",
-        "link": "https://mathoverflow.net/a/516006",
-        "owner": "MaoWao",
-        "question_id": "515849",
-        "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 18
-      },
-      {
-        "answer_created": "2026-10-13T06:57:27Z",
-        "answer_id": "516001",
-        "first_seen": "2026-10-13T21:14:40.703005Z",
-        "link": "https://mathoverflow.net/a/516001",
-        "owner": "Thomas Bloom",
-        "question_id": "515968",
-        "question_title": "Consequences of quasi-RH",
-        "score": 20
       }
     ],
     "known": {
@@ -5084,12 +5096,14 @@
       "518079": "2026-11-22T19:40:04.479727Z",
       "518086": "2026-11-23T00:53:16.126047Z",
       "518089": "2026-11-23T00:53:16.126047Z",
+      "518097": "2026-11-23T21:25:08.981891Z",
       "518103": "2026-11-23T00:53:16.126047Z",
       "518110": "2026-11-23T09:05:37.629012Z",
       "518113": "2026-11-23T09:05:37.629012Z",
-      "518114": "2026-11-23T09:05:37.629012Z"
+      "518114": "2026-11-23T09:05:37.629012Z",
+      "518121": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5239,10 +5253,20 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-20T15:23:46Z",
+        "answer_id": "878813",
+        "first_seen": "2026-11-23T21:25:08.981891Z",
+        "link": "https://physics.stackexchange.com/a/878813",
+        "owner": "StephenG - Help Ukraine",
+        "question_id": "877808",
+        "question_title": "Why can we feel gravity and electromagnetism in our daily lives, but not the weak and strong nuclear forces?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-20T06:18:10Z",
         "answer_id": "877809",
@@ -6232,16 +6256,6 @@
         "question_id": "874333",
         "question_title": "Angular momentum in different frames",
         "score": 14
-      },
-      {
-        "answer_created": "2026-07-15T22:27:14Z",
-        "answer_id": "874263",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/874263",
-        "owner": "naturallyInconsistent",
-        "question_id": "874261",
-        "question_title": "Why is \"the amount of heat inside a body\" a meaningless quantity?",
-        "score": 12
       }
     ],
     "known": {
@@ -6370,9 +6384,10 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z",
-      "877809": "2026-11-20T20:19:24.908611Z"
+      "877809": "2026-11-20T20:19:24.908611Z",
+      "878813": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6412,10 +6427,30 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T12:56:17Z",
+        "answer_id": "307571",
+        "first_seen": "2026-11-23T21:25:08.981891Z",
+        "link": "https://scifi.stackexchange.com/a/307571",
+        "owner": "Andrew",
+        "question_id": "307570",
+        "question_title": "Short story about barbarians destroying civilized planets and a polite human world that rewinds time",
+        "score": 17
+      },
+      {
+        "answer_created": "2026-11-22T18:44:02Z",
+        "answer_id": "307568",
+        "first_seen": "2026-11-23T21:25:08.981891Z",
+        "link": "https://scifi.stackexchange.com/a/307568",
+        "owner": "FuzzyBoots",
+        "question_id": "274581",
+        "question_title": "Origin story for Paw Patrol",
+        "score": 12
+      },
       {
         "answer_created": "2026-11-15T21:19:14Z",
         "answer_id": "306513",
@@ -7395,26 +7430,6 @@
         "question_id": "305519",
         "question_title": "What was the first super-predictive computer?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-08-07T19:21:09Z",
-        "answer_id": "305520",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305520",
-        "owner": "VBartilucci",
-        "question_id": "305519",
-        "question_title": "What was the first super-predictive computer?",
-        "score": 16
-      },
-      {
-        "answer_created": "2026-08-07T12:25:36Z",
-        "answer_id": "305518",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305518",
-        "owner": "Andrew",
-        "question_id": "305517",
-        "question_title": "Full-length 60s or 70s sci-fi book where a scientist's supercomputer foretells his marriage to a cosmonaut on a spacecraft",
-        "score": 22
       }
     ],
     "known": {
@@ -7577,9 +7592,11 @@
       "306494": "2026-11-17T03:53:49.093655Z",
       "306498": "2026-11-15T09:26:03.248286Z",
       "306508": "2026-11-16T02:08:01.438270Z",
-      "306513": "2026-11-17T22:24:06.476643Z"
+      "306513": "2026-11-17T22:24:06.476643Z",
+      "307568": "2026-11-23T21:25:08.981891Z",
+      "307571": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "space-high-score": {
     "entries": [
@@ -8092,7 +8109,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8104,7 +8121,7 @@
         "owner": "Chronocidal",
         "question_id": "275102",
         "question_title": "How does my fictional organization get itself out of this legal pickle?",
-        "score": 9
+        "score": 13
       },
       {
         "answer_created": "2026-11-21T03:18:32Z",
@@ -8114,7 +8131,7 @@
         "owner": "JBH",
         "question_id": "275102",
         "question_title": "How does my fictional organization get itself out of this legal pickle?",
-        "score": 5
+        "score": 6
       },
       {
         "answer_created": "2026-11-08T13:29:46Z",
@@ -8154,7 +8171,7 @@
         "owner": "Nosajimiki",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 7
+        "score": 8
       },
       {
         "answer_created": "2026-11-18T23:19:59Z",
@@ -9431,6 +9448,6 @@
       "275110": "2026-11-21T23:16:11.678802Z",
       "275111": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-23T09:05:37.629012Z"
+    "last_checked": "2026-11-23T21:25:08.981891Z"
   }
 }
