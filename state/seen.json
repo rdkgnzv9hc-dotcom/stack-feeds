@@ -1157,7 +1157,7 @@
       "228146": "2026-11-23T21:25:08.981891Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "history-high-score": {
     "entries": [
@@ -1296,7 +1296,7 @@
       "80439": "2026-11-12T11:10:04.506282Z",
       "80460": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1655,7 +1655,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "law-high-score": {
     "entries": [
@@ -1707,7 +1707,7 @@
         "owner": "Simon Farnsworth",
         "question_id": "117015",
         "question_title": "Is it impossible to permanently ban a human from a digital platform due to GDPR?",
-        "score": 38
+        "score": 39
       },
       {
         "answer_created": "2026-11-14T23:52:12Z",
@@ -2771,7 +2771,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "math-high-score": {
     "entries": [
@@ -3438,10 +3438,30 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T06:04:13Z",
+        "answer_id": "518119",
+        "first_seen": "2026-11-24T06:03:23.635804Z",
+        "link": "https://mathoverflow.net/a/518119",
+        "owner": "Timothy Chow",
+        "question_id": "518109",
+        "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-09-11T10:10:06Z",
+        "answer_id": "515133",
+        "first_seen": "2026-11-24T06:03:23.635804Z",
+        "link": "https://mathoverflow.net/a/515133",
+        "owner": "Daniele Tampieri",
+        "question_id": "515115",
+        "question_title": "Known cases, with physically motivated function regularity, where Navier-Stokes are solvable",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-23T08:39:53Z",
         "answer_id": "518121",
@@ -3450,7 +3470,7 @@
         "owner": "GH from MO",
         "question_id": "518104",
         "question_title": "Estimated length for reasonable presentation of proof of the Riemann hypothesis",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-11-22T15:57:18Z",
@@ -3460,7 +3480,7 @@
         "owner": "Amir",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-23T01:44:27Z",
@@ -3470,7 +3490,7 @@
         "owner": "Chris Bailey",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-23T01:13:49Z",
@@ -3480,7 +3500,7 @@
         "owner": "Miroslav Ol\u0161\u00e1k",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 21
+        "score": 23
       },
       {
         "answer_created": "2026-11-22T21:34:26Z",
@@ -3490,7 +3510,7 @@
         "owner": "David White",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-22T18:32:03Z",
@@ -3500,7 +3520,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "518095",
         "question_title": "Post-RH analytic number theory",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-11-22T13:25:21Z",
@@ -3510,7 +3530,7 @@
         "owner": "Yiftach Barnea",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-22T11:58:19Z",
@@ -3540,7 +3560,7 @@
         "owner": "Jim Belk",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 30
+        "score": 33
       },
       {
         "answer_created": "2026-11-22T03:51:11Z",
@@ -3550,7 +3570,7 @@
         "owner": "darij grinberg",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-11-21T08:33:26Z",
@@ -3570,7 +3590,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 29
+        "score": 31
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3630,7 +3650,7 @@
         "owner": "Timothy Chow",
         "question_id": "518033",
         "question_title": "How to \"human verify\" enormous AI math output?",
-        "score": 43
+        "score": 44
       },
       {
         "answer_created": "2026-11-19T05:30:52Z",
@@ -4421,26 +4441,6 @@
         "question_id": "516022",
         "question_title": "Disappearence of D. Salamon's Floer Lectures",
         "score": 15
-      },
-      {
-        "answer_created": "2026-04-19T05:15:36Z",
-        "answer_id": "510423",
-        "first_seen": "2026-10-14T06:08:59.659912Z",
-        "link": "https://mathoverflow.net/a/510423",
-        "owner": "Mart\u00edn-Blas P\u00e9rez Pinilla",
-        "question_id": "57465",
-        "question_title": "Can we unify addition and multiplication into one binary operation? To what extent can we find universal binary operations?",
-        "score": 11
-      },
-      {
-        "answer_created": "2026-10-12T15:38:12Z",
-        "answer_id": "515977",
-        "first_seen": "2026-10-14T00:19:41.892670Z",
-        "link": "https://mathoverflow.net/a/515977",
-        "owner": "Wojowu",
-        "question_id": "515968",
-        "question_title": "Consequences of quasi-RH",
-        "score": 17
       }
     ],
     "known": {
@@ -4919,6 +4919,7 @@
       "515100": "2026-09-11T17:43:24.207171Z",
       "515128": "2026-09-11T17:43:24.207171Z",
       "515129": "2026-09-15T17:24:52.402901Z",
+      "515133": "2026-11-24T06:03:23.635804Z",
       "515135": "2026-09-18T17:23:52.609654Z",
       "515141": "2026-09-15T00:35:31.970399Z",
       "515151": "2026-09-12T19:23:48.014355Z",
@@ -5101,9 +5102,10 @@
       "518110": "2026-11-23T09:05:37.629012Z",
       "518113": "2026-11-23T09:05:37.629012Z",
       "518114": "2026-11-23T09:05:37.629012Z",
+      "518119": "2026-11-24T06:03:23.635804Z",
       "518121": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5253,10 +5255,20 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T05:12:42Z",
+        "answer_id": "878870",
+        "first_seen": "2026-11-24T06:03:23.635804Z",
+        "link": "https://physics.stackexchange.com/a/878870",
+        "owner": "BowlOfRed",
+        "question_id": "878869",
+        "question_title": "Why does my phone get warm while it is charging?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-20T15:23:46Z",
         "answer_id": "878813",
@@ -6246,16 +6258,6 @@
         "question_id": "874375",
         "question_title": "Is darkness transparent?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-07-19T16:23:57Z",
-        "answer_id": "874352",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/874352",
-        "owner": "Valter Moretti",
-        "question_id": "874333",
-        "question_title": "Angular momentum in different frames",
-        "score": 14
       }
     ],
     "known": {
@@ -6385,9 +6387,10 @@
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z",
-      "878813": "2026-11-23T21:25:08.981891Z"
+      "878813": "2026-11-23T21:25:08.981891Z",
+      "878870": "2026-11-24T06:03:23.635804Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6427,7 +6430,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6439,7 +6442,7 @@
         "owner": "Andrew",
         "question_id": "307570",
         "question_title": "Short story about barbarians destroying civilized planets and a polite human world that rewinds time",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-22T18:44:02Z",
@@ -7596,7 +7599,7 @@
       "307568": "2026-11-23T21:25:08.981891Z",
       "307571": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "space-high-score": {
     "entries": [
@@ -8109,7 +8112,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8121,7 +8124,7 @@
         "owner": "Chronocidal",
         "question_id": "275102",
         "question_title": "How does my fictional organization get itself out of this legal pickle?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-21T03:18:32Z",
@@ -8191,7 +8194,7 @@
         "owner": "JBH",
         "question_id": "275083",
         "question_title": "Caseless ammo and costs",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-11-19T10:36:12Z",
@@ -8241,7 +8244,7 @@
         "owner": "Nosajimiki",
         "question_id": "275083",
         "question_title": "Caseless ammo and costs",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-19T01:33:50Z",
@@ -9448,6 +9451,6 @@
       "275110": "2026-11-21T23:16:11.678802Z",
       "275111": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-23T21:25:08.981891Z"
+    "last_checked": "2026-11-24T06:03:23.635804Z"
   }
 }
