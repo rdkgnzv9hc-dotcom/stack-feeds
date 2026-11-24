@@ -19,7 +19,7 @@
         "owner": "user1149748",
         "question_id": "229141",
         "question_title": "Examining a problematic PhD thesis",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-17T15:51:51Z",
@@ -79,7 +79,7 @@
         "owner": "Antoine Chambert-Loir",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-15T12:44:13Z",
@@ -1157,7 +1157,7 @@
       "228146": "2026-11-23T21:25:08.981891Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "history-high-score": {
     "entries": [
@@ -1169,7 +1169,7 @@
         "owner": "user182601",
         "question_id": "80459",
         "question_title": "What does \"I spill only 70000 beans a week into my interior\" mean?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-10T01:49:41Z",
@@ -1296,7 +1296,7 @@
       "80439": "2026-11-12T11:10:04.506282Z",
       "80460": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1655,7 +1655,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "law-high-score": {
     "entries": [
@@ -2771,7 +2771,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "math-high-score": {
     "entries": [
@@ -3438,10 +3438,20 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-22T11:44:50Z",
+        "answer_id": "518085",
+        "first_seen": "2026-11-24T17:44:45.817521Z",
+        "link": "https://mathoverflow.net/a/518085",
+        "owner": "Bogdan Grechuk",
+        "question_id": "518077",
+        "question_title": "Advice for third-world mathematicians in the age of AI",
+        "score": 11
+      },
       {
         "answer_created": "2026-11-23T06:04:13Z",
         "answer_id": "518119",
@@ -3450,7 +3460,7 @@
         "owner": "Timothy Chow",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 10
+        "score": 12
       },
       {
         "answer_created": "2026-09-11T10:10:06Z",
@@ -3480,7 +3490,7 @@
         "owner": "Amir",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-23T01:44:27Z",
@@ -3490,7 +3500,7 @@
         "owner": "Chris Bailey",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-23T01:13:49Z",
@@ -3500,7 +3510,7 @@
         "owner": "Miroslav Ol\u0161\u00e1k",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 23
+        "score": 25
       },
       {
         "answer_created": "2026-11-22T21:34:26Z",
@@ -3510,7 +3520,7 @@
         "owner": "David White",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-11-22T18:32:03Z",
@@ -3530,7 +3540,7 @@
         "owner": "Yiftach Barnea",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 16
+        "score": 18
       },
       {
         "answer_created": "2026-11-22T11:58:19Z",
@@ -3560,7 +3570,7 @@
         "owner": "Jim Belk",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 33
+        "score": 35
       },
       {
         "answer_created": "2026-11-22T03:51:11Z",
@@ -3590,7 +3600,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 31
+        "score": 33
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3600,7 +3610,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 12
+        "score": 11
       },
       {
         "answer_created": "2026-11-21T11:04:53Z",
@@ -3610,7 +3620,7 @@
         "owner": "David White",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 34
+        "score": 35
       },
       {
         "answer_created": "2026-11-21T02:17:31Z",
@@ -3619,8 +3629,8 @@
         "link": "https://mathoverflow.net/a/518044",
         "owner": "Stanley Yao Xiao",
         "question_id": "518033",
-        "question_title": "How to \"human verify\" enormous AI math output?",
-        "score": 15
+        "question_title": "How to \"humanly understand\" enormous AI math output?",
+        "score": 18
       },
       {
         "answer_created": "2026-11-20T12:44:47Z",
@@ -3639,8 +3649,8 @@
         "link": "https://mathoverflow.net/a/518037",
         "owner": "Will Sawin",
         "question_id": "518033",
-        "question_title": "How to \"human verify\" enormous AI math output?",
-        "score": 36
+        "question_title": "How to \"humanly understand\" enormous AI math output?",
+        "score": 39
       },
       {
         "answer_created": "2026-11-20T16:42:38Z",
@@ -3649,8 +3659,8 @@
         "link": "https://mathoverflow.net/a/518036",
         "owner": "Timothy Chow",
         "question_id": "518033",
-        "question_title": "How to \"human verify\" enormous AI math output?",
-        "score": 44
+        "question_title": "How to \"humanly understand\" enormous AI math output?",
+        "score": 46
       },
       {
         "answer_created": "2026-11-19T05:30:52Z",
@@ -4431,16 +4441,6 @@
         "question_id": "515921",
         "question_title": "Shall I compare thee to a cohomology theory?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-10-13T19:40:29Z",
-        "answer_id": "516024",
-        "first_seen": "2026-10-14T06:08:59.659912Z",
-        "link": "https://mathoverflow.net/a/516024",
-        "owner": "J.J. Green",
-        "question_id": "516022",
-        "question_title": "Disappearence of D. Salamon's Floer Lectures",
-        "score": 15
       }
     ],
     "known": {
@@ -5095,6 +5095,7 @@
       "518072": "2026-11-22T11:33:45.492857Z",
       "518074": "2026-11-22T19:40:04.479727Z",
       "518079": "2026-11-22T19:40:04.479727Z",
+      "518085": "2026-11-24T17:44:45.817521Z",
       "518086": "2026-11-23T00:53:16.126047Z",
       "518089": "2026-11-23T00:53:16.126047Z",
       "518097": "2026-11-23T21:25:08.981891Z",
@@ -5105,7 +5106,7 @@
       "518119": "2026-11-24T06:03:23.635804Z",
       "518121": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5255,7 +5256,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5267,7 +5268,7 @@
         "owner": "BowlOfRed",
         "question_id": "878869",
         "question_title": "Why does my phone get warm while it is charging?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-20T15:23:46Z",
@@ -5287,7 +5288,7 @@
         "owner": "Agnius Vasiliauskas",
         "question_id": "877808",
         "question_title": "Why can we feel gravity and electromagnetism in our daily lives, but not the weak and strong nuclear forces?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-14T00:28:51Z",
@@ -6390,7 +6391,7 @@
       "878813": "2026-11-23T21:25:08.981891Z",
       "878870": "2026-11-24T06:03:23.635804Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6430,10 +6431,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T16:50:49Z",
+        "answer_id": "307575",
+        "first_seen": "2026-11-24T17:44:45.817521Z",
+        "link": "https://scifi.stackexchange.com/a/307575",
+        "owner": "Clara D\u00edaz S\u00e1nchez",
+        "question_id": "307572",
+        "question_title": "A short story called something like \"why you shouldn't wake up in the middle of the night\"",
+        "score": 15
+      },
       {
         "answer_created": "2026-11-23T12:56:17Z",
         "answer_id": "307571",
@@ -6442,7 +6453,7 @@
         "owner": "Andrew",
         "question_id": "307570",
         "question_title": "Short story about barbarians destroying civilized planets and a polite human world that rewinds time",
-        "score": 18
+        "score": 21
       },
       {
         "answer_created": "2026-11-22T18:44:02Z",
@@ -7232,7 +7243,7 @@
         "owner": "Valorum",
         "question_id": "305793",
         "question_title": "Yellow transparent shield formation",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-08-31T01:00:33Z",
@@ -7423,16 +7434,6 @@
         "question_id": "305527",
         "question_title": "Does Isaac Asimov reference Batman?",
         "score": 44
-      },
-      {
-        "answer_created": "2026-08-08T03:13:05Z",
-        "answer_id": "305522",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305522",
-        "owner": "user14111",
-        "question_id": "305519",
-        "question_title": "What was the first super-predictive computer?",
-        "score": 12
       }
     ],
     "known": {
@@ -7597,9 +7598,10 @@
       "306508": "2026-11-16T02:08:01.438270Z",
       "306513": "2026-11-17T22:24:06.476643Z",
       "307568": "2026-11-23T21:25:08.981891Z",
-      "307571": "2026-11-23T21:25:08.981891Z"
+      "307571": "2026-11-23T21:25:08.981891Z",
+      "307575": "2026-11-24T17:44:45.817521Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "space-high-score": {
     "entries": [
@@ -8112,7 +8114,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8244,7 +8246,7 @@
         "owner": "Nosajimiki",
         "question_id": "275083",
         "question_title": "Caseless ammo and costs",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-19T01:33:50Z",
@@ -9451,6 +9453,6 @@
       "275110": "2026-11-21T23:16:11.678802Z",
       "275111": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-24T06:03:23.635804Z"
+    "last_checked": "2026-11-24T17:44:45.817521Z"
   }
 }
