@@ -2,6 +2,26 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-06T14:52:05Z",
+        "answer_id": "228047",
+        "first_seen": "2026-11-25T02:28:41.549626Z",
+        "link": "https://academia.stackexchange.com/a/228047",
+        "owner": "deee",
+        "question_id": "228043",
+        "question_title": "Another student answers questions for me at group meetings",
+        "score": 10
+      },
+      {
+        "answer_created": "2026-11-02T23:50:16Z",
+        "answer_id": "228013",
+        "first_seen": "2026-11-25T02:28:41.549626Z",
+        "link": "https://academia.stackexchange.com/a/228013",
+        "owner": "Mike",
+        "question_id": "227965",
+        "question_title": "How do professors feel about using AI for email drafting in PhD applications lately?",
+        "score": 10
+      },
+      {
         "answer_created": "2026-11-20T11:42:51Z",
         "answer_id": "228146",
         "first_seen": "2026-11-23T21:25:08.981891Z",
@@ -209,7 +229,7 @@
         "owner": "pyrochlor",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-06T11:56:55Z",
@@ -980,26 +1000,6 @@
         "question_id": "227481",
         "question_title": "How could I independently write a research paper in astrobiology through an anthropologic lens?",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-15T01:40:53Z",
-        "answer_id": "227470",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227470",
-        "owner": "VSP",
-        "question_id": "227469",
-        "question_title": "Seems like the student\u2019s main advisor fully wrote the paper draft with AI, what to do?",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-08-14T15:09:02Z",
-        "answer_id": "227467",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227467",
-        "owner": "C26",
-        "question_id": "227465",
-        "question_title": "Should I accept a PhD program offer at a much lower ranked university if it feels like a better fit?",
-        "score": 32
       }
     ],
     "known": {
@@ -1131,11 +1131,13 @@
       "228005": "2026-11-04T09:12:34.984352Z",
       "228006": "2026-11-04T17:15:13.405297Z",
       "228009": "2026-11-04T17:15:13.405297Z",
+      "228013": "2026-11-25T02:28:41.549626Z",
       "228016": "2026-11-04T17:15:13.405297Z",
       "228027": "2026-11-05T12:20:59.315035Z",
       "228031": "2026-11-06T17:29:36.054589Z",
       "228045": "2026-11-06T23:08:17.208597Z",
       "228046": "2026-11-07T10:09:19.123296Z",
+      "228047": "2026-11-25T02:28:41.549626Z",
       "228062": "2026-11-10T23:22:23.684523Z",
       "228074": "2026-11-12T18:56:10.238325Z",
       "228078": "2026-11-13T00:24:04.594875Z",
@@ -1157,7 +1159,7 @@
       "228146": "2026-11-23T21:25:08.981891Z",
       "229142": "2026-11-22T03:15:19.614794Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "history-high-score": {
     "entries": [
@@ -1296,7 +1298,7 @@
       "80439": "2026-11-12T11:10:04.506282Z",
       "80460": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1655,7 +1657,7 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "law-high-score": {
     "entries": [
@@ -2771,7 +2773,7 @@
       "117018": "2026-11-17T22:24:06.476643Z",
       "117027": "2026-11-20T03:15:17.995541Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "math-high-score": {
     "entries": [
@@ -3438,10 +3440,40 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-24T10:42:30Z",
+        "answer_id": "518153",
+        "first_seen": "2026-11-25T02:28:41.549626Z",
+        "link": "https://mathoverflow.net/a/518153",
+        "owner": "Alessandro Della Corte",
+        "question_id": "518147",
+        "question_title": "To what extent should the prospective mathematician engage with mathematics at this point?",
+        "score": 15
+      },
+      {
+        "answer_created": "2026-11-24T10:05:14Z",
+        "answer_id": "518149",
+        "first_seen": "2026-11-25T02:28:41.549626Z",
+        "link": "https://mathoverflow.net/a/518149",
+        "owner": "Jonny Evans",
+        "question_id": "518147",
+        "question_title": "To what extent should the prospective mathematician engage with mathematics at this point?",
+        "score": 16
+      },
+      {
+        "answer_created": "2026-11-23T14:16:54Z",
+        "answer_id": "518127",
+        "first_seen": "2026-11-25T02:28:41.549626Z",
+        "link": "https://mathoverflow.net/a/518127",
+        "owner": "Timothy Chow",
+        "question_id": "518068",
+        "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
+        "score": 11
+      },
       {
         "answer_created": "2026-11-22T11:44:50Z",
         "answer_id": "518085",
@@ -3450,7 +3482,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518077",
         "question_title": "Advice for third-world mathematicians in the age of AI",
-        "score": 11
+        "score": 10
       },
       {
         "answer_created": "2026-11-23T06:04:13Z",
@@ -3460,7 +3492,7 @@
         "owner": "Timothy Chow",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-09-11T10:10:06Z",
@@ -3480,7 +3512,7 @@
         "owner": "GH from MO",
         "question_id": "518104",
         "question_title": "Estimated length for reasonable presentation of proof of the Riemann hypothesis",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-11-22T15:57:18Z",
@@ -3510,7 +3542,7 @@
         "owner": "Miroslav Ol\u0161\u00e1k",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 25
+        "score": 27
       },
       {
         "answer_created": "2026-11-22T21:34:26Z",
@@ -3520,7 +3552,7 @@
         "owner": "David White",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-11-22T18:32:03Z",
@@ -3550,7 +3582,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518077",
         "question_title": "Advice for third-world mathematicians in the age of AI",
-        "score": 11
+        "score": 13
       },
       {
         "answer_created": "2026-11-19T22:18:30Z",
@@ -3600,7 +3632,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 33
+        "score": 36
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3610,7 +3642,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-21T11:04:53Z",
@@ -4150,7 +4182,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 56
+        "score": 57
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4411,36 +4443,6 @@
         "question_id": "515968",
         "question_title": "Consequences of quasi-RH",
         "score": 16
-      },
-      {
-        "answer_created": "2026-10-12T23:26:35Z",
-        "answer_id": "515995",
-        "first_seen": "2026-10-15T19:07:32.762884Z",
-        "link": "https://mathoverflow.net/a/515995",
-        "owner": "so-called friend Don",
-        "question_id": "515968",
-        "question_title": "Consequences of quasi-RH",
-        "score": 12
-      },
-      {
-        "answer_created": "2026-10-10T01:33:08Z",
-        "answer_id": "515895",
-        "first_seen": "2026-10-15T09:54:47.023013Z",
-        "link": "https://mathoverflow.net/a/515895",
-        "owner": "TimH",
-        "question_id": "515845",
-        "question_title": "How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references?",
-        "score": 12
-      },
-      {
-        "answer_created": "2026-10-12T19:34:17Z",
-        "answer_id": "515989",
-        "first_seen": "2026-10-14T20:41:19.345873Z",
-        "link": "https://mathoverflow.net/a/515989",
-        "owner": "D.-C. Cisinski",
-        "question_id": "515921",
-        "question_title": "Shall I compare thee to a cohomology theory?",
-        "score": 12
       }
     ],
     "known": {
@@ -5104,9 +5106,12 @@
       "518113": "2026-11-23T09:05:37.629012Z",
       "518114": "2026-11-23T09:05:37.629012Z",
       "518119": "2026-11-24T06:03:23.635804Z",
-      "518121": "2026-11-23T21:25:08.981891Z"
+      "518121": "2026-11-23T21:25:08.981891Z",
+      "518127": "2026-11-25T02:28:41.549626Z",
+      "518149": "2026-11-25T02:28:41.549626Z",
+      "518153": "2026-11-25T02:28:41.549626Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5256,7 +5261,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5268,7 +5273,7 @@
         "owner": "BowlOfRed",
         "question_id": "878869",
         "question_title": "Why does my phone get warm while it is charging?",
-        "score": 11
+        "score": 12
       },
       {
         "answer_created": "2026-11-20T15:23:46Z",
@@ -6391,7 +6396,7 @@
       "878813": "2026-11-23T21:25:08.981891Z",
       "878870": "2026-11-24T06:03:23.635804Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6431,7 +6436,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6443,7 +6448,7 @@
         "owner": "Clara D\u00edaz S\u00e1nchez",
         "question_id": "307572",
         "question_title": "A short story called something like \"why you shouldn't wake up in the middle of the night\"",
-        "score": 15
+        "score": 17
       },
       {
         "answer_created": "2026-11-23T12:56:17Z",
@@ -7601,7 +7606,7 @@
       "307571": "2026-11-23T21:25:08.981891Z",
       "307575": "2026-11-24T17:44:45.817521Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "space-high-score": {
     "entries": [
@@ -8114,7 +8119,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9453,6 +9458,6 @@
       "275110": "2026-11-21T23:16:11.678802Z",
       "275111": "2026-11-22T19:40:04.479727Z"
     },
-    "last_checked": "2026-11-24T17:44:45.817521Z"
+    "last_checked": "2026-11-25T02:28:41.549626Z"
   }
 }
