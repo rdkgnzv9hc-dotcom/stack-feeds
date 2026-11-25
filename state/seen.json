@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-24T20:08:25Z",
+        "answer_id": "229165",
+        "first_seen": "2026-11-25T12:55:27.999092Z",
+        "link": "https://academia.stackexchange.com/a/229165",
+        "owner": "paul garrett",
+        "question_id": "229161",
+        "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
+        "score": 14
+      },
+      {
         "answer_created": "2026-11-06T14:52:05Z",
         "answer_id": "228047",
         "first_seen": "2026-11-25T02:28:41.549626Z",
@@ -990,16 +1000,6 @@
         "question_id": "227494",
         "question_title": "Responding to technical queries from Master students from old employers/labs",
         "score": 14
-      },
-      {
-        "answer_created": "2026-08-16T09:26:44Z",
-        "answer_id": "227482",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227482",
-        "owner": "Allure",
-        "question_id": "227481",
-        "question_title": "How could I independently write a research paper in astrobiology through an anthropologic lens?",
-        "score": 14
       }
     ],
     "known": {
@@ -1157,9 +1157,10 @@
       "228130": "2026-11-19T21:34:08.158133Z",
       "228135": "2026-11-20T11:47:53.753615Z",
       "228146": "2026-11-23T21:25:08.981891Z",
-      "229142": "2026-11-22T03:15:19.614794Z"
+      "229142": "2026-11-22T03:15:19.614794Z",
+      "229165": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "history-high-score": {
     "entries": [
@@ -1298,7 +1299,7 @@
       "80439": "2026-11-12T11:10:04.506282Z",
       "80460": "2026-11-23T21:25:08.981891Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1657,10 +1658,30 @@
       "19761": "2026-11-05T20:40:06.100743Z",
       "19763": "2026-11-10T17:50:58.550845Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "law-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T22:08:57Z",
+        "answer_id": "117043",
+        "first_seen": "2026-11-25T12:55:27.999092Z",
+        "link": "https://law.stackexchange.com/a/117043",
+        "owner": "phoog",
+        "question_id": "117042",
+        "question_title": "To what extent are U.S. ships in international waters part of U.S. territory?",
+        "score": 12
+      },
+      {
+        "answer_created": "2026-11-23T16:55:15Z",
+        "answer_id": "117039",
+        "first_seen": "2026-11-25T12:55:27.999092Z",
+        "link": "https://law.stackexchange.com/a/117039",
+        "owner": "Barmar",
+        "question_id": "117037",
+        "question_title": "Can a court refuse a plea deal?",
+        "score": 12
+      },
       {
         "answer_created": "2026-11-18T18:57:43Z",
         "answer_id": "117027",
@@ -2640,26 +2661,6 @@
         "question_id": "115110",
         "question_title": "Niger just banned the A in LGBTQIA+. In practice, what does this mean and what exactly is banned?",
         "score": 17
-      },
-      {
-        "answer_created": "2026-07-16T21:18:54Z",
-        "answer_id": "115105",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115105",
-        "owner": "Michael Hardy",
-        "question_id": "115104",
-        "question_title": "What are the legal effects of timekeeping legislation, in particular the Permanent Daylight Saving Time Act?",
-        "score": 14
-      },
-      {
-        "answer_created": "2026-07-07T00:50:52Z",
-        "answer_id": "115068",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://law.stackexchange.com/a/115068",
-        "owner": "user102008",
-        "question_id": "115067",
-        "question_title": "Birthright Citizenship: Born on a Naval Vessel",
-        "score": 11
       }
     ],
     "known": {
@@ -2771,9 +2772,11 @@
       "117007": "2026-11-18T21:56:46.613001Z",
       "117010": "2026-11-19T03:27:43.171967Z",
       "117018": "2026-11-17T22:24:06.476643Z",
-      "117027": "2026-11-20T03:15:17.995541Z"
+      "117027": "2026-11-20T03:15:17.995541Z",
+      "117039": "2026-11-25T12:55:27.999092Z",
+      "117043": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "math-high-score": {
     "entries": [
@@ -3440,7 +3443,7 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3452,7 +3455,7 @@
         "owner": "Alessandro Della Corte",
         "question_id": "518147",
         "question_title": "To what extent should the prospective mathematician engage with mathematics at this point?",
-        "score": 15
+        "score": 22
       },
       {
         "answer_created": "2026-11-24T10:05:14Z",
@@ -3462,7 +3465,7 @@
         "owner": "Jonny Evans",
         "question_id": "518147",
         "question_title": "To what extent should the prospective mathematician engage with mathematics at this point?",
-        "score": 16
+        "score": 25
       },
       {
         "answer_created": "2026-11-23T14:16:54Z",
@@ -3492,7 +3495,7 @@
         "owner": "Timothy Chow",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-09-11T10:10:06Z",
@@ -3512,7 +3515,7 @@
         "owner": "GH from MO",
         "question_id": "518104",
         "question_title": "Estimated length for reasonable presentation of proof of the Riemann hypothesis",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-22T15:57:18Z",
@@ -3532,7 +3535,7 @@
         "owner": "Chris Bailey",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-23T01:13:49Z",
@@ -3542,7 +3545,7 @@
         "owner": "Miroslav Ol\u0161\u00e1k",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-11-22T21:34:26Z",
@@ -3632,7 +3635,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 36
+        "score": 37
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3682,7 +3685,7 @@
         "owner": "Will Sawin",
         "question_id": "518033",
         "question_title": "How to \"humanly understand\" enormous AI math output?",
-        "score": 39
+        "score": 40
       },
       {
         "answer_created": "2026-11-20T16:42:38Z",
@@ -4232,7 +4235,7 @@
         "owner": "Timothy Chow",
         "question_id": "515849",
         "question_title": "Which of the results released by OpenAI went against the conventional mathematical wisdom?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-10-23T23:30:58Z",
@@ -5111,7 +5114,7 @@
       "518149": "2026-11-25T02:28:41.549626Z",
       "518153": "2026-11-25T02:28:41.549626Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5261,7 +5264,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5273,7 +5276,7 @@
         "owner": "BowlOfRed",
         "question_id": "878869",
         "question_title": "Why does my phone get warm while it is charging?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-20T15:23:46Z",
@@ -6396,7 +6399,7 @@
       "878813": "2026-11-23T21:25:08.981891Z",
       "878870": "2026-11-24T06:03:23.635804Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6436,10 +6439,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-24T13:30:11Z",
+        "answer_id": "307583",
+        "first_seen": "2026-11-25T12:55:27.999092Z",
+        "link": "https://scifi.stackexchange.com/a/307583",
+        "owner": "Andrew",
+        "question_id": "307581",
+        "question_title": "Science experiment resets time for 24 hours and only one man remembers",
+        "score": 16
+      },
       {
         "answer_created": "2026-11-23T16:50:49Z",
         "answer_id": "307575",
@@ -6458,7 +6471,7 @@
         "owner": "Andrew",
         "question_id": "307570",
         "question_title": "Short story about barbarians destroying civilized planets and a polite human world that rewinds time",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-11-22T18:44:02Z",
@@ -7429,16 +7442,6 @@
         "question_id": "305585",
         "question_title": "Identify a story set in an ancient, underground series of floors, accessed by a vertical shaft with holes in the wall",
         "score": 24
-      },
-      {
-        "answer_created": "2026-08-08T13:58:33Z",
-        "answer_id": "305528",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305528",
-        "owner": "DavidW",
-        "question_id": "305527",
-        "question_title": "Does Isaac Asimov reference Batman?",
-        "score": 44
       }
     ],
     "known": {
@@ -7604,9 +7607,10 @@
       "306513": "2026-11-17T22:24:06.476643Z",
       "307568": "2026-11-23T21:25:08.981891Z",
       "307571": "2026-11-23T21:25:08.981891Z",
-      "307575": "2026-11-24T17:44:45.817521Z"
+      "307575": "2026-11-24T17:44:45.817521Z",
+      "307583": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "space-high-score": {
     "entries": [
@@ -8119,10 +8123,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-24T07:56:50Z",
+        "answer_id": "275124",
+        "first_seen": "2026-11-25T12:55:27.999092Z",
+        "link": "https://worldbuilding.stackexchange.com/a/275124",
+        "owner": "user111403",
+        "question_id": "275123",
+        "question_title": "Strategically, would it make more sense for a nation to keep its anti-nuke technology secret rather than revealing it openly?",
+        "score": 6
+      },
       {
         "answer_created": "2026-11-21T13:07:50Z",
         "answer_id": "275111",
@@ -9112,16 +9126,6 @@
         "question_id": "274460",
         "question_title": "Could convergent evolution explain humans developing on another planet independently of Earth?",
         "score": 5
-      },
-      {
-        "answer_created": "2026-08-31T20:26:11Z",
-        "answer_id": "274444",
-        "first_seen": "2026-10-24T14:33:16.336339Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274444",
-        "owner": "Zags",
-        "question_id": "274429",
-        "question_title": "Designing a barren yet \"shirt-sleeve habitable\" exoplanet",
-        "score": 5
       }
     ],
     "known": {
@@ -9456,8 +9460,9 @@
       "275091": "2026-11-20T20:19:24.908611Z",
       "275105": "2026-11-21T09:53:31.824615Z",
       "275110": "2026-11-21T23:16:11.678802Z",
-      "275111": "2026-11-22T19:40:04.479727Z"
+      "275111": "2026-11-22T19:40:04.479727Z",
+      "275124": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-25T02:28:41.549626Z"
+    "last_checked": "2026-11-25T12:55:27.999092Z"
   }
 }
