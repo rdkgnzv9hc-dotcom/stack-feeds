@@ -2,6 +2,16 @@
   "academia-high-score": {
     "entries": [
       {
+        "answer_created": "2026-11-24T19:53:11Z",
+        "answer_id": "229164",
+        "first_seen": "2026-11-26T05:04:00.940133Z",
+        "link": "https://academia.stackexchange.com/a/229164",
+        "owner": "Buffy",
+        "question_id": "229163",
+        "question_title": "Applying for a PhD with errors in MSc thesis",
+        "score": 12
+      },
+      {
         "answer_created": "2026-11-24T19:15:03Z",
         "answer_id": "229162",
         "first_seen": "2026-11-25T22:32:16.327433Z",
@@ -9,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "229161",
         "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-24T20:08:25Z",
@@ -19,7 +29,7 @@
         "owner": "paul garrett",
         "question_id": "229161",
         "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-06T14:52:05Z",
@@ -990,16 +1000,6 @@
         "question_id": "227510",
         "question_title": "Should I meet with a professor to discuss joining his lab if I am leaving soon?",
         "score": 23
-      },
-      {
-        "answer_created": "2026-08-18T01:37:58Z",
-        "answer_id": "227503",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://academia.stackexchange.com/a/227503",
-        "owner": "Wolfgang Bangerth",
-        "question_id": "227501",
-        "question_title": "Is custom an acceptable reason to remove an agreed upon author from a publication?",
-        "score": 22
       }
     ],
     "known": {
@@ -1159,9 +1159,10 @@
       "228146": "2026-11-23T21:25:08.981891Z",
       "229142": "2026-11-22T03:15:19.614794Z",
       "229162": "2026-11-25T22:32:16.327433Z",
+      "229164": "2026-11-26T05:04:00.940133Z",
       "229165": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "history-high-score": {
     "entries": [
@@ -1311,7 +1312,7 @@
       "80460": "2026-11-23T21:25:08.981891Z",
       "80469": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1681,7 +1682,7 @@
       "19763": "2026-11-10T17:50:58.550845Z",
       "19780": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "law-high-score": {
     "entries": [
@@ -2799,7 +2800,7 @@
       "117039": "2026-11-25T12:55:27.999092Z",
       "117043": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "math-high-score": {
     "entries": [
@@ -3466,7 +3467,7 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3478,7 +3479,7 @@
         "owner": "Shahrooz Janbaz",
         "question_id": "518197",
         "question_title": "What are the implications of a proof that $VP \\neq VNP$?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-25T15:53:10Z",
@@ -3488,7 +3489,7 @@
         "owner": "Wojowu",
         "question_id": "518197",
         "question_title": "What are the implications of a proof that $VP \\neq VNP$?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-24T14:31:19Z",
@@ -3528,7 +3529,7 @@
         "owner": "Jonny Evans",
         "question_id": "518147",
         "question_title": "To what extent should the prospective mathematician engage with mathematics at this point?",
-        "score": 32
+        "score": 33
       },
       {
         "answer_created": "2026-11-23T14:16:54Z",
@@ -3718,7 +3719,7 @@
         "owner": "David White",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 35
+        "score": 37
       },
       {
         "answer_created": "2026-11-21T02:17:31Z",
@@ -3758,7 +3759,7 @@
         "owner": "Timothy Chow",
         "question_id": "518033",
         "question_title": "How to \"humanly understand\" enormous AI math output?",
-        "score": 47
+        "score": 48
       },
       {
         "answer_created": "2026-11-19T05:30:52Z",
@@ -5141,7 +5142,7 @@
       "518199": "2026-11-25T22:32:16.327433Z",
       "518200": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5291,10 +5292,20 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-23T16:27:01Z",
+        "answer_id": "878879",
+        "first_seen": "2026-11-26T05:04:00.940133Z",
+        "link": "https://physics.stackexchange.com/a/878879",
+        "owner": "rustot",
+        "question_id": "878875",
+        "question_title": "Could a transformer without a secondary winding exist?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-23T05:12:42Z",
         "answer_id": "878870",
@@ -5303,7 +5314,7 @@
         "owner": "BowlOfRed",
         "question_id": "878869",
         "question_title": "Why does my phone get warm while it is charging?",
-        "score": 15
+        "score": 16
       },
       {
         "answer_created": "2026-11-20T15:23:46Z",
@@ -5313,7 +5324,7 @@
         "owner": "StephenG - Help Ukraine",
         "question_id": "877808",
         "question_title": "Why can we feel gravity and electromagnetism in our daily lives, but not the weak and strong nuclear forces?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-20T06:18:10Z",
@@ -5323,7 +5334,7 @@
         "owner": "Agnius Vasiliauskas",
         "question_id": "877808",
         "question_title": "Why can we feel gravity and electromagnetism in our daily lives, but not the weak and strong nuclear forces?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-14T00:28:51Z",
@@ -6284,16 +6295,6 @@
         "question_id": "874383",
         "question_title": "In a recorded measurement, why isn't the zero before a decimal point considered significant?",
         "score": 15
-      },
-      {
-        "answer_created": "2026-07-20T15:03:39Z",
-        "answer_id": "874376",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/874376",
-        "owner": "Ayush",
-        "question_id": "874375",
-        "question_title": "Is darkness transparent?",
-        "score": 14
       }
     ],
     "known": {
@@ -6424,9 +6425,10 @@
       "877674": "2026-11-17T03:53:49.093655Z",
       "877809": "2026-11-20T20:19:24.908611Z",
       "878813": "2026-11-23T21:25:08.981891Z",
-      "878870": "2026-11-24T06:03:23.635804Z"
+      "878870": "2026-11-24T06:03:23.635804Z",
+      "878879": "2026-11-26T05:04:00.940133Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6466,7 +6468,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -7638,7 +7640,7 @@
       "307582": "2026-11-25T22:32:16.327433Z",
       "307583": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "space-high-score": {
     "entries": [
@@ -7700,7 +7702,7 @@
         "owner": "Darth Pseudonym",
         "question_id": "70787",
         "question_title": "How are the Apoapsis and Periapsis calculated for a gaseous planet?",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-09-20T02:15:12Z",
@@ -8162,7 +8164,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8184,7 +8186,7 @@
         "owner": "user111403",
         "question_id": "275123",
         "question_title": "Strategically, would it make more sense for a nation to keep its anti-nuke technology secret rather than revealing it openly?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-21T13:07:50Z",
@@ -9503,6 +9505,6 @@
       "275124": "2026-11-25T12:55:27.999092Z",
       "276124": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-25T22:32:16.327433Z"
+    "last_checked": "2026-11-26T05:04:00.940133Z"
   }
 }
