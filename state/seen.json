@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "229163",
         "question_title": "Applying for a PhD with errors in MSc thesis",
-        "score": 12
+        "score": 14
       },
       {
         "answer_created": "2026-11-24T19:15:03Z",
@@ -19,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "229161",
         "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-24T20:08:25Z",
@@ -29,7 +29,7 @@
         "owner": "paul garrett",
         "question_id": "229161",
         "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
-        "score": 20
+        "score": 21
       },
       {
         "answer_created": "2026-11-06T14:52:05Z",
@@ -179,7 +179,7 @@
         "owner": "Polytropos",
         "question_id": "228096",
         "question_title": "PhD advisor using AI to solve research problems",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-11-12T15:30:14Z",
@@ -1162,7 +1162,7 @@
       "229164": "2026-11-26T05:04:00.940133Z",
       "229165": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "history-high-score": {
     "entries": [
@@ -1312,7 +1312,7 @@
       "80460": "2026-11-23T21:25:08.981891Z",
       "80469": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1324,7 +1324,7 @@
         "owner": "njuffa",
         "question_id": "19779",
         "question_title": "Is \"Harry Burkill\" the same person as Gerd Edzard Harry Reuter?",
-        "score": 10
+        "score": 13
       },
       {
         "answer_created": "2026-11-06T00:24:28Z",
@@ -1682,7 +1682,7 @@
       "19763": "2026-11-10T17:50:58.550845Z",
       "19780": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "law-high-score": {
     "entries": [
@@ -2800,7 +2800,7 @@
       "117039": "2026-11-25T12:55:27.999092Z",
       "117043": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "math-high-score": {
     "entries": [
@@ -3467,10 +3467,20 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-25T22:57:56Z",
+        "answer_id": "518212",
+        "first_seen": "2026-11-26T15:17:05.538831Z",
+        "link": "https://mathoverflow.net/a/518212",
+        "owner": "Timothy Chow",
+        "question_id": "518197",
+        "question_title": "What are the implications of a proof that $VP \\neq VNP$?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-25T16:03:26Z",
         "answer_id": "518200",
@@ -3479,7 +3489,7 @@
         "owner": "Shahrooz Janbaz",
         "question_id": "518197",
         "question_title": "What are the implications of a proof that $VP \\neq VNP$?",
-        "score": 11
+        "score": 14
       },
       {
         "answer_created": "2026-11-25T15:53:10Z",
@@ -3489,7 +3499,7 @@
         "owner": "Wojowu",
         "question_id": "518197",
         "question_title": "What are the implications of a proof that $VP \\neq VNP$?",
-        "score": 15
+        "score": 18
       },
       {
         "answer_created": "2026-11-24T14:31:19Z",
@@ -3559,7 +3569,7 @@
         "owner": "Timothy Chow",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-09-11T10:10:06Z",
@@ -3599,7 +3609,7 @@
         "owner": "Chris Bailey",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-23T01:13:49Z",
@@ -3609,7 +3619,7 @@
         "owner": "Miroslav Ol\u0161\u00e1k",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 29
+        "score": 30
       },
       {
         "answer_created": "2026-11-22T21:34:26Z",
@@ -3649,7 +3659,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518077",
         "question_title": "Advice for third-world mathematicians in the age of AI",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-11-19T22:18:30Z",
@@ -3669,7 +3679,7 @@
         "owner": "Jim Belk",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 36
+        "score": 37
       },
       {
         "answer_created": "2026-11-22T03:51:11Z",
@@ -3749,7 +3759,7 @@
         "owner": "Will Sawin",
         "question_id": "518033",
         "question_title": "How to \"humanly understand\" enormous AI math output?",
-        "score": 41
+        "score": 42
       },
       {
         "answer_created": "2026-11-20T16:42:38Z",
@@ -3759,7 +3769,7 @@
         "owner": "Timothy Chow",
         "question_id": "518033",
         "question_title": "How to \"humanly understand\" enormous AI math output?",
-        "score": 48
+        "score": 49
       },
       {
         "answer_created": "2026-11-19T05:30:52Z",
@@ -3859,7 +3869,7 @@
         "owner": "Joel David Hamkins",
         "question_id": "516922",
         "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
-        "score": 26
+        "score": 27
       },
       {
         "answer_created": "2026-09-07T02:23:36Z",
@@ -4249,7 +4259,7 @@
         "owner": "Timothy Chow",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 57
+        "score": 58
       },
       {
         "answer_created": "2026-10-27T22:11:22Z",
@@ -4259,7 +4269,7 @@
         "owner": "Vasily Ilin",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 36
+        "score": 35
       },
       {
         "answer_created": "2026-10-27T17:48:05Z",
@@ -4269,7 +4279,7 @@
         "owner": "arsmath",
         "question_id": "209927",
         "question_title": "Next steps on formal proof of classification of finite simple groups",
-        "score": 25
+        "score": 24
       },
       {
         "answer_created": "2026-10-27T14:17:36Z",
@@ -4409,7 +4419,7 @@
         "owner": "Piotr Hajlasz",
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
-        "score": 16
+        "score": 15
       },
       {
         "answer_created": "2026-10-20T21:54:24Z",
@@ -4460,16 +4470,6 @@
         "question_id": "516107",
         "question_title": "Is the classification of finite simple groups provable without the axiom of choice?",
         "score": 18
-      },
-      {
-        "answer_created": "2026-10-18T12:42:37Z",
-        "answer_id": "516156",
-        "first_seen": "2026-10-18T14:34:47.044490Z",
-        "link": "https://mathoverflow.net/a/516156",
-        "owner": "Timothy Chow",
-        "question_id": "22142",
-        "question_title": "Has Vaught's Conjecture Been Solved?",
-        "score": 17
       }
     ],
     "known": {
@@ -5140,9 +5140,10 @@
       "518157": "2026-11-25T22:32:16.327433Z",
       "518161": "2026-11-25T22:32:16.327433Z",
       "518199": "2026-11-25T22:32:16.327433Z",
-      "518200": "2026-11-25T22:32:16.327433Z"
+      "518200": "2026-11-25T22:32:16.327433Z",
+      "518212": "2026-11-26T15:17:05.538831Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5292,7 +5293,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6428,7 +6429,7 @@
       "878870": "2026-11-24T06:03:23.635804Z",
       "878879": "2026-11-26T05:04:00.940133Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6468,7 +6469,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6490,7 +6491,7 @@
         "owner": "Andrew",
         "question_id": "307581",
         "question_title": "Science experiment resets time for 24 hours and only one man remembers",
-        "score": 20
+        "score": 23
       },
       {
         "answer_created": "2026-11-23T16:50:49Z",
@@ -7640,7 +7641,7 @@
       "307582": "2026-11-25T22:32:16.327433Z",
       "307583": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "space-high-score": {
     "entries": [
@@ -7662,7 +7663,7 @@
         "owner": "J\u00f6rg W Mittag",
         "question_id": "70799",
         "question_title": "What is the longest time after liftoff a fully cryogenic and semi cryogenic engine restarted?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-10T16:31:08Z",
@@ -8164,7 +8165,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8186,7 +8187,7 @@
         "owner": "user111403",
         "question_id": "275123",
         "question_title": "Strategically, would it make more sense for a nation to keep its anti-nuke technology secret rather than revealing it openly?",
-        "score": 9
+        "score": 11
       },
       {
         "answer_created": "2026-11-21T13:07:50Z",
@@ -8896,7 +8897,7 @@
         "owner": "John Dallman",
         "question_id": "274879",
         "question_title": "Sustainability of eating an intelligent race",
-        "score": 6
+        "score": 7
       },
       {
         "answer_created": "2026-10-28T08:10:50Z",
@@ -8906,7 +8907,7 @@
         "owner": "Trioxidane",
         "question_id": "274879",
         "question_title": "Sustainability of eating an intelligent race",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-10-28T05:47:18Z",
@@ -9505,6 +9506,6 @@
       "275124": "2026-11-25T12:55:27.999092Z",
       "276124": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-26T05:04:00.940133Z"
+    "last_checked": "2026-11-26T15:17:05.538831Z"
   }
 }
