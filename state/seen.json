@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "229173",
         "question_title": "Is it appropriate to link to explainer videos in a journal submission cover letter?",
-        "score": 12
+        "score": 13
       },
       {
         "answer_created": "2026-11-24T19:53:11Z",
@@ -19,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "229163",
         "question_title": "Applying for a PhD with errors in MSc thesis",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-24T19:15:03Z",
@@ -29,7 +29,7 @@
         "owner": "Buffy",
         "question_id": "229161",
         "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-24T20:08:25Z",
@@ -39,7 +39,7 @@
         "owner": "paul garrett",
         "question_id": "229161",
         "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
-        "score": 22
+        "score": 23
       },
       {
         "answer_created": "2026-11-06T14:52:05Z",
@@ -49,7 +49,7 @@
         "owner": "deee",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-02T23:50:16Z",
@@ -179,7 +179,7 @@
         "owner": "Buffy",
         "question_id": "228092",
         "question_title": "How to Navigate Academia",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-15T02:47:05Z",
@@ -279,7 +279,7 @@
         "owner": "Bob Brown",
         "question_id": "228043",
         "question_title": "Another student answers questions for me at group meetings",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-04T22:05:20Z",
@@ -1163,7 +1163,7 @@
       "229165": "2026-11-25T12:55:27.999092Z",
       "229175": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "history-high-score": {
     "entries": [
@@ -1313,7 +1313,7 @@
       "80460": "2026-11-23T21:25:08.981891Z",
       "80469": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1325,7 +1325,7 @@
         "owner": "njuffa",
         "question_id": "19779",
         "question_title": "Is \"Harry Burkill\" the same person as Gerd Edzard Harry Reuter?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-06T00:24:28Z",
@@ -1683,7 +1683,7 @@
       "19763": "2026-11-10T17:50:58.550845Z",
       "19780": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "law-high-score": {
     "entries": [
@@ -1695,7 +1695,7 @@
         "owner": "phoog",
         "question_id": "117042",
         "question_title": "To what extent are U.S. ships in international waters part of U.S. territory?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-23T16:55:15Z",
@@ -2801,7 +2801,7 @@
       "117039": "2026-11-25T12:55:27.999092Z",
       "117043": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "math-high-score": {
     "entries": [
@@ -3468,10 +3468,20 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "mathoverflow-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-25T17:18:06Z",
+        "answer_id": "518203",
+        "first_seen": "2026-11-27T18:59:14.133665Z",
+        "link": "https://mathoverflow.net/a/518203",
+        "owner": "Sam Hopkins",
+        "question_id": "518068",
+        "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
+        "score": 13
+      },
       {
         "answer_created": "2026-11-26T13:13:43Z",
         "answer_id": "518225",
@@ -3480,7 +3490,7 @@
         "owner": "Wojowu",
         "question_id": "518206",
         "question_title": "What is the main new idea in \u201cEuclidean geometry in the asymptotic spectrum of tensors\u201d?",
-        "score": 16
+        "score": 19
       },
       {
         "answer_created": "2026-11-25T22:57:56Z",
@@ -3490,7 +3500,7 @@
         "owner": "Timothy Chow",
         "question_id": "518197",
         "question_title": "What are the implications of a proof that $VP \\neq VNP$?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-25T16:03:26Z",
@@ -3530,7 +3540,7 @@
         "owner": "David White",
         "question_id": "518156",
         "question_title": "Is there an established community errata list for mathematics textbooks?",
-        "score": 11
+        "score": 14
       },
       {
         "answer_created": "2026-11-24T10:42:30Z",
@@ -3570,7 +3580,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518077",
         "question_title": "Advice for third-world mathematicians in the age of AI",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-23T06:04:13Z",
@@ -3580,7 +3590,7 @@
         "owner": "Timothy Chow",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 16
+        "score": 17
       },
       {
         "answer_created": "2026-09-11T10:10:06Z",
@@ -3620,7 +3630,7 @@
         "owner": "Chris Bailey",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-23T01:13:49Z",
@@ -3720,7 +3730,7 @@
         "owner": "Lucia",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 39
+        "score": 41
       },
       {
         "answer_created": "2026-11-21T21:50:18Z",
@@ -3730,7 +3740,7 @@
         "owner": "Bogdan Grechuk",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 13
+        "score": 12
       },
       {
         "answer_created": "2026-11-21T11:04:53Z",
@@ -3750,7 +3760,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "518033",
         "question_title": "How to \"humanly understand\" enormous AI math output?",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-20T12:44:47Z",
@@ -3770,7 +3780,7 @@
         "owner": "Will Sawin",
         "question_id": "518033",
         "question_title": "How to \"humanly understand\" enormous AI math output?",
-        "score": 42
+        "score": 44
       },
       {
         "answer_created": "2026-11-20T16:42:38Z",
@@ -3780,7 +3790,7 @@
         "owner": "Timothy Chow",
         "question_id": "518033",
         "question_title": "How to \"humanly understand\" enormous AI math output?",
-        "score": 49
+        "score": 50
       },
       {
         "answer_created": "2026-11-19T05:30:52Z",
@@ -4330,7 +4340,7 @@
         "owner": "Matt F.",
         "question_id": "516336",
         "question_title": "Are there AI-generated mathematical papers devoted to developing a general theory rather than solving a specific problem?",
-        "score": 15
+        "score": 14
       },
       {
         "answer_created": "2026-10-23T20:38:06Z",
@@ -4461,16 +4471,6 @@
         "question_id": "516206",
         "question_title": "Reliability of Anthropic's Lean verifications",
         "score": 32
-      },
-      {
-        "answer_created": "2026-10-19T20:25:12Z",
-        "answer_id": "516183",
-        "first_seen": "2026-10-20T11:36:46.445700Z",
-        "link": "https://mathoverflow.net/a/516183",
-        "owner": "Jonathan Love",
-        "question_id": "516182",
-        "question_title": "Status of effective Mordell--Faltings",
-        "score": 12
       }
     ],
     "known": {
@@ -5142,10 +5142,11 @@
       "518161": "2026-11-25T22:32:16.327433Z",
       "518199": "2026-11-25T22:32:16.327433Z",
       "518200": "2026-11-25T22:32:16.327433Z",
+      "518203": "2026-11-27T18:59:14.133665Z",
       "518212": "2026-11-26T15:17:05.538831Z",
       "518225": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5295,7 +5296,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6431,7 +6432,7 @@
       "878870": "2026-11-24T06:03:23.635804Z",
       "878879": "2026-11-26T05:04:00.940133Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6471,7 +6472,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6483,7 +6484,7 @@
         "owner": "beichst",
         "question_id": "307593",
         "question_title": "Old sci-fi novel: scientists deliberately raise kidnapped babies underground shielded from solar radiation; they develop psi powers, each gen stronger",
-        "score": 16
+        "score": 18
       },
       {
         "answer_created": "2026-11-24T13:25:31Z",
@@ -7644,7 +7645,7 @@
       "307583": "2026-11-25T12:55:27.999092Z",
       "307594": "2026-11-27T08:33:25.007294Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "space-high-score": {
     "entries": [
@@ -8168,7 +8169,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -8250,7 +8251,7 @@
         "owner": "Nosajimiki",
         "question_id": "275063",
         "question_title": "How to get U.S. residency or citizenship for a kitsune from another world?",
-        "score": 8
+        "score": 9
       },
       {
         "answer_created": "2026-11-18T23:19:59Z",
@@ -9509,6 +9510,6 @@
       "275124": "2026-11-25T12:55:27.999092Z",
       "276124": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-27T08:33:25.007294Z"
+    "last_checked": "2026-11-27T18:59:14.133665Z"
   }
 }
