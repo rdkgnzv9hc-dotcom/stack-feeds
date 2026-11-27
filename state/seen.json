@@ -19,7 +19,7 @@
         "owner": "Buffy",
         "question_id": "229163",
         "question_title": "Applying for a PhD with errors in MSc thesis",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-24T19:15:03Z",
@@ -39,7 +39,7 @@
         "owner": "paul garrett",
         "question_id": "229161",
         "question_title": "Can you keep doing postdocs forever and finally get a permament position, or do some unlucky people never land one?",
-        "score": 21
+        "score": 22
       },
       {
         "answer_created": "2026-11-06T14:52:05Z",
@@ -599,7 +599,7 @@
         "owner": "Stephan Kolassa",
         "question_id": "227850",
         "question_title": "Ethics of submission to a second journal after rejection with \"Rewrite and resubmit\" from first journal?",
-        "score": 23
+        "score": 24
       },
       {
         "answer_created": "2026-10-09T08:51:11Z",
@@ -1163,7 +1163,7 @@
       "229165": "2026-11-25T12:55:27.999092Z",
       "229175": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "history-high-score": {
     "entries": [
@@ -1313,7 +1313,7 @@
       "80460": "2026-11-23T21:25:08.981891Z",
       "80469": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1683,7 +1683,7 @@
       "19763": "2026-11-10T17:50:58.550845Z",
       "19780": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "law-high-score": {
     "entries": [
@@ -2801,7 +2801,7 @@
       "117039": "2026-11-25T12:55:27.999092Z",
       "117043": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "math-high-score": {
     "entries": [
@@ -3468,7 +3468,7 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3480,7 +3480,7 @@
         "owner": "Wojowu",
         "question_id": "518206",
         "question_title": "What is the main new idea in \u201cEuclidean geometry in the asymptotic spectrum of tensors\u201d?",
-        "score": 14
+        "score": 16
       },
       {
         "answer_created": "2026-11-25T22:57:56Z",
@@ -3530,7 +3530,7 @@
         "owner": "David White",
         "question_id": "518156",
         "question_title": "Is there an established community errata list for mathematics textbooks?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-24T10:42:30Z",
@@ -3540,7 +3540,7 @@
         "owner": "Alessandro Della Corte",
         "question_id": "518147",
         "question_title": "To what extent should the prospective mathematician engage with mathematics at this point?",
-        "score": 30
+        "score": 29
       },
       {
         "answer_created": "2026-11-24T10:05:14Z",
@@ -3550,7 +3550,7 @@
         "owner": "Jonny Evans",
         "question_id": "518147",
         "question_title": "To what extent should the prospective mathematician engage with mathematics at this point?",
-        "score": 34
+        "score": 33
       },
       {
         "answer_created": "2026-11-23T14:16:54Z",
@@ -3690,7 +3690,7 @@
         "owner": "Jim Belk",
         "question_id": "518064",
         "question_title": "Are some fields of math (more) AI-resistant?",
-        "score": 38
+        "score": 39
       },
       {
         "answer_created": "2026-11-22T03:51:11Z",
@@ -3740,7 +3740,7 @@
         "owner": "David White",
         "question_id": "518048",
         "question_title": "Should AI-assisted landmark results be awarded and recognized in the traditional way?",
-        "score": 37
+        "score": 39
       },
       {
         "answer_created": "2026-11-21T02:17:31Z",
@@ -3880,7 +3880,7 @@
         "owner": "Joel David Hamkins",
         "question_id": "516922",
         "question_title": "In plain Zermelo-Fraenkel set theory, can $\\omega_1$ be metrisable?",
-        "score": 27
+        "score": 28
       },
       {
         "answer_created": "2026-09-07T02:23:36Z",
@@ -5145,7 +5145,7 @@
       "518212": "2026-11-26T15:17:05.538831Z",
       "518225": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5295,7 +5295,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "physics-high-score": {
     "entries": [
@@ -6431,7 +6431,7 @@
       "878870": "2026-11-24T06:03:23.635804Z",
       "878879": "2026-11-26T05:04:00.940133Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6471,10 +6471,20 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "scifi-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-25T16:25:39Z",
+        "answer_id": "307594",
+        "first_seen": "2026-11-27T08:33:25.007294Z",
+        "link": "https://scifi.stackexchange.com/a/307594",
+        "owner": "beichst",
+        "question_id": "307593",
+        "question_title": "Old sci-fi novel: scientists deliberately raise kidnapped babies underground shielded from solar radiation; they develop psi powers, each gen stronger",
+        "score": 16
+      },
       {
         "answer_created": "2026-11-24T13:25:31Z",
         "answer_id": "307582",
@@ -7464,16 +7474,6 @@
         "question_id": "288259",
         "question_title": "Why does nobody in Tolkien's stories ever attempt to question or reason with Melkor?",
         "score": 12
-      },
-      {
-        "answer_created": "2026-08-14T02:11:16Z",
-        "answer_id": "305604",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://scifi.stackexchange.com/a/305604",
-        "owner": "Dinae",
-        "question_id": "305598",
-        "question_title": "1980s children\u2019s space ark story about a teen stowaway who flees disaster with her Native American brother",
-        "score": 16
       }
     ],
     "known": {
@@ -7641,9 +7641,10 @@
       "307571": "2026-11-23T21:25:08.981891Z",
       "307575": "2026-11-24T17:44:45.817521Z",
       "307582": "2026-11-25T22:32:16.327433Z",
-      "307583": "2026-11-25T12:55:27.999092Z"
+      "307583": "2026-11-25T12:55:27.999092Z",
+      "307594": "2026-11-27T08:33:25.007294Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "space-high-score": {
     "entries": [
@@ -8167,7 +8168,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9508,6 +9509,6 @@
       "275124": "2026-11-25T12:55:27.999092Z",
       "276124": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-26T23:54:37.025445Z"
+    "last_checked": "2026-11-27T08:33:25.007294Z"
   }
 }
