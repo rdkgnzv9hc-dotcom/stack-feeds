@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "229173",
         "question_title": "Is it appropriate to link to explainer videos in a journal submission cover letter?",
-        "score": 14
+        "score": 15
       },
       {
         "answer_created": "2026-11-24T19:53:11Z",
@@ -1163,7 +1163,7 @@
       "229165": "2026-11-25T12:55:27.999092Z",
       "229175": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "history-high-score": {
     "entries": [
@@ -1313,7 +1313,7 @@
       "80460": "2026-11-23T21:25:08.981891Z",
       "80469": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1683,7 +1683,7 @@
       "19763": "2026-11-10T17:50:58.550845Z",
       "19780": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "law-high-score": {
     "entries": [
@@ -2801,7 +2801,7 @@
       "117039": "2026-11-25T12:55:27.999092Z",
       "117043": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "math-high-score": {
     "entries": [
@@ -3468,7 +3468,7 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3640,7 +3640,7 @@
         "owner": "Miroslav Ol\u0161\u00e1k",
         "question_id": "518109",
         "question_title": "After the Lean verification of the Riemann Hypothesis proof, what residual trust assumptions remain against a deliberately adversarial proof author?",
-        "score": 31
+        "score": 32
       },
       {
         "answer_created": "2026-11-22T21:34:26Z",
@@ -4240,7 +4240,7 @@
         "owner": "Sanchayan Dutta",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 23
+        "score": 22
       },
       {
         "answer_created": "2026-10-27T23:25:43Z",
@@ -4250,7 +4250,7 @@
         "owner": "Sam Hopkins",
         "question_id": "516470",
         "question_title": "Are the main libraries of proof assistants becoming unnecessary?",
-        "score": 24
+        "score": 23
       },
       {
         "answer_created": "2026-10-27T22:21:34Z",
@@ -5146,7 +5146,7 @@
       "518212": "2026-11-26T15:17:05.538831Z",
       "518225": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5296,10 +5296,20 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "physics-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-16T17:22:30Z",
+        "answer_id": "877734",
+        "first_seen": "2026-11-28T10:27:28.364842Z",
+        "link": "https://physics.stackexchange.com/a/877734",
+        "owner": "N\u00edck",
+        "question_id": "877733",
+        "question_title": "Is Yang\u2013Mills theory a model or a framework?",
+        "score": 10
+      },
       {
         "answer_created": "2026-11-23T16:27:01Z",
         "answer_id": "878879",
@@ -6289,16 +6299,6 @@
         "question_id": "874383",
         "question_title": "In a recorded measurement, why isn't the zero before a decimal point considered significant?",
         "score": 30
-      },
-      {
-        "answer_created": "2026-07-20T18:58:34Z",
-        "answer_id": "874385",
-        "first_seen": "2026-09-11T17:35:15.780317Z",
-        "link": "https://physics.stackexchange.com/a/874385",
-        "owner": "naturallyInconsistent",
-        "question_id": "874383",
-        "question_title": "In a recorded measurement, why isn't the zero before a decimal point considered significant?",
-        "score": 15
       }
     ],
     "known": {
@@ -6427,12 +6427,13 @@
       "877617": "2026-11-11T15:12:08.898184Z",
       "877623": "2026-11-13T16:23:57.588995Z",
       "877674": "2026-11-17T03:53:49.093655Z",
+      "877734": "2026-11-28T10:27:28.364842Z",
       "877809": "2026-11-20T20:19:24.908611Z",
       "878813": "2026-11-23T21:25:08.981891Z",
       "878870": "2026-11-24T06:03:23.635804Z",
       "878879": "2026-11-26T05:04:00.940133Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6472,7 +6473,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6484,7 +6485,7 @@
         "owner": "beichst",
         "question_id": "307593",
         "question_title": "Old sci-fi novel: scientists deliberately raise kidnapped babies underground shielded from solar radiation; they develop psi powers, each gen stronger",
-        "score": 19
+        "score": 20
       },
       {
         "answer_created": "2026-11-24T13:25:31Z",
@@ -7645,7 +7646,7 @@
       "307583": "2026-11-25T12:55:27.999092Z",
       "307594": "2026-11-27T08:33:25.007294Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "space-high-score": {
     "entries": [
@@ -8169,10 +8170,20 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   },
   "worldbuilding-high-score": {
     "entries": [
+      {
+        "answer_created": "2026-11-27T08:59:43Z",
+        "answer_id": "276138",
+        "first_seen": "2026-11-28T10:27:28.364842Z",
+        "link": "https://worldbuilding.stackexchange.com/a/276138",
+        "owner": "JBH",
+        "question_id": "276135",
+        "question_title": "How can someone create a truly anonymous post online if state-level adversaries are trying to uncover the identity?",
+        "score": 5
+      },
       {
         "answer_created": "2026-11-24T15:33:23Z",
         "answer_id": "276124",
@@ -9162,16 +9173,6 @@
         "question_id": "274815",
         "question_title": "Most efficient material for a telekinetic to launch as a weapon?",
         "score": 7
-      },
-      {
-        "answer_created": "2026-09-04T10:36:55Z",
-        "answer_id": "274490",
-        "first_seen": "2026-10-24T14:33:16.336339Z",
-        "link": "https://worldbuilding.stackexchange.com/a/274490",
-        "owner": "Trish",
-        "question_id": "274487",
-        "question_title": "How would prehensile Quills work?",
-        "score": 5
       }
     ],
     "known": {
@@ -9508,8 +9509,9 @@
       "275110": "2026-11-21T23:16:11.678802Z",
       "275111": "2026-11-22T19:40:04.479727Z",
       "275124": "2026-11-25T12:55:27.999092Z",
-      "276124": "2026-11-25T22:32:16.327433Z"
+      "276124": "2026-11-25T22:32:16.327433Z",
+      "276138": "2026-11-28T10:27:28.364842Z"
     },
-    "last_checked": "2026-11-28T01:59:40.887584Z"
+    "last_checked": "2026-11-28T10:27:28.364842Z"
   }
 }

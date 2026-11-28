@@ -5,7 +5,14 @@
     <link>https://physics.stackexchange.com</link>
     <description>Answers from physics that reached a score of 10 or more.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:27:28 +0000</lastBuildDate>
+    <item>
+      <title>Is Yang–Mills theory a model or a framework? — answer reached score 10</title>
+      <link>https://physics.stackexchange.com/a/877734</link>
+      <guid isPermaLink="false">stackexchange:physics:answer:877734</guid>
+      <pubDate>Sat, 28 Nov 2026 10:27:28 +0000</pubDate>
+      <description>Answer by Níck. Score when last checked: 10. Originally posted: 2026-11-16T17:22:30Z.</description>
+    </item>
     <item>
       <title>Could a transformer without a secondary winding exist? — answer reached score 11</title>
       <link>https://physics.stackexchange.com/a/878879</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">stackexchange:physics:answer:874389</guid>
       <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
       <description>Answer by Andrew. Score when last checked: 30. Originally posted: 2026-07-20T21:38:44Z.</description>
-    </item>
-    <item>
-      <title>In a recorded measurement, why isn't the zero before a decimal point considered significant? — answer reached score 15</title>
-      <link>https://physics.stackexchange.com/a/874385</link>
-      <guid isPermaLink="false">stackexchange:physics:answer:874385</guid>
-      <pubDate>Fri, 11 Sep 2026 17:35:15 +0000</pubDate>
-      <description>Answer by naturallyInconsistent. Score when last checked: 15. Originally posted: 2026-07-20T18:58:34Z.</description>
     </item>
   </channel>
 </rss>
