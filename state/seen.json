@@ -9,7 +9,7 @@
         "owner": "Buffy",
         "question_id": "229173",
         "question_title": "Is it appropriate to link to explainer videos in a journal submission cover letter?",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-24T19:53:11Z",
@@ -1163,7 +1163,7 @@
       "229165": "2026-11-25T12:55:27.999092Z",
       "229175": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "history-high-score": {
     "entries": [
@@ -1313,7 +1313,7 @@
       "80460": "2026-11-23T21:25:08.981891Z",
       "80469": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "hsm-high-score": {
     "entries": [
@@ -1683,7 +1683,7 @@
       "19763": "2026-11-10T17:50:58.550845Z",
       "19780": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "law-high-score": {
     "entries": [
@@ -2801,7 +2801,7 @@
       "117039": "2026-11-25T12:55:27.999092Z",
       "117043": "2026-11-25T12:55:27.999092Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "math-high-score": {
     "entries": [
@@ -3468,7 +3468,7 @@
       "5154598": "2026-11-20T20:19:24.908611Z",
       "5154755": "2026-11-22T11:33:45.492857Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "mathoverflow-high-score": {
     "entries": [
@@ -3480,7 +3480,7 @@
         "owner": "Sam Hopkins",
         "question_id": "518068",
         "question_title": "Where to begin understanding the proof of the Riemann Hypothesis",
-        "score": 13
+        "score": 14
       },
       {
         "answer_created": "2026-11-26T13:13:43Z",
@@ -3490,7 +3490,7 @@
         "owner": "Wojowu",
         "question_id": "518206",
         "question_title": "What is the main new idea in \u201cEuclidean geometry in the asymptotic spectrum of tensors\u201d?",
-        "score": 19
+        "score": 21
       },
       {
         "answer_created": "2026-11-25T22:57:56Z",
@@ -3660,7 +3660,7 @@
         "owner": "Stanley Yao Xiao",
         "question_id": "518095",
         "question_title": "Post-RH analytic number theory",
-        "score": 17
+        "score": 18
       },
       {
         "answer_created": "2026-11-22T13:25:21Z",
@@ -5146,7 +5146,7 @@
       "518212": "2026-11-26T15:17:05.538831Z",
       "518225": "2026-11-26T23:54:37.025445Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "philosophy-high-score": {
     "entries": [
@@ -5296,7 +5296,7 @@
       "143156": "2026-11-09T17:29:14.133890Z",
       "143198": "2026-11-13T22:37:49.098737Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "physics-high-score": {
     "entries": [
@@ -5308,7 +5308,7 @@
         "owner": "rustot",
         "question_id": "878875",
         "question_title": "Could a transformer without a secondary winding exist?",
-        "score": 10
+        "score": 11
       },
       {
         "answer_created": "2026-11-23T05:12:42Z",
@@ -6432,7 +6432,7 @@
       "878870": "2026-11-24T06:03:23.635804Z",
       "878879": "2026-11-26T05:04:00.940133Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "politics-high-score": {
     "entries": [
@@ -6472,7 +6472,7 @@
       "94790": "2026-09-11T17:35:15.780317Z",
       "95040": "2026-10-08T09:32:23.155290Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "scifi-high-score": {
     "entries": [
@@ -6484,7 +6484,7 @@
         "owner": "beichst",
         "question_id": "307593",
         "question_title": "Old sci-fi novel: scientists deliberately raise kidnapped babies underground shielded from solar radiation; they develop psi powers, each gen stronger",
-        "score": 18
+        "score": 19
       },
       {
         "answer_created": "2026-11-24T13:25:31Z",
@@ -7645,7 +7645,7 @@
       "307583": "2026-11-25T12:55:27.999092Z",
       "307594": "2026-11-27T08:33:25.007294Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "space-high-score": {
     "entries": [
@@ -8169,7 +8169,7 @@
       "70798": "2026-11-12T02:59:03.196685Z",
       "70800": "2026-11-14T03:15:22.211193Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   },
   "worldbuilding-high-score": {
     "entries": [
@@ -9510,6 +9510,6 @@
       "275124": "2026-11-25T12:55:27.999092Z",
       "276124": "2026-11-25T22:32:16.327433Z"
     },
-    "last_checked": "2026-11-27T18:59:14.133665Z"
+    "last_checked": "2026-11-28T01:59:40.887584Z"
   }
 }
